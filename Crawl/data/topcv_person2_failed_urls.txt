@@ -1,0 +1,134 @@
+[
+  {
+    "url": "https://www.topcv.vn/viec-lam/senior-android-engineer/1979275.html",
+    "error": "'NoneType' object has no attribute 'text'"
+  },
+  {
+    "url": "https://www.topcv.vn/viec-lam/graphic-design-mang-mobile-game-app/1955975.html",
+    "error": "'NoneType' object has no attribute 'text'"
+  },
+  {
+    "url": "https://www.topcv.vn/viec-lam/video-editor-game-app-mobile/1956017.html",
+    "error": "'NoneType' object has no attribute 'text'"
+  },
+  {
+    "url": "https://www.topcv.vn/viec-lam/nhan-vien-kinh-doanh-thiet-bi-cntt-va-phan-mem/1953336.html",
+    "error": "'NoneType' object has no attribute 'text'"
+  },
+  {
+    "url": "https://www.topcv.vn/viec-lam/nhan-vien-thiet-ke-do-hoa/1510398.html",
+    "error": "'NoneType' object has no attribute 'text'"
+  },
+  {
+    "url": "https://www.topcv.vn/viec-lam/ky-su-tu-dong-hoa-thiet-ke-dien-lap-trinh-plc/1914720.html",
+    "error": "'NoneType' object has no attribute 'text'"
+  },
+  {
+    "url": "https://www.topcv.vn/viec-lam/ky-su-lap-trinh-plc-servo-robot/2051544.html",
+    "error": "'NoneType' object has no attribute 'text'"
+  },
+  {
+    "url": "https://www.topcv.vn/viec-lam/truong-nhom-thiet-ke/2049350.html",
+    "error": "'NoneType' object has no attribute 'text'"
+  },
+  {
+    "url": "https://www.topcv.vn/viec-lam/nhan-vien-thiet-ke/2050147.html",
+    "error": "'NoneType' object has no attribute 'text'"
+  },
+  {
+    "url": "https://www.topcv.vn/viec-lam/it-system-engineer-ky-su-it-level-3/2073592.html",
+    "error": "'NoneType' object has no attribute 'text'"
+  },
+  {
+    "url": "https://www.topcv.vn/viec-lam/thuc-tap-sinh-it-van-hanh-erp-sap/2092974.html",
+    "error": "'NoneType' object has no attribute 'text'"
+  },
+  {
+    "url": "https://www.topcv.vn/viec-lam/nhan-vien-he-thong-it-system-administration/1726887.html",
+    "error": "'NoneType' object has no attribute 'text'"
+  },
+  {
+    "url": "https://www.topcv.vn/viec-lam/chuyen-vien-quan-ly-chat-luong-qa-qc/2090642.html",
+    "error": "'NoneType' object has no attribute 'text'"
+  },
+  {
+    "url": "https://www.topcv.vn/viec-lam/thuc-tap-sinh-thiet-ke-hinh-anh/1972157.html",
+    "error": "'NoneType' object has no attribute 'text'"
+  },
+  {
+    "url": "https://www.topcv.vn/viec-lam/it-support-ho-tro-ky-thuat-phan-mem-tu-1-nam-kinh-nghiem/2053634.html",
+    "error": "'NoneType' object has no attribute 'text'"
+  },
+  {
+    "url": "https://www.topcv.vn/viec-lam/chuyen-vien-thiet-ke/2078472.html",
+    "error": "'NoneType' object has no attribute 'text'"
+  },
+  {
+    "url": "https://www.topcv.vn/viec-lam/senior-project-manager/2029970.html",
+    "error": "'NoneType' object has no attribute 'text'"
+  },
+  {
+    "url": "https://www.topcv.vn/viec-lam/nhan-vien-it/2070943.html",
+    "error": "'NoneType' object has no attribute 'text'"
+  },
+  {
+    "url": "https://www.topcv.vn/viec-lam/nhan-vien-dieu-phoi-du-an-it-e-learning/1956716.html",
+    "error": "'NoneType' object has no attribute 'text'"
+  },
+  {
+    "url": "https://www.topcv.vn/viec-lam/graphic-design/2061803.html",
+    "error": "'NoneType' object has no attribute 'text'"
+  },
+  {
+    "url": "https://www.topcv.vn/viec-lam/2d-artist-game/1364571.html",
+    "error": "'NoneType' object has no attribute 'text'"
+  },
+  {
+    "url": "https://www.topcv.vn/viec-lam/data-scientist/2055335.html",
+    "error": "'NoneType' object has no attribute 'text'"
+  },
+  {
+    "url": "https://www.topcv.vn/viec-lam/data-analyst/1985499.html",
+    "error": "'NoneType' object has no attribute 'text'"
+  },
+  {
+    "url": "https://www.topcv.vn/viec-lam/it-manager/2054666.html",
+    "error": "'NoneType' object has no attribute 'text'"
+  },
+  {
+    "url": "https://www.topcv.vn/viec-lam/devops-engineer/1221603.html",
+    "error": "'NoneType' object has no attribute 'text'"
+  },
+  {
+    "url": "https://www.topcv.vn/viec-lam/account-manager-tu-van-phan-mem-doanh-nghiep/1830076.html",
+    "error": "'NoneType' object has no attribute 'text'"
+  },
+  {
+    "url": "https://www.topcv.vn/viec-lam/business-analyst/1832215.html",
+    "error": "'NoneType' object has no attribute 'text'"
+  },
+  {
+    "url": "https://www.topcv.vn/viec-lam/tro-ly-giam-doc-kinh-doanh-thuong-mai-dien-tu/2053177.html",
+    "error": "'NoneType' object has no attribute 'text'"
+  },
+  {
+    "url": "https://www.topcv.vn/viec-lam/manual-test-leader/2053319.html",
+    "error": "'NoneType' object has no attribute 'text'"
+  },
+  {
+    "url": "https://www.topcv.vn/viec-lam/ios-android-developer/2053341.html",
+    "error": "'NoneType' object has no attribute 'text'"
+  },
+  {
+    "url": "https://www.topcv.vn/viec-lam/it-help-desk/2052066.html",
+    "error": "'NoneType' object has no attribute 'text'"
+  },
+  {
+    "url": "https://www.topcv.vn/viec-lam/business-development-executive/1994629.html",
+    "error": "'NoneType' object has no attribute 'text'"
+  },
+  {
+    "url": "https://www.topcv.vn/viec-lam/designer-nhan-vien-thiet-ke/2049574.html",
+    "error": "'NoneType' object has no attribute 'text'"
+  }
+]
