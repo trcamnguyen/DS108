@@ -1,0 +1,102 @@
+[
+  {
+    "original": "Fresher Sale Executive (AI Solution)",
+    "is_valid_job": true,
+    "standardized_title": "IT Sales"
+  },
+  {
+    "original": "Nhân Viên Thiết Kế / Marketing Designer - Ngành Mỹ Phẩm (Lương Từ 12 - 16 Triệu)",
+    "is_valid_job": true,
+    "standardized_title": "Graphic Designer"
+  },
+  {
+    "original": "CÔNG TY CỔ PHẦN THỰC PHẨM VÀ ĐỒ UỐNG BARETT",
+    "is_valid_job": false,
+    "standardized_title": null
+  },
+  {
+    "original": "Part-Time Graphic Designer Co-Living Field",
+    "is_valid_job": true,
+    "standardized_title": "Graphic Designer"
+  },
+  {
+    "original": "Tech Leader Java",
+    "is_valid_job": true,
+    "standardized_title": "Technical Lead"
+  },
+  {
+    "original": "Chuyên Viên Decor - Chăm Sóc Không Gian",
+    "is_valid_job": false,
+    "standardized_title": null
+  },
+  {
+    "original": "Network Security Engineer",
+    "is_valid_job": true,
+    "standardized_title": "Security Engineer"
+  },
+  {
+    "original": "Thực Tập Sinh Design",
+    "is_valid_job": true,
+    "standardized_title": "UI/UX Designer"
+  },
+  {
+    "original": "NLP Research Engineer",
+    "is_valid_job": true,
+    "standardized_title": "NLP Engineer"
+  },
+  {
+    "original": "Chuyên Viên Thiết Kế 3D (Lương Upto 25 Triệu/Tháng)",
+    "is_valid_job": true,
+    "standardized_title": "3D Artist"
+  },
+  {
+    "original": "Lập Trình Nhúng -Embedded Software Engineer ( C/ C++)",
+    "is_valid_job": true,
+    "standardized_title": "Embedded Engineer"
+  },
+  {
+    "original": "Tin tuyển dụng",
+    "is_valid_job": false,
+    "standardized_title": null
+  },
+  {
+    "original": "Senior BrSE",
+    "is_valid_job": true,
+    "standardized_title": "Backend Developer"
+  },
+  {
+    "original": "Nhân Viên Thiết Kế",
+    "is_valid_job": true,
+    "standardized_title": "Graphic Designer"
+  },
+  {
+    "original": "Product Owner / Project Manager",
+    "is_valid_job": true,
+    "standardized_title": "Product Owner"
+  },
+  {
+    "original": "Product Manager Phần Mềm Nhân Sự (Mảng C&B )",
+    "is_valid_job": true,
+    "standardized_title": "Product Manager"
+  },
+  {
+    "original": "Nhân Viên Designer Social 2D",
+    "is_valid_job": true,
+    "standardized_title": "Graphic Designer"
+  },
+  {
+    "original": "IT Comtor (N2-N1) - Thu Nhập 700$ - 1100$",
+    "is_valid_job": true,
+    "standardized_title": "Project Manager"
+  },
+  {
+    "original": "Nhân Viên Chỉnh Sửa Hình Ảnh",
+    "is_valid_job": true,
+    "standardized_title": "Graphic Designer"
+  },
+  {
+    "original": "Nhân Viên Gán Nhãn Dữ Liệu Tiếng Nhật (N2-N1)",
+    "is_valid_job": true,
+    "standardized_title": "Data Annotator"
+  }
+]

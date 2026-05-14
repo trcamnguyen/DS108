@@ -1,0 +1,5 @@
+credentials/
+.env
+Crawl_2/
+job_title.csv
+job_title_stats.csv
