@@ -31,6 +31,7 @@ CREDS    = ROOT / os.environ["GOOGLE_APPLICATION_CREDENTIALS"]
 os.environ["GOOGLE_APPLICATION_CREDENTIALS"] = str(CREDS)
 
 from google import genai          # noqa: E402
+# pyrefly: ignore [missing-import]
 from google.genai import types    # noqa: E402
 
 PROMPT_FILE  = Path(__file__).parent / "prompt" / "job_title.txt"
