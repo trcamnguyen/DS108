@@ -96,7 +96,7 @@ def main():
             category = st.selectbox("Category", [
                 "Programming Language", "Framework / Library", "Database", 
                 "Cloud & DevOps", "AI / ML / Data", "Data Engineering", 
-                "Testing & QA", "Methodology", "Tool & Platform", "Soft Skill", 
+                "Testing & QA", "Engineering Concepts & Methodologies", "Tool & Platform", "Soft Skill", 
                 "Domain Knowledge", "Other"
             ])
             
@@ -139,14 +139,44 @@ def main():
                 st.success(f"Đã thêm thành công: {skill_name}")
 
     # --- Hiển thị danh sách kỹ năng đã gán nhãn ---
-    st.markdown("### 📋 Các kỹ năng đã thêm cho Job này")
+    st.markdown("### 📋 Các kỹ năng đã thêm cho Job này (Có thể chỉnh sửa trực tiếp)")
     current_skills = st.session_state.annotations[job_key]["skills"]
     if len(current_skills) == 0:
         st.write("Chưa có kỹ năng nào được thêm.")
     else:
-        # Hiển thị dưới dạng bảng để dễ nhìn
+        # Hiển thị dưới dạng bảng để dễ nhìn và cho phép chỉnh sửa
         skills_df = pd.DataFrame(current_skills)
-        st.dataframe(skills_df, use_container_width=True)
+        
+        edited_df = st.data_editor(
+            skills_df, 
+            use_container_width=True, 
+            num_rows="dynamic",
+            column_config={
+                "label": st.column_config.SelectboxColumn(
+                    "Label",
+                    options=["required_skill", "preferred_skill"],
+                    required=True
+                ),
+                "category": st.column_config.SelectboxColumn(
+                    "Category",
+                    options=[
+                        "Programming Language", "Framework / Library", "Database", 
+                        "Cloud & DevOps", "AI / ML / Data", "Data Engineering", 
+                        "Testing & QA", "Engineering Concepts & Methodologies", "Tool & Platform", "Soft Skill", 
+                        "Domain Knowledge", "Other"
+                    ],
+                    required=True
+                ),
+                "level": st.column_config.SelectboxColumn(
+                    "Level",
+                    options=["None", "basic", "intermediate", "expert"]
+                )
+            }
+        )
+        
+        # Lưu lại thay đổi vào session state
+        updated_skills = edited_df.where(pd.notnull(edited_df), None).to_dict('records')
+        st.session_state.annotations[job_key]["skills"] = updated_skills
         
         # Nút xóa skill cuối cùng (phòng trường hợp nhập sai)
         if st.button("🗑️ Xóa skill vừa thêm"):
