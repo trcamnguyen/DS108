@@ -18,8 +18,8 @@ Từ văn bản REQUIREMENT được cung cấp, hãy:
 ═══════════════════════════════════════════════════════
 PHẠM VI
 ═══════════════════════════════════════════════════════
-  • Annotation CHỈ áp dụng cho cột "requirement" (TopCV) hoặc consolidated_text (ITViec).
-  • KHÔNG sử dụng thông tin từ job_title, company để suy diễn skill.
+  • Annotation CHỈ áp dụng cho cột "requirement".
+  • KHÔNG sử dụng thông tin từ job_title, company, standardized_title để suy diễn.
   • KHÔNG bổ sung skill mà bạn cho là "lẽ ra phải có" nhưng không xuất hiện trong văn bản.
   • Annotation ở cấp độ từng record, không nhớ ngữ cảnh từ record trước.
 
@@ -35,12 +35,10 @@ LABEL DEFINITIONS
                trong mục ưu tiên/bonus riêng biệt.
   VN triggers: thành thạo | bắt buộc | yêu cầu | có kinh nghiệm X năm |
                tối thiểu | cần có | nắm vững | am hiểu sâu | ít nhất X năm |
-               tốt nghiệp chuyên ngành | có ít nhất | ít nhất X năm exp |
-               làm việc tốt với
+               tốt nghiệp chuyên ngành | có ít nhất | ít nhất X năm exp
   EN triggers: required | must have | must | proficient in | minimum X years |
-               strong experience in | solid knowledge of | solid understanding of |
-               mandatory | at least X years | hands-on experience with |
-               working experience with | degree required
+               strong experience in | solid knowledge of | mandatory |
+               at least X years | hands-on experience with | degree required
   Áp dụng luôn khi: Skill được liệt kê trực tiếp không có soft qualifier.
 
 [preferred_skill]
@@ -49,10 +47,9 @@ LABEL DEFINITIONS
   VN triggers: ưu tiên | là lợi thế | là một lợi thế | biết thêm |
                hiểu biết về | có thể | nếu có | được cộng điểm nếu |
                mong muốn thêm | có kiến thức về (không có year qualifier)
-  EN triggers: preferred | nice to have | Nice to Have | plus | bonus |
-               familiar with | exposure to | knowledge of (no year qualifier) |
-               ideally | advantageous | good to have | is a plus | desirable |
-               would be a plus
+  EN triggers: preferred | nice to have | plus | bonus | familiar with |
+               exposure to | knowledge of (no year qualifier) | ideally |
+               advantageous | good to have | is a plus | desirable
   Không áp dụng khi: Skill có ngưỡng cụ thể bắt buộc hoặc không có
                soft qualifier trong mục yêu cầu chính.
 
@@ -62,11 +59,10 @@ QUY TẮC ƯU TIÊN KHI CÓ PHÂN MỤC
 Khi requirement có cấu trúc phân mục rõ ràng, tiêu đề mục quyết định label
 cho toàn bộ skill bên dưới — dù không có từ khóa inline:
 
-  Tiêu đề "Yêu cầu:"   / "Requirements:" / "Must have:" / "Mandatory Skills:"
+  Tiêu đề "Yêu cầu:"   / "Requirements:" / "Must have:"
     → Tất cả skill bên dưới = required_skill
 
-  Tiêu đề "Ưu tiên:"   / "Preferred:"    / "Nice to have:" / "Nice to Haves:" /
-            "Preferred Qualifications:" / "Bonus:" / "Plus:"
+  Tiêu đề "Ưu tiên:"   / "Preferred:"    / "Nice to have:" / "Bonus:"
     → Tất cả skill bên dưới = preferred_skill
 
   Thứ tự ưu tiên áp dụng:
@@ -75,7 +71,7 @@ cho toàn bộ skill bên dưới — dù không có từ khóa inline:
     (3) Default rule → required_skill
 
 ═══════════════════════════════════════════════════════
-SKILL TAXONOMY — 10 CATEGORIES + "Other"
+SKILL TAXONOMY — 10 CATEGORIES
 ═══════════════════════════════════════════════════════
 Chỉ dùng đúng 1 trong các giá trị sau cho trường "category":
 
@@ -85,7 +81,7 @@ Chỉ dùng đúng 1 trong các giá trị sau cho trường "category":
 
   "Framework"
       Laravel, Spring Boot, React, Vue, Next.js, FastAPI, Django, .NET Core,
-      NestJS, Electron.js, Angular, Svelte, Express, React Native, Flutter
+      NestJS, Electron.js, Angular, Svelte, Express
       Biến thể VN: "FW Laravel", "React.js", "ReactJS", "reactnative", "dùng Vue"
 
   "Database"
@@ -98,10 +94,8 @@ Chỉ dùng đúng 1 trong các giá trị sau cho trường "category":
 
   "AI/ML/Data"
       TensorFlow, PyTorch, scikit-learn, OpenCV, LangChain, Machine Vision,
-      NLP, LLM, RAG, Hugging Face, YOLO, Computer Vision, Recommendation System,
-      Reinforcement Learning, Statistics, Mathematics
-      Biến thể VN: "machine learning", "mô hình học máy", "model AI",
-                   "xử lý hình ảnh", "thị giác máy", "Cognex/Keyence"
+      NLP, LLM, RAG, Hugging Face, YOLO, Computer Vision
+      Biến thể VN: "machine learning", "model AI", "xử lý hình ảnh", "Cognex/Keyence"
 
   "Data Engineering"
       Apache Kafka, Airflow, Spark, ETL/ELT, Data Warehouse, BigQuery,
@@ -110,8 +104,7 @@ Chỉ dùng đúng 1 trong các giá trị sau cho trường "category":
 
   "Methodology"
       Agile, Scrum, OOP, Design Patterns, System Design, Microservices,
-      RESTful API, REST API, Clean Code, SOLID, TDD, DDD, State Management,
-      Performance Optimization
+      RESTful API, Clean Code, SOLID, TDD, DDD
       Biến thể VN: "lập trình hướng đối tượng", "kiến trúc microservice", "RESFULL"
 
   "Tool & Platform"
@@ -120,46 +113,60 @@ Chỉ dùng đúng 1 trong các giá trị sau cho trường "category":
       Biến thể VN: "quản lý source code", "lập trình PLC", "đọc bản vẽ điện"
 
   "Soft Skill"
-      Communication, Teamwork, Problem-solving, Leadership, Logical Thinking,
-      Work Ethic, Responsibility, Team Management, Product Thinking,
-      English (tiếng Anh), Japanese (tiếng Nhật)
-      Biến thể VN: "làm việc nhóm", "giao tiếp tốt", "đọc hiểu tài liệu tiếng Anh",
-                   "tư duy logic", "tinh thần trách nhiệm"
+      Communication, Teamwork, Problem-solving, Leadership,
+      English (Reading/Writing/Speaking), Tiếng Nhật, Tiếng Anh
+      Biến thể VN: "làm việc nhóm", "giao tiếp tốt", "đọc hiểu tài liệu tiếng Anh"
 
   "Domain Knowledge"
       eCommerce, FinTech, Logistics, HealthTech, Embedded Systems,
-      ERP, IoT, Robotics, Automotive, DICOM/HL7, Bluetooth (BLE)
-      Biến thể VN: "thương mại điện tử", "hệ thống nhúng", "vi điều khiển",
-                   "cơ điện tử"
+      ERP, IoT, Robotics, Automotive, DICOM/HL7
+      Biến thể VN: "thương mại điện tử", "hệ thống nhúng", "vi điều khiển", "cơ điện tử"
 
   "Other"
       Dùng khi skill không thuộc rõ ràng vào nhóm nào.
       KHÔNG được bỏ trống trường category — dùng "Other" thay cho null.
-      Ví dụ: "Mobile Development" (chung chung, không nêu tech cụ thể) → "Other".
 
 ═══════════════════════════════════════════════════════
-QUY TẮC VỀ skill_name — GIỮ RAW, KHÔNG NORMALIZE
+QUY TẮC CHUẨN HÓA TÊN SKILL (skill_name)
 ═══════════════════════════════════════════════════════
-skill_name phải GIỮ NGUYÊN cách viết tự nhiên nhất từ JD, KHÔNG dịch, KHÔNG
-canonical hóa trong lúc annotate.
+Khi điền skill_name, áp dụng canonical name tiếng Anh theo bảng mapping sau.
+Đây là bước chuẩn hóa có kiểm soát — chỉ map những gì có trong bảng,
+những gì KHÔNG có trong bảng thì giữ nguyên ngôn ngữ gốc.
 
-  • JD viết "mô hình học máy" → skill_name = "mô hình học máy"
-    (KHÔNG đổi thành "Machine Learning")
-  • JD viết "ReactJS" → skill_name = "ReactJS" (KHÔNG đổi thành "React")
-  • JD viết "lập trình hướng đối tượng" → skill_name = "lập trình hướng đối tượng"
-    (KHÔNG đổi thành "OOP")
-  • JD viết "Python" → skill_name = "Python" (đã là canonical, giữ nguyên)
+  BẢNG CANONICAL MAPPING (VN expression → canonical skill_name):
+  ┌─────────────────────────────────────────────┬───────────────────────────────┐
+  │ Biểu đạt trong JD (VN / viết tắt)          │ skill_name chuẩn hóa          │
+  ├─────────────────────────────────────────────┼───────────────────────────────┤
+  │ mô hình học máy, các mô hình học máy        │ Machine Learning              │
+  │ học máy, machine learning, ML               │ Machine Learning              │
+  │ học sâu, deep learning, DL                  │ Deep Learning                 │
+  │ mạng nơ-ron, neural network                 │ Neural Networks               │
+  │ xử lý ngôn ngữ tự nhiên, NLP               │ NLP                           │
+  │ thị giác máy tính, computer vision, CV      │ Computer Vision               │
+  │ xử lý hình ảnh, image processing            │ Image Processing              │
+  │ lập trình hướng đối tượng, OOP              │ OOP                           │
+  │ kiến trúc microservice, microservices        │ Microservices                 │
+  │ lập trình Python, Python                    │ Python                        │
+  │ lập trình Java, Java                        │ Java                          │
+  │ React.js, ReactJS, react js                 │ React                         │
+  │ reactnative, React-Native, React Native     │ React Native                  │
+  │ Vue.js, VueJS                               │ Vue                           │
+  │ Node.js, NodeJS, node js                    │ Node.js                       │
+  │ cơ sở dữ liệu quan hệ, relational database  │ Relational Database           │
+  │ pipeline dữ liệu, data pipeline, ETL        │ ETL/ELT Pipeline              │
+  │ xác suất thống kê, statistics               │ Statistics                    │
+  │ toán học, mathematical modeling             │ Mathematics                   │
+  │ hệ thống recommendation, gợi ý             │ Recommendation System         │
+  │ reinforcement learning, RL                  │ Reinforcement Learning        │
+  │ quản lý nhóm, team management               │ Team Management               │
+  │ phân tích dữ liệu, data analysis            │ Data Analysis                 │
+  │ khoa học dữ liệu (khi là SKILL)             │ Data Science                  │
+  └─────────────────────────────────────────────┴───────────────────────────────┘
 
-Nguyên tắc:
-  - Trộn 2 nhiệm vụ (extract + normalize) làm giảm độ chính xác.
-  - Canonical mapping là BƯỚC POST-PROCESSING RIÊNG, không thuộc nhiệm vụ của bạn.
-  - source_text vẫn trích nguyên văn câu gốc chứa skill.
-
-Ngoại lệ:
-  - Nếu JD dùng acronym phổ biến (Python, Java, AWS, SQL, OOP, API, NLP, LLM, RAG)
-    → giữ nguyên acronym.
-  - Nếu skill được viết bằng nhiều cách trong CÙNG 1 record, lấy lần xuất hiện
-    ĐẦU TIÊN làm skill_name.
+  Nguyên tắc chuẩn hóa:
+  • Map về canonical name khi biểu đạt trong JD rõ ràng chỉ về một concept kỹ thuật.
+  • Nếu không có trong bảng → giữ nguyên cách viết tự nhiên nhất (không ép dịch).
+  • source_text vẫn trích nguyên văn gốc từ JD — KHÔNG thay bằng canonical name.
 
 ═══════════════════════════════════════════════════════
 EDGE CASES — BẮT BUỘC XỬ LÝ ĐÚNG
@@ -184,39 +191,27 @@ EC-03 [Ngưỡng năm kinh nghiệm — điền min_years & level]
 
 EC-04 [Từ "Ưu tiên" đầu câu áp dụng cho toàn câu]
   INPUT : "Ưu tiên ứng viên biết lập trình Robot, Cobot"
-  OUTPUT: "lập trình Robot" → preferred | Cobot → preferred
+  OUTPUT: Robot programming → preferred | Cobot → preferred
   LÝ DO : Từ "Ưu tiên" áp dụng cho tất cả skill liệt kê sau nó trong câu đó.
-          (Giữ raw "lập trình Robot" — không dịch sang "Robot Programming".)
 
 EC-05 [Skill không có context — áp dụng default rule]
-  INPUT : "Giao tiếp tiếng Nhật, tiếng Anh cơ bản." (câu đứng riêng)
-  OUTPUT: Tiếng Nhật → required | Tiếng Anh → required (level="basic")
-  LÝ DO : Không có soft qualifier → default rule = required_skill.
-           "Cơ bản" áp dụng cho tiếng Anh → level="basic".
+  INPUT : "Giao tiếp tiếng Nhật, tiếng Anh cơ bản." (câu đứng riêng, không có mục)
+  OUTPUT: Tiếng Nhật → required | Tiếng Anh → required
+  LÝ DO : Không có soft qualifier → áp dụng default rule = required_skill.
 
-EC-06 [Soft skill lẫn technical skill — TÁCH từng cụm distinct]
+EC-06 [Soft skill lẫn technical skill trong cùng mục]
   INPUT : "Yêu cầu: Python, tư duy logic tốt, có tinh thần trách nhiệm"
   OUTPUT: Python → required ("Programming Language")
-          "tư duy logic" → required ("Soft Skill")
-          "tinh thần trách nhiệm" → required ("Soft Skill")
-  LÝ DO : Label áp dụng theo mục. Mỗi soft skill distinct = 1 entry riêng.
-          KHÔNG gộp "tư duy logic" với "tinh thần trách nhiệm" thành 1 skill.
+          Tư duy logic → required ("Soft Skill")
+          Tinh thần trách nhiệm → required ("Soft Skill")
+  LÝ DO : Label áp dụng theo mục. Loại skill (tech/soft) phân biệt bằng "category".
 
-  QUY TẮC GỘP/TÁCH SOFT SKILL:
-  • Synonym/cụm cùng nghĩa → gộp 1 skill:
-      "tự giác, chủ động, nhiệt tình, có kỷ luật" → 1 skill "Work Ethic"
-      (vì 4 từ này đều mô tả thái độ làm việc tích cực — cùng concept)
-  • Distinct concepts → tách riêng:
-      "tư duy logic, tinh thần trách nhiệm" → 2 skills
-      (logic = năng lực tư duy; trách nhiệm = thái độ — khác concept)
-      "giao tiếp tốt, làm việc nhóm" → 2 skills (communication ≠ teamwork)
-
-EC-07 [skill_name — giữ raw, KHÔNG normalize]
+EC-07 [Chuẩn hóa tên skill — áp dụng canonical mapping]
   INPUT : "các mô hình học máy", "mô hình học máy"
-  OUTPUT: skill_name = "mô hình học máy" (GIỮ NGUYÊN văn bản gốc)
-          source_text = "Có kinh nghiệm build các mô hình học máy"
-  LÝ DO : Canonical mapping là bước post-processing riêng. Annotator giữ raw
-          để đảm bảo audit và IAA chính xác (không bị nhiễu bởi normalize ngầm).
+  OUTPUT: skill_name = "Machine Learning" (theo bảng canonical mapping)
+          source_text = "Có kinh nghiệm build các mô hình học máy" (giữ nguyên văn gốc)
+  LÝ DO : skill_name phải ở mức độ canonical để phục vụ feature engineering.
+           source_text luôn là trích dẫn gốc để đảm bảo audit trail.
 
 EC-08 [Skill ngầm định từ job title — KHÔNG suy diễn]
   INPUT : JD Backend Developer nhưng chỉ nói "phát triển ứng dụng web"
@@ -236,14 +231,14 @@ EC-09 [Thông tin học vấn / ngành học — KHÔNG PHẢI skill, BỎ QUA]
   ┌──────────────────────────────────┬──────────────────────────────────────────┐
   │ KHÔNG extract (ngành học)        │ CÓ extract (skill kỹ thuật)              │
   ├──────────────────────────────────┼──────────────────────────────────────────┤
-  │ ngành khoa học dữ liệu           │ Hiểu biết sâu về xác suất thống kê       │
-  │ ngành thống kê                   │   → skill: "xác suất thống kê"           │
+  │ ngành khoa học dữ liệu           │ Hiểu biết sâu về xác suất thống kê      │
+  │ ngành thống kê                   │   → skill: Statistics                    │
   │ ngành toán kinh tế               │ Hiểu biết về các mô hình học máy         │
-  │ ngành toán tài chính             │   → skill: "mô hình học máy"             │
+  │ ngành toán tài chính             │   → skill: Machine Learning              │
   │ ngành khoa học máy tính          │ Có kinh nghiệm build ML models           │
-  │ tốt nghiệp đại học / thạc sĩ     │   → skill: "ML models"                   │
+  │ tốt nghiệp đại học / thạc sĩ    │   → skill: Machine Learning              │
   │ học vị tiến sĩ                   │ Có kinh nghiệm sử dụng Python, R         │
-  │ bằng cử nhân CNTT                │   → skill: "Python" | "R"                │
+  │ bằng cử nhân CNTT                │   → skill: Python | R                    │
   └──────────────────────────────────┴──────────────────────────────────────────┘
 
   DẤU HIỆU NHẬN BIẾT ngành học (bỏ qua tất cả):
@@ -251,7 +246,7 @@ EC-09 [Thông tin học vấn / ngành học — KHÔNG PHẢI skill, BỎ QUA]
   • Câu có dạng: "ưu tiên học vị ..., ... ngành ..."
   • Từ khóa: "ngành", "chuyên ngành", "học vị", "bằng cấp", "tốt nghiệp",
              "cử nhân", "thạc sĩ", "tiến sĩ", "cao đẳng", "đại học loại"
-  • Ngay cả khi tên ngành trùng với tên skill (ví dụ "ngành thống kê" ≠ skill statistics)
+  • Ngay cả khi tên ngành trùng với tên skill (ví dụ "ngành thống kê" ≠ skill Statistics)
 
 ═══════════════════════════════════════════════════════
 OUTPUT JSON SCHEMA
@@ -259,7 +254,7 @@ OUTPUT JSON SCHEMA
 {
   "skills": [
     {
-      "skill_name"  : string,              // Raw từ JD, giữ nguyên ngôn ngữ gốc
+      "skill_name"  : string,              // Canonical name theo bảng mapping, hoặc tên gốc nếu không có trong bảng
       "label"       : "required_skill"     // CHỈ MỘT trong 2 giá trị hợp lệ
                     | "preferred_skill",
       "category"    : string,              // Một trong 10 categories + "Other"
@@ -268,7 +263,7 @@ OUTPUT JSON SCHEMA
                     | "intermediate"
                     | "basic"
                     | null,
-      "source_text" : string               // Đoạn trích NGẮN NHẤT từ requirement chứa skill
+      "source_text" : string               // Đoạn trích NGẮN NHẤT từ requirement chứa skill — LUÔN LÀ VĂN GỐC
     }
   ]
 }
@@ -276,35 +271,26 @@ OUTPUT JSON SCHEMA
 CRITICAL OUTPUT RULES:
   ① Trả về JSON THUẦN TÚY — không có ```json, không có markdown, không có text giải thích.
   ② Nếu không tìm thấy skill nào: {"skills": []}
-  ③ Mỗi skill chỉ xuất hiện 1 lần trong record — không duplicate.
+  ③ Mỗi skill chỉ xuất hiện 1 lần — không duplicate.
   ④ source_text phải là đoạn trích THỰC từ input, không được bịa hoặc paraphrase.
   ⑤ Không bỏ trống bất kỳ trường nào — dùng null cho trường không có giá trị.
   ⑥ label chỉ nhận đúng 1 trong 2 giá trị: "required_skill" hoặc "preferred_skill".
   ⑦ Khi gặp skill bundle (nhiều tech trong 1 câu), tách thành nhiều entry riêng.
   ⑧ KHÔNG extract thông tin học vấn / ngành học thành skill (EC-09).
-  ⑨ Trường "level" CHỈ nhận "expert" | "intermediate" | "basic" | null.
-     Tuyệt đối không dùng giá trị khác.
+⑨ Trường "level" CHỈ nhận "expert" | "intermediate" | "basic" | null.
+   Tuyệt đối không dùng giá trị khác.
 
-     Với skill kỹ thuật: map từ từ khóa trong JD
-       "thành thạo", "expert", "advanced", "am hiểu sâu", "hiểu sâu", "master"
-         → "expert"
-       "có kinh nghiệm với", "proficient in", "intermediate", "solid"
-         → "intermediate"
-       "biết", "làm quen", "cơ bản", "basic", "familiar", "beginner"
-         → "basic"
-       Không đề cập rõ                           → null
+   Với skill kỹ thuật: map từ từ khóa trong JD
+     "thành thạo", "expert", "senior"          → "expert"
+     "có kinh nghiệm", "intermediate", "solid" → "intermediate"  
+     "cơ bản", "basic", "familiar"             → "basic"
+     Không đề cập rõ                           → null
 
-     Với skill ngoại ngữ: quy đổi về thang 3 bậc
-       N1 / TOEIC 900+ / IELTS 7.0+ / fluent / business / native
-         → "expert"
-       N2–N3 / TOEIC 600–899 / IELTS 5.5–6.5 / good / đọc viết tốt
-         → "intermediate"
-       N4–N5 / TOEIC <600 / cơ bản / giao tiếp được / basic
-         → "basic"
-       Chỉ nói "biết tiếng Anh" / "có tiếng Anh" không có mức độ
-         → null
-  ⑩ skill_name GIỮ RAW từ JD — không dịch, không canonical hóa (xem EC-07).
-
+   Với skill ngoại ngữ: quy đổi về thang 3 bậc
+     N1 / TOEIC 900+ / IELTS 8+ / fluent / thành thạo  → "expert"
+     N2–N3 / TOEIC 600–899 / IELTS 5.5+ / business     → "intermediate"
+     N4–N5 / TOEIC <600 / cơ bản / giao tiếp được      → "basic"
+     Không đủ thông tin                                 → null
 ===FEW_SHOT===
 [
   {
@@ -336,7 +322,7 @@ CRITICAL OUTPUT RULES:
           "source_text": "Strong SQL skills including complex queries and data modeling"
         },
         {
-          "skill_name": "ETL pipelines",
+          "skill_name": "ETL/ELT Pipeline",
           "label": "required_skill",
           "category": "Data Engineering",
           "min_years": null,
@@ -415,15 +401,7 @@ CRITICAL OUTPUT RULES:
           "source_text": "hiểu biết về SQL Server hoặc Oracle Database"
         },
         {
-          "skill_name": "phát triển ứng dụng Web",
-          "label": "required_skill",
-          "category": "Domain Knowledge",
-          "min_years": null,
-          "level": null,
-          "source_text": "Có kinh nghiệm trong phát triển ứng dụng Web"
-        },
-        {
-          "skill_name": "tư duy logic",
+          "skill_name": "Logical Thinking",
           "label": "required_skill",
           "category": "Soft Skill",
           "min_years": null,
@@ -431,17 +409,9 @@ CRITICAL OUTPUT RULES:
           "source_text": "Có tư duy logic tốt, có tinh thần trách nhiệm"
         },
         {
-          "skill_name": "tinh thần trách nhiệm",
-          "label": "required_skill",
-          "category": "Soft Skill",
-          "min_years": null,
-          "level": null,
-          "source_text": "Có tư duy logic tốt, có tinh thần trách nhiệm"
-        },
-        {
-          "skill_name": "lập trình mobile",
+          "skill_name": "Mobile Development",
           "label": "preferred_skill",
-          "category": "Other",
+          "category": "Domain Knowledge",
           "min_years": null,
           "level": null,
           "source_text": "Hiểu biết về lập trình mobile là một lợi thế"
@@ -454,15 +424,15 @@ CRITICAL OUTPUT RULES:
     "output": {
       "skills": [
         {
-          "skill_name": "Tiếng Anh",
+          "skill_name": "English",
           "label": "required_skill",
           "category": "Soft Skill",
           "min_years": null,
-          "level": "intermediate",
+          "level": null,
           "source_text": "Tiếng Anh tương đương 650+ Toeic"
         },
         {
-          "skill_name": "xác suất thống kê",
+          "skill_name": "Statistics",
           "label": "required_skill",
           "category": "AI/ML/Data",
           "min_years": null,
@@ -470,7 +440,7 @@ CRITICAL OUTPUT RULES:
           "source_text": "Hiểu biết sâu về xác suất thống kê"
         },
         {
-          "skill_name": "toán",
+          "skill_name": "Mathematics",
           "label": "preferred_skill",
           "category": "AI/ML/Data",
           "min_years": null,
@@ -478,7 +448,7 @@ CRITICAL OUTPUT RULES:
           "source_text": "hiểu sâu về toán là lợi thế"
         },
         {
-          "skill_name": "mô hình học máy",
+          "skill_name": "Machine Learning",
           "label": "required_skill",
           "category": "AI/ML/Data",
           "min_years": null,
@@ -486,7 +456,7 @@ CRITICAL OUTPUT RULES:
           "source_text": "Hiểu biết về các mô hình học máy"
         },
         {
-          "skill_name": "quản lý nhóm",
+          "skill_name": "Team Management",
           "label": "required_skill",
           "category": "Soft Skill",
           "min_years": null,
@@ -494,12 +464,12 @@ CRITICAL OUTPUT RULES:
           "source_text": "Có khả năng quản lý nhóm thực hiện các yêu cầu phân tích chuyên sâu"
         },
         {
-          "skill_name": "phân tích dự đoán",
+          "skill_name": "Machine Learning",
           "label": "required_skill",
           "category": "AI/ML/Data",
           "min_years": null,
           "level": null,
-          "source_text": "phân tích chuyên sâu và phân tích dự đoán"
+          "source_text": "Có kinh nghiệm build các mô hình học máy"
         },
         {
           "skill_name": "Python",
@@ -534,7 +504,7 @@ CRITICAL OUTPUT RULES:
           "source_text": "có sử dụng Reinforcement Learning"
         },
         {
-          "skill_name": "tinh thần làm việc tự giác, chủ động, nhiệt tình và có kỷ luật",
+          "skill_name": "Work Ethic",
           "label": "required_skill",
           "category": "Soft Skill",
           "min_years": null,
@@ -573,15 +543,7 @@ CRITICAL OUTPUT RULES:
           "source_text": "Hiểu về: REST API, networking, State management"
         },
         {
-          "skill_name": "networking",
-          "label": "required_skill",
-          "category": "Methodology",
-          "min_years": null,
-          "level": null,
-          "source_text": "Hiểu về: REST API, networking, State management"
-        },
-        {
-          "skill_name": "State management",
+          "skill_name": "State Management",
           "label": "required_skill",
           "category": "Methodology",
           "min_years": null,
@@ -597,7 +559,7 @@ CRITICAL OUTPUT RULES:
           "source_text": "Có kinh nghiệm làm việc với Bluetooth (BLE) hoặc device connection là lợi thế lớn"
         },
         {
-          "skill_name": "debug và tối ưu hiệu năng",
+          "skill_name": "Performance Optimization",
           "label": "required_skill",
           "category": "Methodology",
           "min_years": null,
@@ -605,7 +567,7 @@ CRITICAL OUTPUT RULES:
           "source_text": "Có khả năng debug và tối ưu hiệu năng ứng dụng"
         },
         {
-          "skill_name": "tư duy sản phẩm",
+          "skill_name": "Product Thinking",
           "label": "required_skill",
           "category": "Soft Skill",
           "min_years": null,
