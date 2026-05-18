@@ -37,56 +37,56 @@
         "label": "required_skill",
         "category": "Soft Skill",
         "min_years": null,
-        "level": null
+        "level": NaN
       },
       {
         "skill_name": "python",
         "label": "required_skill",
         "category": "Programming Language",
         "min_years": null,
-        "level": null
+        "level": NaN
       },
       {
         "skill_name": "R",
         "label": "required_skill",
         "category": "Programming Language",
         "min_years": null,
-        "level": null
+        "level": NaN
       },
       {
         "skill_name": "Recommendation System",
         "label": "preferred_skill",
         "category": "AI / ML / Data",
         "min_years": null,
-        "level": null
+        "level": NaN
       },
       {
         "skill_name": "Reinforcement Learning",
         "label": "preferred_skill",
         "category": "AI / ML / Data",
         "min_years": null,
-        "level": null
+        "level": NaN
       },
       {
         "skill_name": "tự giác",
         "label": "required_skill",
         "category": "Soft Skill",
         "min_years": null,
-        "level": null
+        "level": NaN
       },
       {
         "skill_name": "chủ động",
         "label": "required_skill",
         "category": "Soft Skill",
         "min_years": null,
-        "level": null
+        "level": NaN
       },
       {
         "skill_name": "kỷ luật",
         "label": "preferred_skill",
         "category": "Soft Skill",
         "min_years": null,
-        "level": null
+        "level": NaN
       }
     ]
   },
@@ -99,210 +99,210 @@
         "skill_name": "Automation Test",
         "label": "required_skill",
         "category": "Testing & QA",
-        "min_years": 3,
+        "min_years": 3.0,
         "level": null
       },
       {
         "skill_name": "SQL",
         "label": "required_skill",
         "category": "Database",
-        "min_years": null,
+        "min_years": NaN,
         "level": null
       },
       {
         "skill_name": "API",
         "label": "required_skill",
         "category": "Database",
-        "min_years": null,
+        "min_years": NaN,
         "level": null
       },
       {
         "skill_name": "kiểm thử tự động Mobile App",
         "label": "required_skill",
         "category": "Testing & QA",
-        "min_years": null,
+        "min_years": NaN,
         "level": null
       },
       {
         "skill_name": "kiểm thử tự động Web",
         "label": "required_skill",
         "category": "Testing & QA",
-        "min_years": null,
+        "min_years": NaN,
         "level": null
       },
       {
         "skill_name": "kiểm thử tự động API",
         "label": "required_skill",
         "category": "Testing & QA",
-        "min_years": null,
+        "min_years": NaN,
         "level": null
       },
       {
         "skill_name": "kiểm thử tự động SQL",
         "label": "required_skill",
         "category": "Testing & QA",
-        "min_years": null,
+        "min_years": NaN,
         "level": null
       },
       {
         "skill_name": "Jmeter",
         "label": "required_skill",
         "category": "Tool & Platform",
-        "min_years": null,
+        "min_years": NaN,
         "level": null
       },
       {
         "skill_name": "Maven",
         "label": "required_skill",
         "category": "Tool & Platform",
-        "min_years": null,
+        "min_years": NaN,
         "level": null
       },
       {
         "skill_name": "Git tool",
         "label": "required_skill",
         "category": "Tool & Platform",
-        "min_years": null,
+        "min_years": NaN,
         "level": null
       },
       {
         "skill_name": "Jenkins",
         "label": "required_skill",
         "category": "Tool & Platform",
-        "min_years": null,
+        "min_years": NaN,
         "level": null
       },
       {
         "skill_name": "Postman",
         "label": "required_skill",
         "category": "Tool & Platform",
-        "min_years": null,
+        "min_years": NaN,
         "level": null
       },
       {
         "skill_name": "Java",
         "label": "required_skill",
         "category": "Programming Language",
-        "min_years": null,
+        "min_years": NaN,
         "level": null
       },
       {
         "skill_name": "test plan",
         "label": "required_skill",
         "category": "Testing & QA",
-        "min_years": null,
+        "min_years": NaN,
         "level": null
       },
       {
         "skill_name": "tạo test case",
         "label": "required_skill",
         "category": "Testing & QA",
-        "min_years": null,
+        "min_years": NaN,
         "level": null
       },
       {
         "skill_name": "tạo data test",
         "label": "required_skill",
         "category": "Testing & QA",
-        "min_years": null,
+        "min_years": NaN,
         "level": null
       },
       {
         "skill_name": "cơ sở dữ liệu",
         "label": "required_skill",
         "category": "Database",
-        "min_years": null,
+        "min_years": NaN,
         "level": null
       },
       {
         "skill_name": "Redmine",
         "label": "required_skill",
         "category": "Tool & Platform",
-        "min_years": null,
+        "min_years": NaN,
         "level": null
       },
       {
         "skill_name": "Jira",
         "label": "required_skill",
         "category": "Tool & Platform",
-        "min_years": null,
+        "min_years": NaN,
         "level": null
       },
       {
         "skill_name": "Xray",
         "label": "required_skill",
         "category": "Tool & Platform",
-        "min_years": null,
+        "min_years": NaN,
         "level": null
       },
       {
         "skill_name": "quy trình phát triển phần mềm",
         "label": "required_skill",
-        "category": "Methodology",
-        "min_years": null,
+        "category": "Engineering Concepts & Methodologies",
+        "min_years": NaN,
         "level": null
       },
       {
         "skill_name": "quy trình kiểm thử",
         "label": "required_skill",
-        "category": "Methodology",
-        "min_years": null,
+        "category": "Engineering Concepts & Methodologies",
+        "min_years": NaN,
         "level": null
       },
       {
         "skill_name": "Karate",
         "label": "preferred_skill",
         "category": "Framework / Library",
-        "min_years": null,
+        "min_years": NaN,
         "level": null
       },
       {
         "skill_name": "Serenity",
         "label": "preferred_skill",
         "category": "Framework / Library",
-        "min_years": null,
+        "min_years": NaN,
         "level": null
       },
       {
         "skill_name": "nghiệp vụ ngân hàng",
         "label": "preferred_skill",
         "category": "Domain Knowledge",
-        "min_years": null,
+        "min_years": NaN,
         "level": null
       },
       {
         "skill_name": "ISTQB",
         "label": "preferred_skill",
         "category": "Other",
-        "min_years": null,
+        "min_years": NaN,
         "level": null
       },
       {
         "skill_name": "ETL",
         "label": "preferred_skill",
         "category": "Data Engineering",
-        "min_years": null,
+        "min_years": NaN,
         "level": null
       },
       {
         "skill_name": "phân tích xử lý dữ liệu",
         "label": "preferred_skill",
         "category": "Data Engineering",
-        "min_years": null,
+        "min_years": NaN,
         "level": null
       },
       {
         "skill_name": "công cụ kiểm thử tự động",
         "label": "preferred_skill",
         "category": "Testing & QA",
-        "min_years": null,
+        "min_years": NaN,
         "level": null
       },
       {
         "skill_name": "công cụ kiểm thử hiệu năng",
         "label": "preferred_skill",
         "category": "Testing & QA",
-        "min_years": null,
+        "min_years": NaN,
         "level": null
       }
     ]
@@ -316,48 +316,580 @@
         "skill_name": ".NET",
         "label": "required_skill",
         "category": "Framework / Library",
-        "min_years": 3,
+        "min_years": 3.0,
         "level": null
       },
       {
         "skill_name": "C#",
         "label": "required_skill",
         "category": "Programming Language",
-        "min_years": 3,
+        "min_years": 3.0,
         "level": null
       },
       {
         "skill_name": "OOP",
         "label": "required_skill",
-        "category": "Methodology",
-        "min_years": null,
+        "category": "Engineering Concepts & Methodologies",
+        "min_years": NaN,
         "level": null
       },
       {
         "skill_name": "SOLID",
         "label": "required_skill",
-        "category": "Methodology",
-        "min_years": null,
+        "category": "Engineering Concepts & Methodologies",
+        "min_years": NaN,
         "level": null
       },
       {
         "skill_name": "Design Patterns",
         "label": "required_skill",
-        "category": "Methodology",
-        "min_years": null,
+        "category": "Engineering Concepts & Methodologies",
+        "min_years": NaN,
         "level": null
       },
       {
         "skill_name": "Clean Architecture",
         "label": "required_skill",
-        "category": "Methodology",
-        "min_years": null,
+        "category": "Engineering Concepts & Methodologies",
+        "min_years": NaN,
         "level": null
       },
       {
         "skill_name": "REST APIs",
         "label": "required_skill",
-        "category": "Methodology",
+        "category": "Engineering Concepts & Methodologies",
+        "min_years": NaN,
+        "level": null
+      },
+      {
+        "skill_name": "transaction management",
+        "label": "required_skill",
+        "category": "Engineering Concepts & Methodologies",
+        "min_years": NaN,
+        "level": null
+      },
+      {
+        "skill_name": "caching",
+        "label": "required_skill",
+        "category": "Engineering Concepts & Methodologies",
+        "min_years": NaN,
+        "level": null
+      },
+      {
+        "skill_name": "concurrency control",
+        "label": "required_skill",
+        "category": "Engineering Concepts & Methodologies",
+        "min_years": NaN,
+        "level": null
+      },
+      {
+        "skill_name": "error handling",
+        "label": "required_skill",
+        "category": "Engineering Concepts & Methodologies",
+        "min_years": NaN,
+        "level": null
+      },
+      {
+        "skill_name": "PostgreSQL",
+        "label": "required_skill",
+        "category": "Database",
+        "min_years": NaN,
+        "level": null
+      },
+      {
+        "skill_name": "SQL Server",
+        "label": "required_skill",
+        "category": "Database",
+        "min_years": NaN,
+        "level": null
+      },
+      {
+        "skill_name": "schema design",
+        "label": "required_skill",
+        "category": "Database",
+        "min_years": NaN,
+        "level": null
+      },
+      {
+        "skill_name": "indexing",
+        "label": "required_skill",
+        "category": "Database",
+        "min_years": NaN,
+        "level": null
+      },
+      {
+        "skill_name": "query optimization",
+        "label": "required_skill",
+        "category": "Database",
+        "min_years": NaN,
+        "level": null
+      },
+      {
+        "skill_name": "transaction handling",
+        "label": "required_skill",
+        "category": "Database",
+        "min_years": NaN,
+        "level": null
+      },
+      {
+        "skill_name": "Redis",
+        "label": "required_skill",
+        "category": "Database",
+        "min_years": NaN,
+        "level": null
+      },
+      {
+        "skill_name": "pub/sub",
+        "label": "required_skill",
+        "category": "Database",
+        "min_years": NaN,
+        "level": null
+      },
+      {
+        "skill_name": "distributed lock",
+        "label": "required_skill",
+        "category": "Database",
+        "min_years": NaN,
+        "level": null
+      },
+      {
+        "skill_name": "giải quyết vấn đề kỹ thuật",
+        "label": "required_skill",
+        "category": "Soft Skill",
+        "min_years": NaN,
+        "level": null
+      },
+      {
+        "skill_name": "MongoDB",
+        "label": "preferred_skill",
+        "category": "Database",
+        "min_years": NaN,
+        "level": null
+      },
+      {
+        "skill_name": "NoSQL",
+        "label": "preferred_skill",
+        "category": "Database",
+        "min_years": NaN,
+        "level": null
+      },
+      {
+        "skill_name": "ClickHouse",
+        "label": "preferred_skill",
+        "category": "Database",
+        "min_years": NaN,
+        "level": null
+      },
+      {
+        "skill_name": "Kafka",
+        "label": "preferred_skill",
+        "category": "Data Engineering",
+        "min_years": NaN,
+        "level": null
+      },
+      {
+        "skill_name": "CDC (Change Data Capture)",
+        "label": "preferred_skill",
+        "category": "Data Engineering",
+        "min_years": NaN,
+        "level": null
+      },
+      {
+        "skill_name": "Docker",
+        "label": "preferred_skill",
+        "category": "Cloud & DevOps",
+        "min_years": NaN,
+        "level": null
+      },
+      {
+        "skill_name": "CI/CD",
+        "label": "preferred_skill",
+        "category": "Cloud & DevOps",
+        "min_years": NaN,
+        "level": null
+      },
+      {
+        "skill_name": "Kubernetes",
+        "label": "preferred_skill",
+        "category": "Cloud & DevOps",
+        "min_years": NaN,
+        "level": null
+      },
+      {
+        "skill_name": "microservices",
+        "label": "preferred_skill",
+        "category": "Engineering Concepts & Methodologies",
+        "min_years": NaN,
+        "level": null
+      },
+      {
+        "skill_name": "distributed systems",
+        "label": "preferred_skill",
+        "category": "Engineering Concepts & Methodologies",
+        "min_years": NaN,
+        "level": null
+      },
+      {
+        "skill_name": "ERP",
+        "label": "preferred_skill",
+        "category": "Domain Knowledge",
+        "min_years": NaN,
+        "level": null
+      },
+      {
+        "skill_name": "Retail",
+        "label": "preferred_skill",
+        "category": "Domain Knowledge",
+        "min_years": NaN,
+        "level": null
+      },
+      {
+        "skill_name": "POS system",
+        "label": "preferred_skill",
+        "category": "Domain Knowledge",
+        "min_years": NaN,
+        "level": null
+      },
+      {
+        "skill_name": "hệ thống sửa chữa / bảo hành thiết bị",
+        "label": "preferred_skill",
+        "category": "Domain Knowledge",
+        "min_years": NaN,
+        "level": null
+      },
+      {
+        "skill_name": "xử lý hệ thống có lượng dữ liệu lớn",
+        "label": "preferred_skill",
+        "category": "Data Engineering",
+        "min_years": NaN,
+        "level": null
+      },
+      {
+        "skill_name": "giao tiếp",
+        "label": "preferred_skill",
+        "category": "Soft Skill",
+        "min_years": NaN,
+        "level": null
+      },
+      {
+        "skill_name": "teamwork",
+        "label": "preferred_skill",
+        "category": "Soft Skill",
+        "min_years": NaN,
+        "level": null
+      },
+      {
+        "skill_name": "problem-solving",
+        "label": "preferred_skill",
+        "category": "Soft Skill",
+        "min_years": NaN,
+        "level": null
+      },
+      {
+        "skill_name": "trách nhiệm",
+        "label": "preferred_skill",
+        "category": "Soft Skill",
+        "min_years": NaN,
+        "level": null
+      },
+      {
+        "skill_name": "học hỏi công nghệ mới",
+        "label": "preferred_skill",
+        "category": "Soft Skill",
+        "min_years": NaN,
+        "level": null
+      },
+      {
+        "skill_name": "thích nghi với thay đổi",
+        "label": "preferred_skill",
+        "category": "Soft Skill",
+        "min_years": NaN,
+        "level": null
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "job_title": "Bridge Software Engineer (JLPT N2+)",
+    "requirement": "Must-have: At least 1 year of experience as a BrSE in the IT industry. 5+ years of PHP development experience (PHP 開発経験5年以上). Practical experience with Java development. Hands-on experience with AWS development and cloud services (AWS 開発経験あり). Experience in training, mentoring, or reviewing team members (教育的レビュー経験あり). Japanese proficiency JLPT N2 or higher (日本語レベル N2以上). Strong analytical, communication, and problem-solving skills. Ability to work independently and proactively handle issues. Language Requirements Fluent in Japanese (both written and spoken) is a strong advantage.",
+    "skills": [
+      {
+        "skill_name": "PHP",
+        "label": "required_skill",
+        "category": "Programming Language",
+        "min_years": 5.0,
+        "level": NaN
+      },
+      {
+        "skill_name": "Java",
+        "label": "required_skill",
+        "category": "Programming Language",
+        "min_years": NaN,
+        "level": "intermediate"
+      },
+      {
+        "skill_name": "AWS",
+        "label": "required_skill",
+        "category": "Cloud & DevOps",
+        "min_years": NaN,
+        "level": "intermediate"
+      },
+      {
+        "skill_name": "mentoring",
+        "label": "required_skill",
+        "category": "Soft Skill",
+        "min_years": NaN,
+        "level": NaN
+      },
+      {
+        "skill_name": "Japanese",
+        "label": "required_skill",
+        "category": "Soft Skill",
+        "min_years": NaN,
+        "level": "intermediate"
+      },
+      {
+        "skill_name": "analytical",
+        "label": "required_skill",
+        "category": "Soft Skill",
+        "min_years": NaN,
+        "level": NaN
+      },
+      {
+        "skill_name": "communication",
+        "label": "required_skill",
+        "category": "Soft Skill",
+        "min_years": NaN,
+        "level": NaN
+      },
+      {
+        "skill_name": "problem-solving",
+        "label": "required_skill",
+        "category": "Soft Skill",
+        "min_years": NaN,
+        "level": NaN
+      },
+      {
+        "skill_name": "work independently",
+        "label": "required_skill",
+        "category": "Soft Skill",
+        "min_years": NaN,
+        "level": NaN
+      },
+      {
+        "skill_name": "proactively handle issues",
+        "label": "required_skill",
+        "category": "Soft Skill",
+        "min_years": NaN,
+        "level": NaN
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "job_title": "Chuyên Viên Phân Tích Nghiệp Vụ ( BA )",
+    "requirement": "Bằng đại học chuyên ngành CNTT, Hệ thống thông tin, Quản trị kinh doanh hoặc tương đương Kiến thức về phân tích và thiết kế hệ thống Hiểu biết về quy trình nghiệp vụ và mô hình hóa Kiến thức về UML và các công cụ mô hình hóa Tối thiểu 3 năm kinh nghiệm làm BA Kinh nghiệm thu thập và phân tích yêu cầu Kinh nghiệm viết tài liệu đặc tả yêu cầu Kinh nghiệm làm việc trong các dự án phát triển phần mềm Kỹ năng giao tiếp và phỏng vấn người dùng Kỹ năng phân tích và tư duy logic Kỹ năng viết tài liệu rõ ràng, súc tích Kỹ năng thuyết trình và làm việc nhóm Ưu tiên ứng viên Nam có thể đi công tác",
+    "skills": [
+      {
+        "skill_name": "phân tích và thiết kế hệ thống",
+        "label": "required_skill",
+        "category": "Engineering Concepts & Methodologies",
+        "min_years": null,
+        "level": null
+      },
+      {
+        "skill_name": "quy trình nghiệp vụ",
+        "label": "required_skill",
+        "category": "Domain Knowledge",
+        "min_years": null,
+        "level": null
+      },
+      {
+        "skill_name": "giao tiếp",
+        "label": "required_skill",
+        "category": "Soft Skill",
+        "min_years": null,
+        "level": null
+      },
+      {
+        "skill_name": "phỏng vấn người dùng",
+        "label": "required_skill",
+        "category": "Soft Skill",
+        "min_years": null,
+        "level": null
+      },
+      {
+        "skill_name": "phân tích",
+        "label": "required_skill",
+        "category": "Soft Skill",
+        "min_years": null,
+        "level": null
+      },
+      {
+        "skill_name": "tư duy logic",
+        "label": "required_skill",
+        "category": "Soft Skill",
+        "min_years": null,
+        "level": null
+      },
+      {
+        "skill_name": "viết tài liệu",
+        "label": "required_skill",
+        "category": "Soft Skill",
+        "min_years": null,
+        "level": null
+      },
+      {
+        "skill_name": "thuyết trình",
+        "label": "required_skill",
+        "category": "Soft Skill",
+        "min_years": null,
+        "level": null
+      },
+      {
+        "skill_name": "làm việc nhóm",
+        "label": "required_skill",
+        "category": "Soft Skill",
+        "min_years": null,
+        "level": null
+      },
+      {
+        "skill_name": "viết tài liệu đặc tả yêu cầu",
+        "label": "required_skill",
+        "category": "Engineering Concepts & Methodologies",
+        "min_years": null,
+        "level": null
+      },
+      {
+        "skill_name": "thu thập và phân tích yêu cầu",
+        "label": "required_skill",
+        "category": "Engineering Concepts & Methodologies",
+        "min_years": null,
+        "level": null
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "job_title": "Cloud VMware Engineer",
+    "requirement": "1. Tốt nghiệp Đại học chuyên ngành Công nghệ Thông tin (CNTT), Khoa học Máy tính (KHMT), Điện tử Viễn thông (ĐTVT) hoặc tương đương; 2. Tối thiểu 02 năm kinh nghiệm nghiên cứu, phát triển, đóng gói sản phẩm; 2. Có kiến thức và hiểu biết về ứng dụng microservice, container (Docker, Containerd, Kubernetes) và các công nghệ liên quan 3. Hiểu biết cơ bản về nền tảng Cloud Vmware hoặc Openstack 4. Có chứng chỉ chuyên môn liên quan đến VPC VDC, VPC Automation, VPC Network & Security là lợi thế 5. Tiếng Anh tương đương 550 Toeic (có bài test thay thế nếu không có chứng chỉ) 6. Ưu tiên có kinh nghiệm về Linux (Ubuntu, CentOS), có khả năng lập trình mức cơ bản với ít nhất 1 ngôn ngữ (Python, Bash script)",
+    "skills": [
+      {
+        "skill_name": "microservice",
+        "label": "required_skill",
+        "category": "Engineering Concepts & Methodologies",
+        "min_years": null,
+        "level": NaN
+      },
+      {
+        "skill_name": "docker",
+        "label": "required_skill",
+        "category": "Cloud & DevOps",
+        "min_years": null,
+        "level": NaN
+      },
+      {
+        "skill_name": "containerd",
+        "label": "required_skill",
+        "category": "Cloud & DevOps",
+        "min_years": null,
+        "level": NaN
+      },
+      {
+        "skill_name": "kubernetes",
+        "label": "required_skill",
+        "category": "Cloud & DevOps",
+        "min_years": null,
+        "level": NaN
+      },
+      {
+        "skill_name": "cloud vmware",
+        "label": "required_skill",
+        "category": "Cloud & DevOps",
+        "min_years": null,
+        "level": "basic"
+      },
+      {
+        "skill_name": "openstack",
+        "label": "required_skill",
+        "category": "Cloud & DevOps",
+        "min_years": null,
+        "level": "basic"
+      },
+      {
+        "skill_name": "VPC VDC",
+        "label": "preferred_skill",
+        "category": "Cloud & DevOps",
+        "min_years": null,
+        "level": NaN
+      },
+      {
+        "skill_name": "VPC Automation",
+        "label": "preferred_skill",
+        "category": "Cloud & DevOps",
+        "min_years": null,
+        "level": NaN
+      },
+      {
+        "skill_name": "VPC Network & Security",
+        "label": "preferred_skill",
+        "category": "Cloud & DevOps",
+        "min_years": null,
+        "level": NaN
+      },
+      {
+        "skill_name": "Tiếng anh",
+        "label": "required_skill",
+        "category": "Soft Skill",
+        "min_years": null,
+        "level": "basic"
+      },
+      {
+        "skill_name": "Linux",
+        "label": "preferred_skill",
+        "category": "Tool & Platform",
+        "min_years": null,
+        "level": NaN
+      },
+      {
+        "skill_name": "Ubuntu",
+        "label": "preferred_skill",
+        "category": "Tool & Platform",
+        "min_years": null,
+        "level": NaN
+      },
+      {
+        "skill_name": "CentOS",
+        "label": "preferred_skill",
+        "category": "Tool & Platform",
+        "min_years": null,
+        "level": NaN
+      },
+      {
+        "skill_name": "Python",
+        "label": "preferred_skill",
+        "category": "Programming Language",
+        "min_years": null,
+        "level": "basic"
+      },
+      {
+        "skill_name": "Bash script",
+        "label": "preferred_skill",
+        "category": "Programming Language",
+        "min_years": null,
+        "level": "basic"
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "job_title": "Data Analyst",
+    "requirement": "Tốt nghiệp ĐH trở lên chuyên ngành khoa học dữ liệu, khoa học máy tính, CNTT, toán học ứng dụng, điện tử viễn thông… hoặc các chuyên ngành liên quan. Từ 2 năm kinh nghiệm DA Kiến thức về phân tích khám phá dữ liệu (Exploratory Data Analysis - EDA) Kiến thức về trực quan hóa dữ liệu (Data Visualization) Kiến thức về các loại CSDL (RDBMS, Graph Databases, NoSQL Products,...) Kiến thức về xử lý dữ liệu phân tán, xử lý dữ liệu lớn (Hadoop, Spark, Elasticsearch…) Kỹ năng sử dụng SQL Kỹ năng sử dụng các công cụ trực quan hóa dữ liệu (Tableau, QLikView, PowerBI,...)",
+    "skills": [
+      {
+        "skill_name": "Exploratory Data Analysis",
+        "label": "required_skill",
+        "category": "AI / ML / Data",
         "min_years": null,
         "level": null
       }
