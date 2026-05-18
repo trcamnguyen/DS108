@@ -12,6 +12,19 @@ if 'current_index' not in st.session_state:
     st.session_state.current_index = 0
 if 'annotations' not in st.session_state:
     st.session_state.annotations = {}
+    # Tự động tải dữ liệu cũ nếu file mặc định tồn tại để làm tiếp tục
+    if os.path.exists("annotated_skills.json"):
+        try:
+            with open("annotated_skills.json", "r", encoding="utf-8") as f:
+                saved_data = json.load(f)
+                for item in saved_data:
+                    st.session_state.annotations[str(item["id"])] = item
+                if saved_data:
+                    # Cập nhật index tới job cuối cùng đã làm
+                    max_id = max([int(item["id"]) for item in saved_data])
+                    st.session_state.current_index = max_id
+        except Exception:
+            pass
 
 def load_data():
     """Đọc dữ liệu từ file calibration_dataset.csv"""
@@ -83,7 +96,7 @@ def main():
             category = st.selectbox("Category", [
                 "Programming Language", "Framework / Library", "Database", 
                 "Cloud & DevOps", "AI / ML / Data", "Data Engineering", 
-                "Methodology", "Tool & Platform", "Soft Skill", 
+                "Testing & QA", "Methodology", "Tool & Platform", "Soft Skill", 
                 "Domain Knowledge", "Other"
             ])
             
@@ -144,17 +157,35 @@ def main():
     st.markdown("---")
     
     # --- Lưu Output ---
-    st.header("💾 Xuất Dữ liệu (Export JSON)")
-    output_filename = st.text_input("Tên file output:", value="annotated_skills.json")
-    if st.button("Lưu toàn bộ kết quả ra file JSON"):
-        # Chuyển đổi dictionary thành list để ra cấu trúc JSON chuẩn
-        out_list = [val for k, val in st.session_state.annotations.items()]
-        try:
-            with open(output_filename, 'w', encoding='utf-8') as f:
-                json.dump(out_list, f, ensure_ascii=False, indent=2)
-            st.success(f"🎉 Đã lưu kết quả thành công vào file: {output_filename}!")
-        except Exception as e:
-            st.error(f"Lỗi khi lưu file: {e}")
+    st.header("💾 Quản lý Dữ liệu (Export/Import JSON)")
+    output_filename = st.text_input("Tên file output/input:", value="annotated_skills.json")
+    
+    col_file1, col_file2 = st.columns(2)
+    with col_file1:
+        if st.button("Lưu toàn bộ kết quả ra file JSON"):
+            # Chuyển đổi dictionary thành list để ra cấu trúc JSON chuẩn
+            out_list = [val for k, val in st.session_state.annotations.items()]
+            try:
+                with open(output_filename, 'w', encoding='utf-8') as f:
+                    json.dump(out_list, f, ensure_ascii=False, indent=2)
+                st.success(f"🎉 Đã lưu kết quả thành công vào file: {output_filename}!")
+            except Exception as e:
+                st.error(f"Lỗi khi lưu file: {e}")
+                
+    with col_file2:
+        if st.button("Tải dữ liệu từ file này để làm tiếp"):
+            if os.path.exists(output_filename):
+                try:
+                    with open(output_filename, 'r', encoding='utf-8') as f:
+                        saved_data = json.load(f)
+                        st.session_state.annotations = {}
+                        for item in saved_data:
+                            st.session_state.annotations[str(item["id"])] = item
+                    st.success(f"Đã tải dữ liệu thành công từ file: {output_filename}! Bạn có thể chuyển job để thấy kết quả.")
+                except Exception as e:
+                    st.error(f"Lỗi khi đọc file: {e}")
+            else:
+                st.warning("File không tồn tại!")
 
 if __name__ == "__main__":
     main()
