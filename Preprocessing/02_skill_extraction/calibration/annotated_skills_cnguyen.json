@@ -1,0 +1,366 @@
+[
+  {
+    "id": 0,
+    "job_title": "AI Engineer",
+    "requirement": "Tốt nghiệp đại học loại Khá trở lên. Ưu tiên học vị tiến sĩ, thạc sĩ các ngành khoa học dữ liệu, thống kê, toán kinh tế, toán tài chính, khoa học máy tính Tiếng Anh tương đương 650+ Toeic Hiểu biết sâu về xác suất thống kê, hiểu sâu về toán là lợi thế Hiểu biết về các mô hình học máy Có khả năng quản lý nhóm thực hiện các yêu cầu phân tích chuyên sâu và phân tích dự đoán Có kinh nghiệm build các mô hình học máy Có kinh nghiệm sử dụng ít nhất một trong các ngôn ngữ Python, R Ưu tiên ứng viên đã có kinh nghiệm làm về các hệ thống Recommendation System, có sử dụng Reinforcement Learning Tinh thần làm việc tự giác, chủ động, nhiệt tình và có kỷ luật",
+    "skills": [
+      {
+        "skill_name": "xác suất thống kê",
+        "label": "preferred_skill",
+        "category": "AI / ML / Data",
+        "min_years": null,
+        "level": "expert"
+      },
+      {
+        "skill_name": "toán",
+        "label": "preferred_skill",
+        "category": "AI / ML / Data",
+        "min_years": null,
+        "level": "expert"
+      },
+      {
+        "skill_name": "mô hình học máy",
+        "label": "required_skill",
+        "category": "AI / ML / Data",
+        "min_years": null,
+        "level": "basic"
+      },
+      {
+        "skill_name": "Tiếng Anh",
+        "label": "required_skill",
+        "category": "Soft Skill",
+        "min_years": null,
+        "level": "intermediate"
+      },
+      {
+        "skill_name": "quản lý nhóm",
+        "label": "required_skill",
+        "category": "Soft Skill",
+        "min_years": null,
+        "level": null
+      },
+      {
+        "skill_name": "python",
+        "label": "required_skill",
+        "category": "Programming Language",
+        "min_years": null,
+        "level": null
+      },
+      {
+        "skill_name": "R",
+        "label": "required_skill",
+        "category": "Programming Language",
+        "min_years": null,
+        "level": null
+      },
+      {
+        "skill_name": "Recommendation System",
+        "label": "preferred_skill",
+        "category": "AI / ML / Data",
+        "min_years": null,
+        "level": null
+      },
+      {
+        "skill_name": "Reinforcement Learning",
+        "label": "preferred_skill",
+        "category": "AI / ML / Data",
+        "min_years": null,
+        "level": null
+      },
+      {
+        "skill_name": "tự giác",
+        "label": "required_skill",
+        "category": "Soft Skill",
+        "min_years": null,
+        "level": null
+      },
+      {
+        "skill_name": "chủ động",
+        "label": "required_skill",
+        "category": "Soft Skill",
+        "min_years": null,
+        "level": null
+      },
+      {
+        "skill_name": "kỷ luật",
+        "label": "preferred_skill",
+        "category": "Soft Skill",
+        "min_years": null,
+        "level": null
+      }
+    ]
+  },
+  {
+    "id": 1,
+    "job_title": "Automation Tester",
+    "requirement": "● Có kinh nghiệm >3 năm về lĩnh vực kiểm thử phần mềm vị trí Automation Tester ● Có kinh nghiệm về truy vấn cơ sở dữ liệu SQL hoặc API ● Có kinh nghiệm về kiểm thử tự động Mobile App/ web / API / SQL, Jmeter, Postman, Jenkins, Git tool, Maven hoặc trong các hệ thống ở trong các tổ chức lớn. ● Ngôn ngữ: Java ● Có kinh nghiệm lập test plan, test case, tạo data test và hiểu về cơ sở dữ liệu. ● Có kinh nghiệm sử dụng phần mềm quản lý lỗi: Redmine, Jira, Xray.... ● Có hiểu biết và nắm được quy trình phát triển phần mềm, quy trình kiểm thử, các kỹ thuật, công cụ test. ● Ưu tiên: o UV làm với Serenity, Karate framework và có nghiệp vụ ngân hàng. o UV có chứng chỉ ISTQB o UV có kinh nghiệm làm ETL, phân tích xử lý dữ liệu o UVcó hiểu biết về các công cụ kiểm thử tự động/ kiểm thử hiệu năng",
+    "skills": [
+      {
+        "skill_name": "Automation Test",
+        "label": "required_skill",
+        "category": "Testing & QA",
+        "min_years": 3,
+        "level": null
+      },
+      {
+        "skill_name": "SQL",
+        "label": "required_skill",
+        "category": "Database",
+        "min_years": null,
+        "level": null
+      },
+      {
+        "skill_name": "API",
+        "label": "required_skill",
+        "category": "Database",
+        "min_years": null,
+        "level": null
+      },
+      {
+        "skill_name": "kiểm thử tự động Mobile App",
+        "label": "required_skill",
+        "category": "Testing & QA",
+        "min_years": null,
+        "level": null
+      },
+      {
+        "skill_name": "kiểm thử tự động Web",
+        "label": "required_skill",
+        "category": "Testing & QA",
+        "min_years": null,
+        "level": null
+      },
+      {
+        "skill_name": "kiểm thử tự động API",
+        "label": "required_skill",
+        "category": "Testing & QA",
+        "min_years": null,
+        "level": null
+      },
+      {
+        "skill_name": "kiểm thử tự động SQL",
+        "label": "required_skill",
+        "category": "Testing & QA",
+        "min_years": null,
+        "level": null
+      },
+      {
+        "skill_name": "Jmeter",
+        "label": "required_skill",
+        "category": "Tool & Platform",
+        "min_years": null,
+        "level": null
+      },
+      {
+        "skill_name": "Maven",
+        "label": "required_skill",
+        "category": "Tool & Platform",
+        "min_years": null,
+        "level": null
+      },
+      {
+        "skill_name": "Git tool",
+        "label": "required_skill",
+        "category": "Tool & Platform",
+        "min_years": null,
+        "level": null
+      },
+      {
+        "skill_name": "Jenkins",
+        "label": "required_skill",
+        "category": "Tool & Platform",
+        "min_years": null,
+        "level": null
+      },
+      {
+        "skill_name": "Postman",
+        "label": "required_skill",
+        "category": "Tool & Platform",
+        "min_years": null,
+        "level": null
+      },
+      {
+        "skill_name": "Java",
+        "label": "required_skill",
+        "category": "Programming Language",
+        "min_years": null,
+        "level": null
+      },
+      {
+        "skill_name": "test plan",
+        "label": "required_skill",
+        "category": "Testing & QA",
+        "min_years": null,
+        "level": null
+      },
+      {
+        "skill_name": "tạo test case",
+        "label": "required_skill",
+        "category": "Testing & QA",
+        "min_years": null,
+        "level": null
+      },
+      {
+        "skill_name": "tạo data test",
+        "label": "required_skill",
+        "category": "Testing & QA",
+        "min_years": null,
+        "level": null
+      },
+      {
+        "skill_name": "cơ sở dữ liệu",
+        "label": "required_skill",
+        "category": "Database",
+        "min_years": null,
+        "level": null
+      },
+      {
+        "skill_name": "Redmine",
+        "label": "required_skill",
+        "category": "Tool & Platform",
+        "min_years": null,
+        "level": null
+      },
+      {
+        "skill_name": "Jira",
+        "label": "required_skill",
+        "category": "Tool & Platform",
+        "min_years": null,
+        "level": null
+      },
+      {
+        "skill_name": "Xray",
+        "label": "required_skill",
+        "category": "Tool & Platform",
+        "min_years": null,
+        "level": null
+      },
+      {
+        "skill_name": "quy trình phát triển phần mềm",
+        "label": "required_skill",
+        "category": "Methodology",
+        "min_years": null,
+        "level": null
+      },
+      {
+        "skill_name": "quy trình kiểm thử",
+        "label": "required_skill",
+        "category": "Methodology",
+        "min_years": null,
+        "level": null
+      },
+      {
+        "skill_name": "Karate",
+        "label": "preferred_skill",
+        "category": "Framework / Library",
+        "min_years": null,
+        "level": null
+      },
+      {
+        "skill_name": "Serenity",
+        "label": "preferred_skill",
+        "category": "Framework / Library",
+        "min_years": null,
+        "level": null
+      },
+      {
+        "skill_name": "nghiệp vụ ngân hàng",
+        "label": "preferred_skill",
+        "category": "Domain Knowledge",
+        "min_years": null,
+        "level": null
+      },
+      {
+        "skill_name": "ISTQB",
+        "label": "preferred_skill",
+        "category": "Other",
+        "min_years": null,
+        "level": null
+      },
+      {
+        "skill_name": "ETL",
+        "label": "preferred_skill",
+        "category": "Data Engineering",
+        "min_years": null,
+        "level": null
+      },
+      {
+        "skill_name": "phân tích xử lý dữ liệu",
+        "label": "preferred_skill",
+        "category": "Data Engineering",
+        "min_years": null,
+        "level": null
+      },
+      {
+        "skill_name": "công cụ kiểm thử tự động",
+        "label": "preferred_skill",
+        "category": "Testing & QA",
+        "min_years": null,
+        "level": null
+      },
+      {
+        "skill_name": "công cụ kiểm thử hiệu năng",
+        "label": "preferred_skill",
+        "category": "Testing & QA",
+        "min_years": null,
+        "level": null
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "job_title": "Senior .NET Developer (Web & Mobile)",
+    "requirement": "Tối thiểu 3 năm kinh nghiệm phát triển backend với .NET / C#. Nắm vững OOP, SOLID, Design Patterns, Clean Architecture. Có kinh nghiệm xây dựng REST APIs cho hệ thống backend. Hiểu rõ các vấn đề backend: transaction management, caching, concurrency control, error handling. Có kinh nghiệm làm việc với PostgreSQL hoặc SQL Server: schema design, indexing, query optimization, transaction handling. Có kinh nghiệm làm việc với Redis (caching, pub/sub, distributed lock). Có khả năng phân tích và giải quyết vấn đề kỹ thuật tốt. Ưu tiên: - Có kinh nghiệm với MongoDB hoặc NoSQL database. - Có kinh nghiệm với ClickHouse cho analytics, reporting, log aggregation. - Có kinh nghiệm với Kafka và CDC (Change Data Capture). - Có kinh nghiệm làm việc với Docker và CI/CD pipeline. - Hiểu về Kubernetes và kiến trúc microservices / distributed systems. - Có kinh nghiệm với ERP / Retail / POS systems hoặc hệ thống sửa chữa / bảo hành thiết bị. - Có kinh nghiệm xử lý hệ thống có lượng dữ liệu lớn. Kỹ năng mềm: - Kỹ năng giao tiếp tốt, có khả năng trình bày ý tưởng kỹ thuật rõ ràng. - Tinh thần teamwork, hợp tác hiệu quả trong môi trường cross-functional. - Tư duy problem-solving, chủ động tìm giải pháp và đề xuất cải tiến. - Có trách nhiệm với công việc, cam kết về chất lượng sản phẩm. - Sẵn sàng học hỏi công nghệ mới và thích nghi với thay đổi.",
+    "skills": [
+      {
+        "skill_name": ".NET",
+        "label": "required_skill",
+        "category": "Framework / Library",
+        "min_years": 3,
+        "level": null
+      },
+      {
+        "skill_name": "C#",
+        "label": "required_skill",
+        "category": "Programming Language",
+        "min_years": 3,
+        "level": null
+      },
+      {
+        "skill_name": "OOP",
+        "label": "required_skill",
+        "category": "Methodology",
+        "min_years": null,
+        "level": null
+      },
+      {
+        "skill_name": "SOLID",
+        "label": "required_skill",
+        "category": "Methodology",
+        "min_years": null,
+        "level": null
+      },
+      {
+        "skill_name": "Design Patterns",
+        "label": "required_skill",
+        "category": "Methodology",
+        "min_years": null,
+        "level": null
+      },
+      {
+        "skill_name": "Clean Architecture",
+        "label": "required_skill",
+        "category": "Methodology",
+        "min_years": null,
+        "level": null
+      },
+      {
+        "skill_name": "REST APIs",
+        "label": "required_skill",
+        "category": "Methodology",
+        "min_years": null,
+        "level": null
+      }
+    ]
+  }
+]
