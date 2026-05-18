@@ -277,18 +277,20 @@ CRITICAL OUTPUT RULES:
   ⑥ label chỉ nhận đúng 1 trong 2 giá trị: "required_skill" hoặc "preferred_skill".
   ⑦ Khi gặp skill bundle (nhiều tech trong 1 câu), tách thành nhiều entry riêng.
   ⑧ KHÔNG extract thông tin học vấn / ngành học thành skill (EC-09).
-  ⑨ level CHỈ được nhận 1 trong 3 giá trị "expert", "intermediate", "basic" hoặc null. Tuyệt đối không dùng các từ khác như "N2", "strong", "fluent".
-  ⑩ Với skill là ngoại ngữ (Tiếng Anh, Tiếng Nhật, Tiếng Hàn...):
-   - Để trường "level" = null (không quy đổi về expert/intermediate/basic)
-   - Điền "language_level_raw": giữ nguyên giá trị gốc ("N2", "650+", "fluent", "business level")
-   - Điền "language_level_mapped": quy đổi về thang 1–5 theo bảng:
-       5 = native/fluent/thành thạo/N1/900+/IELTS 8+
-       4 = business level/tốt/N2/750–899/IELTS 6.5+
-       3 = upper-intermediate/N3/600–749/IELTS 5.5+
-       2 = cơ bản/basic/N4–N5/400–599/IELTS 4+
-       1 = sơ cấp/beginner
-     Nếu không đủ thông tin để map → null
-   - Với skill không phải ngoại ngữ: "language_level_raw" và "language_level_mapped" = null
+⑨ Trường "level" CHỈ nhận "expert" | "intermediate" | "basic" | null.
+   Tuyệt đối không dùng giá trị khác.
+
+   Với skill kỹ thuật: map từ từ khóa trong JD
+     "thành thạo", "expert", "senior"          → "expert"
+     "có kinh nghiệm", "intermediate", "solid" → "intermediate"  
+     "cơ bản", "basic", "familiar"             → "basic"
+     Không đề cập rõ                           → null
+
+   Với skill ngoại ngữ: quy đổi về thang 3 bậc
+     N1 / TOEIC 900+ / IELTS 8+ / fluent / thành thạo  → "expert"
+     N2–N3 / TOEIC 600–899 / IELTS 5.5+ / business     → "intermediate"
+     N4–N5 / TOEIC <600 / cơ bản / giao tiếp được      → "basic"
+     Không đủ thông tin                                 → null
 ===FEW_SHOT===
 [
   {
