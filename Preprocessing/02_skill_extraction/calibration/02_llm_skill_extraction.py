@@ -44,7 +44,7 @@ from google.genai import types
 
 # ─── CONFIG ───────────────────────────────────────────────────────────────────
 TEMPERATURE = 0.0       # Bắt buộc = 0 để đảm bảo reproducibility
-MAX_TOKENS  = 8192
+MAX_TOKENS  = 16384     # Tăng từ 8192 để tránh truncation với JD nhiều skills
 RETRY_LIMIT = 3
 RETRY_DELAY = 5         # seconds, nhân đôi mỗi lần retry (exponential backoff)
 
@@ -136,6 +136,22 @@ def build_few_shot_prompt(requirement: str) -> str:
 # API CALLER
 # ═══════════════════════════════════════════════════════════════════════════════
 
+def _repair_truncated_json(raw_text: str) -> Optional[dict]:
+    """Recover partial JSON by trimming to the last complete skill object."""
+    cleaned = re.sub(r"^```(?:json)?\n?", "", raw_text.strip(), flags=re.IGNORECASE)
+    cleaned = re.sub(r"\n?```$", "", cleaned.strip())
+
+    # Tìm tất cả vị trí kết thúc một skill object (dòng "    }")
+    matches = list(re.finditer(r'\n\s{4}\}', cleaned))
+    for match in reversed(matches):
+        candidate = cleaned[:match.end()] + "\n  ]\n}"
+        try:
+            return json.loads(candidate)
+        except json.JSONDecodeError:
+            continue
+    return None
+
+
 def _call_gemini_api(user_prompt: str) -> dict:
     if CLIENT is None:
         raise RuntimeError("Client chưa được khởi tạo. Hãy gọi init_model() trước.")
@@ -175,8 +191,18 @@ def _call_gemini_api(user_prompt: str) -> dict:
 
         except (json.JSONDecodeError, ValidationError) as e:
             log.warning(f"Attempt {attempt}/{RETRY_LIMIT}: Parsing/Validation error — {e}")
+            # Thử repair JSON bị truncate trước khi retry
+            raw = locals().get("raw_text", "") or ""
+            if raw:
+                repaired = _repair_truncated_json(raw)
+                if repaired:
+                    try:
+                        validated_data = SkillExtractionOutput(**repaired)
+                        log.info(f"Attempt {attempt}: Repaired truncated JSON successfully")
+                        return {"raw_text": raw, "parsed": validated_data.model_dump(), "error": None}
+                    except ValidationError:
+                        pass
             if attempt == RETRY_LIMIT:
-                raw = locals().get("raw_text", "")
                 return {"raw_text": raw, "parsed": None, "error": f"Parse/ValidationError: {str(e)}"}
             time.sleep(RETRY_DELAY * (2 ** (attempt - 1)))
 

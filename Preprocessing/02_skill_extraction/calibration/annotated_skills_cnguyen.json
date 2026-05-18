@@ -280,14 +280,14 @@
       {
         "skill_name": "ETL",
         "label": "preferred_skill",
-        "category": "Data Engineering",
+        "category": "Data Engineering & Analytics",
         "min_years": NaN,
         "level": null
       },
       {
         "skill_name": "phân tích xử lý dữ liệu",
         "label": "preferred_skill",
-        "category": "Data Engineering",
+        "category": "Data Engineering & Analytics",
         "min_years": NaN,
         "level": null
       },
@@ -560,7 +560,7 @@
       {
         "skill_name": "xử lý hệ thống có lượng dữ liệu lớn",
         "label": "preferred_skill",
-        "category": "Data Engineering",
+        "category": "Data Engineering & Analytics",
         "min_years": NaN,
         "level": null
       },
@@ -889,9 +889,1955 @@
       {
         "skill_name": "Exploratory Data Analysis",
         "label": "required_skill",
-        "category": "AI / ML / Data",
+        "category": "Data Engineering & Analytics",
         "min_years": null,
         "level": null
+      },
+      {
+        "skill_name": "Data Visualization",
+        "label": "required_skill",
+        "category": "Data Engineering & Analytics",
+        "min_years": null,
+        "level": null
+      },
+      {
+        "skill_name": "RDBMS",
+        "label": "required_skill",
+        "category": "Database",
+        "min_years": null,
+        "level": null
+      },
+      {
+        "skill_name": "Graph Databases",
+        "label": "required_skill",
+        "category": "Database",
+        "min_years": null,
+        "level": null
+      },
+      {
+        "skill_name": "NoSQL",
+        "label": "required_skill",
+        "category": "Database",
+        "min_years": null,
+        "level": null
+      },
+      {
+        "skill_name": "Hadoop",
+        "label": "required_skill",
+        "category": "Data Engineering & Analytics",
+        "min_years": null,
+        "level": null
+      },
+      {
+        "skill_name": "Spark",
+        "label": "required_skill",
+        "category": "Data Engineering & Analytics",
+        "min_years": null,
+        "level": null
+      },
+      {
+        "skill_name": "Elasticsearch",
+        "label": "required_skill",
+        "category": "Data Engineering & Analytics",
+        "min_years": null,
+        "level": null
+      },
+      {
+        "skill_name": "SQL",
+        "label": "required_skill",
+        "category": "Database",
+        "min_years": null,
+        "level": null
+      },
+      {
+        "skill_name": "Tableau",
+        "label": "required_skill",
+        "category": "Data Engineering & Analytics",
+        "min_years": null,
+        "level": null
+      },
+      {
+        "skill_name": "QLikView",
+        "label": "required_skill",
+        "category": "Data Engineering & Analytics",
+        "min_years": null,
+        "level": null
+      },
+      {
+        "skill_name": "PowerBI",
+        "label": "required_skill",
+        "category": "Data Engineering & Analytics",
+        "min_years": null,
+        "level": null
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "job_title": "Data Engineer",
+    "requirement": "Tốt nghiệp đại học chuyên ngành Công nghệ thông tin, Khoa học máy tính, Toán tin hoặc tương đương. Có 1 năm kinh nghiệm làm việc với các hệ quản trị cơ sở dữ liệu như PostgreSQL, MySQL, SQL Server. Thành thạo Python (ưu tiên có kinh nghiệm với Jupyter Notebook, Pandas, PySpark). Kỹ năng giải quyết vấn đề, tư duy logic và khả năng nghiên cứu công nghệ mới tốt.",
+    "skills": [
+      {
+        "skill_name": "PostgreSQL",
+        "label": "required_skill",
+        "category": "Database",
+        "min_years": 1.0,
+        "level": NaN
+      },
+      {
+        "skill_name": "MySQL",
+        "label": "required_skill",
+        "category": "Database",
+        "min_years": 1.0,
+        "level": NaN
+      },
+      {
+        "skill_name": "SQL Server",
+        "label": "required_skill",
+        "category": "Database",
+        "min_years": 1.0,
+        "level": NaN
+      },
+      {
+        "skill_name": "Python",
+        "label": "required_skill",
+        "category": "Programming Language",
+        "min_years": NaN,
+        "level": "expert"
+      },
+      {
+        "skill_name": "Jupyter Notebook",
+        "label": "preferred_skill",
+        "category": "Tool & Platform",
+        "min_years": NaN,
+        "level": NaN
+      },
+      {
+        "skill_name": "Pandas",
+        "label": "preferred_skill",
+        "category": "Framework / Library",
+        "min_years": NaN,
+        "level": NaN
+      },
+      {
+        "skill_name": "PySpark",
+        "label": "preferred_skill",
+        "category": "Data Engineering & Analytics",
+        "min_years": NaN,
+        "level": NaN
+      },
+      {
+        "skill_name": "giải quyết vấn đề",
+        "label": "required_skill",
+        "category": "Soft Skill",
+        "min_years": NaN,
+        "level": NaN
+      },
+      {
+        "skill_name": "tư duy logic",
+        "label": "required_skill",
+        "category": "Soft Skill",
+        "min_years": NaN,
+        "level": NaN
+      },
+      {
+        "skill_name": "nghiên cứu công nghệ mới",
+        "label": "required_skill",
+        "category": "Soft Skill",
+        "min_years": NaN,
+        "level": NaN
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "job_title": "Data Scientist - OB Sớm",
+    "requirement": "Tốt nghiệp Đại học ngành CNTT hoặc tương đương Tối thiểu 2 năm kinh nghiệm ở vị trí Data Scientist (Dưới 1 năm hoặc 1 năm kinh nghiệm vui lòng không apply vào đây) Có kinh nghiệm làm việc trong môi trường B2C / Retail / F&B / E-commerce. Thành thạo Python (pandas, NumPy, scikit-learn; ưu tiên LightGBM/XGBoost) và SQL. Nắm vững Machine Learning (classification, regression, feature engineering) và Forecasting. Có kinh nghiệm A/B testing, phân tích dữ liệu và giải quyết bài toán kinh doanh thực tế. Hiểu và từng tham gia triển khai mô hình ML, MLOps cơ bản (MLflow, Docker, batch/API).",
+    "skills": [
+      {
+        "skill_name": "B2C",
+        "label": "required_skill",
+        "category": "Domain Knowledge",
+        "min_years": null,
+        "level": NaN
+      },
+      {
+        "skill_name": "Retail",
+        "label": "required_skill",
+        "category": "Domain Knowledge",
+        "min_years": null,
+        "level": NaN
+      },
+      {
+        "skill_name": "F&B",
+        "label": "required_skill",
+        "category": "Domain Knowledge",
+        "min_years": null,
+        "level": NaN
+      },
+      {
+        "skill_name": "E-commerce",
+        "label": "required_skill",
+        "category": "Domain Knowledge",
+        "min_years": null,
+        "level": NaN
+      },
+      {
+        "skill_name": "Python",
+        "label": "required_skill",
+        "category": "Programming Language",
+        "min_years": null,
+        "level": "expert"
+      },
+      {
+        "skill_name": "LightGBM/XGBoost",
+        "label": "preferred_skill",
+        "category": "AI / ML / Data",
+        "min_years": null,
+        "level": NaN
+      },
+      {
+        "skill_name": "Machine Learning",
+        "label": "required_skill",
+        "category": "AI / ML / Data",
+        "min_years": null,
+        "level": "intermediate"
+      },
+      {
+        "skill_name": "pandas",
+        "label": "required_skill",
+        "category": "Framework / Library",
+        "min_years": null,
+        "level": NaN
+      },
+      {
+        "skill_name": "NumPy",
+        "label": "required_skill",
+        "category": "Framework / Library",
+        "min_years": null,
+        "level": NaN
+      },
+      {
+        "skill_name": "scikit-learn",
+        "label": "required_skill",
+        "category": "Framework / Library",
+        "min_years": null,
+        "level": NaN
+      },
+      {
+        "skill_name": "Forecasting",
+        "label": "required_skill",
+        "category": "AI / ML / Data",
+        "min_years": null,
+        "level": "intermediate"
+      },
+      {
+        "skill_name": "A/B Testing",
+        "label": "required_skill",
+        "category": "Testing & QA",
+        "min_years": null,
+        "level": NaN
+      },
+      {
+        "skill_name": "phân tích dữ liệu",
+        "label": "required_skill",
+        "category": "Data Engineering & Analytics",
+        "min_years": null,
+        "level": NaN
+      },
+      {
+        "skill_name": "MLOps",
+        "label": "required_skill",
+        "category": "Cloud & DevOps",
+        "min_years": null,
+        "level": "basic"
+      },
+      {
+        "skill_name": "MLflow",
+        "label": "required_skill",
+        "category": "Tool & Platform",
+        "min_years": null,
+        "level": "basic"
+      },
+      {
+        "skill_name": "Docker",
+        "label": "required_skill",
+        "category": "Cloud & DevOps",
+        "min_years": null,
+        "level": "basic"
+      },
+      {
+        "skill_name": "batch",
+        "label": "required_skill",
+        "category": "Data Engineering & Analytics",
+        "min_years": null,
+        "level": NaN
+      },
+      {
+        "skill_name": "API",
+        "label": "required_skill",
+        "category": "Data Engineering & Analytics",
+        "min_years": null,
+        "level": NaN
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "job_title": "Quản Trị Cơ Sở Dữ Liệu (BDA)",
+    "requirement": "Bằng cấp: Đại Học/trên Đại học chuyên ngành CNTT, Toán tin, Khoa học máy tính, Điện tử viễn thông hoặc tương đương; từ 3 năm kinh nghiệm DBA / Database Administrator Thành thạo PostgreSQL (ưu tiên có kinh nghiệm với Odoo) Thành thạo SQL và query tuning Kinh nghiệm vận hành hệ thống production Hiểu rõ: Index, Transaction, Lock, Replication cơ bản, Backup/Restore Linux server cơ bản Có khả năng xử lý sự cố và support hệ thống live Ưu tiên / Điểm cộng: Kinh nghiệm làm việc với Odoo ERP hoặc hệ thống ERP tương tự Hiểu ORM và workload nhiều transaction Tối ưu bảng dữ liệu lớn (logs/transactions) Kinh nghiệm xử lý lock, deadlock, blocking session Monitoring tools (Grafana/Prometheus/Zabbix)",
+    "skills": [
+      {
+        "skill_name": "Database Adminstration",
+        "label": "required_skill",
+        "category": "Database",
+        "min_years": 3.0,
+        "level": NaN
+      },
+      {
+        "skill_name": "PostgreSQL",
+        "label": "required_skill",
+        "category": "Database",
+        "min_years": NaN,
+        "level": NaN
+      },
+      {
+        "skill_name": "Odoo",
+        "label": "preferred_skill",
+        "category": "Tool & Platform",
+        "min_years": NaN,
+        "level": NaN
+      },
+      {
+        "skill_name": "SQL",
+        "label": "required_skill",
+        "category": "Database",
+        "min_years": NaN,
+        "level": NaN
+      },
+      {
+        "skill_name": "Query tuning",
+        "label": "required_skill",
+        "category": "Database",
+        "min_years": NaN,
+        "level": NaN
+      },
+      {
+        "skill_name": "vận hành hệ thống production",
+        "label": "required_skill",
+        "category": "Cloud & DevOps",
+        "min_years": NaN,
+        "level": NaN
+      },
+      {
+        "skill_name": "Index",
+        "label": "required_skill",
+        "category": "Database",
+        "min_years": NaN,
+        "level": NaN
+      },
+      {
+        "skill_name": "Transaction",
+        "label": "required_skill",
+        "category": "Database",
+        "min_years": NaN,
+        "level": NaN
+      },
+      {
+        "skill_name": "Lock",
+        "label": "required_skill",
+        "category": "Database",
+        "min_years": NaN,
+        "level": NaN
+      },
+      {
+        "skill_name": "Replication",
+        "label": "required_skill",
+        "category": "Database",
+        "min_years": NaN,
+        "level": "basic"
+      },
+      {
+        "skill_name": "Backup/Restore Linux serve",
+        "label": "required_skill",
+        "category": "Tool & Platform",
+        "min_years": NaN,
+        "level": "basic"
+      },
+      {
+        "skill_name": "support hệ thống live",
+        "label": "required_skill",
+        "category": "Other",
+        "min_years": NaN,
+        "level": NaN
+      },
+      {
+        "skill_name": "Odoo ERP",
+        "label": "preferred_skill",
+        "category": "Tool & Platform",
+        "min_years": NaN,
+        "level": NaN
+      },
+      {
+        "skill_name": "ERP",
+        "label": "preferred_skill",
+        "category": "Domain Knowledge",
+        "min_years": NaN,
+        "level": NaN
+      },
+      {
+        "skill_name": "ORM",
+        "label": "preferred_skill",
+        "category": "Engineering Concepts & Methodologies",
+        "min_years": NaN,
+        "level": NaN
+      },
+      {
+        "skill_name": "workload nhiều transaction",
+        "label": "preferred_skill",
+        "category": "Database",
+        "min_years": NaN,
+        "level": NaN
+      },
+      {
+        "skill_name": "Tối ưu bảng dữ liệu lớn",
+        "label": "preferred_skill",
+        "category": "Data Engineering & Analytics",
+        "min_years": NaN,
+        "level": NaN
+      },
+      {
+        "skill_name": "deadlock",
+        "label": "preferred_skill",
+        "category": "Database",
+        "min_years": NaN,
+        "level": NaN
+      },
+      {
+        "skill_name": "blocking session",
+        "label": "preferred_skill",
+        "category": "Database",
+        "min_years": NaN,
+        "level": NaN
+      },
+      {
+        "skill_name": "Grafana",
+        "label": "preferred_skill",
+        "category": "Cloud & DevOps",
+        "min_years": NaN,
+        "level": NaN
+      },
+      {
+        "skill_name": "Prometheus",
+        "label": "preferred_skill",
+        "category": "Cloud & DevOps",
+        "min_years": NaN,
+        "level": NaN
+      },
+      {
+        "skill_name": "Zabbix",
+        "label": "preferred_skill",
+        "category": "Cloud & DevOps",
+        "min_years": NaN,
+        "level": NaN
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "job_title": "DevOps Engineer / Site Reliability Engineer",
+    "requirement": "Education & Experience: Bachelor's degree in Computer Science, Information Technology, or a related technical field, alongside 5+ years of hands-on experience in DevOps or Site Reliability Engineering. Cloud & Infrastructure: Deep expertise in AWS (preferred with holding cerifications), with additional exposure to Azure or GCP being advantageous. Proven ability to design and manage infrastructure using IaC tools such as Terraform, Terragrunt, or AWS CloudFormation. CI/CD & Container Orchestration: Solid track record working within CI/CD pipelines — particularly GitLab CI and ArgoCD-driven GitOps workflows — combined with strong proficiency in Kubernetes. Observability & Monitoring: Practical experience operating logging and monitoring stacks for distributed, microservices across multi-environment, multi-cluster including OpenTelemetry, Prometheus, Grafana, LGMT and/or ELK, as well as observability platforms such as DataDog and Jaeger. Core Technical Skills: Grounded knowledge of networking fundamentals, cybersecurity principles, and database operations, paired with scripting and automation capabilities in Bash and Python. Soft Skills: Sharp analytical mindset with a structured approach to problem-solving, and a collaborative communication style that enables effective cross-functional partnership.",
+    "skills": [
+      {
+        "skill_name": "DevOps",
+        "label": "required_skill",
+        "category": "Cloud & DevOps",
+        "min_years": 5.0,
+        "level": "intermediate"
+      },
+      {
+        "skill_name": "Site Reliability Engineering",
+        "label": "required_skill",
+        "category": "Cloud & DevOps",
+        "min_years": 5.0,
+        "level": "intermediate"
+      },
+      {
+        "skill_name": "AWS",
+        "label": "required_skill",
+        "category": "Cloud & DevOps",
+        "min_years": NaN,
+        "level": "expert"
+      },
+      {
+        "skill_name": "Azure",
+        "label": "preferred_skill",
+        "category": "Cloud & DevOps",
+        "min_years": NaN,
+        "level": NaN
+      },
+      {
+        "skill_name": "GCP",
+        "label": "preferred_skill",
+        "category": "Cloud & DevOps",
+        "min_years": NaN,
+        "level": NaN
+      },
+      {
+        "skill_name": "IaC",
+        "label": "required_skill",
+        "category": "Cloud & DevOps",
+        "min_years": NaN,
+        "level": NaN
+      },
+      {
+        "skill_name": "Terraform",
+        "label": "required_skill",
+        "category": "Cloud & DevOps",
+        "min_years": NaN,
+        "level": NaN
+      },
+      {
+        "skill_name": "AWS ClousFormation",
+        "label": "required_skill",
+        "category": "Cloud & DevOps",
+        "min_years": NaN,
+        "level": NaN
+      },
+      {
+        "skill_name": "CI/CD",
+        "label": "required_skill",
+        "category": "Cloud & DevOps",
+        "min_years": NaN,
+        "level": NaN
+      },
+      {
+        "skill_name": "GitLab CI",
+        "label": "required_skill",
+        "category": "Cloud & DevOps",
+        "min_years": NaN,
+        "level": NaN
+      },
+      {
+        "skill_name": "ArgoCD",
+        "label": "required_skill",
+        "category": "Cloud & DevOps",
+        "min_years": NaN,
+        "level": NaN
+      },
+      {
+        "skill_name": "GitOps",
+        "label": "required_skill",
+        "category": "Cloud & DevOps",
+        "min_years": NaN,
+        "level": NaN
+      },
+      {
+        "skill_name": "Kubernetes",
+        "label": "required_skill",
+        "category": "Cloud & DevOps",
+        "min_years": NaN,
+        "level": "intermediate"
+      },
+      {
+        "skill_name": "microservices",
+        "label": "required_skill",
+        "category": "Engineering Concepts & Methodologies",
+        "min_years": NaN,
+        "level": NaN
+      },
+      {
+        "skill_name": "logging",
+        "label": "required_skill",
+        "category": "Cloud & DevOps",
+        "min_years": NaN,
+        "level": NaN
+      },
+      {
+        "skill_name": "monitoring",
+        "label": "required_skill",
+        "category": "Cloud & DevOps",
+        "min_years": NaN,
+        "level": NaN
+      },
+      {
+        "skill_name": "OpenTelemetry",
+        "label": "required_skill",
+        "category": "Cloud & DevOps",
+        "min_years": NaN,
+        "level": NaN
+      },
+      {
+        "skill_name": "Prometheus",
+        "label": "required_skill",
+        "category": "Cloud & DevOps",
+        "min_years": NaN,
+        "level": NaN
+      },
+      {
+        "skill_name": "Grafana",
+        "label": "required_skill",
+        "category": "Cloud & DevOps",
+        "min_years": NaN,
+        "level": NaN
+      },
+      {
+        "skill_name": "LGMT",
+        "label": "required_skill",
+        "category": "Cloud & DevOps",
+        "min_years": NaN,
+        "level": NaN
+      },
+      {
+        "skill_name": "ELK",
+        "label": "required_skill",
+        "category": "Cloud & DevOps",
+        "min_years": NaN,
+        "level": NaN
+      },
+      {
+        "skill_name": "DataDog",
+        "label": "required_skill",
+        "category": "Cloud & DevOps",
+        "min_years": NaN,
+        "level": NaN
+      },
+      {
+        "skill_name": "Jaeger",
+        "label": "required_skill",
+        "category": "Cloud & DevOps",
+        "min_years": NaN,
+        "level": NaN
+      },
+      {
+        "skill_name": "networking fundamentals",
+        "label": "required_skill",
+        "category": "Other",
+        "min_years": NaN,
+        "level": NaN
+      },
+      {
+        "skill_name": "cybersecurity principles",
+        "label": "required_skill",
+        "category": "Other",
+        "min_years": NaN,
+        "level": NaN
+      },
+      {
+        "skill_name": "database operations",
+        "label": "required_skill",
+        "category": "Database",
+        "min_years": NaN,
+        "level": NaN
+      },
+      {
+        "skill_name": "Bash",
+        "label": "required_skill",
+        "category": "Programming Language",
+        "min_years": NaN,
+        "level": NaN
+      },
+      {
+        "skill_name": "Python",
+        "label": "required_skill",
+        "category": "Programming Language",
+        "min_years": NaN,
+        "level": NaN
+      },
+      {
+        "skill_name": "analytical mindset",
+        "label": "required_skill",
+        "category": "Soft Skill",
+        "min_years": NaN,
+        "level": NaN
+      },
+      {
+        "skill_name": "problem-solving",
+        "label": "required_skill",
+        "category": "Soft Skill",
+        "min_years": NaN,
+        "level": NaN
+      },
+      {
+        "skill_name": "communication",
+        "label": "required_skill",
+        "category": "Soft Skill",
+        "min_years": NaN,
+        "level": NaN
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "job_title": "Functional Consultant",
+    "requirement": "- Bachelor’s degree in Information Systems, Computer Science, Business Administration, Supply Chain Management, or related fields. - 2–5 years of experience in full-cycle implementation of enterprise business solutions (ERP, SFA, OMS, DMS or equivalent), including business blueprinting, functional specification (FS/SRS), configuration, testing, UAT, training, data migration, and post go-live support. - Solid understanding of Sales & Distribution processes such as distributor management, pricing, discounts, and promotions. - Strong analytical, problem-solving, communication, and stakeholder management skills; proficiency in documentation and project tools (MS Office, Jira, Confluence, etc.); good command of English (written and spoken).",
+    "skills": [
+      {
+        "skill_name": "ERP",
+        "label": "required_skill",
+        "category": "Domain Knowledge",
+        "min_years": 2.0,
+        "level": null
+      },
+      {
+        "skill_name": "SFA",
+        "label": "required_skill",
+        "category": "Domain Knowledge",
+        "min_years": 2.0,
+        "level": null
+      },
+      {
+        "skill_name": "OMS",
+        "label": "required_skill",
+        "category": "Domain Knowledge",
+        "min_years": NaN,
+        "level": null
+      },
+      {
+        "skill_name": "DMS",
+        "label": "required_skill",
+        "category": "Domain Knowledge",
+        "min_years": 2.0,
+        "level": null
+      },
+      {
+        "skill_name": "business blueprinting",
+        "label": "required_skill",
+        "category": "Engineering Concepts & Methodologies",
+        "min_years": NaN,
+        "level": null
+      },
+      {
+        "skill_name": "functional specification",
+        "label": "required_skill",
+        "category": "Engineering Concepts & Methodologies",
+        "min_years": NaN,
+        "level": null
+      },
+      {
+        "skill_name": "configuration",
+        "label": "required_skill",
+        "category": "Engineering Concepts & Methodologies",
+        "min_years": NaN,
+        "level": null
+      },
+      {
+        "skill_name": "testing",
+        "label": "required_skill",
+        "category": "Engineering Concepts & Methodologies",
+        "min_years": NaN,
+        "level": null
+      },
+      {
+        "skill_name": "UAT",
+        "label": "required_skill",
+        "category": "Engineering Concepts & Methodologies",
+        "min_years": NaN,
+        "level": null
+      },
+      {
+        "skill_name": "training",
+        "label": "required_skill",
+        "category": "Other",
+        "min_years": NaN,
+        "level": null
+      },
+      {
+        "skill_name": "data migration",
+        "label": "required_skill",
+        "category": "Data Engineering & Analytics",
+        "min_years": NaN,
+        "level": null
+      },
+      {
+        "skill_name": "post go-live support",
+        "label": "required_skill",
+        "category": "Engineering Concepts & Methodologies",
+        "min_years": NaN,
+        "level": null
+      },
+      {
+        "skill_name": "Sales & Distribution",
+        "label": "required_skill",
+        "category": "Domain Knowledge",
+        "min_years": NaN,
+        "level": null
+      },
+      {
+        "skill_name": "analytical",
+        "label": "required_skill",
+        "category": "Soft Skill",
+        "min_years": NaN,
+        "level": null
+      },
+      {
+        "skill_name": "problem-solving",
+        "label": "required_skill",
+        "category": "Soft Skill",
+        "min_years": NaN,
+        "level": null
+      },
+      {
+        "skill_name": "communication",
+        "label": "required_skill",
+        "category": "Soft Skill",
+        "min_years": NaN,
+        "level": null
+      },
+      {
+        "skill_name": "stakeholder management",
+        "label": "required_skill",
+        "category": "Soft Skill",
+        "min_years": NaN,
+        "level": null
+      },
+      {
+        "skill_name": "documentation",
+        "label": "required_skill",
+        "category": "Soft Skill",
+        "min_years": NaN,
+        "level": null
+      },
+      {
+        "skill_name": "MS Office",
+        "label": "required_skill",
+        "category": "Tool & Platform",
+        "min_years": NaN,
+        "level": null
+      },
+      {
+        "skill_name": "Jira",
+        "label": "required_skill",
+        "category": "Tool & Platform",
+        "min_years": NaN,
+        "level": null
+      },
+      {
+        "skill_name": "Confluence",
+        "label": "required_skill",
+        "category": "Soft Skill",
+        "min_years": NaN,
+        "level": null
+      },
+      {
+        "skill_name": "English",
+        "label": "required_skill",
+        "category": "Programming Language",
+        "min_years": NaN,
+        "level": null
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "job_title": "Embedded Engineer (AUTOSAR, CAN Tools, BSW)",
+    "requirement": "MUST HAVE Strong in C/C++ programming for Embedded Software with Debugger Environment. Good in CANprotocol/ Diagnostic/ Microcontroller/ sensor/ IO/ Serial knowledge. Knowledge & experience in Automotive Domain and tools (CANoe, CANalyser & CAPL programming). Knowledge and experience in AUTOSAR. NICE TO HAVE Electronics/ Mechatronics/ Computer Engineering or relevant background. SW development in area of CAN, Diagnostics, Vehicle Functions, Automotive etc. OS Scheduler, Pre-emptive, Round robin & Cooperative scheduling. Experience in Networking protocols such as CAN, LIN etc. Unit Testing (Tessy & RTRT), TPT & Integration Testing Tools. Experience in defining and execution of Test Cases with techniques (White Box and Black box). Exposure to Test Automation scripting tools (Python & Perl) ECU Test & LabCar. Knowledge on CAN, ISO14229, ISO26262, J1939 & UDS standards. Experience in Closed loop LabCar, INCA or similar tools. MISRA 2004 and 2012 Coding guidelines (PC-lint, LDRA & PRQA). Knowledge & experience in Matlab/Simulink is plus. Knowledge & experience in V-model and development process. SDLC and Software Development Models (Water Fall/ Agile). Good English language skills.",
+    "skills": [
+      {
+        "skill_name": "C",
+        "label": "required_skill",
+        "category": "Programming Language",
+        "min_years": null,
+        "level": "expert"
+      },
+      {
+        "skill_name": "C++",
+        "label": "required_skill",
+        "category": "Programming Language",
+        "min_years": null,
+        "level": "expert"
+      },
+      {
+        "skill_name": "Debugger Environment",
+        "label": "required_skill",
+        "category": "Tool & Platform",
+        "min_years": null,
+        "level": NaN
+      },
+      {
+        "skill_name": "CANprotocol",
+        "label": "required_skill",
+        "category": "Domain Knowledge",
+        "min_years": null,
+        "level": "intermediate"
+      },
+      {
+        "skill_name": "Diagnostic",
+        "label": "required_skill",
+        "category": "Domain Knowledge",
+        "min_years": null,
+        "level": "intermediate"
+      },
+      {
+        "skill_name": "Microcontroller",
+        "label": "required_skill",
+        "category": "Domain Knowledge",
+        "min_years": null,
+        "level": "intermediate"
+      },
+      {
+        "skill_name": "Sensor",
+        "label": "required_skill",
+        "category": "Domain Knowledge",
+        "min_years": null,
+        "level": "intermediate"
+      },
+      {
+        "skill_name": "IO",
+        "label": "required_skill",
+        "category": "Domain Knowledge",
+        "min_years": null,
+        "level": "intermediate"
+      },
+      {
+        "skill_name": "Serial Knowledge",
+        "label": "required_skill",
+        "category": "Domain Knowledge",
+        "min_years": null,
+        "level": "intermediate"
+      },
+      {
+        "skill_name": "Automotive Domain",
+        "label": "required_skill",
+        "category": "Domain Knowledge",
+        "min_years": null,
+        "level": NaN
+      },
+      {
+        "skill_name": "CANoe",
+        "label": "required_skill",
+        "category": "Tool & Platform",
+        "min_years": null,
+        "level": NaN
+      },
+      {
+        "skill_name": "CANalyser",
+        "label": "required_skill",
+        "category": "Tool & Platform",
+        "min_years": null,
+        "level": NaN
+      },
+      {
+        "skill_name": "CAPL programming",
+        "label": "required_skill",
+        "category": "Programming Language",
+        "min_years": null,
+        "level": NaN
+      },
+      {
+        "skill_name": "AUTOSAR",
+        "label": "required_skill",
+        "category": "Framework / Library",
+        "min_years": null,
+        "level": NaN
+      },
+      {
+        "skill_name": "CAN",
+        "label": "preferred_skill",
+        "category": "Domain Knowledge",
+        "min_years": null,
+        "level": NaN
+      },
+      {
+        "skill_name": "Diagnostics",
+        "label": "preferred_skill",
+        "category": "Domain Knowledge",
+        "min_years": null,
+        "level": NaN
+      },
+      {
+        "skill_name": "Vehicle Functions",
+        "label": "preferred_skill",
+        "category": "Domain Knowledge",
+        "min_years": null,
+        "level": NaN
+      },
+      {
+        "skill_name": "Automotive",
+        "label": "preferred_skill",
+        "category": "Domain Knowledge",
+        "min_years": null,
+        "level": NaN
+      },
+      {
+        "skill_name": "OS Scheduler",
+        "label": "preferred_skill",
+        "category": "Domain Knowledge",
+        "min_years": null,
+        "level": NaN
+      },
+      {
+        "skill_name": "Pre-emptive scheduling",
+        "label": "preferred_skill",
+        "category": "Engineering Concepts & Methodologies",
+        "min_years": null,
+        "level": NaN
+      },
+      {
+        "skill_name": "Round robin",
+        "label": "preferred_skill",
+        "category": "Engineering Concepts & Methodologies",
+        "min_years": null,
+        "level": NaN
+      },
+      {
+        "skill_name": "Cooperative scheduling",
+        "label": "preferred_skill",
+        "category": "Engineering Concepts & Methodologies",
+        "min_years": null,
+        "level": NaN
+      },
+      {
+        "skill_name": "Networking protocols",
+        "label": "preferred_skill",
+        "category": "Domain Knowledge",
+        "min_years": null,
+        "level": NaN
+      },
+      {
+        "skill_name": "LIN",
+        "label": "preferred_skill",
+        "category": "Domain Knowledge",
+        "min_years": null,
+        "level": NaN
+      },
+      {
+        "skill_name": "Unit Testing",
+        "label": "preferred_skill",
+        "category": "Testing & QA",
+        "min_years": null,
+        "level": NaN
+      },
+      {
+        "skill_name": "Tessy",
+        "label": "preferred_skill",
+        "category": "Tool & Platform",
+        "min_years": null,
+        "level": NaN
+      },
+      {
+        "skill_name": "RTRT",
+        "label": "preferred_skill",
+        "category": "Tool & Platform",
+        "min_years": null,
+        "level": NaN
+      },
+      {
+        "skill_name": "Integration Testing",
+        "label": "preferred_skill",
+        "category": "Testing & QA",
+        "min_years": null,
+        "level": NaN
+      },
+      {
+        "skill_name": "ISO14229",
+        "label": "preferred_skill",
+        "category": "Domain Knowledge",
+        "min_years": null,
+        "level": NaN
+      },
+      {
+        "skill_name": "ISO26262",
+        "label": "preferred_skill",
+        "category": "Domain Knowledge",
+        "min_years": null,
+        "level": NaN
+      },
+      {
+        "skill_name": "J1939",
+        "label": "preferred_skill",
+        "category": "Domain Knowledge",
+        "min_years": null,
+        "level": NaN
+      },
+      {
+        "skill_name": "UDS standards",
+        "label": "preferred_skill",
+        "category": "Domain Knowledge",
+        "min_years": null,
+        "level": NaN
+      },
+      {
+        "skill_name": "White Box",
+        "label": "preferred_skill",
+        "category": "Testing & QA",
+        "min_years": null,
+        "level": NaN
+      },
+      {
+        "skill_name": "Black box",
+        "label": "preferred_skill",
+        "category": "Testing & QA",
+        "min_years": null,
+        "level": NaN
+      },
+      {
+        "skill_name": "Test Automation",
+        "label": "preferred_skill",
+        "category": "Programming Language",
+        "min_years": null,
+        "level": NaN
+      },
+      {
+        "skill_name": "Python",
+        "label": "preferred_skill",
+        "category": "Programming Language",
+        "min_years": null,
+        "level": NaN
+      },
+      {
+        "skill_name": "Perl",
+        "label": "preferred_skill",
+        "category": "Programming Language",
+        "min_years": null,
+        "level": NaN
+      },
+      {
+        "skill_name": "ECU Test",
+        "label": "preferred_skill",
+        "category": "Tool & Platform",
+        "min_years": null,
+        "level": NaN
+      },
+      {
+        "skill_name": "LabCar",
+        "label": "preferred_skill",
+        "category": "Tool & Platform",
+        "min_years": null,
+        "level": NaN
+      },
+      {
+        "skill_name": "Closed loop LabCar",
+        "label": "preferred_skill",
+        "category": "Testing & QA",
+        "min_years": null,
+        "level": NaN
+      },
+      {
+        "skill_name": "MISRA 2004",
+        "label": "preferred_skill",
+        "category": "Engineering Concepts & Methodologies",
+        "min_years": null,
+        "level": NaN
+      },
+      {
+        "skill_name": "PC-lint",
+        "label": "preferred_skill",
+        "category": "Tool & Platform",
+        "min_years": null,
+        "level": NaN
+      },
+      {
+        "skill_name": "LDRA",
+        "label": "preferred_skill",
+        "category": "Tool & Platform",
+        "min_years": null,
+        "level": NaN
+      },
+      {
+        "skill_name": "PRQA",
+        "label": "preferred_skill",
+        "category": "Tool & Platform",
+        "min_years": null,
+        "level": NaN
+      },
+      {
+        "skill_name": "Matlab",
+        "label": "preferred_skill",
+        "category": "Tool & Platform",
+        "min_years": null,
+        "level": NaN
+      },
+      {
+        "skill_name": "Simulink",
+        "label": "preferred_skill",
+        "category": "Tool & Platform",
+        "min_years": null,
+        "level": NaN
+      },
+      {
+        "skill_name": "V-model",
+        "label": "preferred_skill",
+        "category": "Engineering Concepts & Methodologies",
+        "min_years": null,
+        "level": NaN
+      },
+      {
+        "skill_name": "SDLC",
+        "label": "preferred_skill",
+        "category": "Engineering Concepts & Methodologies",
+        "min_years": null,
+        "level": NaN
+      },
+      {
+        "skill_name": "Water Fall",
+        "label": "preferred_skill",
+        "category": "Engineering Concepts & Methodologies",
+        "min_years": null,
+        "level": NaN
+      },
+      {
+        "skill_name": "Agile",
+        "label": "preferred_skill",
+        "category": "Engineering Concepts & Methodologies",
+        "min_years": null,
+        "level": NaN
+      },
+      {
+        "skill_name": "English",
+        "label": "preferred_skill",
+        "category": "Soft Skill",
+        "min_years": null,
+        "level": NaN
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "job_title": "Senior Fullstack ( Frontend Focus - AI Project)",
+    "requirement": "Tốt nghiệp Đại học chuyên ngành Khoa học Máy tính, CNTT hoặc tương đương. Từ 5 năm kinh nghiệm Web development và ít nhất 3 năm chuyên sâu Frontend (React/Next.js). Ưu tiên kinh nghiệm xây dựng AI interfaces hoặc real-time applications, có Portfolio/GitHub thể hiện dự án Frontend AI đã xây dựng Kinh nghiệm làm việc chuyên sâu với React/Next.js, TypeScript, kiến trúc Frontend hiện đại (SPA, SSR, edge rendering), Thành thạo Node.js, Cloudflare Workers, REST/WebSocket/SSE. Sử dụng Git, GitHub Actions, Playwright/Cypress (lợi thế) Kinh nghiệm quản lý team FE, review code và mentor các thành viên trong team. Tư duy sáng tạo,tỉ mỉ, sẵn sàng học hỏi các công nghệ AI mới nhất cho Frontend. Tiếng Anh đọc hiểu tài liệu kỹ thuật và giao tiếp được là một lợi thế.",
+    "skills": [
+      {
+        "skill_name": "React",
+        "label": "required_skill",
+        "category": "Framework / Library",
+        "min_years": 3.0,
+        "level": NaN
+      },
+      {
+        "skill_name": "Next.js",
+        "label": "required_skill",
+        "category": "Framework / Library",
+        "min_years": 3.0,
+        "level": NaN
+      },
+      {
+        "skill_name": "AI interfaces",
+        "label": "preferred_skill",
+        "category": "AI / ML / Data",
+        "min_years": NaN,
+        "level": NaN
+      },
+      {
+        "skill_name": "real-time applications",
+        "label": "preferred_skill",
+        "category": "Other",
+        "min_years": NaN,
+        "level": NaN
+      },
+      {
+        "skill_name": "TypeScript",
+        "label": "preferred_skill",
+        "category": "Programming Language",
+        "min_years": NaN,
+        "level": NaN
+      },
+      {
+        "skill_name": "SPA",
+        "label": "preferred_skill",
+        "category": "Engineering Concepts & Methodologies",
+        "min_years": NaN,
+        "level": NaN
+      },
+      {
+        "skill_name": "SSR",
+        "label": "preferred_skill",
+        "category": "Engineering Concepts & Methodologies",
+        "min_years": NaN,
+        "level": NaN
+      },
+      {
+        "skill_name": "edge rendering",
+        "label": "preferred_skill",
+        "category": "Engineering Concepts & Methodologies",
+        "min_years": NaN,
+        "level": NaN
+      },
+      {
+        "skill_name": "Node.js,",
+        "label": "required_skill",
+        "category": "Framework / Library",
+        "min_years": NaN,
+        "level": "expert"
+      },
+      {
+        "skill_name": "Cloudflare Workers",
+        "label": "required_skill",
+        "category": "Cloud & DevOps",
+        "min_years": NaN,
+        "level": "expert"
+      },
+      {
+        "skill_name": "WebSocket",
+        "label": "required_skill",
+        "category": "Engineering Concepts & Methodologies",
+        "min_years": NaN,
+        "level": "expert"
+      },
+      {
+        "skill_name": "SSE",
+        "label": "required_skill",
+        "category": "Engineering Concepts & Methodologies",
+        "min_years": NaN,
+        "level": "expert"
+      },
+      {
+        "skill_name": "Git",
+        "label": "required_skill",
+        "category": "Tool & Platform",
+        "min_years": NaN,
+        "level": NaN
+      },
+      {
+        "skill_name": "GitHub Actions",
+        "label": "required_skill",
+        "category": "Cloud & DevOps",
+        "min_years": NaN,
+        "level": NaN
+      },
+      {
+        "skill_name": "Playwright",
+        "label": "preferred_skill",
+        "category": "Tool & Platform",
+        "min_years": NaN,
+        "level": NaN
+      },
+      {
+        "skill_name": "Cypress",
+        "label": "preferred_skill",
+        "category": "Tool & Platform",
+        "min_years": NaN,
+        "level": NaN
+      },
+      {
+        "skill_name": "quản lý team",
+        "label": "required_skill",
+        "category": "Soft Skill",
+        "min_years": NaN,
+        "level": NaN
+      },
+      {
+        "skill_name": "review code",
+        "label": "required_skill",
+        "category": "Engineering Concepts & Methodologies",
+        "min_years": NaN,
+        "level": NaN
+      },
+      {
+        "skill_name": "mentor",
+        "label": "required_skill",
+        "category": "Soft Skill",
+        "min_years": NaN,
+        "level": NaN
+      },
+      {
+        "skill_name": "Tư duy sáng tạo",
+        "label": "required_skill",
+        "category": "Soft Skill",
+        "min_years": NaN,
+        "level": NaN
+      },
+      {
+        "skill_name": "tỉ mỉ",
+        "label": "required_skill",
+        "category": "Soft Skill",
+        "min_years": NaN,
+        "level": NaN
+      },
+      {
+        "skill_name": "sẵn sàng học hỏi",
+        "label": "required_skill",
+        "category": "Soft Skill",
+        "min_years": NaN,
+        "level": NaN
+      },
+      {
+        "skill_name": "Tiếng Anh",
+        "label": "preferred_skill",
+        "category": "Soft Skill",
+        "min_years": NaN,
+        "level": NaN
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "job_title": "Fullstack Developer",
+    "requirement": "Tốt nghiệp Đại học CNTT hoặc ngành liên quan. Yêu cầu từ 1 năm kinh nghiệm ở vị trí fullstack. Kinh nghiệm .Net core, entity framework, postgres SQL, ReactJS. Biết AWS là lợi thế. Tư duy logic, giải quyết vấn đề tốt, chủ động, teamwork tốt.",
+    "skills": [
+      {
+        "skill_name": ".Net",
+        "label": "required_skill",
+        "category": "Framework / Library",
+        "min_years": null,
+        "level": null
+      },
+      {
+        "skill_name": "entity",
+        "label": "required_skill",
+        "category": "Framework / Library",
+        "min_years": null,
+        "level": null
+      },
+      {
+        "skill_name": "Postgres SQL",
+        "label": "required_skill",
+        "category": "Database",
+        "min_years": null,
+        "level": null
+      },
+      {
+        "skill_name": "ReactJS",
+        "label": "required_skill",
+        "category": "Framework / Library",
+        "min_years": null,
+        "level": null
+      },
+      {
+        "skill_name": "AWS",
+        "label": "preferred_skill",
+        "category": "Cloud & DevOps",
+        "min_years": null,
+        "level": null
+      },
+      {
+        "skill_name": "Tư duy logic",
+        "label": "required_skill",
+        "category": "Soft Skill",
+        "min_years": null,
+        "level": null
+      },
+      {
+        "skill_name": "giải quyết vấn đề",
+        "label": "required_skill",
+        "category": "Soft Skill",
+        "min_years": null,
+        "level": null
+      },
+      {
+        "skill_name": "teamwork",
+        "label": "required_skill",
+        "category": "Soft Skill",
+        "min_years": null,
+        "level": null
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "job_title": "Game Designer (Puzzle)",
+    "requirement": "Có đam mê mạnh với game, đặc biệt là dòng Puzzle/Casual Puzzle/Hybrid Puzzle. Có tư duy logic tốt, khả năng phân tích vấn đề và bóc tách gameplay rõ ràng. Có khả năng quan sát thị trường, học từ sản phẩm khác nhưng không sao chép máy móc. Chủ động, trách nhiệm, sẵn sàng thử nghiệm, sửa sai và cải tiến liên tục. Có khả năng trình bày ý tưởng, viết tài liệu và giao tiếp rõ ràng với team.",
+    "skills": [
+      {
+        "skill_name": "Puzzle game",
+        "label": "required_skill",
+        "category": "Domain Knowledge",
+        "min_years": null,
+        "level": null
+      },
+      {
+        "skill_name": "tư duy logic",
+        "label": "required_skill",
+        "category": "Soft Skill",
+        "min_years": null,
+        "level": null
+      },
+      {
+        "skill_name": "phân tích vấn đề",
+        "label": "required_skill",
+        "category": "Soft Skill",
+        "min_years": null,
+        "level": null
+      },
+      {
+        "skill_name": "bóc tách gameplay",
+        "label": "required_skill",
+        "category": "Domain Knowledge",
+        "min_years": null,
+        "level": null
+      },
+      {
+        "skill_name": "quan sát thị trường",
+        "label": "required_skill",
+        "category": "Soft Skill",
+        "min_years": null,
+        "level": null
+      },
+      {
+        "skill_name": "trình bày ý tưởng",
+        "label": "required_skill",
+        "category": "Soft Skill",
+        "min_years": null,
+        "level": null
+      },
+      {
+        "skill_name": "viết tài liệu",
+        "label": "required_skill",
+        "category": "Soft Skill",
+        "min_years": null,
+        "level": null
+      },
+      {
+        "skill_name": "giao tiếp",
+        "label": "required_skill",
+        "category": "Soft Skill",
+        "min_years": null,
+        "level": null
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "job_title": "Senior Unity Developer",
+    "requirement": "5+ năm kinh nghiệm Unity, tối thiểu 1 game mobile đã release global. Kiến thức vững về: - Unity architecture, async, data-driven programming. - Performance profiling (CPU/GPU), memory management. - Addressables asset management, build pipeline. - Game systems, UI Toolkit/UGUI. Chủ động, trách nhiệm, tư duy hệ thống tốt, tư duy giải quyết vấn đề mạnh. Có kinh nghiệm lead, thích dẫn dắt, thích review code, thích nâng tầm team. Đam mê làm Idle/RPG và người chơi mobile, muốn tạo ra thứ gì đó thật sự “đỉnh”. Kinh nghiệm backend (Node.js/TS, Go, .NET, hoặc Firebase/PlayFab).",
+    "skills": [
+      {
+        "skill_name": "Unity",
+        "label": "required_skill",
+        "category": "Tool & Platform",
+        "min_years": 5.0,
+        "level": null
+      },
+      {
+        "skill_name": "Unity architecture",
+        "label": "required_skill",
+        "category": "Engineering Concepts & Methodologies",
+        "min_years": NaN,
+        "level": null
+      },
+      {
+        "skill_name": "async",
+        "label": "required_skill",
+        "category": "Engineering Concepts & Methodologies",
+        "min_years": NaN,
+        "level": null
+      },
+      {
+        "skill_name": "data-driven programming",
+        "label": "required_skill",
+        "category": "Engineering Concepts & Methodologies",
+        "min_years": NaN,
+        "level": null
+      },
+      {
+        "skill_name": "Performance profiling",
+        "label": "required_skill",
+        "category": "Engineering Concepts & Methodologies",
+        "min_years": NaN,
+        "level": null
+      },
+      {
+        "skill_name": "memory management",
+        "label": "required_skill",
+        "category": "Engineering Concepts & Methodologies",
+        "min_years": NaN,
+        "level": null
+      },
+      {
+        "skill_name": "Addressables asset management",
+        "label": "required_skill",
+        "category": "Tool & Platform",
+        "min_years": NaN,
+        "level": null
+      },
+      {
+        "skill_name": "build pipeline",
+        "label": "required_skill",
+        "category": "Cloud & DevOps",
+        "min_years": NaN,
+        "level": null
+      },
+      {
+        "skill_name": "Game systems",
+        "label": "required_skill",
+        "category": "Engineering Concepts & Methodologies",
+        "min_years": NaN,
+        "level": null
+      },
+      {
+        "skill_name": "UI Toolkit",
+        "label": "required_skill",
+        "category": "Tool & Platform",
+        "min_years": NaN,
+        "level": null
+      },
+      {
+        "skill_name": "UGUI",
+        "label": "required_skill",
+        "category": "Tool & Platform",
+        "min_years": NaN,
+        "level": null
+      },
+      {
+        "skill_name": "Chủ động",
+        "label": "required_skill",
+        "category": "Soft Skill",
+        "min_years": NaN,
+        "level": null
+      },
+      {
+        "skill_name": "trách nhiệm",
+        "label": "required_skill",
+        "category": "Soft Skill",
+        "min_years": NaN,
+        "level": null
+      },
+      {
+        "skill_name": "tư duy hệ thống",
+        "label": "required_skill",
+        "category": "Soft Skill",
+        "min_years": NaN,
+        "level": null
+      },
+      {
+        "skill_name": "tư duy giải quyết vấn đề",
+        "label": "required_skill",
+        "category": "Soft Skill",
+        "min_years": NaN,
+        "level": null
+      },
+      {
+        "skill_name": "lead",
+        "label": "required_skill",
+        "category": "Soft Skill",
+        "min_years": NaN,
+        "level": null
+      },
+      {
+        "skill_name": "review code",
+        "label": "required_skill",
+        "category": "Engineering Concepts & Methodologies",
+        "min_years": NaN,
+        "level": null
+      },
+      {
+        "skill_name": "Idle/RPG",
+        "label": "required_skill",
+        "category": "Domain Knowledge",
+        "min_years": NaN,
+        "level": null
+      },
+      {
+        "skill_name": "Node.js",
+        "label": "required_skill",
+        "category": "Framework / Library",
+        "min_years": NaN,
+        "level": null
+      },
+      {
+        "skill_name": "TS",
+        "label": "required_skill",
+        "category": "Programming Language",
+        "min_years": NaN,
+        "level": null
+      },
+      {
+        "skill_name": "Firebase",
+        "label": "required_skill",
+        "category": "Cloud & DevOps",
+        "min_years": NaN,
+        "level": null
+      },
+      {
+        "skill_name": "PlayFab",
+        "label": "required_skill",
+        "category": "Cloud & DevOps",
+        "min_years": NaN,
+        "level": null
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "job_title": "Nhân Viên Kỹ Thuật",
+    "requirement": "2 năm kinh nghiệm IT Support/Helpdesk. Ưu tiên có kinh nghiệm làm việc tại công ty đa quốc gia. Nắm kiến thức Windows, Office, Network cơ bản & troubleshooting Có thể đi công tác 1 lần/tuần Chủ động, trách nhiệm, hỗ trợ user tốt. Tiếng anh giao tiếp (ưu tiên nghe, nói tốt)",
+    "skills": [
+      {
+        "skill_name": "Windows",
+        "label": "required_skill",
+        "category": "Tool & Platform",
+        "min_years": null,
+        "level": NaN
+      },
+      {
+        "skill_name": "Office",
+        "label": "required_skill",
+        "category": "Tool & Platform",
+        "min_years": null,
+        "level": NaN
+      },
+      {
+        "skill_name": "Network",
+        "label": "required_skill",
+        "category": "Tool & Platform",
+        "min_years": null,
+        "level": "basic"
+      },
+      {
+        "skill_name": "troubleshooting",
+        "label": "required_skill",
+        "category": "Other",
+        "min_years": null,
+        "level": NaN
+      },
+      {
+        "skill_name": "Chủ động",
+        "label": "required_skill",
+        "category": "Soft Skill",
+        "min_years": null,
+        "level": NaN
+      },
+      {
+        "skill_name": "trách nhiệm",
+        "label": "required_skill",
+        "category": "Soft Skill",
+        "min_years": null,
+        "level": NaN
+      },
+      {
+        "skill_name": "hỗ trợ user",
+        "label": "required_skill",
+        "category": "Soft Skill",
+        "min_years": null,
+        "level": NaN
+      },
+      {
+        "skill_name": "Tiếng Anh",
+        "label": "required_skill",
+        "category": "Soft Skill",
+        "min_years": null,
+        "level": NaN
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "job_title": "Nhân Viên Triển Khai Phần Mềm",
+    "requirement": "Tốt nghiệp đại học, cao đẳng các ngành liên quan đến CNTT - phần mềm, phần cứng. Ưu tiên có kinh nghiệm làm việc với các hệ thống phần mềm quản lý bệnh viện, y dược. Thích ứng với môi trường làm việc tại bệnh viện. Nhanh nhẹn, tháo vát, kiên nhẫn, ham học hỏi có tinh thần cầu thị, tỉ mỉ và tận tâm. Kỹ năng giao tiếp, thuyết phục, xử lý sự cố. Có khả năng làm việc độc lập cũng như làm việc theo nhóm Chịu được áp lực công việc, và cường độ công việc Sẵn sàng đi dự án",
+    "skills": [
+      {
+        "skill_name": "phần mềm quản lý bệnh viện",
+        "label": "required_skill",
+        "category": "Domain Knowledge",
+        "min_years": null,
+        "level": null
+      },
+      {
+        "skill_name": "giao tiếp",
+        "label": "required_skill",
+        "category": "Soft Skill",
+        "min_years": null,
+        "level": null
+      },
+      {
+        "skill_name": "xử lý sự cố",
+        "label": "required_skill",
+        "category": "Soft Skill",
+        "min_years": null,
+        "level": null
+      },
+      {
+        "skill_name": "thuyết phục",
+        "label": "required_skill",
+        "category": "Soft Skill",
+        "min_years": null,
+        "level": null
+      },
+      {
+        "skill_name": "làm việc độc lập",
+        "label": "required_skill",
+        "category": "Soft Skill",
+        "min_years": null,
+        "level": null
+      },
+      {
+        "skill_name": "làm việc nhóm",
+        "label": "required_skill",
+        "category": "Soft Skill",
+        "min_years": null,
+        "level": null
+      },
+      {
+        "skill_name": "ham học hỏi",
+        "label": "required_skill",
+        "category": "Soft Skill",
+        "min_years": null,
+        "level": null
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "job_title": "Senior Mobile Developer",
+    "requirement": "The Must-Haves: 3+ years of professional mobile development experience, with at least 2 years focused on Flutter Strong proficiency in Dart and a deep understanding of Flutter framework internals Experience with state management solutions (Bloc, Riverpod, Provider, or similar) Solid understanding of RESTful API integration, JSON parsing, and asynchronous programming Experience with version control systems (Git) and collaborative development workflows Strong problem-solving skills and attention to detail Excellent communication skills and ability to work in cross-functional teams The Good-to-Haves Experience with WebSocket and stream implementation Hands-on experience with audio, recordings and video streaming technologies Experience with analytics and engagement tools (CleverTap, Firebase, Google Analytics, Sentry) Understanding of deep linking and mobile attribution (Branch.io, Adjust)",
+    "skills": [
+      {
+        "skill_name": "mobile development",
+        "label": "required_skill",
+        "category": "Domain Knowledge",
+        "min_years": "3",
+        "level": NaN
+      },
+      {
+        "skill_name": "Flutter",
+        "label": "required_skill",
+        "category": "Framework / Library",
+        "min_years": "2",
+        "level": NaN
+      },
+      {
+        "skill_name": "Dart",
+        "label": "required_skill",
+        "category": "Programming Language",
+        "min_years": NaN,
+        "level": "expert"
+      },
+      {
+        "skill_name": "state management",
+        "label": "required_skill",
+        "category": "Engineering Concepts & Methodologies",
+        "min_years": NaN,
+        "level": NaN
+      },
+      {
+        "skill_name": "Bloc",
+        "label": "required_skill",
+        "category": "Framework / Library",
+        "min_years": NaN,
+        "level": NaN
+      },
+      {
+        "skill_name": "Riverpod",
+        "label": "required_skill",
+        "category": "Framework / Library",
+        "min_years": NaN,
+        "level": NaN
+      },
+      {
+        "skill_name": "Provider",
+        "label": "required_skill",
+        "category": "Framework / Library",
+        "min_years": NaN,
+        "level": NaN
+      },
+      {
+        "skill_name": "RESTful API",
+        "label": "required_skill",
+        "category": "Engineering Concepts & Methodologies",
+        "min_years": NaN,
+        "level": "intermediate"
+      },
+      {
+        "skill_name": "JSON parsing",
+        "label": "required_skill",
+        "category": "Other",
+        "min_years": NaN,
+        "level": NaN
+      },
+      {
+        "skill_name": "asynchronous programming",
+        "label": "required_skill",
+        "category": "Engineering Concepts & Methodologies",
+        "min_years": NaN,
+        "level": NaN
+      },
+      {
+        "skill_name": "Git",
+        "label": "required_skill",
+        "category": "Tool & Platform",
+        "min_years": NaN,
+        "level": NaN
+      },
+      {
+        "skill_name": "problem-solving",
+        "label": "required_skill",
+        "category": "Soft Skill",
+        "min_years": NaN,
+        "level": NaN
+      },
+      {
+        "skill_name": "attention to detail",
+        "label": "required_skill",
+        "category": "Soft Skill",
+        "min_years": NaN,
+        "level": NaN
+      },
+      {
+        "skill_name": "communication",
+        "label": "required_skill",
+        "category": "Soft Skill",
+        "min_years": NaN,
+        "level": NaN
+      },
+      {
+        "skill_name": "WebSocket",
+        "label": "preferred_skill",
+        "category": "Engineering Concepts & Methodologies",
+        "min_years": NaN,
+        "level": NaN
+      },
+      {
+        "skill_name": "stream implementation",
+        "label": "preferred_skill",
+        "category": "Engineering Concepts & Methodologies",
+        "min_years": NaN,
+        "level": NaN
+      },
+      {
+        "skill_name": "audio, recordings and video streaming technologies",
+        "label": "preferred_skill",
+        "category": "Domain Knowledge",
+        "min_years": NaN,
+        "level": NaN
+      },
+      {
+        "skill_name": "CleverTap",
+        "label": "preferred_skill",
+        "category": "Tool & Platform",
+        "min_years": NaN,
+        "level": NaN
+      },
+      {
+        "skill_name": "Firebase",
+        "label": "preferred_skill",
+        "category": "Tool & Platform",
+        "min_years": NaN,
+        "level": NaN
+      },
+      {
+        "skill_name": "Google Analytics",
+        "label": "preferred_skill",
+        "category": "Tool & Platform",
+        "min_years": NaN,
+        "level": NaN
+      },
+      {
+        "skill_name": "Sentry",
+        "label": "preferred_skill",
+        "category": "Tool & Platform",
+        "min_years": NaN,
+        "level": NaN
+      },
+      {
+        "skill_name": "deep linking",
+        "label": "preferred_skill",
+        "category": "Engineering Concepts & Methodologies",
+        "min_years": NaN,
+        "level": NaN
+      },
+      {
+        "skill_name": "Branch.io",
+        "label": "preferred_skill",
+        "category": "Tool & Platform",
+        "min_years": NaN,
+        "level": NaN
+      },
+      {
+        "skill_name": "Adjust",
+        "label": "preferred_skill",
+        "category": "Tool & Platform",
+        "min_years": NaN,
+        "level": NaN
       }
     ]
   }
