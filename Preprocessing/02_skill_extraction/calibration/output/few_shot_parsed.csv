@@ -1,0 +1,768 @@
+﻿row_id,mode,skill_name,label,category,min_years,level,source_text
+0,few_shot,English,required_skill,Soft Skill,,,Tiếng Anh tương đương 650+ Toeic
+0,few_shot,Statistics,required_skill,AI/ML/Data,,expert,Hiểu biết sâu về xác suất thống kê
+0,few_shot,Mathematics,preferred_skill,AI/ML/Data,,expert,hiểu sâu về toán là lợi thế
+0,few_shot,Machine Learning,required_skill,AI/ML/Data,,basic,Hiểu biết về các mô hình học máy
+0,few_shot,Team Management,required_skill,Soft Skill,,,Có khả năng quản lý nhóm thực hiện các yêu cầu phân tích chuyên sâu và phân tích dự đoán
+0,few_shot,Machine Learning,required_skill,AI/ML/Data,,,Có kinh nghiệm build các mô hình học máy
+0,few_shot,Python,required_skill,Programming Language,,,"Có kinh nghiệm sử dụng ít nhất một trong các ngôn ngữ Python, R"
+0,few_shot,R,required_skill,Programming Language,,,"Có kinh nghiệm sử dụng ít nhất một trong các ngôn ngữ Python, R"
+0,few_shot,Recommendation System,preferred_skill,AI/ML/Data,,,Ưu tiên ứng viên đã có kinh nghiệm làm về các hệ thống Recommendation System
+0,few_shot,Reinforcement Learning,preferred_skill,AI/ML/Data,,,có sử dụng Reinforcement Learning
+0,few_shot,Work Ethic,required_skill,Soft Skill,,,"Tinh thần làm việc tự giác, chủ động, nhiệt tình và có kỷ luật"
+1,few_shot,Automation Testing,required_skill,Methodology,3.0,,Có kinh nghiệm >3 năm về lĩnh vực kiểm thử phần mềm vị trí Automation Tester
+1,few_shot,SQL,required_skill,Database,,,Có kinh nghiệm về truy vấn cơ sở dữ liệu SQL hoặc API
+1,few_shot,API,required_skill,Methodology,,,Có kinh nghiệm về truy vấn cơ sở dữ liệu SQL hoặc API
+1,few_shot,Mobile App Testing,required_skill,Methodology,,,Có kinh nghiệm về kiểm thử tự động Mobile App/ web / API / SQL
+1,few_shot,Web Testing,required_skill,Methodology,,,Có kinh nghiệm về kiểm thử tự động Mobile App/ web / API / SQL
+1,few_shot,API Testing,required_skill,Methodology,,,Có kinh nghiệm về kiểm thử tự động Mobile App/ web / API / SQL
+1,few_shot,Jmeter,required_skill,Tool & Platform,,,"Jmeter, Postman, Jenkins, Git tool, Maven"
+1,few_shot,Postman,required_skill,Tool & Platform,,,"Jmeter, Postman, Jenkins, Git tool, Maven"
+1,few_shot,Jenkins,required_skill,Cloud & DevOps,,,"Jmeter, Postman, Jenkins, Git tool, Maven"
+1,few_shot,Git,required_skill,Tool & Platform,,,"Jmeter, Postman, Jenkins, Git tool, Maven"
+1,few_shot,Maven,required_skill,Tool & Platform,,,"Jmeter, Postman, Jenkins, Git tool, Maven"
+1,few_shot,Java,required_skill,Programming Language,,,Ngôn ngữ: Java
+1,few_shot,Test Plan,required_skill,Methodology,,,"Có kinh nghiệm lập test plan, test case, tạo data test"
+1,few_shot,Test Case,required_skill,Methodology,,,"Có kinh nghiệm lập test plan, test case, tạo data test"
+1,few_shot,Database,required_skill,Database,,,hiểu về cơ sở dữ liệu
+1,few_shot,Redmine,required_skill,Tool & Platform,,,"Có kinh nghiệm sử dụng phần mềm quản lý lỗi: Redmine, Jira, Xray...."
+1,few_shot,Jira,required_skill,Tool & Platform,,,"Có kinh nghiệm sử dụng phần mềm quản lý lỗi: Redmine, Jira, Xray...."
+1,few_shot,Xray,required_skill,Tool & Platform,,,"Có kinh nghiệm sử dụng phần mềm quản lý lỗi: Redmine, Jira, Xray...."
+1,few_shot,Software Development Lifecycle,required_skill,Methodology,,,Có hiểu biết và nắm được quy trình phát triển phần mềm
+1,few_shot,Testing Process,required_skill,Methodology,,,"quy trình kiểm thử, các kỹ thuật, công cụ test"
+1,few_shot,Serenity,preferred_skill,Framework,,,"UV làm với Serenity, Karate framework"
+1,few_shot,Karate,preferred_skill,Framework,,,"UV làm với Serenity, Karate framework"
+1,few_shot,Banking,preferred_skill,Domain Knowledge,,,có nghiệp vụ ngân hàng
+1,few_shot,ISTQB,preferred_skill,Other,,,UV có chứng chỉ ISTQB
+1,few_shot,ETL/ELT Pipeline,preferred_skill,Data Engineering,,,"UV có kinh nghiệm làm ETL, phân tích xử lý dữ liệu"
+1,few_shot,Data Analysis,preferred_skill,AI/ML/Data,,,phân tích xử lý dữ liệu
+1,few_shot,Automation Testing Tools,preferred_skill,Tool & Platform,,,UVcó hiểu biết về các công cụ kiểm thử tự động/ kiểm thử hiệu năng
+1,few_shot,Performance Testing,preferred_skill,Methodology,,,UVcó hiểu biết về các công cụ kiểm thử tự động/ kiểm thử hiệu năng
+2,few_shot,.NET,required_skill,Framework,3.0,,Tối thiểu 3 năm kinh nghiệm phát triển backend với .NET / C#
+2,few_shot,C#,required_skill,Programming Language,3.0,,Tối thiểu 3 năm kinh nghiệm phát triển backend với .NET / C#
+2,few_shot,OOP,required_skill,Methodology,,,"Nắm vững OOP, SOLID, Design Patterns, Clean Architecture"
+2,few_shot,SOLID,required_skill,Methodology,,,"Nắm vững OOP, SOLID, Design Patterns, Clean Architecture"
+2,few_shot,Design Patterns,required_skill,Methodology,,,"Nắm vững OOP, SOLID, Design Patterns, Clean Architecture"
+2,few_shot,Clean Architecture,required_skill,Methodology,,,"Nắm vững OOP, SOLID, Design Patterns, Clean Architecture"
+2,few_shot,RESTful API,required_skill,Methodology,,,Có kinh nghiệm xây dựng REST APIs cho hệ thống backend
+2,few_shot,Transaction Management,required_skill,Methodology,,,"Hiểu rõ các vấn đề backend: transaction management, caching, concurrency control, error handling"
+2,few_shot,Caching,required_skill,Methodology,,,"Hiểu rõ các vấn đề backend: transaction management, caching, concurrency control, error handling"
+2,few_shot,Concurrency Control,required_skill,Methodology,,,"Hiểu rõ các vấn đề backend: transaction management, caching, concurrency control, error handling"
+2,few_shot,Error Handling,required_skill,Methodology,,,"Hiểu rõ các vấn đề backend: transaction management, caching, concurrency control, error handling"
+2,few_shot,PostgreSQL,required_skill,Database,,,Có kinh nghiệm làm việc với PostgreSQL hoặc SQL Server
+2,few_shot,SQL Server,required_skill,Database,,,Có kinh nghiệm làm việc với PostgreSQL hoặc SQL Server
+2,few_shot,Schema Design,required_skill,Database,,,"schema design, indexing, query optimization, transaction handling"
+2,few_shot,Indexing,required_skill,Database,,,"schema design, indexing, query optimization, transaction handling"
+2,few_shot,Query Optimization,required_skill,Database,,,"schema design, indexing, query optimization, transaction handling"
+2,few_shot,Transaction Handling,required_skill,Database,,,"schema design, indexing, query optimization, transaction handling"
+2,few_shot,Redis,required_skill,Database,,,"Có kinh nghiệm làm việc với Redis (caching, pub/sub, distributed lock)"
+2,few_shot,Pub/Sub,required_skill,Methodology,,,"Redis (caching, pub/sub, distributed lock)"
+2,few_shot,Distributed Lock,required_skill,Methodology,,,"Redis (caching, pub/sub, distributed lock)"
+2,few_shot,Problem-solving,required_skill,Soft Skill,,,Có khả năng phân tích và giải quyết vấn đề kỹ thuật tốt
+2,few_shot,MongoDB,preferred_skill,Database,,,Có kinh nghiệm với MongoDB hoặc NoSQL database
+2,few_shot,NoSQL,preferred_skill,Database,,,Có kinh nghiệm với MongoDB hoặc NoSQL database
+2,few_shot,ClickHouse,preferred_skill,Database,,,"Có kinh nghiệm với ClickHouse cho analytics, reporting, log aggregation"
+2,few_shot,Kafka,preferred_skill,Data Engineering,,,Có kinh nghiệm với Kafka và CDC (Change Data Capture)
+2,few_shot,CDC (Change Data Capture),preferred_skill,Data Engineering,,,Có kinh nghiệm với Kafka và CDC (Change Data Capture)
+2,few_shot,Docker,preferred_skill,Cloud & DevOps,,,Có kinh nghiệm làm việc với Docker và CI/CD pipeline
+2,few_shot,CI/CD,preferred_skill,Cloud & DevOps,,,Có kinh nghiệm làm việc với Docker và CI/CD pipeline
+2,few_shot,Kubernetes,preferred_skill,Cloud & DevOps,,,Hiểu về Kubernetes và kiến trúc microservices / distributed systems
+2,few_shot,Microservices,preferred_skill,Methodology,,,Hiểu về Kubernetes và kiến trúc microservices / distributed systems
+2,few_shot,Distributed Systems,preferred_skill,Methodology,,,Hiểu về Kubernetes và kiến trúc microservices / distributed systems
+2,few_shot,ERP,preferred_skill,Domain Knowledge,,,Có kinh nghiệm với ERP / Retail / POS systems
+2,few_shot,Retail,preferred_skill,Domain Knowledge,,,Có kinh nghiệm với ERP / Retail / POS systems
+2,few_shot,POS systems,preferred_skill,Domain Knowledge,,,Có kinh nghiệm với ERP / Retail / POS systems
+2,few_shot,Hệ thống sửa chữa / bảo hành thiết bị,preferred_skill,Domain Knowledge,,,hệ thống sửa chữa / bảo hành thiết bị
+2,few_shot,Big Data,preferred_skill,Data Engineering,,,Có kinh nghiệm xử lý hệ thống có lượng dữ liệu lớn
+2,few_shot,Communication,required_skill,Soft Skill,,,"Kỹ năng giao tiếp tốt, có khả năng trình bày ý tưởng kỹ thuật rõ ràng"
+2,few_shot,Teamwork,required_skill,Soft Skill,,,"Tinh thần teamwork, hợp tác hiệu quả trong môi trường cross-functional"
+2,few_shot,Responsibility,required_skill,Soft Skill,,,"Có trách nhiệm với công việc, cam kết về chất lượng sản phẩm"
+2,few_shot,Learning Agility,required_skill,Soft Skill,,,Sẵn sàng học hỏi công nghệ mới và thích nghi với thay đổi
+2,few_shot,Adaptability,required_skill,Soft Skill,,,Sẵn sàng học hỏi công nghệ mới và thích nghi với thay đổi
+3,few_shot,BrSE,required_skill,Domain Knowledge,1.0,,At least 1 year of experience as a BrSE in the IT industry
+3,few_shot,PHP,required_skill,Programming Language,5.0,,5+ years of PHP development experience
+3,few_shot,Java,required_skill,Programming Language,,,Practical experience with Java development
+3,few_shot,AWS,required_skill,Cloud & DevOps,,,Hands-on experience with AWS development and cloud services
+3,few_shot,Mentoring,required_skill,Soft Skill,,,"Experience in training, mentoring, or reviewing team members"
+3,few_shot,Japanese,required_skill,Soft Skill,,,Japanese proficiency JLPT N2 or higher
+3,few_shot,Analytical skills,required_skill,Soft Skill,,,"Strong analytical, communication, and problem-solving skills"
+3,few_shot,Communication,required_skill,Soft Skill,,,"Strong analytical, communication, and problem-solving skills"
+3,few_shot,Problem-solving,required_skill,Soft Skill,,,"Strong analytical, communication, and problem-solving skills"
+3,few_shot,Work independently,required_skill,Soft Skill,,,Ability to work independently and proactively handle issues
+3,few_shot,Proactive,required_skill,Soft Skill,,,Ability to work independently and proactively handle issues
+4,few_shot,System Analysis and Design,required_skill,Methodology,,,Kiến thức về phân tích và thiết kế hệ thống
+4,few_shot,Business Process Modeling,required_skill,Methodology,,,Hiểu biết về quy trình nghiệp vụ và mô hình hóa
+4,few_shot,UML,required_skill,Tool & Platform,,,Kiến thức về UML và các công cụ mô hình hóa
+4,few_shot,Modeling Tools,required_skill,Tool & Platform,,,Kiến thức về UML và các công cụ mô hình hóa
+4,few_shot,Requirement Gathering and Analysis,required_skill,Methodology,,,Kinh nghiệm thu thập và phân tích yêu cầu
+4,few_shot,Requirement Specification Writing,required_skill,Methodology,,,Kinh nghiệm viết tài liệu đặc tả yêu cầu
+4,few_shot,Software Development Projects,required_skill,Methodology,,,Kinh nghiệm làm việc trong các dự án phát triển phần mềm
+4,few_shot,Communication,required_skill,Soft Skill,,,Kỹ năng giao tiếp và phỏng vấn người dùng
+4,few_shot,User Interview,required_skill,Soft Skill,,,Kỹ năng giao tiếp và phỏng vấn người dùng
+4,few_shot,Analytical Skills,required_skill,Soft Skill,,,Kỹ năng phân tích và tư duy logic
+4,few_shot,Logical Thinking,required_skill,Soft Skill,,,Kỹ năng phân tích và tư duy logic
+4,few_shot,Documentation Skills,required_skill,Soft Skill,,,"Kỹ năng viết tài liệu rõ ràng, súc tích"
+4,few_shot,Presentation Skills,required_skill,Soft Skill,,,Kỹ năng thuyết trình và làm việc nhóm
+4,few_shot,Teamwork,required_skill,Soft Skill,,,Kỹ năng thuyết trình và làm việc nhóm
+4,few_shot,Willingness to travel,preferred_skill,Soft Skill,,,Ưu tiên ứng viên Nam có thể đi công tác
+5,few_shot,Microservices,required_skill,Methodology,,,Có kiến thức và hiểu biết về ứng dụng microservice
+5,few_shot,Docker,required_skill,Cloud & DevOps,,,"container (Docker, Containerd, Kubernetes)"
+5,few_shot,Containerd,required_skill,Cloud & DevOps,,,"container (Docker, Containerd, Kubernetes)"
+5,few_shot,Kubernetes,required_skill,Cloud & DevOps,,,"container (Docker, Containerd, Kubernetes)"
+5,few_shot,Vmware,required_skill,Cloud & DevOps,,basic,Hiểu biết cơ bản về nền tảng Cloud Vmware hoặc Openstack
+5,few_shot,Openstack,required_skill,Cloud & DevOps,,basic,Hiểu biết cơ bản về nền tảng Cloud Vmware hoặc Openstack
+5,few_shot,VPC VDC,preferred_skill,Cloud & DevOps,,,"Có chứng chỉ chuyên môn liên quan đến VPC VDC, VPC Automation, VPC Network & Security là lợi thế"
+5,few_shot,VPC Automation,preferred_skill,Cloud & DevOps,,,"Có chứng chỉ chuyên môn liên quan đến VPC VDC, VPC Automation, VPC Network & Security là lợi thế"
+5,few_shot,VPC Network & Security,preferred_skill,Cloud & DevOps,,,"Có chứng chỉ chuyên môn liên quan đến VPC VDC, VPC Automation, VPC Network & Security là lợi thế"
+5,few_shot,English,required_skill,Soft Skill,,,Tiếng Anh tương đương 550 Toeic
+5,few_shot,Linux,preferred_skill,Tool & Platform,,,"Ưu tiên có kinh nghiệm về Linux (Ubuntu, CentOS)"
+5,few_shot,Ubuntu,preferred_skill,Tool & Platform,,,"Ưu tiên có kinh nghiệm về Linux (Ubuntu, CentOS)"
+5,few_shot,CentOS,preferred_skill,Tool & Platform,,,"Ưu tiên có kinh nghiệm về Linux (Ubuntu, CentOS)"
+5,few_shot,Python,preferred_skill,Programming Language,,basic,"có khả năng lập trình mức cơ bản với ít nhất 1 ngôn ngữ (Python, Bash script)"
+5,few_shot,Bash script,preferred_skill,Programming Language,,basic,"có khả năng lập trình mức cơ bản với ít nhất 1 ngôn ngữ (Python, Bash script)"
+6,few_shot,Data Analysis,required_skill,AI/ML/Data,2.0,,Từ 2 năm kinh nghiệm DA
+6,few_shot,Exploratory Data Analysis (EDA),required_skill,AI/ML/Data,,,Kiến thức về phân tích khám phá dữ liệu (Exploratory Data Analysis - EDA)
+6,few_shot,Data Visualization,required_skill,Data Engineering,,,Kiến thức về trực quan hóa dữ liệu (Data Visualization)
+6,few_shot,RDBMS,required_skill,Database,,,"Kiến thức về các loại CSDL (RDBMS, Graph Databases, NoSQL Products,...)"
+6,few_shot,Graph Databases,required_skill,Database,,,"Kiến thức về các loại CSDL (RDBMS, Graph Databases, NoSQL Products,...)"
+6,few_shot,NoSQL,required_skill,Database,,,"Kiến thức về các loại CSDL (RDBMS, Graph Databases, NoSQL Products,...)"
+6,few_shot,Hadoop,required_skill,Data Engineering,,,"Kiến thức về xử lý dữ liệu phân tán, xử lý dữ liệu lớn (Hadoop, Spark, Elasticsearch…)"
+6,few_shot,Spark,required_skill,Data Engineering,,,"Kiến thức về xử lý dữ liệu phân tán, xử lý dữ liệu lớn (Hadoop, Spark, Elasticsearch…)"
+6,few_shot,Elasticsearch,required_skill,Database,,,"Kiến thức về xử lý dữ liệu phân tán, xử lý dữ liệu lớn (Hadoop, Spark, Elasticsearch…)"
+6,few_shot,SQL,required_skill,Database,,,Kỹ năng sử dụng SQL
+6,few_shot,Tableau,required_skill,Data Engineering,,,"Kỹ năng sử dụng các công cụ trực quan hóa dữ liệu (Tableau, QLikView, PowerBI,...)"
+6,few_shot,QlikView,required_skill,Data Engineering,,,"Kỹ năng sử dụng các công cụ trực quan hóa dữ liệu (Tableau, QLikView, PowerBI,...)"
+6,few_shot,Power BI,required_skill,Data Engineering,,,"Kỹ năng sử dụng các công cụ trực quan hóa dữ liệu (Tableau, QLikView, PowerBI,...)"
+7,few_shot,PostgreSQL,required_skill,Database,1.0,,"Có 1 năm kinh nghiệm làm việc với các hệ quản trị cơ sở dữ liệu như PostgreSQL, MySQL, SQL Server"
+7,few_shot,MySQL,required_skill,Database,1.0,,"Có 1 năm kinh nghiệm làm việc với các hệ quản trị cơ sở dữ liệu như PostgreSQL, MySQL, SQL Server"
+7,few_shot,SQL Server,required_skill,Database,1.0,,"Có 1 năm kinh nghiệm làm việc với các hệ quản trị cơ sở dữ liệu như PostgreSQL, MySQL, SQL Server"
+7,few_shot,Python,required_skill,Programming Language,,,Thành thạo Python
+7,few_shot,Jupyter Notebook,preferred_skill,Tool & Platform,,,"ưu tiên có kinh nghiệm với Jupyter Notebook, Pandas, PySpark"
+7,few_shot,Pandas,preferred_skill,AI/ML/Data,,,"ưu tiên có kinh nghiệm với Jupyter Notebook, Pandas, PySpark"
+7,few_shot,PySpark,preferred_skill,Data Engineering,,,"ưu tiên có kinh nghiệm với Jupyter Notebook, Pandas, PySpark"
+7,few_shot,Problem-solving,required_skill,Soft Skill,,,"Kỹ năng giải quyết vấn đề, tư duy logic và khả năng nghiên cứu công nghệ mới tốt"
+7,few_shot,Tư duy logic,required_skill,Soft Skill,,,"Kỹ năng giải quyết vấn đề, tư duy logic và khả năng nghiên cứu công nghệ mới tốt"
+7,few_shot,Nghiên cứu công nghệ mới,required_skill,Soft Skill,,,"Kỹ năng giải quyết vấn đề, tư duy logic và khả năng nghiên cứu công nghệ mới tốt"
+9,few_shot,Database Administration,required_skill,Domain Knowledge,3.0,,từ 3 năm kinh nghiệm DBA / Database Administrator
+9,few_shot,PostgreSQL,required_skill,Database,,,Thành thạo PostgreSQL
+9,few_shot,Odoo,preferred_skill,Tool & Platform,,,ưu tiên có kinh nghiệm với Odoo
+9,few_shot,SQL,required_skill,Database,,,Thành thạo SQL
+9,few_shot,query tuning,required_skill,Database,,,query tuning
+9,few_shot,Production System Operations,required_skill,Cloud & DevOps,,,Kinh nghiệm vận hành hệ thống production
+9,few_shot,Index,required_skill,Database,,,Hiểu rõ: Index
+9,few_shot,Transaction,required_skill,Database,,,"Hiểu rõ: Index, Transaction"
+9,few_shot,Lock,required_skill,Database,,,"Hiểu rõ: Index, Transaction, Lock"
+9,few_shot,Replication,required_skill,Database,,basic,Replication cơ bản
+9,few_shot,Backup/Restore,required_skill,Database,,,Backup/Restore
+9,few_shot,Linux,required_skill,Tool & Platform,,basic,Linux server cơ bản
+9,few_shot,Troubleshooting,required_skill,Soft Skill,,,Có khả năng xử lý sự cố
+9,few_shot,Live System Support,required_skill,Other,,,support hệ thống live
+9,few_shot,Odoo ERP,preferred_skill,Tool & Platform,,,Kinh nghiệm làm việc với Odoo ERP
+9,few_shot,ERP,preferred_skill,Domain Knowledge,,,hệ thống ERP tương tự
+9,few_shot,ORM,preferred_skill,Methodology,,,Hiểu ORM
+9,few_shot,High-transaction workload,preferred_skill,Database,,,workload nhiều transaction
+9,few_shot,Large table optimization,preferred_skill,Database,,,Tối ưu bảng dữ liệu lớn (logs/transactions)
+9,few_shot,deadlock,preferred_skill,Database,,,"Kinh nghiệm xử lý lock, deadlock"
+9,few_shot,blocking session,preferred_skill,Database,,,blocking session
+9,few_shot,Grafana,preferred_skill,Cloud & DevOps,,,Monitoring tools (Grafana/Prometheus/Zabbix)
+9,few_shot,Prometheus,preferred_skill,Cloud & DevOps,,,Monitoring tools (Grafana/Prometheus/Zabbix)
+9,few_shot,Zabbix,preferred_skill,Cloud & DevOps,,,Monitoring tools (Grafana/Prometheus/Zabbix)
+10,few_shot,DevOps,required_skill,Cloud & DevOps,5.0,,5+ years of hands-on experience in DevOps or Site Reliability Engineering
+10,few_shot,Site Reliability Engineering,required_skill,Cloud & DevOps,5.0,,5+ years of hands-on experience in DevOps or Site Reliability Engineering
+10,few_shot,AWS,required_skill,Cloud & DevOps,,expert,Deep expertise in AWS (preferred with holding cerifications)
+10,few_shot,Azure,preferred_skill,Cloud & DevOps,,,additional exposure to Azure or GCP being advantageous
+10,few_shot,GCP,preferred_skill,Cloud & DevOps,,,additional exposure to Azure or GCP being advantageous
+10,few_shot,IaC,required_skill,Cloud & DevOps,,,manage infrastructure using IaC tools
+10,few_shot,Terraform,required_skill,Cloud & DevOps,,,"IaC tools such as Terraform, Terragrunt, or AWS CloudFormation"
+10,few_shot,Terragrunt,required_skill,Cloud & DevOps,,,"IaC tools such as Terraform, Terragrunt, or AWS CloudFormation"
+10,few_shot,AWS CloudFormation,required_skill,Cloud & DevOps,,,"IaC tools such as Terraform, Terragrunt, or AWS CloudFormation"
+10,few_shot,CI/CD,required_skill,Cloud & DevOps,,,Solid track record working within CI/CD pipelines
+10,few_shot,GitLab CI,required_skill,Cloud & DevOps,,,particularly GitLab CI and ArgoCD-driven GitOps workflows
+10,few_shot,ArgoCD,required_skill,Cloud & DevOps,,,ArgoCD-driven GitOps workflows
+10,few_shot,GitOps,required_skill,Cloud & DevOps,,,ArgoCD-driven GitOps workflows
+10,few_shot,Kubernetes,required_skill,Cloud & DevOps,,expert,strong proficiency in Kubernetes
+10,few_shot,Logging,required_skill,Cloud & DevOps,,,operating logging and monitoring stacks
+10,few_shot,Monitoring,required_skill,Cloud & DevOps,,,operating logging and monitoring stacks
+10,few_shot,Microservices,required_skill,Methodology,,,"logging and monitoring stacks for distributed, microservices"
+10,few_shot,OpenTelemetry,required_skill,Cloud & DevOps,,,"including OpenTelemetry, Prometheus, Grafana, LGMT and/or ELK"
+10,few_shot,Prometheus,required_skill,Cloud & DevOps,,,"including OpenTelemetry, Prometheus, Grafana, LGMT and/or ELK"
+10,few_shot,Grafana,required_skill,Cloud & DevOps,,,"including OpenTelemetry, Prometheus, Grafana, LGMT and/or ELK"
+10,few_shot,LGMT,required_skill,Cloud & DevOps,,,"including OpenTelemetry, Prometheus, Grafana, LGMT and/or ELK"
+10,few_shot,ELK,required_skill,Cloud & DevOps,,,"including OpenTelemetry, Prometheus, Grafana, LGMT and/or ELK"
+10,few_shot,DataDog,required_skill,Cloud & DevOps,,,observability platforms such as DataDog and Jaeger
+10,few_shot,Jaeger,required_skill,Cloud & DevOps,,,observability platforms such as DataDog and Jaeger
+10,few_shot,Networking,required_skill,Domain Knowledge,,,Grounded knowledge of networking fundamentals
+10,few_shot,Cybersecurity,required_skill,Methodology,,,cybersecurity principles
+10,few_shot,Database,required_skill,Database,,,database operations
+10,few_shot,Scripting,required_skill,Other,,,scripting and automation capabilities
+10,few_shot,Automation,required_skill,Other,,,scripting and automation capabilities
+10,few_shot,Bash,required_skill,Programming Language,,,scripting and automation capabilities in Bash and Python
+10,few_shot,Python,required_skill,Programming Language,,,scripting and automation capabilities in Bash and Python
+10,few_shot,Analytical mindset,required_skill,Soft Skill,,,Sharp analytical mindset
+10,few_shot,Problem-solving,required_skill,Soft Skill,,,a structured approach to problem-solving
+10,few_shot,Communication,required_skill,Soft Skill,,,a collaborative communication style
+11,few_shot,ERP,required_skill,Domain Knowledge,2.0,,"2–5 years of experience in full-cycle implementation of enterprise business solutions (ERP, SFA, OMS, DMS or equivalent)"
+11,few_shot,SFA,required_skill,Domain Knowledge,2.0,,"2–5 years of experience in full-cycle implementation of enterprise business solutions (ERP, SFA, OMS, DMS or equivalent)"
+11,few_shot,OMS,required_skill,Domain Knowledge,2.0,,"2–5 years of experience in full-cycle implementation of enterprise business solutions (ERP, SFA, OMS, DMS or equivalent)"
+11,few_shot,DMS,required_skill,Domain Knowledge,2.0,,"2–5 years of experience in full-cycle implementation of enterprise business solutions (ERP, SFA, OMS, DMS or equivalent)"
+11,few_shot,Business Blueprinting,required_skill,Methodology,2.0,,including business blueprinting
+11,few_shot,Functional Specification,required_skill,Methodology,2.0,,functional specification (FS/SRS)
+11,few_shot,System Configuration,required_skill,Methodology,2.0,,configuration
+11,few_shot,Testing,required_skill,Methodology,2.0,,testing
+11,few_shot,UAT,required_skill,Methodology,2.0,,UAT
+11,few_shot,Training,required_skill,Soft Skill,2.0,,training
+11,few_shot,Data Migration,required_skill,Data Engineering,2.0,,data migration
+11,few_shot,Post Go-live Support,required_skill,Methodology,2.0,,post go-live support
+11,few_shot,Sales & Distribution,required_skill,Domain Knowledge,,,Solid understanding of Sales & Distribution processes
+11,few_shot,Analytical Skills,required_skill,Soft Skill,,,"Strong analytical, problem-solving, communication, and stakeholder management skills"
+11,few_shot,Problem-solving,required_skill,Soft Skill,,,"Strong analytical, problem-solving, communication, and stakeholder management skills"
+11,few_shot,Communication,required_skill,Soft Skill,,,"Strong analytical, problem-solving, communication, and stakeholder management skills"
+11,few_shot,Stakeholder Management,required_skill,Soft Skill,,,"Strong analytical, problem-solving, communication, and stakeholder management skills"
+11,few_shot,Documentation,required_skill,Soft Skill,,,proficiency in documentation
+11,few_shot,MS Office,required_skill,Tool & Platform,,,"project tools (MS Office, Jira, Confluence, etc.)"
+11,few_shot,Jira,required_skill,Tool & Platform,,,"project tools (MS Office, Jira, Confluence, etc.)"
+11,few_shot,Confluence,required_skill,Tool & Platform,,,"project tools (MS Office, Jira, Confluence, etc.)"
+11,few_shot,English,required_skill,Soft Skill,,,good command of English (written and spoken)
+12,few_shot,C,required_skill,Programming Language,,,Strong in C/C++ programming for Embedded Software
+12,few_shot,C++,required_skill,Programming Language,,,Strong in C/C++ programming for Embedded Software
+12,few_shot,Embedded Software,required_skill,Domain Knowledge,,,Strong in C/C++ programming for Embedded Software
+12,few_shot,Debugger Environment,required_skill,Tool & Platform,,,Strong in C/C++ programming for Embedded Software with Debugger Environment
+12,few_shot,CAN protocol,required_skill,Domain Knowledge,,,Good in CANprotocol/ Diagnostic/ Microcontroller/ sensor/ IO/ Serial knowledge
+12,few_shot,Diagnostic,required_skill,Domain Knowledge,,,Good in CANprotocol/ Diagnostic/ Microcontroller/ sensor/ IO/ Serial knowledge
+12,few_shot,Microcontroller,required_skill,Domain Knowledge,,,Good in CANprotocol/ Diagnostic/ Microcontroller/ sensor/ IO/ Serial knowledge
+12,few_shot,sensor,required_skill,Domain Knowledge,,,Good in CANprotocol/ Diagnostic/ Microcontroller/ sensor/ IO/ Serial knowledge
+12,few_shot,IO,required_skill,Domain Knowledge,,,Good in CANprotocol/ Diagnostic/ Microcontroller/ sensor/ IO/ Serial knowledge
+12,few_shot,Serial,required_skill,Domain Knowledge,,,Good in CANprotocol/ Diagnostic/ Microcontroller/ sensor/ IO/ Serial knowledge
+12,few_shot,Automotive Domain,required_skill,Domain Knowledge,,,Knowledge & experience in Automotive Domain
+12,few_shot,CANoe,required_skill,Tool & Platform,,,"tools (CANoe, CANalyser & CAPL programming)"
+12,few_shot,CANalyser,required_skill,Tool & Platform,,,"tools (CANoe, CANalyser & CAPL programming)"
+12,few_shot,CAPL,required_skill,Programming Language,,,"tools (CANoe, CANalyser & CAPL programming)"
+12,few_shot,AUTOSAR,required_skill,Framework,,,Knowledge and experience in AUTOSAR
+12,few_shot,CAN,preferred_skill,Domain Knowledge,,,"SW development in area of CAN, Diagnostics, Vehicle Functions, Automotive etc."
+12,few_shot,OS Scheduler,preferred_skill,Domain Knowledge,,,"OS Scheduler, Pre-emptive, Round robin & Cooperative scheduling"
+12,few_shot,Pre-emptive scheduling,preferred_skill,Methodology,,,"Pre-emptive, Round robin & Cooperative scheduling"
+12,few_shot,Round robin scheduling,preferred_skill,Methodology,,,"Pre-emptive, Round robin & Cooperative scheduling"
+12,few_shot,Cooperative scheduling,preferred_skill,Methodology,,,"Pre-emptive, Round robin & Cooperative scheduling"
+12,few_shot,Networking protocols,preferred_skill,Domain Knowledge,,,"Experience in Networking protocols such as CAN, LIN etc."
+12,few_shot,LIN,preferred_skill,Domain Knowledge,,,"Experience in Networking protocols such as CAN, LIN etc."
+12,few_shot,Unit Testing,preferred_skill,Methodology,,,"Unit Testing (Tessy & RTRT), TPT & Integration Testing Tools"
+12,few_shot,Tessy,preferred_skill,Tool & Platform,,,Unit Testing (Tessy & RTRT)
+12,few_shot,RTRT,preferred_skill,Tool & Platform,,,Unit Testing (Tessy & RTRT)
+12,few_shot,TPT,preferred_skill,Tool & Platform,,,TPT & Integration Testing Tools
+12,few_shot,Integration Testing,preferred_skill,Methodology,,,TPT & Integration Testing Tools
+12,few_shot,Test Cases,preferred_skill,Methodology,,,Experience in defining and execution of Test Cases
+12,few_shot,White Box testing,preferred_skill,Methodology,,,techniques (White Box and Black box)
+12,few_shot,Black box testing,preferred_skill,Methodology,,,techniques (White Box and Black box)
+12,few_shot,Test Automation,preferred_skill,Methodology,,,Exposure to Test Automation scripting tools
+12,few_shot,Python,preferred_skill,Programming Language,,,Test Automation scripting tools (Python & Perl)
+12,few_shot,Perl,preferred_skill,Programming Language,,,Test Automation scripting tools (Python & Perl)
+12,few_shot,ECU Test,preferred_skill,Tool & Platform,,,ECU Test & LabCar
+12,few_shot,LabCar,preferred_skill,Tool & Platform,,,ECU Test & LabCar
+12,few_shot,ISO 14229,preferred_skill,Domain Knowledge,,,"Knowledge on CAN, ISO14229, ISO26262, J1939 & UDS standards"
+12,few_shot,ISO 26262,preferred_skill,Domain Knowledge,,,"Knowledge on CAN, ISO14229, ISO26262, J1939 & UDS standards"
+12,few_shot,J1939,preferred_skill,Domain Knowledge,,,"Knowledge on CAN, ISO14229, ISO26262, J1939 & UDS standards"
+12,few_shot,UDS,preferred_skill,Domain Knowledge,,,"Knowledge on CAN, ISO14229, ISO26262, J1939 & UDS standards"
+12,few_shot,INCA,preferred_skill,Tool & Platform,,,"Experience in Closed loop LabCar, INCA or similar tools"
+12,few_shot,MISRA,preferred_skill,Methodology,,,MISRA 2004 and 2012 Coding guidelines
+12,few_shot,PC-lint,preferred_skill,Tool & Platform,,,"(PC-lint, LDRA & PRQA)"
+12,few_shot,LDRA,preferred_skill,Tool & Platform,,,"(PC-lint, LDRA & PRQA)"
+12,few_shot,PRQA,preferred_skill,Tool & Platform,,,"(PC-lint, LDRA & PRQA)"
+12,few_shot,Matlab,preferred_skill,Tool & Platform,,,Knowledge & experience in Matlab/Simulink is plus
+12,few_shot,Simulink,preferred_skill,Tool & Platform,,,Knowledge & experience in Matlab/Simulink is plus
+12,few_shot,V-model,preferred_skill,Methodology,,,Knowledge & experience in V-model and development process
+12,few_shot,SDLC,preferred_skill,Methodology,,,SDLC and Software Development Models (Water Fall/ Agile)
+12,few_shot,Waterfall,preferred_skill,Methodology,,,Software Development Models (Water Fall/ Agile)
+12,few_shot,Agile,preferred_skill,Methodology,,,Software Development Models (Water Fall/ Agile)
+12,few_shot,English,preferred_skill,Soft Skill,,,Good English language skills
+13,few_shot,Web Development,required_skill,Domain Knowledge,5.0,,Từ 5 năm kinh nghiệm Web development
+13,few_shot,Frontend Development,required_skill,Domain Knowledge,3.0,expert,ít nhất 3 năm chuyên sâu Frontend
+13,few_shot,React,required_skill,Framework,3.0,,ít nhất 3 năm chuyên sâu Frontend (React/Next.js)
+13,few_shot,Next.js,required_skill,Framework,3.0,,ít nhất 3 năm chuyên sâu Frontend (React/Next.js)
+13,few_shot,AI Interfaces,preferred_skill,AI/ML/Data,,,Ưu tiên kinh nghiệm xây dựng AI interfaces
+13,few_shot,Real-time Applications,preferred_skill,Domain Knowledge,,,Ưu tiên kinh nghiệm xây dựng AI interfaces hoặc real-time applications
+13,few_shot,TypeScript,required_skill,Programming Language,,expert,"Kinh nghiệm làm việc chuyên sâu với React/Next.js, TypeScript"
+13,few_shot,SPA,required_skill,Methodology,,,"kiến trúc Frontend hiện đại (SPA, SSR, edge rendering)"
+13,few_shot,SSR,required_skill,Methodology,,,"kiến trúc Frontend hiện đại (SPA, SSR, edge rendering)"
+13,few_shot,Edge Rendering,required_skill,Methodology,,,"kiến trúc Frontend hiện đại (SPA, SSR, edge rendering)"
+13,few_shot,Node.js,required_skill,Framework,,expert,Thành thạo Node.js
+13,few_shot,Cloudflare Workers,required_skill,Cloud & DevOps,,expert,"Thành thạo Node.js, Cloudflare Workers"
+13,few_shot,RESTful API,required_skill,Methodology,,expert,"Thành thạo Node.js, Cloudflare Workers, REST/WebSocket/SSE"
+13,few_shot,WebSocket,required_skill,Methodology,,expert,"Thành thạo Node.js, Cloudflare Workers, REST/WebSocket/SSE"
+13,few_shot,SSE,required_skill,Methodology,,expert,"Thành thạo Node.js, Cloudflare Workers, REST/WebSocket/SSE"
+13,few_shot,Git,required_skill,Tool & Platform,,,"Sử dụng Git, GitHub Actions"
+13,few_shot,GitHub Actions,required_skill,Cloud & DevOps,,,"Sử dụng Git, GitHub Actions"
+13,few_shot,Playwright,preferred_skill,Tool & Platform,,,Playwright/Cypress (lợi thế)
+13,few_shot,Cypress,preferred_skill,Tool & Platform,,,Playwright/Cypress (lợi thế)
+13,few_shot,Team Management,required_skill,Soft Skill,,,Kinh nghiệm quản lý team FE
+13,few_shot,Code Review,required_skill,Methodology,,,review code
+13,few_shot,Mentoring,required_skill,Soft Skill,,,mentor các thành viên trong team
+13,few_shot,Tư duy sáng tạo,required_skill,Soft Skill,,,Tư duy sáng tạo
+13,few_shot,Tỉ mỉ,required_skill,Soft Skill,,,tỉ mỉ
+13,few_shot,Sẵn sàng học hỏi,required_skill,Soft Skill,,,sẵn sàng học hỏi các công nghệ AI mới nhất cho Frontend
+13,few_shot,English,preferred_skill,Soft Skill,,,Tiếng Anh đọc hiểu tài liệu kỹ thuật và giao tiếp được là một lợi thế
+14,few_shot,Fullstack,required_skill,Domain Knowledge,1.0,,Yêu cầu từ 1 năm kinh nghiệm ở vị trí fullstack
+14,few_shot,.NET Core,required_skill,Framework,,,"Kinh nghiệm .Net core, entity framework, postgres SQL, ReactJS"
+14,few_shot,Entity Framework,required_skill,Framework,,,"Kinh nghiệm .Net core, entity framework, postgres SQL, ReactJS"
+14,few_shot,PostgreSQL,required_skill,Database,,,"Kinh nghiệm .Net core, entity framework, postgres SQL, ReactJS"
+14,few_shot,React,required_skill,Framework,,,"Kinh nghiệm .Net core, entity framework, postgres SQL, ReactJS"
+14,few_shot,AWS,preferred_skill,Cloud & DevOps,,,Biết AWS là lợi thế
+14,few_shot,Logical Thinking,required_skill,Soft Skill,,,"Tư duy logic, giải quyết vấn đề tốt, chủ động, teamwork tốt"
+14,few_shot,Problem-solving,required_skill,Soft Skill,,,"Tư duy logic, giải quyết vấn đề tốt, chủ động, teamwork tốt"
+14,few_shot,Proactiveness,required_skill,Soft Skill,,,"Tư duy logic, giải quyết vấn đề tốt, chủ động, teamwork tốt"
+14,few_shot,Teamwork,required_skill,Soft Skill,,,"Tư duy logic, giải quyết vấn đề tốt, chủ động, teamwork tốt"
+15,few_shot,Puzzle Games,required_skill,Domain Knowledge,,,"Có đam mê mạnh với game, đặc biệt là dòng Puzzle/Casual Puzzle/Hybrid Puzzle."
+15,few_shot,Logical Thinking,required_skill,Soft Skill,,,"Có tư duy logic tốt, khả năng phân tích vấn đề và bóc tách gameplay rõ ràng."
+15,few_shot,Problem-solving,required_skill,Soft Skill,,,khả năng phân tích vấn đề
+15,few_shot,Gameplay Analysis,required_skill,Domain Knowledge,,,khả năng ... bóc tách gameplay rõ ràng
+15,few_shot,Market Analysis,required_skill,Soft Skill,,,"Có khả năng quan sát thị trường, học từ sản phẩm khác nhưng không sao chép máy móc."
+15,few_shot,Work Ethic,required_skill,Soft Skill,,,"Chủ động, trách nhiệm, sẵn sàng thử nghiệm, sửa sai và cải tiến liên tục."
+15,few_shot,Presentation Skills,required_skill,Soft Skill,,,Có khả năng trình bày ý tưởng
+15,few_shot,Documentation,required_skill,Soft Skill,,,viết tài liệu
+15,few_shot,Communication,required_skill,Soft Skill,,,giao tiếp rõ ràng với team
+16,few_shot,Unity,required_skill,Tool & Platform,5.0,,5+ năm kinh nghiệm Unity
+16,few_shot,Mobile Game Development,required_skill,Domain Knowledge,,,tối thiểu 1 game mobile đã release global
+16,few_shot,Unity architecture,required_skill,Methodology,,,"Unity architecture, async, data-driven programming"
+16,few_shot,Asynchronous Programming,required_skill,Methodology,,,async
+16,few_shot,Data-driven programming,required_skill,Methodology,,,data-driven programming
+16,few_shot,Performance profiling,required_skill,Methodology,,,"Performance profiling (CPU/GPU), memory management"
+16,few_shot,Memory management,required_skill,Methodology,,,memory management
+16,few_shot,Addressables,required_skill,Tool & Platform,,,Addressables asset management
+16,few_shot,Build pipeline,required_skill,Cloud & DevOps,,,build pipeline
+16,few_shot,Game systems,required_skill,Methodology,,,Game systems
+16,few_shot,UI Toolkit,required_skill,Tool & Platform,,,UI Toolkit/UGUI
+16,few_shot,UGUI,required_skill,Tool & Platform,,,UI Toolkit/UGUI
+16,few_shot,Proactiveness,required_skill,Soft Skill,,,Chủ động
+16,few_shot,Responsibility,required_skill,Soft Skill,,,trách nhiệm
+16,few_shot,System Thinking,required_skill,Soft Skill,,,tư duy hệ thống tốt
+16,few_shot,Problem-solving,required_skill,Soft Skill,,,tư duy giải quyết vấn đề mạnh
+16,few_shot,Leadership,required_skill,Soft Skill,,,"Có kinh nghiệm lead, thích dẫn dắt"
+16,few_shot,Code Review,required_skill,Methodology,,,thích review code
+16,few_shot,Team Mentoring,required_skill,Soft Skill,,,thích nâng tầm team
+16,few_shot,Idle/RPG games,required_skill,Domain Knowledge,,,Đam mê làm Idle/RPG
+16,few_shot,Node.js,required_skill,Framework,,,"Kinh nghiệm backend (Node.js/TS, Go, .NET, hoặc Firebase/PlayFab)"
+16,few_shot,TypeScript,required_skill,Programming Language,,,"Kinh nghiệm backend (Node.js/TS, Go, .NET, hoặc Firebase/PlayFab)"
+16,few_shot,Go,required_skill,Programming Language,,,"Kinh nghiệm backend (Node.js/TS, Go, .NET, hoặc Firebase/PlayFab)"
+16,few_shot,.NET,required_skill,Framework,,,"Kinh nghiệm backend (Node.js/TS, Go, .NET, hoặc Firebase/PlayFab)"
+16,few_shot,Firebase,required_skill,Cloud & DevOps,,,"Kinh nghiệm backend (Node.js/TS, Go, .NET, hoặc Firebase/PlayFab)"
+16,few_shot,PlayFab,required_skill,Cloud & DevOps,,,"Kinh nghiệm backend (Node.js/TS, Go, .NET, hoặc Firebase/PlayFab)"
+17,few_shot,IT Support,required_skill,Domain Knowledge,2.0,,2 năm kinh nghiệm IT Support/Helpdesk
+17,few_shot,Helpdesk,required_skill,Domain Knowledge,2.0,,2 năm kinh nghiệm IT Support/Helpdesk
+17,few_shot,Kinh nghiệm làm việc tại công ty đa quốc gia,preferred_skill,Domain Knowledge,,,Ưu tiên có kinh nghiệm làm việc tại công ty đa quốc gia
+17,few_shot,Windows,required_skill,Tool & Platform,,,"Nắm kiến thức Windows, Office, Network cơ bản & troubleshooting"
+17,few_shot,Office,required_skill,Tool & Platform,,,"Nắm kiến thức Windows, Office, Network cơ bản & troubleshooting"
+17,few_shot,Network,required_skill,Tool & Platform,,basic,"Nắm kiến thức Windows, Office, Network cơ bản & troubleshooting"
+17,few_shot,Troubleshooting,required_skill,Soft Skill,,,"Nắm kiến thức Windows, Office, Network cơ bản & troubleshooting"
+17,few_shot,Chủ động,required_skill,Soft Skill,,,"Chủ động, trách nhiệm, hỗ trợ user tốt"
+17,few_shot,Trách nhiệm,required_skill,Soft Skill,,,"Chủ động, trách nhiệm, hỗ trợ user tốt"
+17,few_shot,User Support,required_skill,Soft Skill,,,hỗ trợ user tốt
+17,few_shot,Tiếng Anh,required_skill,Soft Skill,,,"Tiếng anh giao tiếp (ưu tiên nghe, nói tốt)"
+18,few_shot,Hệ thống phần mềm quản lý bệnh viện,preferred_skill,Domain Knowledge,,,"Ưu tiên có kinh nghiệm làm việc với các hệ thống phần mềm quản lý bệnh viện, y dược."
+18,few_shot,Y dược,preferred_skill,Domain Knowledge,,,"Ưu tiên có kinh nghiệm làm việc với các hệ thống phần mềm quản lý bệnh viện, y dược."
+18,few_shot,Thích ứng,required_skill,Soft Skill,,,Thích ứng với môi trường làm việc tại bệnh viện.
+18,few_shot,Tác phong làm việc,required_skill,Soft Skill,,,"Nhanh nhẹn, tháo vát, kiên nhẫn, ham học hỏi có tinh thần cầu thị, tỉ mỉ và tận tâm."
+18,few_shot,Kỹ năng giao tiếp,required_skill,Soft Skill,,,"Kỹ năng giao tiếp, thuyết phục, xử lý sự cố."
+18,few_shot,Thuyết phục,required_skill,Soft Skill,,,"Kỹ năng giao tiếp, thuyết phục, xử lý sự cố."
+18,few_shot,Xử lý sự cố,required_skill,Soft Skill,,,"Kỹ năng giao tiếp, thuyết phục, xử lý sự cố."
+18,few_shot,Làm việc độc lập,required_skill,Soft Skill,,,Có khả năng làm việc độc lập cũng như làm việc theo nhóm
+18,few_shot,Teamwork,required_skill,Soft Skill,,,Có khả năng làm việc độc lập cũng như làm việc theo nhóm
+18,few_shot,Chịu được áp lực công việc,required_skill,Soft Skill,,,"Chịu được áp lực công việc, và cường độ công việc"
+18,few_shot,Sẵn sàng đi dự án,required_skill,Soft Skill,,,Sẵn sàng đi dự án
+19,few_shot,mobile development,required_skill,Domain Knowledge,3.0,,3+ years of professional mobile development experience
+19,few_shot,Flutter,required_skill,Framework,2.0,,at least 2 years focused on Flutter
+19,few_shot,Dart,required_skill,Programming Language,,expert,Strong proficiency in Dart
+19,few_shot,State Management,required_skill,Methodology,,,"Experience with state management solutions (Bloc, Riverpod, Provider, or similar)"
+19,few_shot,Bloc,required_skill,Framework,,,"state management solutions (Bloc, Riverpod, Provider, or similar)"
+19,few_shot,Riverpod,required_skill,Framework,,,"state management solutions (Bloc, Riverpod, Provider, or similar)"
+19,few_shot,Provider,required_skill,Framework,,,"state management solutions (Bloc, Riverpod, Provider, or similar)"
+19,few_shot,RESTful API,required_skill,Methodology,,,Solid understanding of RESTful API integration
+19,few_shot,JSON parsing,required_skill,Other,,,JSON parsing
+19,few_shot,asynchronous programming,required_skill,Methodology,,,asynchronous programming
+19,few_shot,Git,required_skill,Tool & Platform,,,Experience with version control systems (Git)
+19,few_shot,Problem-solving,required_skill,Soft Skill,,,Strong problem-solving skills
+19,few_shot,attention to detail,required_skill,Soft Skill,,,attention to detail
+19,few_shot,Communication,required_skill,Soft Skill,,,Excellent communication skills
+19,few_shot,Teamwork,required_skill,Soft Skill,,,ability to work in cross-functional teams
+19,few_shot,WebSocket,preferred_skill,Methodology,,,Experience with WebSocket and stream implementation
+19,few_shot,stream implementation,preferred_skill,Methodology,,,Experience with WebSocket and stream implementation
+19,few_shot,audio streaming,preferred_skill,Domain Knowledge,,,"Hands-on experience with audio, recordings and video streaming technologies"
+19,few_shot,video streaming,preferred_skill,Domain Knowledge,,,"Hands-on experience with audio, recordings and video streaming technologies"
+19,few_shot,CleverTap,preferred_skill,Tool & Platform,,,"Experience with analytics and engagement tools (CleverTap, Firebase, Google Analytics, Sentry)"
+19,few_shot,Firebase,preferred_skill,Tool & Platform,,,"Experience with analytics and engagement tools (CleverTap, Firebase, Google Analytics, Sentry)"
+19,few_shot,Google Analytics,preferred_skill,Tool & Platform,,,"Experience with analytics and engagement tools (CleverTap, Firebase, Google Analytics, Sentry)"
+19,few_shot,Sentry,preferred_skill,Tool & Platform,,,"Experience with analytics and engagement tools (CleverTap, Firebase, Google Analytics, Sentry)"
+19,few_shot,deep linking,preferred_skill,Methodology,,,Understanding of deep linking and mobile attribution
+19,few_shot,mobile attribution,preferred_skill,Methodology,,,Understanding of deep linking and mobile attribution
+19,few_shot,Branch.io,preferred_skill,Tool & Platform,,,"mobile attribution (Branch.io, Adjust)"
+19,few_shot,Adjust,preferred_skill,Tool & Platform,,,"mobile attribution (Branch.io, Adjust)"
+20,few_shot,System Integration,preferred_skill,Domain Knowledge,,,Ưu tiên các ứng viên đã làm việc trong cộng ty tích hợp hệ thống
+20,few_shot,CCNP,preferred_skill,Tool & Platform,,expert,"Ưu tiên các ứng viên sở hữu chứng chỉ quốc tế cấp độ chuyên nghiệp như CCNP, Security...."
+20,few_shot,Security,preferred_skill,Domain Knowledge,,expert,"Ưu tiên các ứng viên sở hữu chứng chỉ quốc tế cấp độ chuyên nghiệp như CCNP, Security...."
+20,few_shot,Technical Documentation Reading,required_skill,Soft Skill,,,Đọc hiểu tốt tài liệu kỹ thuật chuyên ngành
+20,few_shot,Communication,required_skill,Soft Skill,,basic,có khả năng giao tiếp cơ bản (viết và nói) phục vụ công việc
+22,few_shot,AI tools,required_skill,AI/ML/Data,,,"Ability to effectively utilize AI tools (e.g., ChatGPT, GitHub Copilot, or similar) to support development tasks"
+22,few_shot,ChatGPT,required_skill,AI/ML/Data,,,"Ability to effectively utilize AI tools (e.g., ChatGPT, GitHub Copilot, or similar) to support development tasks"
+22,few_shot,GitHub Copilot,required_skill,AI/ML/Data,,,"Ability to effectively utilize AI tools (e.g., ChatGPT, GitHub Copilot, or similar) to support development tasks"
+22,few_shot,Logical Thinking,required_skill,Soft Skill,,,Strong logical thinking and problem-solving skills
+22,few_shot,Problem-solving,required_skill,Soft Skill,,,Strong logical thinking and problem-solving skills
+22,few_shot,Communication,required_skill,Soft Skill,,,"Clear and confident communication, both written and verbal"
+22,few_shot,Agile,preferred_skill,Methodology,,,Familiarity with agile workflows
+22,few_shot,Software Development Processes,preferred_skill,Methodology,,basic,Basic understanding of software development processes or UX/UI concepts is a plus
+22,few_shot,UX/UI concepts,preferred_skill,Methodology,,basic,Basic understanding of software development processes or UX/UI concepts is a plus
+22,few_shot,Proactive mindset,required_skill,Soft Skill,,,Proactive mindset with the ability to take initiative and follow through
+22,few_shot,Time Management,required_skill,Soft Skill,,,Good time management skills and the ability to handle multiple tasks effectively
+22,few_shot,Collaboration,required_skill,Soft Skill,,,"Eager to learn, collaborate, and grow in a product-oriented environment"
+23,few_shot,Responsibility,required_skill,Soft Skill,,,Có tinh thần trách nhiệm
+23,few_shot,Eagerness to learn,required_skill,Soft Skill,,,ham học hỏi
+23,few_shot,Organizational Skills,required_skill,Soft Skill,,,Kỹ năng tổ chức công việc tốt
+23,few_shot,Deadline Management,required_skill,Soft Skill,,,quản lý deadline rõ ràng
+23,few_shot,Word,required_skill,Tool & Platform,,,"Sử dụng thành thạo Word, Excel, PowerPoint"
+23,few_shot,Excel,required_skill,Tool & Platform,,,"Sử dụng thành thạo Word, Excel, PowerPoint"
+23,few_shot,PowerPoint,required_skill,Tool & Platform,,,"Sử dụng thành thạo Word, Excel, PowerPoint"
+23,few_shot,Software Development Process,preferred_skill,Methodology,,basic,Có hiểu biết cơ bản về quy trình phát triển phần mềm là lợi thế
+23,few_shot,Honesty,required_skill,Soft Skill,,,Trung thực
+23,few_shot,Career orientation in IT Project Management,required_skill,Soft Skill,,,Định hướng phát triển lâu dài trong quản lý dự án IT
+24,few_shot,ERP,required_skill,Domain Knowledge,5.0,,Có ít nhất 5 năm kinh nghiệm triển khai phần mềm ERP
+24,few_shot,Product Management,required_skill,Methodology,2.0,,tối thiểu 2 năm tham gia quản lý phát triển sản phẩm
+24,few_shot,Business Analysis,required_skill,Methodology,2.0,expert,Thành thạo kỹ năng phân tích nghiệp vụ
+24,few_shot,Project Management,required_skill,Methodology,,,Từng quản lý các dự án triển khai phần mềm B2B
+24,few_shot,Finance,required_skill,Domain Knowledge,,expert,Có hiểu biết sâu về các quy trình nghiệp vụ: tài chính
+24,few_shot,Human Resources,required_skill,Domain Knowledge,,expert,"Có hiểu biết sâu về các quy trình nghiệp vụ: tài chính, nhân sự"
+24,few_shot,Manufacturing,required_skill,Domain Knowledge,,expert,"Có hiểu biết sâu về các quy trình nghiệp vụ: tài chính, nhân sự, sản xuất"
+24,few_shot,Sales,required_skill,Domain Knowledge,,expert,Có hiểu biết sâu về các quy trình nghiệp vụ: ...bán hàng
+24,few_shot,Supply Chain,required_skill,Domain Knowledge,,expert,Có hiểu biết sâu về các quy trình nghiệp vụ: ...chuỗi cung ứng
+24,few_shot,People Management,required_skill,Soft Skill,,,Kỹ năng quản lý con người
+24,few_shot,Leadership,required_skill,Soft Skill,,,lãnh đạo nhóm mạnh mẽ
+24,few_shot,Solution Consulting,required_skill,Soft Skill,,,Có khả năng tư vấn giải pháp
+24,few_shot,Organization Skills,required_skill,Soft Skill,,,tổ chức công việc
+24,few_shot,Planning,required_skill,Soft Skill,,,lập kế hoạch
+24,few_shot,Problem-solving,required_skill,Soft Skill,,,xử lý vấn đề
+24,few_shot,Communication,required_skill,Soft Skill,,,Giao tiếp
+24,few_shot,Presentation,required_skill,Soft Skill,,,thuyết trình
+24,few_shot,English,required_skill,Soft Skill,,,"tiếng anh tốt (viết báo cáo, đọc tài liệu chuyên môn, nghe-viết)"
+24,few_shot,Jira,required_skill,Tool & Platform,,expert,Thành thạo các công cụ quản lý dự án: Jira
+24,few_shot,ClickUp,required_skill,Tool & Platform,,expert,"Thành thạo các công cụ quản lý dự án: Jira, ClickUp"
+24,few_shot,MS Project,required_skill,Tool & Platform,,expert,"Thành thạo các công cụ quản lý dự án: Jira, ClickUp, MS Project"
+24,few_shot,Cross-functional Collaboration,required_skill,Soft Skill,,,phối hợp đa phòng ban tốt
+25,few_shot,Software Testing,required_skill,Methodology,1.0,,"Tối thiểu >1 năm làm việc thực tế tại các công ty, dự án về vị trí kiểm thử phần mềm"
+25,few_shot,Software Testing Methodology,required_skill,Methodology,,expert,"Có kiến thức sâu rộng về quy trình kiểm thử phần mềm và các phương pháp, công cụ test, kỹ thuật test"
+25,few_shot,Database Querying,preferred_skill,Database,,,Ưu tiên có kinh nghiệm làm việc về truy vấn với các hệ cơ sở dữ liệu
+25,few_shot,API Testing,preferred_skill,Methodology,,,Ưu tiên có kinh nghiệm API Testing
+25,few_shot,App Testing,preferred_skill,Methodology,,,Ưu tiên nhân sự có kinh nghiệm kiểm thử App/Web/API
+25,few_shot,Web Testing,preferred_skill,Methodology,,,Ưu tiên nhân sự có kinh nghiệm kiểm thử App/Web/API
+26,few_shot,Solution Implementation,required_skill,Domain Knowledge,3.0,,Kinh nghiệm từ 3 năm trở lên ở vị trí Triển khai giải pháp hoặc BA
+26,few_shot,Business Analysis,required_skill,Methodology,3.0,,Kinh nghiệm từ 3 năm trở lên ở vị trí Triển khai giải pháp hoặc BA
+26,few_shot,Business Process,required_skill,Domain Knowledge,,,"Có hiểu biết về quy trình nghiệp vụ doanh nghiệp (sản xuất, kế toán, nhân sự, logistics...)"
+26,few_shot,English,required_skill,Soft Skill,,,Tiếng Anh đọc hiểu & giao tiếp
+26,few_shot,ERP,preferred_skill,Domain Knowledge,,,Ưu tiên ứng viên có kinh nghiệm triển khai phần mềm ERP/MES hoặc các hệ thống quản trị doanh nghiệp khác
+26,few_shot,MES,preferred_skill,Domain Knowledge,,,Ưu tiên ứng viên có kinh nghiệm triển khai phần mềm ERP/MES hoặc các hệ thống quản trị doanh nghiệp khác
+26,few_shot,Enterprise Management Systems,preferred_skill,Domain Knowledge,,,Ưu tiên ứng viên có kinh nghiệm triển khai phần mềm ERP/MES hoặc các hệ thống quản trị doanh nghiệp khác
+26,few_shot,Analytical Skills,required_skill,Soft Skill,,,"Kỹ năng phân tích, tổng hợp và giải quyết vấn đề tốt"
+26,few_shot,Problem-solving,required_skill,Soft Skill,,,"Kỹ năng phân tích, tổng hợp và giải quyết vấn đề tốt"
+26,few_shot,Communication,required_skill,Soft Skill,,,"Khả năng giao tiếp, làm việc nhóm và làm việc trực tiếp với khách hàng"
+26,few_shot,Teamwork,required_skill,Soft Skill,,,"Khả năng giao tiếp, làm việc nhóm và làm việc trực tiếp với khách hàng"
+26,few_shot,Customer Interaction,required_skill,Soft Skill,,,làm việc trực tiếp với khách hàng
+27,few_shot,Cybersecurity,required_skill,Domain Knowledge,5.0,,5+ years in Cybersecurity
+27,few_shot,Information Security,required_skill,Domain Knowledge,5.0,,5+ years in Cybersecurity / Information Security
+27,few_shot,Team Leadership,required_skill,Soft Skill,1.0,,1-2+ years leading SOC or Security Operations teams
+27,few_shot,SOC,required_skill,Domain Knowledge,1.0,,1-2+ years leading SOC or Security Operations teams
+27,few_shot,Security Operations,required_skill,Domain Knowledge,1.0,,1-2+ years leading SOC or Security Operations teams
+27,few_shot,IT Services,required_skill,Domain Knowledge,,,Strong experience in IT / Managed Services environments
+27,few_shot,Managed Services,required_skill,Domain Knowledge,,,Strong experience in IT / Managed Services environments
+27,few_shot,Microsoft Security Ecosystem,required_skill,Tool & Platform,,,Proven hands-on experience with Microsoft or any Cloud / On Premises security ecosystem
+27,few_shot,Cloud Security,required_skill,Cloud & DevOps,,,Cloud security (Azure-first)
+27,few_shot,On-Premises Security,required_skill,Cloud & DevOps,,,On Premises security ecosystem
+27,few_shot,Microsoft Defender Suite,required_skill,Tool & Platform,,,"Microsoft Defender Suite (Endpoint, Identity, Cloud, O365)"
+27,few_shot,Microsoft Intune,required_skill,Tool & Platform,,,"Microsoft Intune (MDM/MAM, compliance policies)"
+27,few_shot,SIEM,required_skill,Tool & Platform,,,SIEM: Microsoft Sentinel and/or Splunk
+27,few_shot,Microsoft Sentinel,required_skill,Tool & Platform,,,SIEM: Microsoft Sentinel and/or Splunk
+27,few_shot,Splunk,required_skill,Tool & Platform,,,SIEM: Microsoft Sentinel and/or Splunk
+27,few_shot,Grafana,required_skill,Tool & Platform,,,"Monitoring & observability: Grafana, Prometheus"
+27,few_shot,Prometheus,required_skill,Cloud & DevOps,,,"Monitoring & observability: Grafana, Prometheus"
+27,few_shot,Vulnerability Management,required_skill,Cloud & DevOps,,,Vulnerability management & scanning tools
+27,few_shot,Secure SDLC,required_skill,Methodology,,,Secure SDLC tooling: SonarQube
+27,few_shot,SonarQube,required_skill,Tool & Platform,,,Secure SDLC tooling: SonarQube
+27,few_shot,Azure,required_skill,Cloud & DevOps,,,Cloud security (Azure-first)
+27,few_shot,Endpoint Security,required_skill,Cloud & DevOps,,,Endpoint & identity threats
+27,few_shot,Identity Threat Management,required_skill,Cloud & DevOps,,,Endpoint & identity threats
+27,few_shot,Hybrid Cloud Security,required_skill,Cloud & DevOps,,,Hybrid infrastructure security
+27,few_shot,ISO 27001,required_skill,Methodology,,,Strong hands-on experience with ISO 27001
+27,few_shot,Auditing,required_skill,Methodology,,,Experience handling: -Audit evidence
+27,few_shot,Control Implementation,required_skill,Methodology,,,Experience handling: ... -Control implementation
+27,few_shot,Security Assurance,required_skill,Methodology,,,Experience handling: ... -Client security assurance
+27,few_shot,Leadership,required_skill,Soft Skill,,,Strong operational leadership and decision-making
+27,few_shot,Decision Making,required_skill,Soft Skill,,,Strong operational leadership and decision-making
+27,few_shot,Communication,required_skill,Soft Skill,,,"Excellent communication with engineering, management, and clients"
+27,few_shot,Incident Response,required_skill,Methodology,,,Ability to handle high-pressure incident scenarios
+27,few_shot,Process-driven,required_skill,Soft Skill,,,"Process-driven, audit-aware mindset"
+27,few_shot,CISSP,preferred_skill,Other,,,CISSP / CISM / CISA
+27,few_shot,CISM,preferred_skill,Other,,,CISSP / CISM / CISA
+27,few_shot,CISA,preferred_skill,Other,,,CISSP / CISM / CISA
+27,few_shot,ISO 27001 Lead Implementer,preferred_skill,Other,,,ISO 27001 Lead Implementer or Auditor
+27,few_shot,ISO 27001 Lead Auditor,preferred_skill,Other,,,ISO 27001 Lead Implementer or Auditor
+27,few_shot,SC-200,preferred_skill,Other,,,"Microsoft Security certifications (SC-200, SC-300, SC-100)"
+27,few_shot,SC-300,preferred_skill,Other,,,"Microsoft Security certifications (SC-200, SC-300, SC-100)"
+27,few_shot,SC-100,preferred_skill,Other,,,"Microsoft Security certifications (SC-200, SC-300, SC-100)"
+27,few_shot,Cloud Security Certification,preferred_skill,Other,,,Cloud security certifications (Azure preferred)
+27,few_shot,Azure Certification,preferred_skill,Other,,,Cloud security certifications (Azure preferred)
+29,few_shot,Software Development,required_skill,Methodology,5.0,,Có ít nhất 5 năm kinh nghiệm trong lĩnh vực phát triển phần mềm/hệ thống
+29,few_shot,System Design,required_skill,Methodology,,,có kinh nghiệm xây dựng hệ thống phần mềm với số lượng người dùng lớn
+29,few_shot,Problem-solving,required_skill,Soft Skill,,,"Có khả năng phân tích, tổng hợp và giải quyết vấn đề"
+29,few_shot,Mobile Development,required_skill,Domain Knowledge,,,"Hiểu biết và có kinh nghiệm về ứng dụng di động, nền tảng backend, phần mềm nhúng, IoT hoặc hệ thống đa nền tảng"
+29,few_shot,Backend,required_skill,Domain Knowledge,,,"Hiểu biết và có kinh nghiệm về ứng dụng di động, nền tảng backend, phần mềm nhúng, IoT hoặc hệ thống đa nền tảng"
+29,few_shot,Embedded Systems,required_skill,Domain Knowledge,,,"Hiểu biết và có kinh nghiệm về ứng dụng di động, nền tảng backend, phần mềm nhúng, IoT hoặc hệ thống đa nền tảng"
+29,few_shot,IoT,required_skill,Domain Knowledge,,,"Hiểu biết và có kinh nghiệm về ứng dụng di động, nền tảng backend, phần mềm nhúng, IoT hoặc hệ thống đa nền tảng"
+29,few_shot,Multi-platform Systems,required_skill,Domain Knowledge,,,"Hiểu biết và có kinh nghiệm về ứng dụng di động, nền tảng backend, phần mềm nhúng, IoT hoặc hệ thống đa nền tảng"
+29,few_shot,Backend,preferred_skill,Domain Knowledge,,expert,Ưu tiên có kinh nghiệm sâu trong lĩnh vực backend
+29,few_shot,Big-picture thinking,required_skill,Soft Skill,,,Có tư duy tổng quan
+29,few_shot,Solution Architecture,required_skill,Methodology,,,khả năng định nghĩa giải pháp
+29,few_shot,Hands-on Implementation,required_skill,Methodology,,,trực tiếp tham gia triển khai
+29,few_shot,Leadership,required_skill,Soft Skill,,,"Kỹ năng lãnh đạo, truyền cảm hứng, xây dựng đội ngũ mạnh"
+29,few_shot,Team Building,required_skill,Soft Skill,,,"Kỹ năng lãnh đạo, truyền cảm hứng, xây dựng đội ngũ mạnh"
+29,few_shot,Communication,required_skill,Soft Skill,,,Kỹ năng giao tiếp và làm việc nhóm tốt
+29,few_shot,Teamwork,required_skill,Soft Skill,,,Kỹ năng giao tiếp và làm việc nhóm tốt
+30,few_shot,Network Security,required_skill,Cloud & DevOps,7.0,,Tối thiểu 7 năm trong lĩnh vực mạng/an ninh mạng
+30,few_shot,System Architecture,required_skill,Methodology,3.0,,ít nhất 3 năm ở vai trò Architect/Lead
+30,few_shot,Leadership,required_skill,Soft Skill,3.0,,ít nhất 3 năm ở vai trò Architect/Lead
+30,few_shot,Routing & Switching,required_skill,Cloud & DevOps,,,"Routing & Switching (BGP, OSPF, VLAN, MPLS)"
+30,few_shot,BGP,required_skill,Cloud & DevOps,,,"Routing & Switching (BGP, OSPF, VLAN, MPLS)"
+30,few_shot,OSPF,required_skill,Cloud & DevOps,,,"Routing & Switching (BGP, OSPF, VLAN, MPLS)"
+30,few_shot,VLAN,required_skill,Cloud & DevOps,,,"Routing & Switching (BGP, OSPF, VLAN, MPLS)"
+30,few_shot,MPLS,required_skill,Cloud & DevOps,,,"Routing & Switching (BGP, OSPF, VLAN, MPLS)"
+30,few_shot,Firewall,required_skill,Cloud & DevOps,,,Firewall (Fortinet/Palo Alto)
+30,few_shot,Fortinet,required_skill,Tool & Platform,,,Firewall (Fortinet/Palo Alto)
+30,few_shot,Palo Alto,required_skill,Tool & Platform,,,Firewall (Fortinet/Palo Alto)
+30,few_shot,Load Balancer,required_skill,Cloud & DevOps,,,Load Balancer (F5/Nginx)
+30,few_shot,F5,required_skill,Tool & Platform,,,Load Balancer (F5/Nginx)
+30,few_shot,Nginx,required_skill,Cloud & DevOps,,,Load Balancer (F5/Nginx)
+30,few_shot,Cloud Networking,required_skill,Cloud & DevOps,,,"Mạng cloud (Azure/AWS VNet/VPC, VPN, ExpressRoute)"
+30,few_shot,Azure,required_skill,Cloud & DevOps,,,"Mạng cloud (Azure/AWS VNet/VPC, VPN, ExpressRoute)"
+30,few_shot,AWS,required_skill,Cloud & DevOps,,,"Mạng cloud (Azure/AWS VNet/VPC, VPN, ExpressRoute)"
+30,few_shot,VNet/VPC,required_skill,Cloud & DevOps,,,"Mạng cloud (Azure/AWS VNet/VPC, VPN, ExpressRoute)"
+30,few_shot,VPN,required_skill,Cloud & DevOps,,,"Mạng cloud (Azure/AWS VNet/VPC, VPN, ExpressRoute)"
+30,few_shot,ExpressRoute,required_skill,Cloud & DevOps,,,"Mạng cloud (Azure/AWS VNet/VPC, VPN, ExpressRoute)"
+30,few_shot,Risk Analysis,required_skill,Soft Skill,,,Phân tích rủi ro
+30,few_shot,Technical Communication,required_skill,Soft Skill,,,giao tiếp kỹ thuật rõ ràng
+30,few_shot,Mentoring,required_skill,Soft Skill,,,huấn luyện (mentoring)
+31,few_shot,IT support,required_skill,Domain Knowledge,,,Có kinh nghiệm IT support hoặc vận hành thiết bị chuỗi.
+31,few_shot,vận hành thiết bị chuỗi,required_skill,Domain Knowledge,,,Có kinh nghiệm IT support hoặc vận hành thiết bị chuỗi.
+31,few_shot,xử lý phần cứng,required_skill,Tool & Platform,,,"Biết xử lý phần cứng, phần mềm, mạng nội bộ, camera."
+31,few_shot,xử lý phần mềm,required_skill,Tool & Platform,,,"Biết xử lý phần cứng, phần mềm, mạng nội bộ, camera."
+31,few_shot,mạng nội bộ,required_skill,Tool & Platform,,,"Biết xử lý phần cứng, phần mềm, mạng nội bộ, camera."
+31,few_shot,camera,required_skill,Tool & Platform,,,"Biết xử lý phần cứng, phần mềm, mạng nội bộ, camera."
+31,few_shot,Chủ động,required_skill,Soft Skill,,,"Chủ động, linh hoạt, chịu di chuyển."
+31,few_shot,linh hoạt,required_skill,Soft Skill,,,"Chủ động, linh hoạt, chịu di chuyển."
+31,few_shot,chịu di chuyển,required_skill,Soft Skill,,,"Chủ động, linh hoạt, chịu di chuyển."
+34,few_shot,Amazon,required_skill,Domain Knowledge,,,"Có kinh nghiệm làm việc với các nền tảng thương mại điện tử: Amazon, Etsy, Shopify"
+34,few_shot,Etsy,required_skill,Domain Knowledge,,,"Có kinh nghiệm làm việc với các nền tảng thương mại điện tử: Amazon, Etsy, Shopify"
+34,few_shot,Shopify,required_skill,Domain Knowledge,,,"Có kinh nghiệm làm việc với các nền tảng thương mại điện tử: Amazon, Etsy, Shopify"
+34,few_shot,Paypal,preferred_skill,Domain Knowledge,,,"Có hiểu biết về cổng thanh toán Paypal, PingPongx, Worldfirst..., thanh toán trực tuyến là một lợi thế"
+34,few_shot,PingPongx,preferred_skill,Domain Knowledge,,,"Có hiểu biết về cổng thanh toán Paypal, PingPongx, Worldfirst..., thanh toán trực tuyến là một lợi thế"
+34,few_shot,Worldfirst,preferred_skill,Domain Knowledge,,,"Có hiểu biết về cổng thanh toán Paypal, PingPongx, Worldfirst..., thanh toán trực tuyến là một lợi thế"
+34,few_shot,Thanh toán trực tuyến,preferred_skill,Domain Knowledge,,,thanh toán trực tuyến là một lợi thế
+34,few_shot,English,required_skill,Soft Skill,,,Tiếng Anh giao tiếp tốt
+34,few_shot,Work Ethic,required_skill,Soft Skill,,,"Tinh thần làm việc chủ động, nhanh nhẹn, hòa đồng, cầu tiến, có trách nhiệm với công việc"
+34,few_shot,AI for self-learning,required_skill,Soft Skill,,,Có khả năng sử dụng AI tự tìm hiểu và học tập kiến thức
+34,few_shot,Communication,required_skill,Soft Skill,,,"Khả năng giao tiếp, làm việc tốt với khách hàng"
+34,few_shot,Client Communication,required_skill,Soft Skill,,,"Khả năng giao tiếp, làm việc tốt với khách hàng"
+35,few_shot,AI Research,required_skill,AI/ML/Data,2.0,,Có hơn 2 năm kinh nghiệm thực chiến nghiên cứu AI
+35,few_shot,Computer Vision,required_skill,AI/ML/Data,2.0,,nghiên cứu AI trong các lĩnh vực Thị giác máy tính (Computer Vision)
+35,few_shot,NLP,required_skill,AI/ML/Data,2.0,,NLP/LLM
+35,few_shot,LLM,required_skill,AI/ML/Data,2.0,,NLP/LLM
+35,few_shot,Medical AI,required_skill,Domain Knowledge,2.0,,AI Y tế
+35,few_shot,Python,required_skill,Programming Language,,,Thành thạo Python
+35,few_shot,PyTorch,required_skill,AI/ML/Data,,expert,chuyên sâu về PyTorch/TensorFlow
+35,few_shot,TensorFlow,required_skill,AI/ML/Data,,expert,chuyên sâu về PyTorch/TensorFlow
+35,few_shot,End-to-end ML workflow,required_skill,Methodology,,,có kinh nghiệm quy trình end-to-end từ xử lý dữ liệu đến triển khai
+35,few_shot,Experimental Mindset,required_skill,Soft Skill,,,Tư duy thực nghiệm nghiêm túc
+35,few_shot,Data Leakage Prevention,required_skill,AI/ML/Data,,,không rò rỉ dữ liệu (data leakage)
+35,few_shot,Clinically Meaningful Metrics,required_skill,Domain Knowledge,,,sử dụng các chỉ số đo lường có ý nghĩa lâm sàng
+35,few_shot,Startup Agility,required_skill,Soft Skill,,,Sự linh hoạt của startup
+35,few_shot,Rapid Prototyping,required_skill,Methodology,,,tạo mẫu nhanh
+35,few_shot,Medical Imaging Diagnosis,required_skill,Domain Knowledge,,,Đã có kinh nghiệm về AI Y tế trước đó: chẩn đoán hình ảnh
+35,few_shot,Clinical NLP,required_skill,Domain Knowledge,,,NLP lâm sàng
+35,few_shot,EHR/EMR,required_skill,Domain Knowledge,,,EHR/EMR
+35,few_shot,Bioinformatics,required_skill,Domain Knowledge,,,tin sinh học
+35,few_shot,Academic Publications,required_skill,Other,,,"Có các bài báo xuất bản tại MICCAI, NeurIPS, ICML, ACL, CVPR hoặc các hội nghị tương đương."
+35,few_shot,MONAI,preferred_skill,Tool & Platform,,,Quen thuộc với các công cụ và tiêu chuẩn như MONAI
+35,few_shot,DICOM,preferred_skill,Domain Knowledge,,,DICOM
+35,few_shot,HL7/FHIR,preferred_skill,Domain Knowledge,,,HL7/FHIR
+35,few_shot,HIPAA,preferred_skill,Domain Knowledge,,,các tiêu chuẩn bảo mật dữ liệu y tế (HIPAA / Luật Bảo vệ dữ liệu cá nhân Việt Nam - PDPD)
+35,few_shot,PDPD (Vietnam),preferred_skill,Domain Knowledge,,,các tiêu chuẩn bảo mật dữ liệu y tế (HIPAA / Luật Bảo vệ dữ liệu cá nhân Việt Nam - PDPD)
+35,few_shot,LLM Fine-tuning,required_skill,AI/ML/Data,,,Kinh nghiệm tinh chỉnh (fine-tuning) các mô hình LLM
+36,few_shot,BIM,required_skill,Methodology,3.0,,Trên 3 năm làm việc BIM (Revit API)
+36,few_shot,Revit API,required_skill,Tool & Platform,3.0,,Trên 3 năm làm việc BIM (Revit API)
+36,few_shot,Lập trình,required_skill,Other,,,Am hiểu lập trình
+36,few_shot,quy trình phối hợp BIM,required_skill,Methodology,,,quy trình phối hợp BIM
+37,few_shot,Structural Mechanics,required_skill,Domain Knowledge,,basic,Có kiến thức cơ bản về cơ học kết cấu và FEA
+37,few_shot,FEA,required_skill,Tool & Platform,,basic,Có kiến thức cơ bản về cơ học kết cấu và FEA
+37,few_shot,English,required_skill,Soft Skill,,,đọc hiểu tiếng Anh chuyên ngành liên quan
+37,few_shot,Teamwork,required_skill,Soft Skill,,,Có khả năng làm việc nhóm
+37,few_shot,Work Ethic,required_skill,Soft Skill,,,"chăm chỉ, cẩn thận, chủ động và có trách nhiệm trong công việc"
+37,few_shot,Technical training in English,preferred_skill,Soft Skill,,,Có khả năng đào tạo/hỗ trợ kỹ thuật bằng tiếng Anh
+37,few_shot,CAE,preferred_skill,Tool & Platform,,,Đã sử dụng thành thạo một/nhiều phần mềm CAE
+37,few_shot,ANSYS,preferred_skill,Tool & Platform,,,Đã sử dụng thành thạo các phần mềm ANSYS là một lợi thế
+38,few_shot,Tiếng Nhật,required_skill,Soft Skill,,,"Tiếng Nhật từ N2 trở lên, giao tiếp thành thạo"
+38,few_shot,Cobol,required_skill,Programming Language,,expert,Thông thạo ngôn ngữ lập trình Cobol
+38,few_shot,Core systems,required_skill,Domain Knowledge,1.0,,Tối thiểu từ 1 năm kinh nghiệm làm việc với các hệ thống Core
+38,few_shot,Ngân hàng,preferred_skill,Domain Knowledge,,,"ưu tiên domain Ngân hàng, Bảo hiểm, Chứng Khoán"
+38,few_shot,Bảo hiểm,preferred_skill,Domain Knowledge,,,"ưu tiên domain Ngân hàng, Bảo hiểm, Chứng Khoán"
+38,few_shot,Chứng khoán,preferred_skill,Domain Knowledge,,,"ưu tiên domain Ngân hàng, Bảo hiểm, Chứng Khoán"
+38,few_shot,Mainframe,preferred_skill,Tool & Platform,,,Ưu tiên ứng viên có kinh nghiệm về Mainframe
+38,few_shot,Kinh nghiệm dự án thị trường Nhật Bản,preferred_skill,Domain Knowledge,,,Ưu tiên ứng viên có kinh nghiệm làm việc cho các dự án thị trường Nhật Bản
+39,few_shot,Data Engineering,required_skill,Data Engineering,8.0,,"8+ years of experience in data engineering, database engineering, or data architecture"
+39,few_shot,Database Engineering,required_skill,Data Engineering,8.0,,"8+ years of experience in data engineering, database engineering, or data architecture"
+39,few_shot,Data Architecture,required_skill,Data Engineering,8.0,,"8+ years of experience in data engineering, database engineering, or data architecture"
+39,few_shot,Azure PostgreSQL,required_skill,Database,,expert,"Strong expertise in Azure data services, especially Azure PostgreSQL, Databricks, Azure Data Factory, Cosmos DB, and MongoDB"
+39,few_shot,Databricks,required_skill,Data Engineering,,expert,"Strong expertise in Azure data services, especially Azure PostgreSQL, Databricks, Azure Data Factory, Cosmos DB, and MongoDB"
+39,few_shot,Azure Data Factory,required_skill,Data Engineering,,expert,"Strong expertise in Azure data services, especially Azure PostgreSQL, Databricks, Azure Data Factory, Cosmos DB, and MongoDB"
+39,few_shot,Cosmos DB,required_skill,Database,,expert,"Strong expertise in Azure data services, especially Azure PostgreSQL, Databricks, Azure Data Factory, Cosmos DB, and MongoDB"
+39,few_shot,MongoDB,required_skill,Database,,expert,"Strong expertise in Azure data services, especially Azure PostgreSQL, Databricks, Azure Data Factory, Cosmos DB, and MongoDB"
+39,few_shot,Database Architecture,required_skill,Methodology,,expert,"Deep understanding of database architecture, performance optimization, and scalability"
+39,few_shot,Performance Optimization,required_skill,Methodology,,expert,"Deep understanding of database architecture, performance optimization, and scalability"
+39,few_shot,Scalability,required_skill,Methodology,,expert,"Deep understanding of database architecture, performance optimization, and scalability"
+39,few_shot,Leadership,required_skill,Soft Skill,,,Proven experience leading enterprise-scale data platform initiatives
+39,few_shot,Scripting,required_skill,Programming Language,,expert,"Strong scripting, automation, and infrastructure-as-code experience"
+39,few_shot,Automation,required_skill,Cloud & DevOps,,expert,"Strong scripting, automation, and infrastructure-as-code experience"
+39,few_shot,Infrastructure-as-Code,required_skill,Cloud & DevOps,,expert,"Strong scripting, automation, and infrastructure-as-code experience"
+39,few_shot,AI/ML data pipelines,required_skill,AI/ML/Data,,,Hands-on exposure to AI/ML data pipelines and analytics platforms
+39,few_shot,Analytics Platforms,required_skill,Data Engineering,,,Hands-on exposure to AI/ML data pipelines and analytics platforms
+39,few_shot,English,required_skill,Soft Skill,,,Excellent written and verbal communication in English
+39,few_shot,Proactiveness,required_skill,Soft Skill,,,"Proactive, collaborative, and solution-oriented mindset"
+39,few_shot,Collaboration,required_skill,Soft Skill,,,"Proactive, collaborative, and solution-oriented mindset"
+39,few_shot,Solution-oriented,required_skill,Soft Skill,,,"Proactive, collaborative, and solution-oriented mindset"
+40,few_shot,Sửa chữa PC/Laptop/thiết bị số,required_skill,Tool & Platform,3.0,,Có tối thiểu 03 năm làm việc ở một trong các lĩnh vực sau: Kỹ thuật sửa chữa PC/Laptop/thiết bị số
+40,few_shot,Chẩn đoán phần cứng,preferred_skill,Tool & Platform,,expert,ưu tiên ứng viên có kinh nghiệm chẩn đoán phần cứng chuyên sâu
+40,few_shot,IT Support,required_skill,Other,3.0,,Có tối thiểu 03 năm làm việc ở một trong các lĩnh vực sau: ... IT Support thiên về xử lý thiết bị và phần cứng
+40,few_shot,Data Recovery,preferred_skill,Other,,,Data Recovery hoặc Digital Forensics (được xem là lợi thế lớn)
+40,few_shot,Digital Forensics,preferred_skill,Other,,,Data Recovery hoặc Digital Forensics (được xem là lợi thế lớn)
+40,few_shot,TAT/SLA,preferred_skill,Methodology,,,Ưu tiên ứng viên từng làm trong môi trường dịch vụ kỹ thuật có áp lực về thời gian xử lý (TAT/SLA)
+40,few_shot,Phân tích sự cố,required_skill,Soft Skill,,,"Có khả năng phân tích triệu chứng, khoanh vùng và xác định nguyên nhân sự cố"
+40,few_shot,HDD,required_skill,Tool & Platform,,basic,Nắm được nguyên lý và cấu trúc lưu trữ cơ bản của HDD/SSD/USB/Thẻ nhớ
+40,few_shot,SSD,required_skill,Tool & Platform,,basic,Nắm được nguyên lý và cấu trúc lưu trữ cơ bản của HDD/SSD/USB/Thẻ nhớ
+40,few_shot,USB,required_skill,Tool & Platform,,basic,Nắm được nguyên lý và cấu trúc lưu trữ cơ bản của HDD/SSD/USB/Thẻ nhớ
+40,few_shot,Thẻ nhớ,required_skill,Tool & Platform,,basic,Nắm được nguyên lý và cấu trúc lưu trữ cơ bản của HDD/SSD/USB/Thẻ nhớ
+40,few_shot,"Cẩn trọng, tỉ mỉ",required_skill,Soft Skill,,,"thao tác cẩn trọng, tỉ mỉ"
+40,few_shot,Tuân thủ quy trình,required_skill,Soft Skill,,,tuân thủ quy trình kỹ thuật và tiêu chuẩn an toàn
+41,few_shot,Problem-solving,required_skill,Soft Skill,,,"Có khả năng giải quyết vấn đề, phân tích, đàm phán, thuyết phục"
+41,few_shot,Phân tích,required_skill,Soft Skill,,,"Có khả năng giải quyết vấn đề, phân tích, đàm phán, thuyết phục"
+41,few_shot,Đàm phán,required_skill,Soft Skill,,,"Có khả năng giải quyết vấn đề, phân tích, đàm phán, thuyết phục"
+41,few_shot,Thuyết phục,required_skill,Soft Skill,,,"Có khả năng giải quyết vấn đề, phân tích, đàm phán, thuyết phục"
+41,few_shot,Microsoft Dynamics 365 Business Central,required_skill,Tool & Platform,,,"Có kinh nghiệm làm việc với Microsoft Dynamics 365 Business Central, đặc biệt là phát triển với AL và tích hợp qua API"
+41,few_shot,AL,required_skill,Programming Language,,,phát triển với AL
+41,few_shot,API,required_skill,Methodology,,,tích hợp qua API
+41,few_shot,ERP,required_skill,Domain Knowledge,,,Hiểu biết về kiến trúc hệ thống ERP
+41,few_shot,System Architecture,required_skill,Methodology,,,Hiểu biết về kiến trúc hệ thống ERP
+41,few_shot,Scalability,required_skill,Methodology,,,khả năng mở rộng thông qua các ứng dụng vệ tinh
+41,few_shot,Teamwork,required_skill,Soft Skill,,,Khả năng làm việc nhóm tốt
+41,few_shot,Microsoft SQL Server,required_skill,Database,,,Hiểu biết Microsoft SQL Server là bắt buộc
+41,few_shot,Microsoft Power Apps,preferred_skill,Data Engineering,,,Có kiến thức về Microsoft Power Apps là một lợi thế
+41,few_shot,Business Central,preferred_skill,Tool & Platform,,,Ưu tiên ứng viên có kinh nghiệm triển khai hoặc phát triển giải pháp tích hợp với Business Central
+41,few_shot,Fast learning,required_skill,Soft Skill,,,"Khả năng tiếp cận, nắm bắt nhanh các công nghệ lập trình mới"
+41,few_shot,Project Management,required_skill,Soft Skill,,,Kỹ năng quản lý dự án ứng dụng
+41,few_shot,Attention to detail,required_skill,Soft Skill,,,"Tỉ mỉ, cẩn thận, tinh thần trách nhiệm cao"
+41,few_shot,Responsibility,required_skill,Soft Skill,,,"Tỉ mỉ, cẩn thận, tinh thần trách nhiệm cao"
+41,few_shot,.NET,required_skill,Framework,,,"Có kiến thức về ngôn ngữ lập trình .NET, AL"
+42,few_shot,Software Development,required_skill,Methodology,6.0,,Tối thiểu 6-7 năm trong lĩnh vực phát triển phần mềm
+42,few_shot,Leadership,required_skill,Soft Skill,3.0,,có từ 3 năm kinh nghiệm làm tech lead hoặc vị trí tương đương
+42,few_shot,Java,required_skill,Programming Language,,,"Kinh nghiệm làm việc với: Java, React, GIS, Mapbox, Elastic Search, Apache Spark,.."
+42,few_shot,React,required_skill,Framework,,,"Kinh nghiệm làm việc với: Java, React, GIS, Mapbox, Elastic Search, Apache Spark,.."
+42,few_shot,GIS,required_skill,Tool & Platform,,,"Kinh nghiệm làm việc với: Java, React, GIS, Mapbox, Elastic Search, Apache Spark,.."
+42,few_shot,Mapbox,required_skill,Tool & Platform,,,"Kinh nghiệm làm việc với: Java, React, GIS, Mapbox, Elastic Search, Apache Spark,.."
+42,few_shot,Elasticsearch,required_skill,Database,,,"Kinh nghiệm làm việc với: Java, React, GIS, Mapbox, Elastic Search, Apache Spark,.."
+42,few_shot,Apache Spark,required_skill,Data Engineering,,,"Kinh nghiệm làm việc với: Java, React, GIS, Mapbox, Elastic Search, Apache Spark,.."
+42,few_shot,Microservices,required_skill,Methodology,,,"Hiểu biết về kiến trúc microservices, hệ thống phân tán."
+42,few_shot,Distributed Systems,required_skill,Methodology,,,"Hiểu biết về kiến trúc microservices, hệ thống phân tán."
+42,few_shot,Performance Optimization,required_skill,Methodology,,,"Kinh nghiệm tối ưu hiệu suất hệ thống, xử lý dữ liệu lớn."
+42,few_shot,Big Data Processing,required_skill,Data Engineering,,,"Kinh nghiệm tối ưu hiệu suất hệ thống, xử lý dữ liệu lớn."
+42,few_shot,Networking,required_skill,Cloud & DevOps,,expert,"Có kiến thức sâu về công nghệ thông tin, bao gồm hệ thống mạng"
+42,few_shot,Server Management,required_skill,Cloud & DevOps,,expert,"Có kiến thức sâu về công nghệ thông tin, bao gồm ... hệ thống máy chủ"
+42,few_shot,Database Management,required_skill,Database,,expert,"Có kiến thức sâu về công nghệ thông tin, bao gồm ... hệ thống cơ sở dữ liệu"
+42,few_shot,Project Management,required_skill,Soft Skill,,,"Có khả năng quản lý dự án, bao gồm việc lập kế hoạch, triển khai và theo dõi tiến độ."
+42,few_shot,System Analysis,required_skill,Methodology,,,Có khả năng phân tích và đánh giá các quy trình và hệ thống công nghệ thông tin.
+42,few_shot,Systems Thinking,required_skill,Soft Skill,,,"Có tư duy hệ thống, kỹ năng giải quyết vấn đề xuất sắc."
+42,few_shot,Problem-solving,required_skill,Soft Skill,,expert,kỹ năng giải quyết vấn đề xuất sắc.
+42,few_shot,Mentoring,required_skill,Soft Skill,,,"Kỹ năng lãnh đạo, mentoring, làm việc nhóm và giao tiếp tốt."
+42,few_shot,Teamwork,required_skill,Soft Skill,,,"Kỹ năng lãnh đạo, mentoring, làm việc nhóm và giao tiếp tốt."
+42,few_shot,Communication,required_skill,Soft Skill,,,"Kỹ năng lãnh đạo, mentoring, làm việc nhóm và giao tiếp tốt."
+43,few_shot,ISO 26262,required_skill,Domain Knowledge,,expert,In-depth knowledge of the ISO 26262 standard
+43,few_shot,FMEDA,required_skill,Domain Knowledge,,,"Experience performing safety analyses (FMEDA, DFA, FTA)"
+43,few_shot,DFA,required_skill,Domain Knowledge,,,"Experience performing safety analyses (FMEDA, DFA, FTA)"
+43,few_shot,FTA,required_skill,Domain Knowledge,,,"Experience performing safety analyses (FMEDA, DFA, FTA)"
+43,few_shot,Analytical Skills,required_skill,Soft Skill,,expert,Strong analytical and problem-solving skills
+43,few_shot,Problem-solving,required_skill,Soft Skill,,expert,Strong analytical and problem-solving skills
+43,few_shot,Communication,required_skill,Soft Skill,,expert,Excellent communication and interpersonal skills
+43,few_shot,Interpersonal Skills,required_skill,Soft Skill,,expert,Excellent communication and interpersonal skills
+43,few_shot,Work Independently,required_skill,Soft Skill,,,Ability to work independently and as part of a team
+43,few_shot,Teamwork,required_skill,Soft Skill,,,Ability to work independently and as part of a team
+43,few_shot,Automotive Hardware Development,preferred_skill,Domain Knowledge,,,Experience with automotive hardware and software development
+43,few_shot,Automotive Software Development,preferred_skill,Domain Knowledge,,,Experience with automotive hardware and software development
+43,few_shot,CAN,preferred_skill,Domain Knowledge,,,"Knowledge of automotive communication protocols (CAN, Ethernet)"
+43,few_shot,Ethernet,preferred_skill,Domain Knowledge,,,"Knowledge of automotive communication protocols (CAN, Ethernet)"
+43,few_shot,Safety Management Tools,preferred_skill,Tool & Platform,,,Experience with safety management tools
+43,few_shot,Functional Safety,preferred_skill,Domain Knowledge,,,"Formal training in functional safety (e.g., certified functional safety expert)"
+44,few_shot,Electronics Industry Experience,required_skill,Domain Knowledge,2.0,,Có trên 2 năm kinh nghiệm làm việc ở vị trí liên quan tại các công ty điện tử
+44,few_shot,Tinh thần trách nhiệm,required_skill,Soft Skill,,,Có tinh thần trách nhiệm cao
+44,few_shot,Teamwork,required_skill,Soft Skill,,,tinh thần đồng đội cao
+44,few_shot,Communication,required_skill,Soft Skill,,,kỹ năng giao tiếp và phối hợp tốt
+44,few_shot,Collaboration,required_skill,Soft Skill,,,kỹ năng giao tiếp và phối hợp tốt
+45,few_shot,Python,required_skill,Programming Language,3.0,,Có trên 3 năm kinh nghiệm với Python
+45,few_shot,Javascript,preferred_skill,Programming Language,,,Có kinh nghiệm với Javascript là một lợi thế
+45,few_shot,CI/CD,required_skill,Cloud & DevOps,2.0,,"Có trên 2 năm kinh nghiệm sử dụng các hệ thống DevOps hiện đại (CI/CD, Docker)"
+45,few_shot,Docker,required_skill,Cloud & DevOps,2.0,,"Có trên 2 năm kinh nghiệm sử dụng các hệ thống DevOps hiện đại (CI/CD, Docker)"
+45,few_shot,Backend services,required_skill,Methodology,,,Có kinh nghiệm triển khai Backend services
+45,few_shot,cloud API,required_skill,Cloud & DevOps,,,"Có kinh nghiệm triển khai Backend services (cloud API, edge/on-device là một lợi thế)"
+45,few_shot,edge/on-device,preferred_skill,Domain Knowledge,,,edge/on-device là một lợi thế
+45,few_shot,Machine Learning,preferred_skill,AI/ML/Data,,,"Ưu tiên có kinh nghiệm làm việc với ML, data pipelines hoặc model serving (không bắt buộc)"
+45,few_shot,ETL/ELT Pipeline,preferred_skill,Data Engineering,,,"Ưu tiên có kinh nghiệm làm việc với ML, data pipelines hoặc model serving (không bắt buộc)"
+45,few_shot,model serving,preferred_skill,AI/ML/Data,,,"Ưu tiên có kinh nghiệm làm việc với ML, data pipelines hoặc model serving (không bắt buộc)"
+45,few_shot,Pandas,required_skill,AI/ML/Data,,,"Có thể sử dụng thư viện cốt lõi: Pandas, NumPy, OpenCV"
+45,few_shot,NumPy,required_skill,AI/ML/Data,,,"Có thể sử dụng thư viện cốt lõi: Pandas, NumPy, OpenCV"
+45,few_shot,OpenCV,required_skill,AI/ML/Data,,,"Có thể sử dụng thư viện cốt lõi: Pandas, NumPy, OpenCV"
+45,few_shot,PyTorch,required_skill,AI/ML/Data,,,"Có thể sử dụng ML frameworks: PyTorch, Scikit-learn, Hugging Face"
+45,few_shot,Scikit-learn,required_skill,AI/ML/Data,,,"Có thể sử dụng ML frameworks: PyTorch, Scikit-learn, Hugging Face"
+45,few_shot,Hugging Face,required_skill,AI/ML/Data,,,"Có thể sử dụng ML frameworks: PyTorch, Scikit-learn, Hugging Face"
+45,few_shot,Flask,required_skill,Framework,,,"Có thể sử dụng APIs: Flask, Pydantic, Gunicorn"
+45,few_shot,Pydantic,required_skill,Framework,,,"Có thể sử dụng APIs: Flask, Pydantic, Gunicorn"
+45,few_shot,Gunicorn,required_skill,Cloud & DevOps,,,"Có thể sử dụng APIs: Flask, Pydantic, Gunicorn"
+45,few_shot,MLflow,required_skill,AI/ML/Data,,,"Có thể sử dụng versioning: MLflow, DVC"
+45,few_shot,DVC,required_skill,AI/ML/Data,,,"Có thể sử dụng versioning: MLflow, DVC"
+45,few_shot,Streamlit,required_skill,Tool & Platform,,,"Có thể sử dụng Prototyping và internal tools: Streamlit, Gradio"
+45,few_shot,Gradio,required_skill,Tool & Platform,,,"Có thể sử dụng Prototyping và internal tools: Streamlit, Gradio"
+45,few_shot,Tiếng Anh,preferred_skill,Soft Skill,,,Có thể sử dụng Tiếng Anh hoặc Tiếng Nhật là một lợi thế
+45,few_shot,Tiếng Nhật,preferred_skill,Soft Skill,,,Có thể sử dụng Tiếng Anh hoặc Tiếng Nhật là một lợi thế
+45,few_shot,làm việc nhóm,required_skill,Soft Skill,,,"Có kỹ năng làm việc nhóm, kinh nghiệm quản lý nhóm"
+45,few_shot,Team Management,required_skill,Soft Skill,,,"Có kỹ năng làm việc nhóm, kinh nghiệm quản lý nhóm"
+45,few_shot,tinh thần trách nhiệm,required_skill,Soft Skill,,,Có tinh thần trách nhiệm cao với các nhiệm vụ được giao
+47,few_shot,Power Platform,required_skill,Data Engineering,1.0,,"1 - 3 years of experience with Power Platform (Power Apps, Power Automate)"
+47,few_shot,Power Apps,required_skill,Data Engineering,1.0,,"1 - 3 years of experience with Power Platform (Power Apps, Power Automate)"
+47,few_shot,Power Automate,required_skill,Data Engineering,1.0,,"1 - 3 years of experience with Power Platform (Power Apps, Power Automate)"
+47,few_shot,Power Fx,required_skill,Data Engineering,,,"Strong understanding of Power Fx, Canvas Apps, and Model-driven Apps"
+47,few_shot,Canvas Apps,required_skill,Data Engineering,,,"Strong understanding of Power Fx, Canvas Apps, and Model-driven Apps"
+47,few_shot,Model-driven Apps,required_skill,Data Engineering,,,"Strong understanding of Power Fx, Canvas Apps, and Model-driven Apps"
+47,few_shot,Microsoft 365,required_skill,Tool & Platform,,,Experience working with Microsoft 365 and SharePoint Online
+47,few_shot,SharePoint Online,required_skill,Tool & Platform,,,Experience working with Microsoft 365 and SharePoint Online
+47,few_shot,Workflow Design,required_skill,Methodology,,,Experience designing workflow logic and approval processes
+47,few_shot,UI/UX,required_skill,Methodology,,basic,Basic knowledge of UI/UX principles
+47,few_shot,JavaScript,preferred_skill,Programming Language,,,"Nice to Have Experience with JavaScript, TypeScript, React, Fluent UI"
+47,few_shot,TypeScript,preferred_skill,Programming Language,,,"Nice to Have Experience with JavaScript, TypeScript, React, Fluent UI"
+47,few_shot,React,preferred_skill,Framework,,,"Nice to Have Experience with JavaScript, TypeScript, React, Fluent UI"
+47,few_shot,Fluent UI,preferred_skill,Framework,,,"Nice to Have Experience with JavaScript, TypeScript, React, Fluent UI"
+47,few_shot,Azure Functions,preferred_skill,Cloud & DevOps,,,"Experience with Azure Functions, Logic Apps, Azure AD Authentication"
+47,few_shot,Logic Apps,preferred_skill,Cloud & DevOps,,,"Experience with Azure Functions, Logic Apps, Azure AD Authentication"
+47,few_shot,Azure AD Authentication,preferred_skill,Cloud & DevOps,,,"Experience with Azure Functions, Logic Apps, Azure AD Authentication"
+47,few_shot,XML,preferred_skill,Other,,basic,Basic knowledge of XML or SQL Server
+47,few_shot,SQL Server,preferred_skill,Database,,basic,Basic knowledge of XML or SQL Server
+48,few_shot,UI/UX Design,required_skill,Methodology,1.0,,Có ít nhất 1 năm kinh nghiệm trong lĩnh vực UI/UX Design
+48,few_shot,User Research,required_skill,Methodology,,,Có kinh nghiệm thực hiện user research và user testing
+48,few_shot,Figma,required_skill,Tool & Platform,,,"Thành thạo các công cụ thiết kế như Figma, Sketch, Adobe XD hoặc tương đương"
+48,few_shot,Sketch,required_skill,Tool & Platform,,,"Thành thạo các công cụ thiết kế như Figma, Sketch, Adobe XD hoặc tương đương"
+48,few_shot,Adobe XD,required_skill,Tool & Platform,,,"Thành thạo các công cụ thiết kế như Figma, Sketch, Adobe XD hoặc tương đương"
+48,few_shot,Wireframing,required_skill,Methodology,,,"Có khả năng tạo wireframes, prototypes và user flows"
+48,few_shot,Prototyping,required_skill,Methodology,,,"Có khả năng tạo wireframes, prototypes và user flows"
+48,few_shot,User Flows,required_skill,Methodology,,,"Có khả năng tạo wireframes, prototypes và user flows"
+48,few_shot,User Testing,required_skill,Methodology,,,Có kinh nghiệm thực hiện user research và user testing
+48,few_shot,làm việc độc lập,required_skill,Soft Skill,,,Có khả năng làm việc độc lập và làm việc nhóm tốt
+48,few_shot,Teamwork,required_skill,Soft Skill,,,Có khả năng làm việc độc lập và làm việc nhóm tốt
+48,few_shot,Communication,required_skill,Soft Skill,,,Có khả năng giao tiếp và trình bày ý tưởng một cách rõ ràng
+48,few_shot,Responsive Design,required_skill,Methodology,,,Có kiến thức về các nguyên tắc thiết kế responsive và accessibility
+48,few_shot,Accessibility,required_skill,Methodology,,,Có kiến thức về các nguyên tắc thiết kế responsive và accessibility

@@ -6,7 +6,7 @@ def merge_csv_files():
     
     file1_path = os.path.join(data_dir, "topcv_person1.csv")
     file2_path = os.path.join(data_dir, "topcv_person2.csv")
-    out_path = os.path.join(data_dir, "topcv_merged.csv")
+    out_path = r"C:\Users\tncn2\Documents\HK2-2026_2027\DS108\DS108\data\raw\00-topcv_raw.csv"
 
     print(f"Reading file: {file1_path}")
     df1 = pd.read_csv(file1_path)
