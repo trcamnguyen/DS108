@@ -2840,5 +2840,543 @@
         "level": NaN
       }
     ]
+  },
+  {
+    "id": 20,
+    "job_title": "Nhân Viên Kỹ Thuật Hệ Thống Mạng",
+    "requirement": "Tốt nghiệp Cao đẳng, Đại học chuyên ngành Công nghệ Thông tin, Khoa học Máy tính, Điện tử Viễn thông hoặc các ngành liên quan. Có ít nhất 03 năm kinh nghiệm làm việc. Ưu tiên các ứng viên đã làm việc trong cộng ty tích hợp hệ thống Ưu tiên các ứng viên sở hữu chứng chỉ quốc tế cấp độ chuyên nghiệp như CCNP, Security....hoặc tương đương Đọc hiểu tốt tài liệu kỹ thuật chuyên ngành, có khả năng giao tiếp cơ bản (viết và nói) phục vụ công việc.",
+    "skills": [
+      {
+        "skill_name": "tích hợp hệ thống",
+        "label": "preferred_skill",
+        "category": "Domain Knowledge",
+        "min_years": null,
+        "level": null
+      },
+      {
+        "skill_name": "CCNP",
+        "label": "preferred_skill",
+        "category": "Tool & Platform",
+        "min_years": null,
+        "level": null
+      },
+      {
+        "skill_name": "Security",
+        "label": "required_skill",
+        "category": "Domain Knowledge",
+        "min_years": null,
+        "level": null
+      },
+      {
+        "skill_name": "Đọc hiểu tốt tài liệu kỹ thuật",
+        "label": "required_skill",
+        "category": "Soft Skill",
+        "min_years": null,
+        "level": null
+      },
+      {
+        "skill_name": "giao tiếp",
+        "label": "required_skill",
+        "category": "Soft Skill",
+        "min_years": null,
+        "level": null
+      }
+    ]
+  },
+  {
+    "id": 21,
+    "job_title": "Presales Engineer / Kỹ Sư Giải Pháp CNTT",
+    "requirement": "Kinh nghiệm Kinh nghiệm làm việc trong lĩnh vực CNTT ở các vai trò như: Presales, Tư vấn Kỹ thuật, Quản trị Hệ thống (System Admin), Kỹ sư Mạng (Network Engineer), Hỗ trợ Kỹ thuật (Level 2/3), Triển khai Hệ thống. Kinh nghiệm trực tiếp làm việc với các giải pháp hạ tầng máy chủ, lưu trữ, mạng. Kinh nghiệm xây dựng cấu hình, tư vấn giải pháp cho khách hàng là một lợi thế lớn. Kinh nghiệm thực tế triển khai các hệ thống máy chủ, lưu trữ, ảo hóa. Chuyên môn Kiến thức nền tảng vững chắc về hạ tầng CNTT: Máy chủ (Server x86), Lưu trữ (Storage: NAS, SAN, DAS, RAID), Mạng (Networking: TCP/IP, Switching, Routing), Ảo hóa (Virtualization: VMware vSphere, Hyper-V). Hiểu biết hoặc có kinh nghiệm làm việc với sản phẩm/giải pháp của các hãng: HPE (Servers, Storage), Dell (Servers, Storage) Hiểu biết hoặc có kinh nghiệm với sản phẩm/giải pháp NVIDIA (GPU cho AI/HPC, Networking...) là một lợi thế rất lớn/yêu cầu quan trọng. Có kinh nghiệm hoặc hiểu biết về thiết bị NAS của QNAP, Synology. Kiến thức về hệ điều hành máy chủ (Windows Server, Linux)",
+    "skills": [
+      {
+        "skill_name": "Triển khai Hệ thống",
+        "label": "required_skill",
+        "category": "Cloud & DevOps",
+        "min_years": null,
+        "level": null
+      },
+      {
+        "skill_name": "hạ tầng máy chủ",
+        "label": "required_skill",
+        "category": "Cloud & DevOps",
+        "min_years": null,
+        "level": null
+      },
+      {
+        "skill_name": "lưu trữ",
+        "label": "required_skill",
+        "category": "Cloud & DevOps",
+        "min_years": null,
+        "level": null
+      },
+      {
+        "skill_name": "mạng",
+        "label": "required_skill",
+        "category": "Cloud & DevOps",
+        "min_years": null,
+        "level": null
+      },
+      {
+        "skill_name": "tư vấn giải pháp",
+        "label": "required_skill",
+        "category": "Domain Knowledge",
+        "min_years": null,
+        "level": null
+      },
+      {
+        "skill_name": "xây dựng cấu hình",
+        "label": "required_skill",
+        "category": "Cloud & DevOps",
+        "min_years": null,
+        "level": null
+      },
+      {
+        "skill_name": "Server x86",
+        "label": "required_skill",
+        "category": "Cloud & DevOps",
+        "min_years": null,
+        "level": null
+      },
+      {
+        "skill_name": "NAS",
+        "label": "required_skill",
+        "category": "Cloud & DevOps",
+        "min_years": null,
+        "level": null
+      },
+      {
+        "skill_name": "SAN",
+        "label": "required_skill",
+        "category": "Cloud & DevOps",
+        "min_years": null,
+        "level": null
+      },
+      {
+        "skill_name": "DAS",
+        "label": "required_skill",
+        "category": "Cloud & DevOps",
+        "min_years": null,
+        "level": null
+      },
+      {
+        "skill_name": "RAID",
+        "label": "required_skill",
+        "category": "Cloud & DevOps",
+        "min_years": null,
+        "level": null
+      },
+      {
+        "skill_name": "TCP/IP",
+        "label": "required_skill",
+        "category": "Cloud & DevOps",
+        "min_years": null,
+        "level": null
+      },
+      {
+        "skill_name": "Switching",
+        "label": "required_skill",
+        "category": "Cloud & DevOps",
+        "min_years": null,
+        "level": null
+      },
+      {
+        "skill_name": "Routing",
+        "label": "required_skill",
+        "category": "Cloud & DevOps",
+        "min_years": null,
+        "level": null
+      },
+      {
+        "skill_name": "VMware vSphere",
+        "label": "required_skill",
+        "category": "Tool & Platform",
+        "min_years": null,
+        "level": null
+      },
+      {
+        "skill_name": "Hyper-V",
+        "label": "required_skill",
+        "category": "Tool & Platform",
+        "min_years": null,
+        "level": null
+      },
+      {
+        "skill_name": "HPE",
+        "label": "required_skill",
+        "category": "Domain Knowledge",
+        "min_years": null,
+        "level": null
+      },
+      {
+        "skill_name": "Dell",
+        "label": "required_skill",
+        "category": "Domain Knowledge",
+        "min_years": null,
+        "level": null
+      },
+      {
+        "skill_name": "sản phẩm/giải pháp NVIDIA",
+        "label": "preferred_skill",
+        "category": "Domain Knowledge",
+        "min_years": null,
+        "level": null
+      },
+      {
+        "skill_name": "thiết bị NAS",
+        "label": "required_skill",
+        "category": "Cloud & DevOps",
+        "min_years": null,
+        "level": null
+      },
+      {
+        "skill_name": "QNAP",
+        "label": "required_skill",
+        "category": "Tool & Platform",
+        "min_years": null,
+        "level": null
+      },
+      {
+        "skill_name": "Synology",
+        "label": "required_skill",
+        "category": "Tool & Platform",
+        "min_years": null,
+        "level": null
+      },
+      {
+        "skill_name": "hệ điều hành máy chủ",
+        "label": "required_skill",
+        "category": "Cloud & DevOps",
+        "min_years": null,
+        "level": null
+      },
+      {
+        "skill_name": "Windows Server",
+        "label": "required_skill",
+        "category": "Tool & Platform",
+        "min_years": null,
+        "level": null
+      },
+      {
+        "skill_name": "Linux",
+        "label": "required_skill",
+        "category": "Tool & Platform",
+        "min_years": null,
+        "level": null
+      }
+    ]
+  },
+  {
+    "id": 22,
+    "job_title": "Product Owner (Fintech)",
+    "requirement": "Bachelor’s degree in Business, IT, Computer Science, or a related field Having at least 6 months of hands-on experience in a similar position Ability to effectively utilize AI tools (e.g., ChatGPT, GitHub Copilot, or similar) to support development tasks such as coding, debugging, documentation, and productivity optimization Strong logical thinking and problem-solving skills Clear and confident communication, both written and verbal Familiarity with agile workflows or a strong willingness to learn Basic understanding of software development processes or UX/UI concepts is a plus Proactive mindset with the ability to take initiative and follow through Good time management skills and the ability to handle multiple tasks effectively Eager to learn, collaborate, and grow in a product-oriented environment",
+    "skills": [
+      {
+        "skill_name": "AI tools",
+        "label": "required_skill",
+        "category": "AI / ML / Data",
+        "min_years": NaN,
+        "level": NaN
+      },
+      {
+        "skill_name": "ChatGPT",
+        "label": "required_skill",
+        "category": "Tool & Platform",
+        "min_years": NaN,
+        "level": NaN
+      },
+      {
+        "skill_name": "GitHub Copilot",
+        "label": "required_skill",
+        "category": "Tool & Platform",
+        "min_years": NaN,
+        "level": NaN
+      },
+      {
+        "skill_name": "coding",
+        "label": "required_skill",
+        "category": "Engineering Concepts & Methodologies",
+        "min_years": NaN,
+        "level": NaN
+      },
+      {
+        "skill_name": "debugging",
+        "label": "required_skill",
+        "category": "Engineering Concepts & Methodologies",
+        "min_years": NaN,
+        "level": NaN
+      },
+      {
+        "skill_name": "productivity optimization",
+        "label": "required_skill",
+        "category": "Engineering Concepts & Methodologies",
+        "min_years": NaN,
+        "level": NaN
+      },
+      {
+        "skill_name": "logical thinking",
+        "label": "required_skill",
+        "category": "Soft Skill",
+        "min_years": NaN,
+        "level": NaN
+      },
+      {
+        "skill_name": "problem-solving",
+        "label": "required_skill",
+        "category": "Soft Skill",
+        "min_years": NaN,
+        "level": NaN
+      },
+      {
+        "skill_name": "communication",
+        "label": "required_skill",
+        "category": "Soft Skill",
+        "min_years": NaN,
+        "level": NaN
+      },
+      {
+        "skill_name": "agile",
+        "label": "required_skill",
+        "category": "Engineering Concepts & Methodologies",
+        "min_years": NaN,
+        "level": NaN
+      },
+      {
+        "skill_name": "software development processe",
+        "label": "preferred_skill",
+        "category": "Engineering Concepts & Methodologies",
+        "min_years": NaN,
+        "level": "basic"
+      },
+      {
+        "skill_name": "UX/UI concepts",
+        "label": "preferred_skill",
+        "category": "Engineering Concepts & Methodologies",
+        "min_years": NaN,
+        "level": "basic"
+      },
+      {
+        "skill_name": "Proactive",
+        "label": "required_skill",
+        "category": "Soft Skill",
+        "min_years": NaN,
+        "level": NaN
+      },
+      {
+        "skill_name": "time management",
+        "label": "required_skill",
+        "category": "Soft Skill",
+        "min_years": NaN,
+        "level": NaN
+      }
+    ]
+  },
+  {
+    "id": 23,
+    "job_title": "Thực Tập Sinh Điều Phối Dự Án IT",
+    "requirement": "Sinh viên năm cuối hoặc mới tốt nghiệp của các trường ĐH/CĐ. Có tinh thần trách nhiệm và ham học hỏi. Kỹ năng tổ chức công việc tốt, quản lý deadline rõ ràng. Sử dụng thành thạo Word, Excel, PowerPoint. Có hiểu biết cơ bản về quy trình phát triển phần mềm là lợi thế. Trung thực, trách nhiệm. Được đào tạo quy trình quản lý dự án IT. Cơ hội trở thành nhân viên chính thức sau thực tập. Định hướng phát triển lâu dài trong quản lý dự án IT.",
+    "skills": [
+      {
+        "skill_name": "tinh thần trách nhiệm",
+        "label": "required_skill",
+        "category": "Soft Skill",
+        "min_years": null,
+        "level": NaN
+      },
+      {
+        "skill_name": "ham học hỏi",
+        "label": "required_skill",
+        "category": "Soft Skill",
+        "min_years": null,
+        "level": NaN
+      },
+      {
+        "skill_name": "tổ chức công việc",
+        "label": "required_skill",
+        "category": "Soft Skill",
+        "min_years": null,
+        "level": NaN
+      },
+      {
+        "skill_name": "Word",
+        "label": "required_skill",
+        "category": "Tool & Platform",
+        "min_years": null,
+        "level": "expert"
+      },
+      {
+        "skill_name": "Excel",
+        "label": "required_skill",
+        "category": "Tool & Platform",
+        "min_years": null,
+        "level": "expert"
+      },
+      {
+        "skill_name": "PowerPoint",
+        "label": "required_skill",
+        "category": "Tool & Platform",
+        "min_years": null,
+        "level": "expert"
+      },
+      {
+        "skill_name": "quy trình phát triển phần mềm",
+        "label": "preferred_skill",
+        "category": "Engineering Concepts & Methodologies",
+        "min_years": null,
+        "level": NaN
+      }
+    ]
+  },
+  {
+    "id": 24,
+    "job_title": "Project Manager (PM)",
+    "requirement": "1. Trình độ: - Tốt nghiệp đại học chuyên ngành CNTT, Hệ thống thông tin quản lý, Quản trị doanh nghiệp hoặc tương đương. 2. Kinh nghiệm: - Có ít nhất 5 năm kinh nghiệm triển khai phần mềm ERP, trong đó tối thiểu 2 năm tham gia quản lý phát triển sản phẩm hoặc phân tích nghiệp vụ (BA). - Từng quản lý các dự án triển khai phần mềm B2B, đặc biệt trong lĩnh vực tài chính, nhân sự, sản xuất….. - Ưu tiên ứng viên từng làm việc tại công ty công nghệ phát triển sản phẩm phần mềm nội bộ (product company). - Có hiểu biết sâu về các quy trình nghiệp vụ: tài chính, nhân sự, sản xuất, bán hàng, chuỗi cung ứng… 3. Kỹ năng: - Kỹ năng quản lý con người và lãnh đạo nhóm mạnh mẽ, truyền cảm hứng và định hướng phát triển đội ngũ. - Có khả năng tư vấn giải pháp phù hợp với sản phẩm và linh hoạt theo từng doanh nghiệp. - Thành thạo kỹ năng phân tích nghiệp vụ, tổ chức công việc, lập kế hoạch và xử lý vấn đề. - Giao tiếp, thuyết trình, tiếng anh tốt (viết báo cáo, đọc tài liệu chuyên môn, nghe-viết). - Thành thạo các công cụ quản lý dự án: Jira, ClickUp, MS Project… - Khả năng giao tiếp, thuyết trình và phối hợp đa phòng ban tốt.",
+    "skills": [
+      {
+        "skill_name": "ERP",
+        "label": "required_skill",
+        "category": "Domain Knowledge",
+        "min_years": 5.0,
+        "level": NaN
+      },
+      {
+        "skill_name": "quản lý phát triển sản phẩm",
+        "label": "required_skill",
+        "category": "Engineering Concepts & Methodologies",
+        "min_years": 2.0,
+        "level": NaN
+      },
+      {
+        "skill_name": "phân tích nghiệp vụ",
+        "label": "required_skill",
+        "category": "Engineering Concepts & Methodologies",
+        "min_years": 2.0,
+        "level": NaN
+      },
+      {
+        "skill_name": "phần mềm B2B",
+        "label": "required_skill",
+        "category": "Domain Knowledge",
+        "min_years": NaN,
+        "level": NaN
+      },
+      {
+        "skill_name": "tài chính",
+        "label": "required_skill",
+        "category": "Domain Knowledge",
+        "min_years": NaN,
+        "level": NaN
+      },
+      {
+        "skill_name": "nhân sự",
+        "label": "required_skill",
+        "category": "Domain Knowledge",
+        "min_years": NaN,
+        "level": NaN
+      },
+      {
+        "skill_name": "sản xuất",
+        "label": "required_skill",
+        "category": "Domain Knowledge",
+        "min_years": NaN,
+        "level": NaN
+      },
+      {
+        "skill_name": "bán hàng",
+        "label": "required_skill",
+        "category": "Domain Knowledge",
+        "min_years": NaN,
+        "level": NaN
+      },
+      {
+        "skill_name": "chuỗi cung ứng",
+        "label": "required_skill",
+        "category": "Domain Knowledge",
+        "min_years": NaN,
+        "level": NaN
+      },
+      {
+        "skill_name": "quản lý con người",
+        "label": "required_skill",
+        "category": "Soft Skill",
+        "min_years": NaN,
+        "level": NaN
+      },
+      {
+        "skill_name": "lãnh đạo nhóm",
+        "label": "required_skill",
+        "category": "Soft Skill",
+        "min_years": NaN,
+        "level": NaN
+      },
+      {
+        "skill_name": "tư vấn giải pháp",
+        "label": "required_skill",
+        "category": "Soft Skill",
+        "min_years": NaN,
+        "level": NaN
+      },
+      {
+        "skill_name": "lập kế hoạch",
+        "label": "required_skill",
+        "category": "Soft Skill",
+        "min_years": NaN,
+        "level": NaN
+      },
+      {
+        "skill_name": "xử lý vấn đề",
+        "label": "required_skill",
+        "category": "Soft Skill",
+        "min_years": NaN,
+        "level": NaN
+      },
+      {
+        "skill_name": "Giao tiếp",
+        "label": "required_skill",
+        "category": "Soft Skill",
+        "min_years": NaN,
+        "level": NaN
+      },
+      {
+        "skill_name": "thuyết trình",
+        "label": "required_skill",
+        "category": "Soft Skill",
+        "min_years": NaN,
+        "level": NaN
+      },
+      {
+        "skill_name": "tiếng anh",
+        "label": "required_skill",
+        "category": "Soft Skill",
+        "min_years": NaN,
+        "level": "intermediate"
+      },
+      {
+        "skill_name": "Jira",
+        "label": "required_skill",
+        "category": "Tool & Platform",
+        "min_years": NaN,
+        "level": "expert"
+      },
+      {
+        "skill_name": "ClickUp",
+        "label": "required_skill",
+        "category": "Tool & Platform",
+        "min_years": NaN,
+        "level": "expert"
+      },
+      {
+        "skill_name": "MS Project",
+        "label": "required_skill",
+        "category": "Tool & Platform",
+        "min_years": NaN,
+        "level": "expert"
+      }
+    ]
+  },
+  {
+    "id": 25,
+    "job_title": "Tester",
+    "requirement": "Tốt nghiệp ĐH, CĐ chuyên ngành CNTT, Hệ thống quản lý thông tin, Điện tử viễn thông, các chuyên ngành tương đương. Có thể đi onsite tùy thời điểm và tình hình dự án Tối thiểu >1 năm làm việc thực tế tại các công ty, dự án về vị trí kiểm thử phần mềm; Có kiến thức sâu rộng về quy trình kiểm thử phần mềm và các phương pháp, công cụ test, kỹ thuật test Ưu tiên có kinh nghiệm làm việc về truy vấn với các hệ cơ sở dữ liệu; Ưu tiên có kinh nghiệm API Testing. Ưu tiên nhân sự có kinh nghiệm kiểm thử App/Web/API.",
+    "skills": []
   }
 ]
