@@ -29,7 +29,7 @@ headers = {
     "Accept-Language": "vi-VN,vi;q=0.9,en-US;q=0.8",
     "Referer": "https://itviec.com/",
     "Connection": "keep-alive",
-    "Cookie": """NHẬP_COOKIE_CỦA_BẠN_TẠI_ĐÂY"""
+    "Cookie": """Enter_your_cookies_here"""
 }
 session = requests.Session()
 session.headers.update(headers)
@@ -129,21 +129,19 @@ def parse_job_detail(job_url):
     location_final = " - ".join(location_list)
 
     # =============================
-    # SKILLS & SPECIALIZATION
+    # SKILLS 
     # =============================
     req_skills = []
-    specialization = []
+    # specialization = []
     
-    for div in soup.select(".imb-4, .imb-3"):
-        label_el = div.select_one(".fw-600")
-        if not label_el:
-            continue
-        label_text = clean_text(label_el).lower()
-        tags = [clean_text(a) for a in div.select(".itag")]
+    for label in soup.select(".fw-600"):
+        label_text = clean_text(label).lower()
         if "skills" in label_text:
-            req_skills.extend(tags)
-        elif "expertise" in label_text:
-            specialization.extend(tags)
+            parent_div = label.find_parent("div", class_="imb-4") or label.find_parent("div", class_="imb-3")
+            if parent_div:
+                tags = [clean_text(a) for a in parent_div.select("a.itag")]
+                req_skills.extend(tags)
+                break 
 
     # =============================
     # SIDEBAR INFO
@@ -189,51 +187,27 @@ def parse_job_detail(job_url):
             if not h2:
                 continue
             h2_text = clean_text(h2).lower()
-            if "your skills and experience" not in h2_text:
-                continue
-            current_type = "preferred"
-            for child in div.find_all(recursive=False):
-                if child.name == "h2":
-                    continue
-                child_text = clean_text(child)
-                if not child_text:
-                    continue
-                lower_text = child_text.lower()
-                is_experience = any(
-                    keyword in lower_text
-                    for keyword in EXPERIENCE_KEYWORDS
+            if "your skills and experience" in h2_text:
+                # Cột requirement
+                req_content = "\n".join(
+                    clean_text(child)
+                    for child in div.find_all(recursive=False)
+                    if child.name != "h2"
                 )
-                is_requirement = any(
-                    keyword in lower_text
-                    for keyword in REQUIREMENT_KEYWORDS
-                )
-                if len(lower_text.split()) <= 12:
-                    if is_experience:
-                        current_type = "experience"
-                        continue
-                    elif is_requirement:
-                        current_type = "requirement"
-                        continue
-                if current_type == "experience":
-                    exp_content += child_text + "\n"
-                elif current_type == "requirement":
-                    req_content += child_text + "\n"
-                else:
-                    preferred_content += child_text + "\n"
     return {
         "url": job_url,
         "job_title": job_title,
         "company": company,
         "location": location_final,
         "salary": salary_final,
-        "experience": exp_content.strip(),
+        "experience": "",
         "education": info.get("education", ""),
         "level": "",
         "employment_type": "",
         "industry": info.get("company industry", ""),
         "required_skills": ", ".join(list(dict.fromkeys(req_skills))),
-        "preferred_skills": preferred_content.strip(),
-        "specialization": ", ".join(list(dict.fromkeys(specialization))),
+        "preferred_skills": "",
+        "specialization": "",
         "job_description": desc_content.strip(),
         "requirement": req_content.strip()
     }
