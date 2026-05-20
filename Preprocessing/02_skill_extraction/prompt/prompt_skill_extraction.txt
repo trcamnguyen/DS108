@@ -35,8 +35,7 @@ LABEL DEFINITIONS
                trong mục ưu tiên/bonus riêng biệt.
   VN triggers: thành thạo | bắt buộc | yêu cầu | có kinh nghiệm X năm |
                tối thiểu | cần có | nắm vững | am hiểu sâu | ít nhất X năm |
-               tốt nghiệp chuyên ngành | có ít nhất | ít nhất X năm exp |
-               làm việc tốt với
+               có ít nhất | ít nhất X năm exp 
   EN triggers: required | must have | must | proficient in | minimum X years |
                strong experience in | solid knowledge of | solid understanding of |
                mandatory | at least X years | hands-on experience with |
@@ -46,11 +45,10 @@ LABEL DEFINITIONS
 [preferred_skill]
   Định nghĩa : Kỹ năng mà CÓ THÌ TỐT, không có vẫn được xét tuyển.
                Chỉ gán label này khi có bằng chứng tường minh từ văn bản.
-  VN triggers: ưu tiên | là lợi thế | là một lợi thế | biết thêm |
-               hiểu biết về | có thể | nếu có | được cộng điểm nếu |
-               mong muốn thêm | có kiến thức về (không có year qualifier)
+  VN triggers: ưu tiên | là lợi thế | là một lợi thế | biết thêm | được cộng điểm nếu |
+               mong muốn thêm
   EN triggers: preferred | nice to have | Nice to Have | plus | bonus |
-               familiar with | exposure to | knowledge of (no year qualifier) |
+               exposure to | knowledge of (no year qualifier) |
                ideally | advantageous | good to have | is a plus | desirable |
                would be a plus
   Không áp dụng khi: Skill có ngưỡng cụ thể bắt buộc hoặc không có
@@ -74,6 +72,32 @@ cho toàn bộ skill bên dưới — dù không có từ khóa inline:
     (2) Tiêu đề mục bao quanh
     (3) Default rule → required_skill
 
+⚠ CONFLICT RESOLUTION — "Hiểu biết về" / "Knowledge of" trong mục Yêu cầu:
+
+    "Hiểu biết về" và "Knowledge of" là WEAK soft qualifiers.
+    Chúng CHỈ trigger preferred_skill khi KHÔNG có section header mạnh hơn.
+
+    Quy tắc cứng:
+      Section "Yêu cầu:" / "Requirements:" + "Hiểu biết về X"
+        → required_skill (section header THẮNG)
+
+      Section "Ưu tiên:" / "Nice to have:" + "Hiểu biết về X"
+        → preferred_skill (cả hai đều chỉ về preferred)
+
+      Không có section header + "Hiểu biết về X" (câu đứng riêng)
+        → preferred_skill (weak qualifier, không có context mạnh hơn)
+
+    STRONG soft qualifiers — LUÔN override section header:
+      "ưu tiên" | "là lợi thế" | "là một lợi thế" | "nice to have" |
+      "is a plus" | "would be a plus" | "bonus" | "desirable"
+      → Những từ này trigger preferred_skill BẤT KỂ nằm trong mục nào.
+
+    WEAK soft qualifiers — BỊ section header override:
+      "hiểu biết về" | "knowledge of" | "familiar with" | "biết" |
+      "có thể" | "exposure to"
+      → Những từ này CHỈ trigger preferred khi không có section header
+        hoặc section header cũng là preferred.
+
 ═══════════════════════════════════════════════════════
 SKILL TAXONOMY — 10 CATEGORIES + "Other"
 ═══════════════════════════════════════════════════════
@@ -83,7 +107,7 @@ Chỉ dùng đúng 1 trong các giá trị sau cho trường "category":
       Python, Java, PHP, JavaScript, TypeScript, C#, C++, Swift, Kotlin, Go, Rust
       Biến thể VN: "lập trình Python", "code JS", "viết Swift app"
 
-  "Framework"
+  "Framework / Library"
       Laravel, Spring Boot, React, Vue, Next.js, FastAPI, Django, .NET Core,
       NestJS, Electron.js, Angular, Svelte, Express, React Native, Flutter
       Biến thể VN: "FW Laravel", "React.js", "ReactJS", "reactnative", "dùng Vue"
@@ -127,7 +151,7 @@ Chỉ dùng đúng 1 trong các giá trị sau cho trường "category":
             → KHÔNG phải "Domain Knowledge" (Domain Knowledge chỉ dùng cho
               business domain: FinTech, ERP, Automotive — không phải technical domain)
         • RabbitMQ → "Infrastructure & DevOps" (middleware)
-            Kafka    → "Data Engineering" (data pipeline)
+            Kafka    → "Data Engineering & Analytics" (data pipeline)
         • MLOps / MLflow
             → "Infrastructure & DevOps"  nếu: deployment, serving, monitoring model
             → "AI/ML/Data"               nếu: training, experimentation, model building
@@ -140,7 +164,7 @@ Chỉ dùng đúng 1 trong các giá trị sau cho trường "category":
       Biến thể VN: "machine learning", "mô hình học máy", "model AI",
                    "xử lý hình ảnh", "thị giác máy", "Cognex/Keyence"
 
-  "Data Engineering"
+  "Data Engineering & Analytics"
       Apache Kafka, Airflow, Spark, ETL/ELT, Data Warehouse, BigQuery,
       Power BI, dbt, Power Automate, SSIS, Tableau
       Biến thể VN: "pipeline dữ liệu", "report automation", "xử lý batch"
@@ -171,11 +195,11 @@ Chỉ dùng đúng 1 trong các giá trị sau cho trường "category":
           • "batch" khi là pattern xử lý trong code
               → "Engineering Concepts & Methodologies"
             "batch processing" khi là ETL pipeline
-              → "Data Engineering"
+              → "Data Engineering & Analytics"
           • Message Queue AS PATTERN (pub/sub, event-driven)
               → "Engineering Concepts & Methodologies"
             RabbitMQ / Kafka AS TOOL
-              → "Infrastructure & DevOps" / "Data Engineering"
+              → "Infrastructure & DevOps" / "Data Engineering & Analytics"
 
   "Tool & Platform"
       Git, Jira, Figma, Postman, Linux, SolidWorks, PLC, MATLAB,
@@ -195,11 +219,54 @@ Chỉ dùng đúng 1 trong các giá trị sau cho trường "category":
         trung thực | có đam mê | thái độ tích cực | yêu thích lĩnh vực X |
         tinh thần làm việc | work ethic (khi là danh sách trait)
 
+      EXTRACTION GRANULARITY RULES:
+        • Soft Skill extract ở MỨC CANONICAL CAO NHẤT — không tách sub-components.
+          Một câu chỉ tạo TỐI ĐA 1 soft skill entry, trừ khi câu chứa
+          2+ concepts KHÁC NHAU rõ ràng (giao tiếp ≠ làm việc nhóm).
+
+          ✓ "Kỹ năng giao tiếp, thuyết phục, xử lý sự cố"
+              → extract: "giao tiếp" (1 entry duy nhất)
+              → "thuyết phục", "xử lý sự cố" là sub-components → BỎ QUA
+
+          ✓ "giao tiếp tốt và làm việc nhóm hiệu quả"
+              → extract: "giao tiếp" + "làm việc nhóm" (2 entries — 2 concepts khác nhau)
+
+          ✗ "Kỹ năng giao tiếp, thuyết phục, đàm phán, thương lượng"
+              → KHÔNG tách thành 4 entries
+              → extract: "giao tiếp" (1 entry — thuyết phục/đàm phán/thương lượng
+                là sub-skills của giao tiếp)
+
+        • TEST: "Có thể đặt tên canonical khác nhau cho từng skill không?"
+            → CÓ (giao tiếp vs teamwork vs leadership) → tách
+            → KHÔNG (thuyết phục, đàm phán đều thuộc giao tiếp) → gộp, lấy cái bao quát nhất
+
+        • Cụm dạng "phân tích và giải quyết vấn đề" → extract "giải quyết vấn đề"
+          (1 canonical). KHÔNG tách thành "phân tích" + "giải quyết vấn đề".
+
+        • Cụm quá chung chung, không map được về canonical nào:
+          "khả năng xử lý tình huống", "linh hoạt trong công việc"
+            → BỎ QUA (không đủ cụ thể để làm feature)
+
   "Domain Knowledge"
       eCommerce, FinTech, Logistics, HealthTech, Embedded Systems,
       ERP, IoT, Robotics, Automotive, DICOM/HL7, Bluetooth (BLE)
       Biến thể VN: "thương mại điện tử", "hệ thống nhúng", "vi điều khiển",
                    "cơ điện tử"
+      EXTRACTION GRANULARITY RULES:
+        • Chỉ extract DOMAIN LEVEL, không extract từng business item trong list.
+
+          ✓ "Hiểu biết về sản phẩm CNTT: máy chủ, lưu trữ, mạng SAN, backup"
+              → extract: "sản phẩm CNTT" hoặc "IT Infrastructure" (1 entry)
+              → KHÔNG tách: [máy chủ] + [lưu trữ] + [mạng SAN] + [backup]
+
+          ✓ "Kinh nghiệm về distributor management, pricing, discounts, promotions"
+              → extract: "distributor management" (1 entry — domain level)
+              → KHÔNG tách: [pricing] + [discounts] + [promotions]
+                (đây là business activities trong domain, không phải skills riêng biệt)
+
+        • TEST: "Item này có thể là một dòng riêng trong resume không?"
+            → CÓ (eCommerce, FinTech, ERP) → extract
+            → KHÔNG (pricing, discounts, backup) → bỏ qua, gộp vào domain cha
   
   "Testing & QA"
       Testing Types   : Manual Testing, Automation Testing, Web Testing,
@@ -266,7 +333,23 @@ Chỉ dùng đúng 1 trong các giá trị sau cho trường "category":
   "Other"
       Dùng khi skill không thuộc rõ ràng vào nhóm nào.
       KHÔNG được bỏ trống trường category — dùng "Other" thay cho null.
-      Ví dụ: "Mobile Development" (chung chung, không nêu tech cụ thể) → "Other".
+
+      Các trường hợp BẮT BUỘC dùng "Other":
+        • Chứng chỉ quốc tế (CCNA, CCNP, PMP, ITIL, AWS Certified,
+          PCNSA, NSE, CCSA, AZ-104, TOEIC, IELTS, JLPT, ...)
+        • Kỹ năng không xác định được nhóm rõ ràng
+          Ví dụ: "Mobile Development" (chung chung, không nêu tech cụ thể)
+    Standards & Guidelines:
+        MISRA 2004, MISRA 2012, ISO14229, ISO26262, J1939,
+        UDS, AUTOSAR, PC-lint, LDRA, PRQA
+        → Mỗi standard là 1 entry riêng
+        → "MISRA 2004 and 2012" → tách thành MISRA 2004 + MISRA 2012
+        → "ISO14229, ISO26262, J1939" → tách thành 3 entries riêng
+
+      OS & Scheduling:
+        RTOS, Pre-emptive scheduling, Round robin, Cooperative scheduling,
+        OS Scheduler, V-model, SDLC, Waterfall
+        → Mỗi scheduling model là 1 entry riêng
 
 ═══════════════════════════════════════════════════════
 QUY TẮC VỀ skill_name — GIỮ RAW, KHÔNG NORMALIZE
@@ -292,6 +375,34 @@ Ngoại lệ:
   - Nếu skill được viết bằng nhiều cách trong CÙNG 1 record, lấy lần xuất hiện
     ĐẦU TIÊN làm skill_name.
 
+Ngoại lệ bổ sung — JD song ngữ (Việt + Anh):
+    Khi JD viết cùng một skill bằng cả 2 ngôn ngữ trong cùng 1 câu
+    (ví dụ: "Thị giác máy tính (Computer Vision)", "tinh chỉnh (fine-tuning)"):
+      → Ưu tiên lấy phiên bản TIẾNG ANH làm skill_name
+      → Lý do: EN version dễ canonical hóa hơn trong bước post-processing
+
+    ✓ "Thị giác máy tính (Computer Vision)" → skill_name = "Computer Vision"
+    ✓ "tinh chỉnh (fine-tuning) các mô hình LLM" → skill_name = "fine-tuning LLM"
+    ✓ "NLP lâm sàng (clinical NLP)" → skill_name = "clinical NLP"
+
+    Nếu JD chỉ viết tiếng Việt, không có EN trong ngoặc → giữ nguyên tiếng Việt.
+    ✓ "mô hình học máy" (không có EN đi kèm) → skill_name = "mô hình học máy"
+  
+Ngoại lệ bổ sung — bỏ prefix "kỹ năng":
+    Khi JD viết dạng "kỹ năng X", strip prefix "kỹ năng" và giữ X làm skill_name.
+      → Lý do: "kỹ năng" là descriptor, không phải tên skill.
+
+    ✓ "kỹ năng giao tiếp"        → skill_name = "giao tiếp"
+    ✓ "kỹ năng làm việc nhóm"    → skill_name = "làm việc nhóm"
+    ✓ "kỹ năng lập trình Python" → skill_name = "Python"
+    ✓ "kỹ năng sử dụng Docker"   → skill_name = "Docker"
+    ✓ "kỹ năng phân tích dữ liệu"→ skill_name = "phân tích dữ liệu"
+
+    Tương tự với các prefix descriptor khác — strip và giữ core skill:
+    ✓ "khả năng giao tiếp"       → skill_name = "giao tiếp"
+    ✓ "khả năng sử dụng Git"     → skill_name = "Git"
+    ✓ "có kinh nghiệm với AWS"   → skill_name = "AWS"
+
 ═══════════════════════════════════════════════════════
 EDGE CASES — BẮT BUỘC XỬ LÝ ĐÚNG
 ═══════════════════════════════════════════════════════
@@ -306,6 +417,27 @@ EC-02 [Skill bundle — nhiều công nghệ trong 1 câu]
   OUTPUT: Swift → required | Kotlin → required | Java → required
   LÝ DO : Tách thành nhiều skill riêng, cùng label. "Hoặc" = lựa chọn thay thế,
            KHÔNG phải preferred. Mỗi skill là 1 entry riêng trong JSON.
+   Các dấu phân cách BẮT BUỘC tách thành entry riêng:
+    "/"  → "C/C++"           : tách thành C + C++
+    "/"  → "Matlab/Simulink" : tách thành Matlab + Simulink
+    "&"  → "CANoe, CANalyser & CAPL programming"
+           : tách thành CANoe + CANalyser + CAPL programming
+    ","  → "CAN, LIN"        : tách thành CAN + LIN
+    "or" → "Swift or Kotlin" : tách thành Swift + Kotlin (đã có)
+
+  Nguyên tắc: mỗi công nghệ/tool/protocol có thể đứng độc lập
+  trên resume → tách riêng.
+
+  KHÔNG tách khi cụm là TÊN RIÊNG của 1 skill:
+    "V-model"                → 1 entry (không tách thành V + model)
+    "Black box / White box"  → 2 entries (2 testing techniques khác nhau)
+    "ISO14229"               → 1 entry (tên chuẩn, không tách)
+    "MISRA 2004 and 2012"    → 2 entries: MISRA 2004 + MISRA 2012
+                               ("and" nối 2 versions khác nhau)
+
+  TEST: "Có thể list từng cái riêng trên resume không?"
+    → CÓ → tách
+    → KHÔNG (vì là tên riêng 1 skill) → giữ nguyên
 
 EC-03 [Ngưỡng năm kinh nghiệm — điền min_years & level]
   INPUT : "Power BI – expert level (minimum 3 years)"
@@ -394,27 +526,93 @@ EC-10 [Personality trait — KHÔNG PHẢI skill, BỎ QUA]
           không thể đào tạo được và không có signal cho mô hình dự đoán lương.
           Soft skill là năng lực cụ thể, quan sát được qua hành vi và có thể rèn luyện.
 
-  PHÂN BIỆT personality trait vs soft skill:
-  ┌────────────────────────────────────┬──────────────────────────────────────┐
-  │ BỎ QUA (personality trait)         │ CÓ extract (soft skill)              │
-  ├────────────────────────────────────┼──────────────────────────────────────┤
-  │ ham học hỏi, cầu tiến, tự học      │ Communication / giao tiếp            │
-  │ chủ động, tự giác, năng động       │ Teamwork / làm việc nhóm             │
-  │ nhiệt tình, tận tâm                │ Leadership / lãnh đạo                │
-  │ có trách nhiệm, tận tụy            │ Problem-solving / giải quyết vấn đề  │
-  │ kiên nhẫn, cẩn thận, tỉ mỉ        │ Logical Thinking / tư duy logic      │
-  │ trung thực, chính trực             │ Presentation Skills / thuyết trình   │
-  │ có đam mê với lĩnh vực X          │ Time Management / quản lý thời gian  │
-  │ thái độ làm việc tích cực          │ Team Management / quản lý nhóm       │
-  │ tinh thần làm việc (trait list)    │ Critical Thinking / tư duy phản biện │
-  │ yêu thích / đam mê công nghệ      │ Product Thinking / tư duy sản phẩm   │
-  │                                    │ English / Japanese (ngoại ngữ)       │
-  └────────────────────────────────────┴──────────────────────────────────────┘
+PHÂN BIỆT personality trait vs soft skill:
+  ┌────────────────────────────────────────────┬──────────────────────────────────────┐
+  │ BỎ QUA (personality trait)                 │ CÓ extract (soft skill)              │
+  ├────────────────────────────────────────────┼──────────────────────────────────────┤
+  │ ham học hỏi, cầu tiến, tự học              │ Communication / giao tiếp            │
+  │ chủ động, tự giác, năng động               │ Teamwork / làm việc nhóm             │
+  │ nhiệt tình, tận tâm                        │ Leadership / lãnh đạo                │
+  │ có trách nhiệm, tận tụy                    │ Problem-solving / giải quyết vấn đề  │
+  │ kiên nhẫn, cẩn thận, tỉ mỉ                │ Logical Thinking / tư duy logic      │
+  │ trung thực, chính trực                     │ Presentation Skills / thuyết trình   │
+  │ có đam mê với lĩnh vực X                  │ Time Management / quản lý thời gian  │
+  │ thái độ làm việc tích cực                  │ Team Management / quản lý nhóm       │
+  │ tinh thần làm việc (trait list)            │ Critical Thinking / tư duy phản biện │
+  │ yêu thích / đam mê công nghệ              │ Product Thinking / tư duy sản phẩm   │
+  │ process-driven                             │ English / Japanese (ngoại ngữ)       │
+  │ audit-aware / detail-oriented              │ Decision-making (khi là năng lực     │
+  │ handle high-pressure / work under pressure │   quản lý rõ ràng, ví dụ: "Strong    │
+  │ decision-making (khi đứng độc lập,         │   decision-making in ambiguous        │
+  │   không có context năng lực cụ thể)        │   situations" → extract)             │
+  │ operational leadership (khi là style       │ Leadership / lãnh đạo (khi có        │
+  │   descriptor: "operational leadership      │   context cụ thể: "lead a team of    │
+  │   mindset", không phải năng lực dẫn dắt)  │   5+", "leading SOC team")           │
+  │ leading SOC / leading team (khi là         │                                      │
+  │   experience descriptor trong câu          │                                      │
+  │   mô tả background, không phải skill)      │                                      │
+  └────────────────────────────────────────────┴──────────────────────────────────────┘
+
+  DISAMBIGUATION — Leadership vs operational leadership:
+    "Strong operational leadership and decision-making"
+      → BỎ QUA: đây là trait description, không có object cụ thể
+    "Lead a team of 5+ engineers"
+      → extract: "Leadership" (có scope cụ thể)
+    "1-2+ years leading SOC or Security Operations teams"
+      → BỎ QUA: đây là experience claim (years + context),
+        skill đã được capture qua "Security Operations" riêng
+    "Ability to handle high-pressure incident scenarios"
+      → BỎ QUA: personality trait dù có "Ability to"
+
+  LƯU Ý: Prefix "Ability to" / "Khả năng" KHÔNG tự động biến
+  personality trait thành soft skill. Test EC-10 vẫn áp dụng:
+    "Ability to handle pressure" → trait → BỎ QUA
+    "Ability to manage a team"   → skill → extract "Team Management"
 
   TEST NHANH: "Năng lực này có thể đào tạo trong 3–6 tháng và đánh giá qua
   output công việc cụ thể không?"
     → CÓ: extract (soft skill)
     → KHÔNG: bỏ qua (personality trait)
+
+EC-11 [Publication venues, conference names — KHÔNG extract]
+  INPUT : "Có bài báo xuất bản tại MICCAI, NeurIPS, ICML, ACL, CVPR"
+  OUTPUT: KHÔNG extract MICCAI, NeurIPS, ICML, ACL, CVPR thành skill entries
+  LÝ DO : Conference/journal names là publication venues, không phải skills.
+          Yêu cầu "có bài báo" là achievement/credential requirement,
+          không có signal độc lập cho salary model ngoài domain knowledge
+          đã được capture qua các skills khác (Computer Vision, NLP...).
+
+  PHÂN BIỆT:
+    "Kinh nghiệm với MONAI, DICOM" → extract (tools/standards cụ thể) ✓
+    "Bài báo tại MICCAI, CVPR"     → KHÔNG extract (venues)           ✗
+    "Quen thuộc với HL7/FHIR"      → extract, tách thành HL7 + FHIR   ✓
+
+EC-12 [Technical concept trong câu mô tả mindset/process — extract có chọn lọc]
+
+  Khi câu mô tả yêu cầu về mindset hoặc process nhưng CHỨA technical concept
+  cụ thể có thể canonical hóa:
+    → Extract technical concept, BỎ QUA phần mô tả mindset/context
+
+  ✓ "clean experiments, no data leakage"
+      → extract: "data leakage" (technical concept) ✓
+      → BỎ QUA: "clean experiments" (process descriptor) ✗
+
+  ✓ "experienced end-to-end from data to deployment"
+      → extract: "end-to-end ML pipeline" (canonical skill) ✓
+      → BỎ QUA: "experienced" descriptor ✗
+
+  ✗ "prototype fast, iterate on data, ship without long handoffs"
+      → KHÔNG extract: toàn bộ là work style descriptor,
+        không có technical concept canonical hóa được
+
+  ✗ "clinically meaningful metrics"
+      → KHÔNG extract: domain-specific context,
+        không canonical hóa được thành skill độc lập
+
+  TEST: "Skill này có thể xuất hiện như 1 dòng riêng trong resume
+         của AI/ML engineer không?"
+    → CÓ (data leakage, end-to-end pipeline) → extract
+    → KHÔNG (tạo mẫu nhanh, metrics lâm sàng) → bỏ qua
 
 ═══════════════════════════════════════════════════════
 OUTPUT JSON SCHEMA
@@ -425,7 +623,7 @@ OUTPUT JSON SCHEMA
       "skill_name"  : string,              // Raw từ JD, giữ nguyên ngôn ngữ gốc
       "label"       : "required_skill"     // CHỈ MỘT trong 2 giá trị hợp lệ
                     | "preferred_skill",
-      "category"    : string,              // Một trong 10 categories + "Other"
+      "category"    : string,              // Một trong 12 categories + "Other"
       "min_years"   : integer | null,      // null nếu JD không nêu cụ thể
       "level"       : "expert"             // null nếu JD không nêu rõ
                     | "intermediate"
@@ -491,7 +689,7 @@ CRITICAL OUTPUT RULES:
         {
           "skill_name": "Power BI",
           "label": "required_skill",
-          "category": "Data Engineering",
+          "category": "Data Engineering & Analytics",
           "min_years": 3,
           "level": "expert",
           "source_text": "Power BI – expert level (minimum 3 years of experience in relevant roles)"
@@ -499,7 +697,7 @@ CRITICAL OUTPUT RULES:
         {
           "skill_name": "Microsoft Fabric",
           "label": "required_skill",
-          "category": "Data Engineering",
+          "category": "Data Engineering & Analytics",
           "min_years": null,
           "level": null,
           "source_text": "Experience with Microsoft Fabric and Lakehouse architecture"
@@ -515,7 +713,7 @@ CRITICAL OUTPUT RULES:
         {
           "skill_name": "ETL pipelines",
           "label": "required_skill",
-          "category": "Data Engineering",
+          "category": "Data Engineering & Analytics",
           "min_years": null,
           "level": null,
           "source_text": "Experience designing and maintaining ETL pipelines"
@@ -531,7 +729,7 @@ CRITICAL OUTPUT RULES:
         {
           "skill_name": "Docker",
           "label": "preferred_skill",
-          "category": "Cloud & DevOps",
+          "category": "Infrastructure & DevOps",
           "min_years": null,
           "level": null,
           "source_text": "Preferred: Docker experience for pipeline containerization"
@@ -546,7 +744,7 @@ CRITICAL OUTPUT RULES:
         {
           "skill_name": "ASP.NET",
           "label": "required_skill",
-          "category": "Framework",
+          "category": "Framework / Library",
           "min_years": null,
           "level": null,
           "source_text": "Có hiểu biết về ASP.NET, OOP, Design Patterns"
@@ -554,7 +752,7 @@ CRITICAL OUTPUT RULES:
         {
           "skill_name": "OOP",
           "label": "required_skill",
-          "category": "Methodology",
+          "category": "Engineering Concepts & Methodologies",
           "min_years": null,
           "level": null,
           "source_text": "Có hiểu biết về ASP.NET, OOP, Design Patterns"
@@ -562,7 +760,7 @@ CRITICAL OUTPUT RULES:
         {
           "skill_name": "Design Patterns",
           "label": "required_skill",
-          "category": "Methodology",
+          "category": "Engineering Concepts & Methodologies",
           "min_years": null,
           "level": null,
           "source_text": "Có hiểu biết về ASP.NET, OOP, Design Patterns"
@@ -728,7 +926,7 @@ CRITICAL OUTPUT RULES:
         {
           "skill_name": "REST API",
           "label": "required_skill",
-          "category": "Methodology",
+          "category": "Engineering Concepts & Methodologies",
           "min_years": null,
           "level": null,
           "source_text": "Hiểu về: REST API, networking, State management"
@@ -736,7 +934,7 @@ CRITICAL OUTPUT RULES:
         {
           "skill_name": "networking",
           "label": "required_skill",
-          "category": "Methodology",
+          "category": "Engineering Concepts & Methodologies",
           "min_years": null,
           "level": null,
           "source_text": "Hiểu về: REST API, networking, State management"
@@ -744,7 +942,7 @@ CRITICAL OUTPUT RULES:
         {
           "skill_name": "State management",
           "label": "required_skill",
-          "category": "Methodology",
+          "category": "Engineering Concepts & Methodologies",
           "min_years": null,
           "level": null,
           "source_text": "Hiểu về: REST API, networking, State management"
@@ -760,7 +958,7 @@ CRITICAL OUTPUT RULES:
         {
           "skill_name": "debug và tối ưu hiệu năng",
           "label": "required_skill",
-          "category": "Methodology",
+          "category": "Engineering Concepts & Methodologies",
           "min_years": null,
           "level": null,
           "source_text": "Có khả năng debug và tối ưu hiệu năng ứng dụng"

@@ -1,0 +1,44 @@
+{
+  "config": {
+    "n_records": 50,
+    "bootstrap_iter": 1000,
+    "bootstrap_seed": 42,
+    "fuzzy_threshold": 0.8,
+    "codebook_version": "v1.3",
+    "matching_version": "v2_token_jaccard_hybrid"
+  },
+  "t1_extraction": {
+    "llm_vs_human_a": {
+      "precision": 0.8881,
+      "recall": 0.7989,
+      "f1": 0.8324,
+      "ci_95": [
+        0.7937,
+        0.8658
+      ],
+      "status": "PASS"
+    }
+  },
+  "t2_label": {
+    "llm_vs_human_a": {
+      "kappa": 0.8284,
+      "ci_95": [
+        0.773,
+        0.8736
+      ],
+      "status": "PASS"
+    }
+  },
+  "t3_category": {
+    "llm_vs_human_a": {
+      "kappa": 0.7436,
+      "ci_95": [
+        0.7067,
+        0.7769
+      ],
+      "status": "PASS"
+    }
+  },
+  "overall_status": "PASS",
+  "n_error_cases": 458
+}

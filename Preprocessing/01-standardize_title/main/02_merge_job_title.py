@@ -1,12 +1,12 @@
 """
-Merge kết quả preprocess vào CSV gốc bằng id.
+Merge kết quả LLM standardization vào CSV gốc bằng id.
 
 Input:
-    Crawl/data/topcv_merged.csv
-    Preprocess/output/job_title_full.json
+    data/raw/00-topcv_raw.csv
+    01-standardize_title/output/job_title_full.json
 
 Output:
-    Crawl/data/topcv_processed.csv
+    01-standardize_title/output/01-topcv_llm_standardized.csv
 """
 
 import csv
@@ -18,15 +18,9 @@ sys.stdout.reconfigure(encoding="utf-8")
 
 ROOT = Path(__file__).parent.parent
 
-CSV_IN = ROOT.parent.parent / "data" / "raw" / "00-topcv_raw.csv"
-
-JSON_IN = (
-    Path(__file__).parent
-    / "output"
-    / "job_title_full.json"
-)
-
-CSV_OUT = ROOT.parent.parent / "data" / "interim" / "01-topcv_standardize_jobtitle.csv"
+CSV_IN  = ROOT.parent.parent / "data" / "raw" / "00-topcv_raw.csv"
+JSON_IN = ROOT / "output" / "job_title_full.json"
+CSV_OUT = ROOT / "output" / "01-topcv_llm_standardized.csv"
 
 NEW_COLS = [
     "is_valid_job",
