@@ -44,11 +44,12 @@ from google.genai import types
 
 # ─── CONFIG ───────────────────────────────────────────────────────────────────
 TEMPERATURE = 0.0       # Bắt buộc = 0 để đảm bảo reproducibility
-MAX_TOKENS  = 8192
+MAX_TOKENS  = 32768     # Tăng để tránh truncation với JD nhiều skills (row 46: ~40 skills)
 RETRY_LIMIT = 3
 RETRY_DELAY = 5         # seconds, nhân đôi mỗi lần retry (exponential backoff)
 
 logging.basicConfig(level=logging.INFO, format="%(asctime)s %(levelname)s %(message)s")
+logging.getLogger("httpx").setLevel(logging.WARNING)
 log = logging.getLogger(__name__)
 
 # ═══════════════════════════════════════════════════════════════════════════════
@@ -136,6 +137,46 @@ def build_few_shot_prompt(requirement: str) -> str:
 # API CALLER
 # ═══════════════════════════════════════════════════════════════════════════════
 
+def _repair_truncated_json(raw_text: str) -> Optional[dict]:
+    """Recover partial JSON by fixing trailing commas, then trimming to the last complete skill object."""
+    cleaned = re.sub(r"^```(?:json)?\n?", "", raw_text.strip(), flags=re.IGNORECASE)
+    cleaned = re.sub(r"\n?```$", "", cleaned.strip())
+
+    # Fix trailing comma (e.g. {..., "key": "val", }) trước khi parse
+    no_trailing_comma = re.sub(r',(\s*[}\]])', r'\1', cleaned)
+    try:
+        return json.loads(no_trailing_comma)
+    except json.JSONDecodeError:
+        pass
+
+    # Truncated JSON: tìm vị trí kết thúc skill object cuối cùng hoàn chỉnh (dòng "    }")
+    matches = list(re.finditer(r'\n[ \t]{4}\}', cleaned))
+    for match in reversed(matches):
+        candidate = cleaned[:match.end()] + "\n  ]\n}"
+        candidate = re.sub(r',(\s*[}\]])', r'\1', candidate)
+        try:
+            return json.loads(candidate)
+        except json.JSONDecodeError:
+            continue
+    return None
+
+
+_VALID_LABELS = {"required_skill", "preferred_skill"}
+_VALID_LEVELS = {"expert", "intermediate", "basic", None}
+
+def _coerce_skills(data: dict) -> dict:
+    """Coerce invalid label/level values to valid defaults so Pydantic doesn't reject repaired JSON."""
+    fixed = []
+    for s in data.get("skills", []):
+        s = dict(s)
+        if s.get("label") not in _VALID_LABELS:
+            s["label"] = "required_skill"
+        if s.get("level") not in _VALID_LEVELS:
+            s["level"] = None
+        fixed.append(s)
+    return {"skills": fixed}
+
+
 def _call_gemini_api(user_prompt: str) -> dict:
     if CLIENT is None:
         raise RuntimeError("Client chưa được khởi tạo. Hãy gọi init_model() trước.")
@@ -143,7 +184,8 @@ def _call_gemini_api(user_prompt: str) -> dict:
     config = types.GenerateContentConfig(
         temperature=TEMPERATURE,
         max_output_tokens=MAX_TOKENS,
-        system_instruction=SYSTEM_PROMPT
+        system_instruction=SYSTEM_PROMPT,
+        response_mime_type="application/json"
     )
 
     for attempt in range(1, RETRY_LIMIT + 1):
@@ -175,8 +217,24 @@ def _call_gemini_api(user_prompt: str) -> dict:
 
         except (json.JSONDecodeError, ValidationError) as e:
             log.warning(f"Attempt {attempt}/{RETRY_LIMIT}: Parsing/Validation error — {e}")
+            # Thử repair JSON bị truncate trước khi retry
+            raw = locals().get("raw_text", "") or ""
+            if raw:
+                repaired = _repair_truncated_json(raw)
+                if repaired:
+                    try:
+                        validated_data = SkillExtractionOutput(**repaired)
+                        log.info(f"Attempt {attempt}: Repaired truncated JSON successfully")
+                        return {"raw_text": raw, "parsed": validated_data.model_dump(), "error": None}
+                    except ValidationError:
+                        # Pydantic rejected repaired JSON — coerce invalid level/label và thử lại
+                        try:
+                            validated_data = SkillExtractionOutput(**_coerce_skills(repaired))
+                            log.info(f"Attempt {attempt}: Repaired+coerced JSON successfully")
+                            return {"raw_text": raw, "parsed": validated_data.model_dump(), "error": None}
+                        except ValidationError:
+                            pass
             if attempt == RETRY_LIMIT:
-                raw = locals().get("raw_text", "")
                 return {"raw_text": raw, "parsed": None, "error": f"Parse/ValidationError: {str(e)}"}
             time.sleep(RETRY_DELAY * (2 ** (attempt - 1)))
 
@@ -190,7 +248,6 @@ def _call_gemini_api(user_prompt: str) -> dict:
 def annotate_few_shot(requirement: str) -> dict:
     prompt = build_few_shot_prompt(requirement)
     result = _call_gemini_api(prompt)
-    result["mode"] = "few_shot"
     return result
 
 
@@ -224,7 +281,6 @@ def run_annotation_pipeline(
 
         raw_entry = {
             "row_id": row_id,
-            "mode": "few_shot",
             "raw_text": result["raw_text"],
             "error": result["error"]
         }
@@ -236,7 +292,6 @@ def run_annotation_pipeline(
             for skill in result["parsed"]["skills"]:
                 flat_row = {
                     "row_id": row_id,
-                    "mode": "few_shot",
                     **skill
                 }
                 extracted_rows.append(flat_row)
