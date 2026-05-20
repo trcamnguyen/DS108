@@ -34,9 +34,7 @@ from google import genai  # noqa: E402
 from google.genai import types  # noqa: E402
 
 PROMPT_FILE = ROOT / "prompt" / "prompt_job_title.txt"
-CSV_FILE = ROOT.parent.parent / "data" / "raw" / "00-topcv_raw.csv"
 OUTPUT_DIR = ROOT / "output"
-OUTPUT_FILE = OUTPUT_DIR / "job_title_full.json"
 BATCH_SIZE = 10
 
 # ---------------------------------------------------------------------------
@@ -136,11 +134,24 @@ def process_jobs(client: genai.Client, system_prompt: str, jobs: list[dict], out
 # ---------------------------------------------------------------------------
 
 if __name__ == "__main__":
+    import argparse
+    parser = argparse.ArgumentParser(description="LLM job title standardization")
+    parser.add_argument(
+        "--dataset", choices=["topcv", "itviec"], default="topcv",
+        help="Dataset to process (default: topcv). "
+             "Note: if resuming TopCV from old checkpoint, rename "
+             "output/job_title_full.json → output/topcv_job_title_full.json first."
+    )
+    args = parser.parse_args()
+
+    CSV_FILE = ROOT.parent.parent / "data" / "raw" / f"00-{args.dataset}_raw.csv"
+    OUTPUT_FILE = OUTPUT_DIR / f"{args.dataset}_job_title_full.json"
+
     jobs = load_jobs(CSV_FILE)
     system_prompt = PROMPT_FILE.read_text(encoding="utf-8")
-    
+
     client = genai.Client(vertexai=True, project=PROJECT, location=LOCATION)
-    print(f"Total jobs: {len(jobs)}, batch size: {BATCH_SIZE}\n")
-    
+    print(f"Dataset: {args.dataset} | Total jobs: {len(jobs)}, batch size: {BATCH_SIZE}\n")
+
     results = process_jobs(client, system_prompt, jobs, OUTPUT_FILE)
     print(f"\nDone. {len(results)} records → {OUTPUT_FILE}")
