@@ -33,9 +33,9 @@ from google import genai  # noqa: E402
 # pyrefly: ignore [missing-import]
 from google.genai import types  # noqa: E402
 
-PROMPT_FILE = Path(__file__).parent / "prompt" / "prompt_job_title.txt"
+PROMPT_FILE = ROOT / "prompt" / "prompt_job_title.txt"
 CSV_FILE = ROOT.parent.parent / "data" / "raw" / "00-topcv_raw.csv"
-OUTPUT_DIR = Path(__file__).parent / "output"
+OUTPUT_DIR = ROOT / "output"
 OUTPUT_FILE = OUTPUT_DIR / "job_title_full.json"
 BATCH_SIZE = 10
 
