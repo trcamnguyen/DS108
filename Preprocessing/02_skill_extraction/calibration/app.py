@@ -147,9 +147,34 @@ def main():
         # Hiển thị dưới dạng bảng để dễ nhìn và cho phép chỉnh sửa
         skills_df = pd.DataFrame(current_skills)
         
-        edited_df = st.data_editor(
+        editor_key = f"editor_{job_key}"
+
+        # Callback: đồng bộ edits từ widget state vào session_state
+        # TRƯỚC khi rerun tiếp theo rebuild DataFrame
+        def _sync_edits():
+            widget_state = st.session_state.get(editor_key)
+            if widget_state is None:
+                return
+            skills = list(st.session_state.annotations[job_key]["skills"])  # shallow copy
+            # Áp dụng edited_rows (cell-level changes)
+            for row_idx_str, changes in (widget_state.get("edited_rows") or {}).items():
+                row_idx = int(row_idx_str)
+                if 0 <= row_idx < len(skills):
+                    skills[row_idx] = {**skills[row_idx], **changes}
+            # Áp dụng added_rows (new rows from the "+" button)
+            for new_row in (widget_state.get("added_rows") or []):
+                if any(v for v in new_row.values()):  # skip empty rows
+                    skills.append(new_row)
+            # Áp dụng deleted_rows (rows removed via data_editor)
+            for del_idx in sorted(widget_state.get("deleted_rows") or [], reverse=True):
+                if 0 <= del_idx < len(skills):
+                    skills.pop(del_idx)
+            st.session_state.annotations[job_key]["skills"] = skills
+
+        st.data_editor(
             skills_df, 
-            key=f"editor_{job_key}",
+            key=editor_key,
+            on_change=_sync_edits,
             use_container_width=True, 
             num_rows="dynamic",
             column_config={
@@ -174,11 +199,6 @@ def main():
                 )
             }
         )
-        
-        # Lưu lại thay đổi vào session state nếu có sự khác biệt
-        updated_skills = edited_df.where(pd.notnull(edited_df), None).to_dict('records')
-        if updated_skills != current_skills:
-            st.session_state.annotations[job_key]["skills"] = updated_skills
         
         # Nút xóa skill cuối cùng (phòng trường hợp nhập sai)
         if st.button("🗑️ Xóa skill vừa thêm"):
