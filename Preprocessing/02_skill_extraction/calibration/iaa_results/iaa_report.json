@@ -17,6 +17,26 @@
         0.8658
       ],
       "status": "PASS"
+    },
+    "llm_vs_human_b": {
+      "precision": 0.7604,
+      "recall": 0.9273,
+      "f1": 0.8218,
+      "ci_95": [
+        0.7812,
+        0.8592
+      ],
+      "status": "PASS"
+    },
+    "human_a_vs_human_b": {
+      "precision": 0.6903,
+      "recall": 0.9332,
+      "f1": 0.7786,
+      "ci_95": [
+        0.7311,
+        0.8184
+      ],
+      "status": "FAIL"
     }
   },
   "t2_label": {
@@ -25,6 +45,30 @@
       "ci_95": [
         0.773,
         0.8736
+      ],
+      "status": "PASS"
+    },
+    "llm_vs_human_b": {
+      "kappa": 0.9128,
+      "ci_95": [
+        0.874,
+        0.9425
+      ],
+      "status": "PASS"
+    },
+    "human_a_vs_human_b": {
+      "kappa": 0.8076,
+      "ci_95": [
+        0.7572,
+        0.8538
+      ],
+      "status": "PASS"
+    },
+    "fleiss_kappa_all": {
+      "kappa": 0.8543,
+      "ci_95": [
+        0.8178,
+        0.8876
       ],
       "status": "PASS"
     }
@@ -37,8 +81,16 @@
         0.7769
       ],
       "status": "PASS"
+    },
+    "human_a_vs_human_b": {
+      "kappa": 0.6709,
+      "ci_95": [
+        0.6325,
+        0.7067
+      ],
+      "status": "PASS"
     }
   },
-  "overall_status": "PASS",
-  "n_error_cases": 458
+  "overall_status": "FAIL",
+  "n_error_cases": 1734
 }
