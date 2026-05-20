@@ -66,27 +66,6 @@
         "category": "AI / ML / Data",
         "min_years": null,
         "level": NaN
-      },
-      {
-        "skill_name": "tự giác",
-        "label": "required_skill",
-        "category": "Soft Skill",
-        "min_years": null,
-        "level": NaN
-      },
-      {
-        "skill_name": "chủ động",
-        "label": "required_skill",
-        "category": "Soft Skill",
-        "min_years": null,
-        "level": NaN
-      },
-      {
-        "skill_name": "kỷ luật",
-        "label": "preferred_skill",
-        "category": "Soft Skill",
-        "min_years": null,
-        "level": NaN
       }
     ]
   },
@@ -584,27 +563,6 @@
         "category": "Soft Skill",
         "min_years": NaN,
         "level": null
-      },
-      {
-        "skill_name": "trách nhiệm",
-        "label": "preferred_skill",
-        "category": "Soft Skill",
-        "min_years": NaN,
-        "level": null
-      },
-      {
-        "skill_name": "học hỏi công nghệ mới",
-        "label": "preferred_skill",
-        "category": "Soft Skill",
-        "min_years": NaN,
-        "level": null
-      },
-      {
-        "skill_name": "thích nghi với thay đổi",
-        "label": "preferred_skill",
-        "category": "Soft Skill",
-        "min_years": NaN,
-        "level": null
       }
     ]
   },
@@ -1028,20 +986,6 @@
       },
       {
         "skill_name": "giải quyết vấn đề",
-        "label": "required_skill",
-        "category": "Soft Skill",
-        "min_years": NaN,
-        "level": NaN
-      },
-      {
-        "skill_name": "tư duy logic",
-        "label": "required_skill",
-        "category": "Soft Skill",
-        "min_years": NaN,
-        "level": NaN
-      },
-      {
-        "skill_name": "nghiên cứu công nghệ mới",
         "label": "required_skill",
         "category": "Soft Skill",
         "min_years": NaN,
@@ -1577,154 +1521,154 @@
         "label": "required_skill",
         "category": "Domain Knowledge",
         "min_years": 2.0,
-        "level": null
+        "level": NaN
       },
       {
         "skill_name": "SFA",
         "label": "required_skill",
         "category": "Domain Knowledge",
         "min_years": 2.0,
-        "level": null
+        "level": NaN
       },
       {
         "skill_name": "OMS",
         "label": "required_skill",
         "category": "Domain Knowledge",
         "min_years": NaN,
-        "level": null
+        "level": NaN
       },
       {
         "skill_name": "DMS",
         "label": "required_skill",
         "category": "Domain Knowledge",
         "min_years": 2.0,
-        "level": null
+        "level": NaN
       },
       {
         "skill_name": "business blueprinting",
         "label": "required_skill",
         "category": "Engineering Concepts & Methodologies",
         "min_years": NaN,
-        "level": null
+        "level": NaN
       },
       {
         "skill_name": "functional specification",
         "label": "required_skill",
         "category": "Engineering Concepts & Methodologies",
         "min_years": NaN,
-        "level": null
+        "level": NaN
       },
       {
         "skill_name": "configuration",
         "label": "required_skill",
         "category": "Engineering Concepts & Methodologies",
         "min_years": NaN,
-        "level": null
+        "level": NaN
       },
       {
         "skill_name": "testing",
         "label": "required_skill",
         "category": "Engineering Concepts & Methodologies",
         "min_years": NaN,
-        "level": null
+        "level": NaN
       },
       {
         "skill_name": "UAT",
         "label": "required_skill",
         "category": "Engineering Concepts & Methodologies",
         "min_years": NaN,
-        "level": null
+        "level": NaN
       },
       {
         "skill_name": "training",
         "label": "required_skill",
         "category": "Other",
         "min_years": NaN,
-        "level": null
+        "level": NaN
       },
       {
         "skill_name": "data migration",
         "label": "required_skill",
         "category": "Data Engineering & Analytics",
         "min_years": NaN,
-        "level": null
+        "level": NaN
       },
       {
         "skill_name": "post go-live support",
         "label": "required_skill",
         "category": "Engineering Concepts & Methodologies",
         "min_years": NaN,
-        "level": null
+        "level": NaN
       },
       {
         "skill_name": "Sales & Distribution",
         "label": "required_skill",
         "category": "Domain Knowledge",
         "min_years": NaN,
-        "level": null
+        "level": NaN
       },
       {
         "skill_name": "analytical",
         "label": "required_skill",
         "category": "Soft Skill",
         "min_years": NaN,
-        "level": null
+        "level": NaN
       },
       {
         "skill_name": "problem-solving",
         "label": "required_skill",
         "category": "Soft Skill",
         "min_years": NaN,
-        "level": null
+        "level": NaN
       },
       {
         "skill_name": "communication",
         "label": "required_skill",
         "category": "Soft Skill",
         "min_years": NaN,
-        "level": null
+        "level": NaN
       },
       {
         "skill_name": "stakeholder management",
         "label": "required_skill",
         "category": "Soft Skill",
         "min_years": NaN,
-        "level": null
+        "level": NaN
       },
       {
         "skill_name": "documentation",
         "label": "required_skill",
         "category": "Soft Skill",
         "min_years": NaN,
-        "level": null
+        "level": "intermediate"
       },
       {
         "skill_name": "MS Office",
         "label": "required_skill",
         "category": "Tool & Platform",
         "min_years": NaN,
-        "level": null
+        "level": "intermediate"
       },
       {
         "skill_name": "Jira",
         "label": "required_skill",
         "category": "Tool & Platform",
         "min_years": NaN,
-        "level": null
+        "level": "intermediate"
       },
       {
         "skill_name": "Confluence",
         "label": "required_skill",
-        "category": "Soft Skill",
+        "category": "Tool & Platform",
         "min_years": NaN,
-        "level": null
+        "level": "intermediate"
       },
       {
         "skill_name": "English",
         "label": "required_skill",
-        "category": "Programming Language",
+        "category": "Soft Skill",
         "min_years": NaN,
-        "level": null
+        "level": NaN
       }
     ]
   },
@@ -2238,20 +2182,6 @@
         "level": NaN
       },
       {
-        "skill_name": "tỉ mỉ",
-        "label": "required_skill",
-        "category": "Soft Skill",
-        "min_years": NaN,
-        "level": NaN
-      },
-      {
-        "skill_name": "sẵn sàng học hỏi",
-        "label": "required_skill",
-        "category": "Soft Skill",
-        "min_years": NaN,
-        "level": NaN
-      },
-      {
         "skill_name": "Tiếng Anh",
         "label": "preferred_skill",
         "category": "Soft Skill",
@@ -2588,7 +2518,7 @@
         "level": NaN
       },
       {
-        "skill_name": "trách nhiệm",
+        "skill_name": "Tiếng Anh",
         "label": "required_skill",
         "category": "Soft Skill",
         "min_years": null,
@@ -2596,13 +2526,6 @@
       },
       {
         "skill_name": "hỗ trợ user",
-        "label": "required_skill",
-        "category": "Soft Skill",
-        "min_years": null,
-        "level": NaN
-      },
-      {
-        "skill_name": "Tiếng Anh",
         "label": "required_skill",
         "category": "Soft Skill",
         "min_years": null,
@@ -2652,13 +2575,6 @@
       },
       {
         "skill_name": "làm việc nhóm",
-        "label": "required_skill",
-        "category": "Soft Skill",
-        "min_years": null,
-        "level": null
-      },
-      {
-        "skill_name": "ham học hỏi",
         "label": "required_skill",
         "category": "Soft Skill",
         "min_years": null,
@@ -3377,6 +3293,1624 @@
     "id": 25,
     "job_title": "Tester",
     "requirement": "Tốt nghiệp ĐH, CĐ chuyên ngành CNTT, Hệ thống quản lý thông tin, Điện tử viễn thông, các chuyên ngành tương đương. Có thể đi onsite tùy thời điểm và tình hình dự án Tối thiểu >1 năm làm việc thực tế tại các công ty, dự án về vị trí kiểm thử phần mềm; Có kiến thức sâu rộng về quy trình kiểm thử phần mềm và các phương pháp, công cụ test, kỹ thuật test Ưu tiên có kinh nghiệm làm việc về truy vấn với các hệ cơ sở dữ liệu; Ưu tiên có kinh nghiệm API Testing. Ưu tiên nhân sự có kinh nghiệm kiểm thử App/Web/API.",
-    "skills": []
+    "skills": [
+      {
+        "skill_name": "quy trình kiểm thử phần mềm",
+        "label": "required_skill",
+        "category": "Testing & QA",
+        "min_years": null,
+        "level": null
+      },
+      {
+        "skill_name": "công cụ test",
+        "label": "required_skill",
+        "category": "Testing & QA",
+        "min_years": null,
+        "level": null
+      },
+      {
+        "skill_name": "kỹ thuật test",
+        "label": "required_skill",
+        "category": "Testing & QA",
+        "min_years": null,
+        "level": null
+      },
+      {
+        "skill_name": "truy vấn hệ cơ sở dữ liệu",
+        "label": "preferred_skill",
+        "category": "Database",
+        "min_years": null,
+        "level": null
+      },
+      {
+        "skill_name": "API Testing",
+        "label": "preferred_skill",
+        "category": "Testing & QA",
+        "min_years": null,
+        "level": null
+      },
+      {
+        "skill_name": "kiểm thử App",
+        "label": "preferred_skill",
+        "category": "Testing & QA",
+        "min_years": null,
+        "level": null
+      },
+      {
+        "skill_name": "kiểm thử Web",
+        "label": "preferred_skill",
+        "category": "Testing & QA",
+        "min_years": null,
+        "level": null
+      }
+    ]
+  },
+  {
+    "id": 26,
+    "job_title": "SAP Functional Consultant",
+    "requirement": "- Kinh nghiệm từ 3 năm trở lên ở vị trí Triển khai giải pháp hoặc BA. - Tốt nghiệp chuyên ngành Công nghệ thông tin, Hệ thống thông tin quản lý, Quản trị kinh doanh, Kế toán, hoặc lĩnh vực liên quan. - Có hiểu biết về quy trình nghiệp vụ doanh nghiệp (sản xuất, kế toán, nhân sự, logistics...). - Tiếng Anh đọc hiểu & giao tiếp - Ưu tiên ứng viên có kinh nghiệm triển khai phần mềm ERP/MES hoặc các hệ thống quản trị doanh nghiệp khác. - Kỹ năng phân tích, tổng hợp và giải quyết vấn đề tốt. - Khả năng giao tiếp, làm việc nhóm và làm việc trực tiếp với khách hàng. - Sẵn sàng đi công tác theo yêu cầu dự án.",
+    "skills": [
+      {
+        "skill_name": "quy trình nghiệp vụ doanh nghiệp",
+        "label": "required_skill",
+        "category": "Domain Knowledge",
+        "min_years": null,
+        "level": null
+      },
+      {
+        "skill_name": "sản xuất",
+        "label": "required_skill",
+        "category": "Domain Knowledge",
+        "min_years": null,
+        "level": null
+      },
+      {
+        "skill_name": "kế toán",
+        "label": "required_skill",
+        "category": "Domain Knowledge",
+        "min_years": null,
+        "level": null
+      },
+      {
+        "skill_name": "nhân sự",
+        "label": "required_skill",
+        "category": "Domain Knowledge",
+        "min_years": null,
+        "level": null
+      },
+      {
+        "skill_name": "logistics",
+        "label": "required_skill",
+        "category": "Domain Knowledge",
+        "min_years": null,
+        "level": null
+      },
+      {
+        "skill_name": "Tiếng Anh",
+        "label": "required_skill",
+        "category": "Soft Skill",
+        "min_years": null,
+        "level": null
+      },
+      {
+        "skill_name": "ERP",
+        "label": "preferred_skill",
+        "category": "Domain Knowledge",
+        "min_years": null,
+        "level": null
+      },
+      {
+        "skill_name": "MES",
+        "label": "preferred_skill",
+        "category": "Domain Knowledge",
+        "min_years": null,
+        "level": null
+      },
+      {
+        "skill_name": "phân tích",
+        "label": "required_skill",
+        "category": "Soft Skill",
+        "min_years": null,
+        "level": null
+      },
+      {
+        "skill_name": "giải quyết vấn đề",
+        "label": "required_skill",
+        "category": "Soft Skill",
+        "min_years": null,
+        "level": null
+      },
+      {
+        "skill_name": "giao tiếp",
+        "label": "required_skill",
+        "category": "Soft Skill",
+        "min_years": null,
+        "level": null
+      },
+      {
+        "skill_name": "làm việc nhóm",
+        "label": "required_skill",
+        "category": "Soft Skill",
+        "min_years": null,
+        "level": null
+      }
+    ]
+  },
+  {
+    "id": 27,
+    "job_title": "ISM Manager",
+    "requirement": "Experience -5+ years in Cybersecurity / Information Security -1-2+ years leading SOC or Security Operations teams -Strong experience in IT / Managed Services environments -Proven hands-on experience with Microsoft or any Cloud / On Premises security ecosystem Technical Expertise -Microsoft Defender Suite (Endpoint, Identity, Cloud, O365) -Microsoft Intune (MDM/MAM, compliance policies) -SIEM: Microsoft Sentinel and/or Splunk -Monitoring & observability: Grafana, Prometheus -Vulnerability management & scanning tools -Secure SDLC tooling: SonarQube -Strong understanding of: -Cloud security (Azure-first) -Endpoint & identity threats -Hybrid infrastructure security -Compliance & Governance -Strong hands-on experience with ISO 27001 -Experience handling: -Audit evidence -Control implementation -Client security assurance Soft Skills -Strong operational leadership and decision-making -Excellent communication with engineering, management, and clients -Ability to handle high-pressure incident scenarios -Process-driven, audit-aware mindset -Preferred Certifications -CISSP / CISM / CISA -ISO 27001 Lead Implementer or Auditor -Microsoft Security certifications (SC-200, SC-300, SC-100) -Cloud security certifications (Azure preferred)",
+    "skills": [
+      {
+        "skill_name": "IT Services",
+        "label": "required_skill",
+        "category": "Domain Knowledge",
+        "min_years": null,
+        "level": "expert"
+      },
+      {
+        "skill_name": "Managed Services",
+        "label": "required_skill",
+        "category": "Domain Knowledge",
+        "min_years": null,
+        "level": "expert"
+      },
+      {
+        "skill_name": "Microsoft",
+        "label": "required_skill",
+        "category": "Tool & Platform",
+        "min_years": null,
+        "level": "intermediate"
+      },
+      {
+        "skill_name": "Cloud security",
+        "label": "required_skill",
+        "category": "Cloud & DevOps",
+        "min_years": null,
+        "level": "intermediate"
+      },
+      {
+        "skill_name": "On Premises security",
+        "label": "required_skill",
+        "category": "Cloud & DevOps",
+        "min_years": null,
+        "level": "intermediate"
+      },
+      {
+        "skill_name": "Microsoft Defender Suite",
+        "label": "required_skill",
+        "category": "Tool & Platform",
+        "min_years": null,
+        "level": "expert"
+      },
+      {
+        "skill_name": "Microsoft Intune",
+        "label": "required_skill",
+        "category": "Tool & Platform",
+        "min_years": null,
+        "level": "expert"
+      },
+      {
+        "skill_name": "Microsoft Sentinel",
+        "label": "required_skill",
+        "category": "Tool & Platform",
+        "min_years": null,
+        "level": "expert"
+      },
+      {
+        "skill_name": "Splunk",
+        "label": "required_skill",
+        "category": "Tool & Platform",
+        "min_years": null,
+        "level": NaN
+      },
+      {
+        "skill_name": "Grafana",
+        "label": "required_skill",
+        "category": "Tool & Platform",
+        "min_years": null,
+        "level": NaN
+      },
+      {
+        "skill_name": "Prometheus",
+        "label": "required_skill",
+        "category": "Tool & Platform",
+        "min_years": null,
+        "level": NaN
+      },
+      {
+        "skill_name": "SonarQube",
+        "label": "required_skill",
+        "category": "Tool & Platform",
+        "min_years": null,
+        "level": NaN
+      },
+      {
+        "skill_name": "Secure SDLC",
+        "label": "required_skill",
+        "category": "Domain Knowledge",
+        "min_years": null,
+        "level": NaN
+      },
+      {
+        "skill_name": "Azure",
+        "label": "required_skill",
+        "category": "Cloud & DevOps",
+        "min_years": null,
+        "level": "expert"
+      },
+      {
+        "skill_name": "Hybrid infrastructure security",
+        "label": "required_skill",
+        "category": "Cloud & DevOps",
+        "min_years": null,
+        "level": "expert"
+      },
+      {
+        "skill_name": "Endpoint & identity threats",
+        "label": "required_skill",
+        "category": "Cloud & DevOps",
+        "min_years": null,
+        "level": "expert"
+      },
+      {
+        "skill_name": "ISO 27001",
+        "label": "required_skill",
+        "category": "Engineering Concepts & Methodologies",
+        "min_years": null,
+        "level": "intermediate"
+      },
+      {
+        "skill_name": "communication",
+        "label": "required_skill",
+        "category": "Soft Skill",
+        "min_years": null,
+        "level": NaN
+      },
+      {
+        "skill_name": "Audit evidence",
+        "label": "required_skill",
+        "category": "Engineering Concepts & Methodologies",
+        "min_years": null,
+        "level": "basic"
+      },
+      {
+        "skill_name": "Control implementation",
+        "label": "required_skill",
+        "category": "Engineering Concepts & Methodologies",
+        "min_years": null,
+        "level": NaN
+      },
+      {
+        "skill_name": "security assurance",
+        "label": "required_skill",
+        "category": "Engineering Concepts & Methodologies",
+        "min_years": null,
+        "level": NaN
+      },
+      {
+        "skill_name": "leadership",
+        "label": "required_skill",
+        "category": "Soft Skill",
+        "min_years": null,
+        "level": NaN
+      },
+      {
+        "skill_name": "decision-making",
+        "label": "required_skill",
+        "category": "Soft Skill",
+        "min_years": null,
+        "level": NaN
+      },
+      {
+        "skill_name": "CISSP",
+        "label": "preferred_skill",
+        "category": "Other",
+        "min_years": null,
+        "level": NaN
+      },
+      {
+        "skill_name": "CISM",
+        "label": "preferred_skill",
+        "category": "Other",
+        "min_years": null,
+        "level": NaN
+      },
+      {
+        "skill_name": "CISA",
+        "label": "preferred_skill",
+        "category": "Other",
+        "min_years": null,
+        "level": NaN
+      },
+      {
+        "skill_name": "Microsoft Security certifications",
+        "label": "preferred_skill",
+        "category": "Other",
+        "min_years": null,
+        "level": NaN
+      },
+      {
+        "skill_name": "Cloud security certifications",
+        "label": "preferred_skill",
+        "category": "Other",
+        "min_years": null,
+        "level": NaN
+      }
+    ]
+  },
+  {
+    "id": 28,
+    "job_title": "Tech Lead",
+    "requirement": "• Tốt nghiệp Đại học chuyên ngành CNTT, Khoa học máy tính. • Có từ 5 năm kinh nghiệm phát triển backend, trong đó ít nhất 1–2 năm ở vai trò Technical Leader • Thành thạo 1 trong các ngôn ngữ lập trình Backend: PHP/Python/Node.JS • Có kinh nghiệm lập trình Frontend sử dụng HTML/CSS/Javascript, TypeScript trên các framework như Reactjs, Vuejs… • Có kinh nghiệm thiết kế và triển khai hệ thống lớn, yêu cầu cao về hiệu năng (scalable, high-performance, real-time). • Kiến thức vững về: OOP, kiến trúc Microservices, Design patterns, CI/CD, Cloud (AWS, Google cloud…), Message Queue (Kafka, RabbitMQ)... • Tư duy logic tốt, khả năng phân tích và giải quyết vấn đề phức tạp. • Kỹ năng giao tiếp, truyền đạt, làm việc nhóm và đào tạo kỹ thuật tốt. • Chủ động, trách nhiệm và tinh thần cầu tiến cao. • Có khả năng tìm hiểu, thích ứng tốt với công nghệ mới. • Nhiệt tình, teamwork tốt, sẵn sàng học hỏi các công nghệ mới để đáp ứng công việc..",
+    "skills": [
+      {
+        "skill_name": "PHP",
+        "label": "required_skill",
+        "category": "Programming Language",
+        "min_years": null,
+        "level": "expert"
+      },
+      {
+        "skill_name": "Python",
+        "label": "required_skill",
+        "category": "Programming Language",
+        "min_years": null,
+        "level": "expert"
+      },
+      {
+        "skill_name": "Node.JS",
+        "label": "required_skill",
+        "category": "Programming Language",
+        "min_years": null,
+        "level": "expert"
+      },
+      {
+        "skill_name": "HTML",
+        "label": "required_skill",
+        "category": "Programming Language",
+        "min_years": null,
+        "level": NaN
+      },
+      {
+        "skill_name": "CSS",
+        "label": "required_skill",
+        "category": "Programming Language",
+        "min_years": null,
+        "level": NaN
+      },
+      {
+        "skill_name": "TypeScript",
+        "label": "required_skill",
+        "category": "Programming Language",
+        "min_years": null,
+        "level": NaN
+      },
+      {
+        "skill_name": "Reactjs",
+        "label": "required_skill",
+        "category": "Framework / Library",
+        "min_years": null,
+        "level": NaN
+      },
+      {
+        "skill_name": "Vuejs",
+        "label": "required_skill",
+        "category": "Framework / Library",
+        "min_years": null,
+        "level": NaN
+      },
+      {
+        "skill_name": "triển khai hệ thống lớn",
+        "label": "required_skill",
+        "category": "Cloud & DevOps",
+        "min_years": null,
+        "level": NaN
+      },
+      {
+        "skill_name": "OOP",
+        "label": "required_skill",
+        "category": "Engineering Concepts & Methodologies",
+        "min_years": null,
+        "level": "expert"
+      },
+      {
+        "skill_name": "Microservices",
+        "label": "required_skill",
+        "category": "Engineering Concepts & Methodologies",
+        "min_years": null,
+        "level": "expert"
+      },
+      {
+        "skill_name": "Design patterns",
+        "label": "required_skill",
+        "category": "Engineering Concepts & Methodologies",
+        "min_years": null,
+        "level": "expert"
+      },
+      {
+        "skill_name": "CI/CD",
+        "label": "required_skill",
+        "category": "Cloud & DevOps",
+        "min_years": null,
+        "level": "expert"
+      },
+      {
+        "skill_name": "AWS",
+        "label": "required_skill",
+        "category": "Cloud & DevOps",
+        "min_years": null,
+        "level": NaN
+      },
+      {
+        "skill_name": "Google cloud",
+        "label": "required_skill",
+        "category": "Cloud & DevOps",
+        "min_years": null,
+        "level": NaN
+      },
+      {
+        "skill_name": "Message Queue",
+        "label": "required_skill",
+        "category": "Cloud & DevOps",
+        "min_years": null,
+        "level": NaN
+      },
+      {
+        "skill_name": "Kafka",
+        "label": "required_skill",
+        "category": "Data Engineering & Analytics",
+        "min_years": null,
+        "level": NaN
+      },
+      {
+        "skill_name": "RabbitMQ",
+        "label": "required_skill",
+        "category": "Cloud & DevOps",
+        "min_years": null,
+        "level": NaN
+      },
+      {
+        "skill_name": "Tư duy logic",
+        "label": "required_skill",
+        "category": "Soft Skill",
+        "min_years": null,
+        "level": NaN
+      },
+      {
+        "skill_name": "giải quyết vấn đề",
+        "label": "required_skill",
+        "category": "Soft Skill",
+        "min_years": null,
+        "level": NaN
+      },
+      {
+        "skill_name": "giao tiếp",
+        "label": "required_skill",
+        "category": "Soft Skill",
+        "min_years": null,
+        "level": NaN
+      },
+      {
+        "skill_name": "làm việc nhóm",
+        "label": "required_skill",
+        "category": "Soft Skill",
+        "min_years": null,
+        "level": NaN
+      }
+    ]
+  },
+  {
+    "id": 29,
+    "job_title": "Trưởng Phòng Phần Mềm",
+    "requirement": "- Tốt nghiệp đại học trở lên chuyên ngành Công nghệ thông tin, Tự động hóa, Cơ điện tử… hoặc các ngành có liên quan - Có ít nhất 5 năm kinh nghiệm trong lĩnh vực phát triển phần mềm/hệ thống, có kinh nghiệm xây dựng hệ thống phần mềm với số lượng người dùng lớn. - Đã làm việc tại các doanh nghiệp/tập đoàn có hệ thống quản trị, quy trình phát triển bài bản - Có khả năng phân tích, tổng hợp và giải quyết vấn đề, đặc biệt trong môi trường nhiều hệ thống phức hợp - Hiểu biết và có kinh nghiệm về ứng dụng di động, nền tảng backend, phần mềm nhúng, IoT hoặc hệ thống đa nền tảng; Ưu tiên có kinh nghiệm sâu trong lĩnh vực backend - Có tư duy tổng quan, khả năng định nghĩa giải pháp và trực tiếp tham gia triển khai - Kỹ năng lãnh đạo, truyền cảm hứng, xây dựng đội ngũ mạnh - Kỹ năng giao tiếp và làm việc nhóm tốt",
+    "skills": [
+      {
+        "skill_name": "phát triển phần mềm",
+        "label": "required_skill",
+        "category": "Engineering Concepts & Methodologies",
+        "min_years": 5.0,
+        "level": null
+      },
+      {
+        "skill_name": "giải quyết vấn đề",
+        "label": "required_skill",
+        "category": "Soft Skill",
+        "min_years": NaN,
+        "level": null
+      },
+      {
+        "skill_name": "ứng dụng di động",
+        "label": "required_skill",
+        "category": "Domain Knowledge",
+        "min_years": NaN,
+        "level": null
+      },
+      {
+        "skill_name": "nền tảng backend",
+        "label": "required_skill",
+        "category": "Engineering Concepts & Methodologies",
+        "min_years": NaN,
+        "level": null
+      },
+      {
+        "skill_name": "phần mềm nhúng",
+        "label": "required_skill",
+        "category": "Domain Knowledge",
+        "min_years": NaN,
+        "level": null
+      },
+      {
+        "skill_name": "IoT",
+        "label": "required_skill",
+        "category": "Domain Knowledge",
+        "min_years": NaN,
+        "level": null
+      },
+      {
+        "skill_name": "lãnh đạo",
+        "label": "required_skill",
+        "category": "Soft Skill",
+        "min_years": NaN,
+        "level": null
+      },
+      {
+        "skill_name": "giao tiếp",
+        "label": "required_skill",
+        "category": "Soft Skill",
+        "min_years": NaN,
+        "level": null
+      },
+      {
+        "skill_name": "làm việc nhóm",
+        "label": "required_skill",
+        "category": "Soft Skill",
+        "min_years": NaN,
+        "level": null
+      }
+    ]
+  },
+  {
+    "id": 30,
+    "job_title": "Chuyên Gia Kiến Trúc Hạ Tầng Mạng",
+    "requirement": "- Kinh nghiệm: Tối thiểu 7 năm trong lĩnh vực mạng/an ninh mạng; ít nhất 3 năm ở vai trò Architect/Lead. - Kỹ thuật: Routing & Switching (BGP, OSPF, VLAN, MPLS); Firewall (Fortinet/Palo Alto); Load Balancer (F5/Nginx); Mạng cloud (Azure/AWS VNet/VPC, VPN, ExpressRoute). - Kỹ năng mềm: Phân tích rủi ro, giao tiếp kỹ thuật rõ ràng, năng lực lãnh đạo và huấn luyện (mentoring).",
+    "skills": [
+      {
+        "skill_name": "Routing & Switching",
+        "label": "required_skill",
+        "category": "Cloud & DevOps",
+        "min_years": null,
+        "level": null
+      },
+      {
+        "skill_name": "BGP",
+        "label": "required_skill",
+        "category": "Cloud & DevOps",
+        "min_years": null,
+        "level": null
+      },
+      {
+        "skill_name": "OSPF",
+        "label": "required_skill",
+        "category": "Cloud & DevOps",
+        "min_years": null,
+        "level": null
+      },
+      {
+        "skill_name": "VLAN",
+        "label": "required_skill",
+        "category": "Cloud & DevOps",
+        "min_years": null,
+        "level": null
+      },
+      {
+        "skill_name": "MPLS",
+        "label": "required_skill",
+        "category": "Cloud & DevOps",
+        "min_years": null,
+        "level": null
+      },
+      {
+        "skill_name": "Firewall",
+        "label": "required_skill",
+        "category": "Cloud & DevOps",
+        "min_years": null,
+        "level": null
+      },
+      {
+        "skill_name": "Fortinet",
+        "label": "required_skill",
+        "category": "Cloud & DevOps",
+        "min_years": null,
+        "level": null
+      },
+      {
+        "skill_name": "Palo Alto",
+        "label": "required_skill",
+        "category": "Cloud & DevOps",
+        "min_years": null,
+        "level": null
+      },
+      {
+        "skill_name": "Load Balancer",
+        "label": "required_skill",
+        "category": "Cloud & DevOps",
+        "min_years": null,
+        "level": null
+      },
+      {
+        "skill_name": "F5",
+        "label": "required_skill",
+        "category": "Tool & Platform",
+        "min_years": null,
+        "level": null
+      },
+      {
+        "skill_name": "Nginx",
+        "label": "required_skill",
+        "category": "Cloud & DevOps",
+        "min_years": null,
+        "level": null
+      },
+      {
+        "skill_name": "Azure",
+        "label": "required_skill",
+        "category": "Cloud & DevOps",
+        "min_years": null,
+        "level": null
+      },
+      {
+        "skill_name": "AWS",
+        "label": "required_skill",
+        "category": "Cloud & DevOps",
+        "min_years": null,
+        "level": null
+      },
+      {
+        "skill_name": "VNet",
+        "label": "required_skill",
+        "category": "Cloud & DevOps",
+        "min_years": null,
+        "level": null
+      },
+      {
+        "skill_name": "VPC",
+        "label": "required_skill",
+        "category": "Cloud & DevOps",
+        "min_years": null,
+        "level": null
+      },
+      {
+        "skill_name": "VPN",
+        "label": "required_skill",
+        "category": "Cloud & DevOps",
+        "min_years": null,
+        "level": null
+      },
+      {
+        "skill_name": "ExpressRoute",
+        "label": "required_skill",
+        "category": "Cloud & DevOps",
+        "min_years": null,
+        "level": null
+      },
+      {
+        "skill_name": "Phân tích rủi ro",
+        "label": "required_skill",
+        "category": "Soft Skill",
+        "min_years": null,
+        "level": null
+      },
+      {
+        "skill_name": "giao tiếp",
+        "label": "required_skill",
+        "category": "Soft Skill",
+        "min_years": null,
+        "level": null
+      },
+      {
+        "skill_name": "lãnh đạo",
+        "label": "required_skill",
+        "category": "Soft Skill",
+        "min_years": null,
+        "level": null
+      },
+      {
+        "skill_name": "huấn luyện (mentoring)",
+        "label": "required_skill",
+        "category": "Soft Skill",
+        "min_years": null,
+        "level": null
+      }
+    ]
+  },
+  {
+    "id": 31,
+    "job_title": "Quản Trị Hệ Thống & Thiết Bị Cửa Hàng",
+    "requirement": "Giới tính: Nam từ 25 - 35 tuổi Trung cấp/Cao đẳng/Đại học CNTT hoặc liên quan. Có kinh nghiệm IT support hoặc vận hành thiết bị chuỗi. Biết xử lý phần cứng, phần mềm, mạng nội bộ, camera. Chủ động, linh hoạt, chịu di chuyển.",
+    "skills": [
+      {
+        "skill_name": "vận hành thiết bị chuỗi",
+        "label": "required_skill",
+        "category": "Domain Knowledge",
+        "min_years": null,
+        "level": null
+      },
+      {
+        "skill_name": "xử lý phần cứng",
+        "label": "required_skill",
+        "category": "Cloud & DevOps",
+        "min_years": null,
+        "level": null
+      },
+      {
+        "skill_name": "phần mềm",
+        "label": "required_skill",
+        "category": "Cloud & DevOps",
+        "min_years": null,
+        "level": null
+      },
+      {
+        "skill_name": "mạng nội bộ",
+        "label": "required_skill",
+        "category": "Cloud & DevOps",
+        "min_years": null,
+        "level": null
+      }
+    ]
+  },
+  {
+    "id": 32,
+    "job_title": "System Engineer - Upto 45M",
+    "requirement": "1. Kinh nghiệm: Tối thiểu 03 năm kinh nghiệm tại vị trí tương đương. 2. Kiến thức chuyên môn: - Tốt nghiệp đại học các chuyên ngành liên quan tới: Công nghệ thông tin, Điện tử, Viễn thông,... - Ưu tiên có khả năng nghiên cứu, đọc viết các tài liệu và nghe bằng tiếng Anh. - Hiểu biết về sản phẩm, giải pháp CNTT: máy chủ, lưu trữ, mạng SAN, backup, ảo hóa, container, automation, database, AI, cloud. - Có kinh nghiệm về giải pháp và lên danh mục phần cứng, phần mềm các hãng: Dell, HPE, Cisco, IBM... - Có kinh nghiệm triển khai và hỗ trợ kỹ thuật Oracle Database: RAC, Data Guard, GoldenGate, backup. - Ưu tiên có chứng chỉ của các vendor. - Ưu tiên có kinh nghiệm triển khai hệ thống. - Ưu tiên có Kinh nghiệm về tư vấn giải pháp CNTT. - Ưu tiên có Kinh nghiệm về tư vấn, triển khai, vận hành các lĩnh vực sau là 1 lợi thế: AI, database, cloud... - Có kinh nghiệm tư vấn về các giải pháp private cloud: Morpheus, VMware 3. Kỹ năng - Kỹ năng giao tiếp, làm việc nhóm - Kỹ năng đào tạo, trình bày giải pháp - Kỹ năng viết tài liệu kỹ thuật",
+    "skills": [
+      {
+        "skill_name": "khả năng nghiên cứu",
+        "label": "required_skill",
+        "category": "Soft Skill",
+        "min_years": null,
+        "level": null
+      },
+      {
+        "skill_name": "tiếng Anh",
+        "label": "required_skill",
+        "category": "Soft Skill",
+        "min_years": null,
+        "level": null
+      },
+      {
+        "skill_name": "máy chủ",
+        "label": "required_skill",
+        "category": "Cloud & DevOps",
+        "min_years": null,
+        "level": null
+      },
+      {
+        "skill_name": "lưu trữ",
+        "label": "required_skill",
+        "category": "Cloud & DevOps",
+        "min_years": null,
+        "level": null
+      },
+      {
+        "skill_name": "mạng SAN",
+        "label": "required_skill",
+        "category": "Cloud & DevOps",
+        "min_years": null,
+        "level": null
+      },
+      {
+        "skill_name": "backup",
+        "label": "required_skill",
+        "category": "Cloud & DevOps",
+        "min_years": null,
+        "level": null
+      },
+      {
+        "skill_name": "ảo hóa",
+        "label": "required_skill",
+        "category": "Cloud & DevOps",
+        "min_years": null,
+        "level": null
+      },
+      {
+        "skill_name": "container",
+        "label": "required_skill",
+        "category": "Cloud & DevOps",
+        "min_years": null,
+        "level": null
+      },
+      {
+        "skill_name": "automation",
+        "label": "required_skill",
+        "category": "Cloud & DevOps",
+        "min_years": null,
+        "level": null
+      },
+      {
+        "skill_name": "database",
+        "label": "preferred_skill",
+        "category": "Database",
+        "min_years": null,
+        "level": null
+      },
+      {
+        "skill_name": "AI",
+        "label": "preferred_skill",
+        "category": "AI / ML / Data",
+        "min_years": null,
+        "level": null
+      },
+      {
+        "skill_name": "cloud",
+        "label": "required_skill",
+        "category": "Cloud & DevOps",
+        "min_years": null,
+        "level": null
+      },
+      {
+        "skill_name": "Dell",
+        "label": "required_skill",
+        "category": "Domain Knowledge",
+        "min_years": null,
+        "level": null
+      },
+      {
+        "skill_name": "HPE",
+        "label": "required_skill",
+        "category": "Domain Knowledge",
+        "min_years": null,
+        "level": null
+      },
+      {
+        "skill_name": "Cisco",
+        "label": "required_skill",
+        "category": "Domain Knowledge",
+        "min_years": null,
+        "level": null
+      },
+      {
+        "skill_name": "IBM",
+        "label": "required_skill",
+        "category": "Domain Knowledge",
+        "min_years": null,
+        "level": null
+      },
+      {
+        "skill_name": "Oracle Database",
+        "label": "required_skill",
+        "category": "Database",
+        "min_years": null,
+        "level": null
+      },
+      {
+        "skill_name": "RAC",
+        "label": "required_skill",
+        "category": "Database",
+        "min_years": null,
+        "level": null
+      },
+      {
+        "skill_name": "Data Guard",
+        "label": "required_skill",
+        "category": "Database",
+        "min_years": null,
+        "level": null
+      },
+      {
+        "skill_name": "GoldenGate",
+        "label": "required_skill",
+        "category": "Database",
+        "min_years": null,
+        "level": null
+      },
+      {
+        "skill_name": "triển khai hệ thống",
+        "label": "preferred_skill",
+        "category": "Cloud & DevOps",
+        "min_years": null,
+        "level": null
+      },
+      {
+        "skill_name": "tư vấn giải pháp",
+        "label": "preferred_skill",
+        "category": "Soft Skill",
+        "min_years": null,
+        "level": null
+      },
+      {
+        "skill_name": "private cloud",
+        "label": "required_skill",
+        "category": "Cloud & DevOps",
+        "min_years": null,
+        "level": null
+      },
+      {
+        "skill_name": "Morpheus",
+        "label": "required_skill",
+        "category": "Tool & Platform",
+        "min_years": null,
+        "level": null
+      },
+      {
+        "skill_name": "VMware",
+        "label": "required_skill",
+        "category": "Tool & Platform",
+        "min_years": null,
+        "level": null
+      },
+      {
+        "skill_name": "giao tiếp",
+        "label": "required_skill",
+        "category": "Soft Skill",
+        "min_years": null,
+        "level": null
+      },
+      {
+        "skill_name": "làm việc nhóm",
+        "label": "required_skill",
+        "category": "Soft Skill",
+        "min_years": null,
+        "level": null
+      },
+      {
+        "skill_name": "trình bày giải pháp",
+        "label": "required_skill",
+        "category": "Soft Skill",
+        "min_years": null,
+        "level": null
+      },
+      {
+        "skill_name": "viết tài liệu kỹ thuật",
+        "label": "required_skill",
+        "category": "Soft Skill",
+        "min_years": null,
+        "level": null
+      }
+    ]
+  },
+  {
+    "id": 33,
+    "job_title": "Leader Design (Yêu Cầu Kinh Nghiệm Lĩnh Vực Bất Động Sản )",
+    "requirement": "Thành thạo các phần mềm thiết kế: Photoshop, Illustrator; biết sử dụng Adobe Animate CC hoặc After Effects là một lợi thế. Có tư duy sáng tạo, gu thẩm mỹ tốt và khả năng trình bày ý tưởng rõ ràng. Có khả năng làm việc dưới áp lực cao và đảm bảo tiến độ. Tinh thần cầu tiến, thái độ tích cực. Kinh nghiệm: Tối thiểu 03 năm trong lĩnh vực media/advertising. Tối thiểu 02 năm ở vị trí tương đương (Team Leader/Senior Design). Kinh nghiệm thiết kế lĩnh vực BĐS là 1 lợi thế Có kiến thức về Advertising, Digital Media/Online Marketing. Hiểu biết về các kênh truyền thông, khả năng nghiên cứu dữ liệu và cập nhật xu hướng thiết kế. Có kỹ năng lãnh đạo và điều hành đội nhóm. Có khả năng lập kế hoạch và định hướng phát triển công việc. Sáng tạo cao trong lĩnh vực thiết kế.​​​​​​​",
+    "skills": [
+      {
+        "skill_name": "Photoshop",
+        "label": "required_skill",
+        "category": "Tool & Platform",
+        "min_years": NaN,
+        "level": null
+      },
+      {
+        "skill_name": "Illustrator",
+        "label": "required_skill",
+        "category": "Tool & Platform",
+        "min_years": NaN,
+        "level": null
+      },
+      {
+        "skill_name": "Adobe Animate CC",
+        "label": "preferred_skill",
+        "category": "Tool & Platform",
+        "min_years": NaN,
+        "level": null
+      },
+      {
+        "skill_name": "After Effects",
+        "label": "preferred_skill",
+        "category": "Tool & Platform",
+        "min_years": NaN,
+        "level": null
+      },
+      {
+        "skill_name": "tư duy sáng tạo",
+        "label": "required_skill",
+        "category": "Soft Skill",
+        "min_years": NaN,
+        "level": null
+      },
+      {
+        "skill_name": "gu thẩm mỹ",
+        "label": "required_skill",
+        "category": "Other",
+        "min_years": NaN,
+        "level": null
+      },
+      {
+        "skill_name": "trình bày ý tưởng",
+        "label": "required_skill",
+        "category": "Soft Skill",
+        "min_years": NaN,
+        "level": null
+      },
+      {
+        "skill_name": "media",
+        "label": "required_skill",
+        "category": "Domain Knowledge",
+        "min_years": 3.0,
+        "level": null
+      },
+      {
+        "skill_name": "advertising",
+        "label": "required_skill",
+        "category": "Domain Knowledge",
+        "min_years": 3.0,
+        "level": null
+      },
+      {
+        "skill_name": "lĩnh vực BĐS",
+        "label": "preferred_skill",
+        "category": "Domain Knowledge",
+        "min_years": NaN,
+        "level": null
+      },
+      {
+        "skill_name": "Advertising",
+        "label": "required_skill",
+        "category": "Domain Knowledge",
+        "min_years": NaN,
+        "level": null
+      },
+      {
+        "skill_name": "Digital Media",
+        "label": "required_skill",
+        "category": "Domain Knowledge",
+        "min_years": NaN,
+        "level": null
+      },
+      {
+        "skill_name": "Online Marketing",
+        "label": "required_skill",
+        "category": "Domain Knowledge",
+        "min_years": NaN,
+        "level": null
+      },
+      {
+        "skill_name": "nghiên cứu dữ liệu",
+        "label": "required_skill",
+        "category": "Data Engineering & Analytics",
+        "min_years": NaN,
+        "level": null
+      },
+      {
+        "skill_name": "truyền thông",
+        "label": "required_skill",
+        "category": "Domain Knowledge",
+        "min_years": NaN,
+        "level": null
+      },
+      {
+        "skill_name": "lãnh đạo",
+        "label": "required_skill",
+        "category": "Soft Skill",
+        "min_years": NaN,
+        "level": null
+      },
+      {
+        "skill_name": "lập kế hoạch",
+        "label": "required_skill",
+        "category": "Soft Skill",
+        "min_years": NaN,
+        "level": null
+      }
+    ]
+  },
+  {
+    "id": 34,
+    "job_title": "Nhân Viên Kỹ Thuật [ Hà Nội ] - Thu Nhập Cạnh Tranh, Tối Thiểu 2 Năm Kinh Nghiệm",
+    "requirement": "Có tối thiểu 2–3 năm kinh nghiệm trở lên ở vị trí tương đương. Có kinh nghiệm làm việc với các nền tảng thương mại điện tử: Amazon, Etsy, Shopify. Có hiểu biết về cổng thanh toán Paypal, PingPongx, Worldfirst..., thanh toán trực tuyến là một lợi thế. Tốt nghiệp Cao đẳng/Đại học chuyên ngành CNTT hoặc các ngành liên quan. Tiếng Anh giao tiếp tốt. Tinh thần làm việc chủ động, nhanh nhẹn, hòa đồng, cầu tiến, có trách nhiệm với công việc. Có khả năng sử dụng AI tự tìm hiểu và học tập kiến thức. Khả năng giao tiếp, làm việc tốt với khách hàng",
+    "skills": [
+      {
+        "skill_name": "thương mại điện tử",
+        "label": "required_skill",
+        "category": "Domain Knowledge",
+        "min_years": null,
+        "level": null
+      },
+      {
+        "skill_name": "Amazon",
+        "label": "required_skill",
+        "category": "Domain Knowledge",
+        "min_years": null,
+        "level": null
+      },
+      {
+        "skill_name": "Etsy",
+        "label": "required_skill",
+        "category": "Domain Knowledge",
+        "min_years": null,
+        "level": null
+      },
+      {
+        "skill_name": "Shopify",
+        "label": "required_skill",
+        "category": "Domain Knowledge",
+        "min_years": null,
+        "level": null
+      },
+      {
+        "skill_name": "Paypal",
+        "label": "preferred_skill",
+        "category": "Tool & Platform",
+        "min_years": null,
+        "level": null
+      },
+      {
+        "skill_name": "PingPongx",
+        "label": "preferred_skill",
+        "category": "Tool & Platform",
+        "min_years": null,
+        "level": null
+      },
+      {
+        "skill_name": "Worldfirst",
+        "label": "preferred_skill",
+        "category": "Tool & Platform",
+        "min_years": null,
+        "level": null
+      },
+      {
+        "skill_name": "Tiếng Anh",
+        "label": "required_skill",
+        "category": "Soft Skill",
+        "min_years": null,
+        "level": null
+      },
+      {
+        "skill_name": "giao tiếp",
+        "label": "required_skill",
+        "category": "Soft Skill",
+        "min_years": null,
+        "level": null
+      }
+    ]
+  },
+  {
+    "id": 35,
+    "job_title": "Nhân Viên Nghiên Cứu Al (AI Researcher) - Từ 2 Năm Kinh Nghiệm - Tại Hồ Chí Minh",
+    "requirement": "Thạc sĩ hoặc Tiến sĩ ngành Khoa học máy tính, Toán ứng dụng, Kỹ thuật y sinh hoặc có kinh nghiệm nghiên cứu tương đương. (MS or PhD in CS, Applied Math, Biomedical Engineering, or equivalent research experience) Có hơn 2 năm kinh nghiệm thực chiến nghiên cứu AI trong các lĩnh vực Thị giác máy tính (Computer Vision), NLP/LLM hoặc AI Y tế. (2+ years hands-on AI research in Computer Vision, NLP/LLM, or Medical AI) Thành thạo Python; chuyên sâu về PyTorch/TensorFlow; có kinh nghiệm quy trình end-to-end từ xử lý dữ liệu đến triển khai. (Strong Python; proficient in PyTorch/TensorFlow; experienced end-to-end from data to deployment) Tư duy thực nghiệm nghiêm túc: thí nghiệm sạch, không rò rỉ dữ liệu (data leakage), sử dụng các chỉ số đo lường có ý nghĩa lâm sàng. (Rigorous experimental mindset, clean experiments, no data leakage, clinically meaningful metrics) Sự linh hoạt của startup: tạo mẫu nhanh, lặp lại trên dữ liệu và ra mắt sản phẩm mà không cần qua nhiều bước bàn giao rườm rà. (Startup agility: prototype fast, iterate on data, ship without long handoffs) Đã có kinh nghiệm về AI Y tế trước đó: chẩn đoán hình ảnh, NLP lâm sàng, EHR/EMR hoặc tin sinh học. (Prior Medical AI experience: imaging, clinical NLP, EHR/EMR, or bioinformatics) Có các bài báo xuất bản tại MICCAI, NeurIPS, ICML, ACL, CVPR hoặc các hội nghị tương đương. (Publications at MICCAI, NeurIPS, ICML, ACL, CVPR or equivalent) Quen thuộc với các công cụ và tiêu chuẩn như MONAI, DICOM, HL7/FHIR, hoặc các tiêu chuẩn bảo mật dữ liệu y tế (HIPAA / Luật Bảo vệ dữ liệu cá nhân Việt Nam - PDPD). (Familiarity with MONAI, DICOM, HL7/FHIR, or healthcare data privacy standards (HIPAA / Vietnam PDPD)) Kinh nghiệm tinh chỉnh (fine-tuning) các mô hình LLM trên các bộ dữ liệu y tế chuyên biệt hoặc tiếng Việt. (Experience fine-tuning LLMs on Vietnamese or domain-specific medical corpora)",
+    "skills": [
+      {
+        "skill_name": "Thị giác máy tính",
+        "label": "required_skill",
+        "category": "AI / ML / Data",
+        "min_years": "2",
+        "level": NaN
+      },
+      {
+        "skill_name": "NLP",
+        "label": "required_skill",
+        "category": "AI / ML / Data",
+        "min_years": "2",
+        "level": NaN
+      },
+      {
+        "skill_name": "LLM",
+        "label": "required_skill",
+        "category": "AI / ML / Data",
+        "min_years": "2",
+        "level": NaN
+      },
+      {
+        "skill_name": "AI Y tế",
+        "label": "required_skill",
+        "category": "AI / ML / Data",
+        "min_years": "2",
+        "level": NaN
+      },
+      {
+        "skill_name": "Python",
+        "label": "required_skill",
+        "category": "Programming Language",
+        "min_years": NaN,
+        "level": "expert"
+      },
+      {
+        "skill_name": "PyTorch",
+        "label": "required_skill",
+        "category": "Framework / Library",
+        "min_years": NaN,
+        "level": "expert"
+      },
+      {
+        "skill_name": "TensorFlow",
+        "label": "required_skill",
+        "category": "Framework / Library",
+        "min_years": NaN,
+        "level": "expert"
+      },
+      {
+        "skill_name": "Tư duy thực nghiệm",
+        "label": "required_skill",
+        "category": "Engineering Concepts & Methodologies",
+        "min_years": NaN,
+        "level": NaN
+      },
+      {
+        "skill_name": "EHR/EMR",
+        "label": "required_skill",
+        "category": "Domain Knowledge",
+        "min_years": NaN,
+        "level": NaN
+      },
+      {
+        "skill_name": "bioinformatics",
+        "label": "required_skill",
+        "category": "Domain Knowledge",
+        "min_years": NaN,
+        "level": NaN
+      },
+      {
+        "skill_name": "MICCAI",
+        "label": "required_skill",
+        "category": "Other",
+        "min_years": NaN,
+        "level": NaN
+      },
+      {
+        "skill_name": "NeurIPS",
+        "label": "required_skill",
+        "category": "Other",
+        "min_years": NaN,
+        "level": NaN
+      },
+      {
+        "skill_name": "ICML",
+        "label": "required_skill",
+        "category": "Other",
+        "min_years": NaN,
+        "level": NaN
+      },
+      {
+        "skill_name": "ACL",
+        "label": "required_skill",
+        "category": "Other",
+        "min_years": NaN,
+        "level": NaN
+      },
+      {
+        "skill_name": "CVPR",
+        "label": "required_skill",
+        "category": "Other",
+        "min_years": NaN,
+        "level": NaN
+      },
+      {
+        "skill_name": "MONAI",
+        "label": "required_skill",
+        "category": "Tool & Platform",
+        "min_years": NaN,
+        "level": "intermediate"
+      },
+      {
+        "skill_name": "DICOM",
+        "label": "required_skill",
+        "category": "Tool & Platform",
+        "min_years": NaN,
+        "level": "intermediate"
+      },
+      {
+        "skill_name": "HL7",
+        "label": "required_skill",
+        "category": "Tool & Platform",
+        "min_years": NaN,
+        "level": "intermediate"
+      },
+      {
+        "skill_name": "FHIR",
+        "label": "required_skill",
+        "category": "Tool & Platform",
+        "min_years": NaN,
+        "level": "intermediate"
+      },
+      {
+        "skill_name": "HIPAA",
+        "label": "required_skill",
+        "category": "Domain Knowledge",
+        "min_years": NaN,
+        "level": NaN
+      },
+      {
+        "skill_name": "fine-tuning",
+        "label": "required_skill",
+        "category": "AI / ML / Data",
+        "min_years": NaN,
+        "level": NaN
+      }
+    ]
+  },
+  {
+    "id": 36,
+    "job_title": "Chuyên Viên BIM Developer",
+    "requirement": "Trình độ chuyên môn, kinh nghiệm • Trình độ: Đại học • Kinh nghiệm: Trên 3 năm làm việc BIM (Revit API) Chứng chỉ hành nghề • Ưu tiên có các Chứng chỉ BIM Kỹ năng Am hiểu lập trình, quy trình phối hợp BIM",
+    "skills": [
+      {
+        "skill_name": "BIM",
+        "label": "required_skill",
+        "category": "Domain Knowledge",
+        "min_years": null,
+        "level": null
+      },
+      {
+        "skill_name": "Revit API",
+        "label": "required_skill",
+        "category": "Tool & Platform",
+        "min_years": null,
+        "level": null
+      },
+      {
+        "skill_name": "quy trình phối hợp BIM",
+        "label": "required_skill",
+        "category": "Engineering Concepts & Methodologies",
+        "min_years": null,
+        "level": null
+      }
+    ]
+  },
+  {
+    "id": 37,
+    "job_title": "Kỹ Sư Mô Phỏng Kết Cấu",
+    "requirement": "Yêu cầu bắt buộc: Tốt nghiệp Đại học kỹ thuật Chuyên ngành: Cơ khí/ Cơ khí động lực/ Cơ điện tử Có kiến thức cơ bản về cơ học kết cấu và FEA Ngoại ngữ: đọc hiểu tiếng Anh chuyên ngành liên quan Có khả năng làm việc nhóm, sẵn sàng làm thêm giờ, đi công tác trong nước và nước ngoài Tính cách: chăm chỉ, cẩn thận, chủ động và có trách nhiệm trong công việc Lý lịch rõ ràng, không có tiền án, tiền sự Ứng viên gửi CV, bảng điểm, các bằng cấp chứng nhận đã có Kỹ năng ưu tiên: Có khả năng đào tạo/hỗ trợ kỹ thuật bằng tiếng Anh Đã sử dụng thành thạo một/nhiều phần mềm CAE Đã sử dụng thành thạo các phần mềm ANSYS là một lợi thế",
+    "skills": [
+      {
+        "skill_name": "cơ học kết cấu",
+        "label": "required_skill",
+        "category": "Other",
+        "min_years": null,
+        "level": null
+      },
+      {
+        "skill_name": "FEA Ngoại ngữ",
+        "label": "required_skill",
+        "category": "Tool & Platform",
+        "min_years": null,
+        "level": null
+      },
+      {
+        "skill_name": "tiếng Anh",
+        "label": "required_skill",
+        "category": "Soft Skill",
+        "min_years": null,
+        "level": null
+      },
+      {
+        "skill_name": "phần mềm CAE",
+        "label": "preferred_skill",
+        "category": "Tool & Platform",
+        "min_years": null,
+        "level": null
+      },
+      {
+        "skill_name": "phần mềm ANSYS",
+        "label": "required_skill",
+        "category": "Tool & Platform",
+        "min_years": null,
+        "level": null
+      },
+      {
+        "skill_name": "làm việc nhóm",
+        "label": "required_skill",
+        "category": "Soft Skill",
+        "min_years": null,
+        "level": null
+      }
+    ]
+  },
+  {
+    "id": 38,
+    "job_title": "Cobol Developer - N2 JLPT",
+    "requirement": "Tiếng Nhật từ N2 trở lên, giao tiếp thành thạo; Thông thạo ngôn ngữ lập trình Cobol. Tối thiểu từ 1 năm kinh nghiệm làm việc với các hệ thống Core, ưu tiên domain Ngân hàng, Bảo hiểm, Chứng Khoán; Ưu tiên ứng viên có kinh nghiệm về Mainframe; Ưu tiên ứng viên có kinh nghiệm làm việc cho các dự án thị trường Nhật Bản",
+    "skills": [
+      {
+        "skill_name": "Tiếng Nhật",
+        "label": "required_skill",
+        "category": "Soft Skill",
+        "min_years": NaN,
+        "level": "intermediate"
+      },
+      {
+        "skill_name": "Cobol",
+        "label": "required_skill",
+        "category": "Programming Language",
+        "min_years": NaN,
+        "level": "expert"
+      },
+      {
+        "skill_name": "hệ thống Core",
+        "label": "required_skill",
+        "category": "Domain Knowledge",
+        "min_years": 1.0,
+        "level": NaN
+      },
+      {
+        "skill_name": "Ngân hàng",
+        "label": "preferred_skill",
+        "category": "Domain Knowledge",
+        "min_years": NaN,
+        "level": NaN
+      },
+      {
+        "skill_name": "Bảo hiểm",
+        "label": "preferred_skill",
+        "category": "Domain Knowledge",
+        "min_years": NaN,
+        "level": NaN
+      },
+      {
+        "skill_name": "Chứng Khoán",
+        "label": "preferred_skill",
+        "category": "Domain Knowledge",
+        "min_years": NaN,
+        "level": NaN
+      },
+      {
+        "skill_name": "Mainframe",
+        "label": "preferred_skill",
+        "category": "Domain Knowledge",
+        "min_years": NaN,
+        "level": NaN
+      }
+    ]
+  },
+  {
+    "id": 39,
+    "job_title": "Data Architect",
+    "requirement": "- 8+ years of experience in data engineering, database engineering, or data architecture. - Strong expertise in Azure data services, especially Azure PostgreSQL, Databricks, Azure Data Factory, Cosmos DB, and MongoDB. - Deep understanding of database architecture, performance optimization, and scalability. - Proven experience leading enterprise-scale data platform initiatives. - Strong scripting, automation, and infrastructure-as-code experience. - Hands-on exposure to AI/ML data pipelines and analytics platforms. - Excellent written and verbal communication in English. - Proactive, collaborative, and solution-oriented mindset.",
+    "skills": [
+      {
+        "skill_name": "data engineering",
+        "label": "required_skill",
+        "category": "Data Engineering & Analytics",
+        "min_years": 8.0,
+        "level": NaN
+      },
+      {
+        "skill_name": "database engineering",
+        "label": "required_skill",
+        "category": "Database",
+        "min_years": 8.0,
+        "level": NaN
+      },
+      {
+        "skill_name": "data architecture",
+        "label": "required_skill",
+        "category": "Data Engineering & Analytics",
+        "min_years": 8.0,
+        "level": NaN
+      },
+      {
+        "skill_name": "Azure",
+        "label": "required_skill",
+        "category": "Cloud & DevOps",
+        "min_years": NaN,
+        "level": "expert"
+      },
+      {
+        "skill_name": "Azure PostgreSQL",
+        "label": "required_skill",
+        "category": "Database",
+        "min_years": NaN,
+        "level": "expert"
+      },
+      {
+        "skill_name": "Databricks",
+        "label": "required_skill",
+        "category": "Database",
+        "min_years": NaN,
+        "level": "expert"
+      },
+      {
+        "skill_name": "Azure Data Factory",
+        "label": "required_skill",
+        "category": "Database",
+        "min_years": NaN,
+        "level": "expert"
+      },
+      {
+        "skill_name": "Cosmos DB",
+        "label": "required_skill",
+        "category": "Database",
+        "min_years": NaN,
+        "level": "expert"
+      },
+      {
+        "skill_name": "MongoDB",
+        "label": "required_skill",
+        "category": "Database",
+        "min_years": NaN,
+        "level": "expert"
+      },
+      {
+        "skill_name": "database architecture",
+        "label": "required_skill",
+        "category": "Engineering Concepts & Methodologies",
+        "min_years": NaN,
+        "level": "expert"
+      },
+      {
+        "skill_name": "performance optimization",
+        "label": "required_skill",
+        "category": "Engineering Concepts & Methodologies",
+        "min_years": NaN,
+        "level": "expert"
+      },
+      {
+        "skill_name": "scalability",
+        "label": "required_skill",
+        "category": "Engineering Concepts & Methodologies",
+        "min_years": NaN,
+        "level": "expert"
+      },
+      {
+        "skill_name": "enterprise-scale data platform",
+        "label": "required_skill",
+        "category": "Data Engineering & Analytics",
+        "min_years": NaN,
+        "level": NaN
+      },
+      {
+        "skill_name": "scripting",
+        "label": "required_skill",
+        "category": "Programming Language",
+        "min_years": NaN,
+        "level": "expert"
+      },
+      {
+        "skill_name": "automation",
+        "label": "required_skill",
+        "category": "Cloud & DevOps",
+        "min_years": NaN,
+        "level": "expert"
+      },
+      {
+        "skill_name": "infrastructure-as-code",
+        "label": "required_skill",
+        "category": "Cloud & DevOps",
+        "min_years": NaN,
+        "level": "expert"
+      },
+      {
+        "skill_name": "AI/ML data pipelines",
+        "label": "preferred_skill",
+        "category": "AI / ML / Data",
+        "min_years": NaN,
+        "level": "intermediate"
+      },
+      {
+        "skill_name": "analytics platforms",
+        "label": "preferred_skill",
+        "category": "Data Engineering & Analytics",
+        "min_years": NaN,
+        "level": "intermediate"
+      },
+      {
+        "skill_name": "English",
+        "label": "required_skill",
+        "category": "Soft Skill",
+        "min_years": NaN,
+        "level": "expert"
+      }
+    ]
+  },
+  {
+    "id": 40,
+    "job_title": "Kỹ Sư Khôi Phục Dữ Liệu (Sửa Chữa Máy Tính )",
+    "requirement": "A. Yêu cầu kinh nghiệm Có tối thiểu 03 năm làm việc ở một trong các lĩnh vực sau: Kỹ thuật sửa chữa PC/Laptop/thiết bị số (ưu tiên ứng viên có kinh nghiệm chẩn đoán phần cứng chuyên sâu). IT Support thiên về xử lý thiết bị và phần cứng. Data Recovery hoặc Digital Forensics (được xem là lợi thế lớn). Ưu tiên ứng viên từng làm trong môi trường dịch vụ kỹ thuật có áp lực về thời gian xử lý (TAT/SLA) và cam kết tiến độ. C. Năng lực chuyên môn Có khả năng phân tích triệu chứng, khoanh vùng và xác định nguyên nhân sự cố. Nắm được nguyên lý và cấu trúc lưu trữ cơ bản của HDD/SSD/USB/Thẻ nhớ; hiểu rõ rủi ro khi thao tác sai quy trình. Kỹ năng làm việc trong môi trường lab: thao tác cẩn trọng, tỉ mỉ, tuân thủ quy trình kỹ thuật và tiêu chuẩn an toàn.",
+    "skills": [
+      {
+        "skill_name": "sửa chữa PC",
+        "label": "required_skill",
+        "category": "Other",
+        "min_years": null,
+        "level": null
+      },
+      {
+        "skill_name": "sửa chữa Laptop",
+        "label": "required_skill",
+        "category": "Other",
+        "min_years": null,
+        "level": null
+      }
+    ]
   }
 ]

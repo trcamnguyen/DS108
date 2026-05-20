@@ -95,9 +95,9 @@ def main():
         with col3:
             category = st.selectbox("Category", [
                 "Programming Language", "Framework / Library", "Database", 
-                "Cloud & DevOps", "AI / ML / Data", "Data Engineering & Analytics", 
+                "Infrastructure & DevOps", "AI / ML / Data", "Data Engineering & Analytics", 
                 "Testing & QA", "Engineering Concepts & Methodologies", "Tool & Platform", "Soft Skill", 
-                "Domain Knowledge", "Other"
+                "Domain Knowledge", "IT Support & Hardware", "Embedded & Firmware", "Other"
             ])
             
         col4, col5 = st.columns(2)
@@ -161,9 +161,9 @@ def main():
                     "Category",
                     options=[
                         "Programming Language", "Framework / Library", "Database", 
-                        "Cloud & DevOps", "AI / ML / Data", "Data Engineering & Analytics", 
+                        "Infrastructure & DevOps", "AI / ML / Data", "Data Engineering & Analytics", 
                         "Testing & QA", "Engineering Concepts & Methodologies", "Tool & Platform", "Soft Skill", 
-                        "Domain Knowledge", "Other"
+                        "Domain Knowledge", "IT Support & Hardware", "Embedded & Firmware", "Other"
                     ],
                     required=True
                 ),

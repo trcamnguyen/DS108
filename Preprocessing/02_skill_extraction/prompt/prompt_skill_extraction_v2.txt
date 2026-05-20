@@ -92,47 +92,10 @@ Chỉ dùng đúng 1 trong các giá trị sau cho trường "category":
       MySQL, PostgreSQL, MongoDB, Redis, Elasticsearch, SQLite, Oracle, MSSQL
       Biến thể VN: "SQL Server", "Postgres", "Mongo", "cơ sở dữ liệu quan hệ"
 
-  "Infrastructure & DevOps"
-      Cloud Platforms : AWS, GCP, Azure, Google Cloud
-      Containerization: Docker, Kubernetes, Containerd, container
-      CI/CD & GitOps  : CI/CD, GitHub Actions, GitLab CI, ArgoCD, GitOps,
-                        Jenkins, build pipeline
-      IaC             : Terraform, Terragrunt, AWS CloudFormation,
-                        infrastructure-as-code, IaC
-      Virtualization  : VMware, VMware vSphere, Hyper-V, Hypervisor,
-                        Openstack, Vmware, ảo hóa, private cloud, Morpheus
-      Networking      : Nginx, Load Balancer, Firewall, VPN, VNet/VPC, VPC,
-                        Routing & Switching, BGP, OSPF, VLAN, MPLS,
-                        ExpressRoute, mạng, hệ thống mạng, an ninh mạng,
-                        mạng cloud, mạng nội bộ, Network
-      Observability   : Prometheus, Grafana, Zabbix, ELK, Datadog, Jaeger,
-                        OpenTelemetry, LGMT, log aggregation
-      Serverless      : Cloudflare Workers, Azure Functions, Logic Apps,
-                        Firebase, Azure AD Authentication
-      Web Server      : Nginx, Gunicorn
-      Server & Infra  : Linux server, hệ thống máy chủ, Site Reliability Engineering,
-                        DevOps, SRE, vận hành hệ thống production
-      Messaging       : RabbitMQ, Message Queue (khi đóng vai trò middleware)
-      MLOps           : MLOps, MLflow (khi thiên về deployment/serving/monitoring
-                        của ML model — không phải training)
-      Biến thể VN     : "triển khai Docker", "đóng gói container", "deploy lên AWS",
-                        "hệ thống mạng", "ảo hóa", "vận hành hệ thống production"
+  "Cloud & DevOps"
+      AWS, GCP, Azure, Docker, Kubernetes, CI/CD, GitHub Actions, Terraform, Nginx
+      Biến thể VN: "triển khai Docker", "đóng gói container", "deploy lên AWS"
 
-      BOUNDARY RULES:
-        • Grafana / Prometheus / Zabbix / ELK / Datadog
-            → "Infrastructure & DevOps" (observability stack, deploy cùng infra)
-            → KHÔNG phải "Tool & Platform" (dù là tool)
-        • Networking thuần (BGP, OSPF, Firewall, VLAN, Load Balancer)
-            → "Infrastructure & DevOps"
-            → KHÔNG phải "Domain Knowledge" (Domain Knowledge chỉ dùng cho
-              business domain: FinTech, ERP, Automotive — không phải technical domain)
-        • RabbitMQ → "Infrastructure & DevOps" (middleware)
-            Kafka    → "Data Engineering" (data pipeline)
-        • MLOps / MLflow
-            → "Infrastructure & DevOps"  nếu: deployment, serving, monitoring model
-            → "AI/ML/Data"               nếu: training, experimentation, model building
-        • Cloud security / Network security
-            → "Infrastructure & DevOps" (là sub-domain của infra, không phải Domain Knowledge)
   "AI/ML/Data"
       TensorFlow, PyTorch, scikit-learn, OpenCV, LangChain, Machine Vision,
       NLP, LLM, RAG, Hugging Face, YOLO, Computer Vision, Recommendation System,
@@ -145,37 +108,11 @@ Chỉ dùng đúng 1 trong các giá trị sau cho trường "category":
       Power BI, dbt, Power Automate, SSIS, Tableau
       Biến thể VN: "pipeline dữ liệu", "report automation", "xử lý batch"
 
-  "Engineering Concepts & Methodologies"
-        Software Design : OOP, SOLID, Design Patterns, Clean Architecture,
-                          Clean Code, DDD, lập trình hướng đối tượng
-        Architecture    : System Design, Microservices, microservice,
-                          kiến trúc microservices, distributed systems,
-                          phân tích và thiết kế hệ thống
-        API & Integration: RESTful API, REST API, REST APIs, API, ORM,
-                          transaction management, pub/sub
-        Process & Agile : Agile, Scrum, Kanban, TDD,
-                          quy trình phát triển phần mềm,
-                          viết tài liệu đặc tả yêu cầu
-        Performance     : Performance Optimization, caching, query optimization,
-                          query tuning, concurrency control, distributed lock
-        State & Runtime : State Management, error handling, schema design,
-                          transaction handling, batch (khi là pattern xử lý)
-        Biến thể VN     : "lập trình hướng đối tượng", "kiến trúc microservice",
-                          "RESFULL", "thu thập và phân tích yêu cầu"
-
-        BOUNDARY RULES — SAU KHI CÓ Testing & QA:
-          • test plan / test case / kiểm thử tự động / quy trình kiểm thử
-              → "Testing & QA" (ĐÃ CHUYỂN — không còn thuộc category này)
-          • TDD → "Engineering Concepts & Methodologies" (giữ nguyên)
-          • A/B Testing → "Engineering Concepts & Methodologies" (giữ nguyên)
-          • "batch" khi là pattern xử lý trong code
-              → "Engineering Concepts & Methodologies"
-            "batch processing" khi là ETL pipeline
-              → "Data Engineering"
-          • Message Queue AS PATTERN (pub/sub, event-driven)
-              → "Engineering Concepts & Methodologies"
-            RabbitMQ / Kafka AS TOOL
-              → "Infrastructure & DevOps" / "Data Engineering"
+  "Methodology"
+      Agile, Scrum, OOP, Design Patterns, System Design, Microservices,
+      RESTful API, REST API, Clean Code, SOLID, TDD, DDD, State Management,
+      Performance Optimization
+      Biến thể VN: "lập trình hướng đối tượng", "kiến trúc microservice", "RESFULL"
 
   "Tool & Platform"
       Git, Jira, Figma, Postman, Linux, SolidWorks, PLC, MATLAB,
@@ -184,85 +121,17 @@ Chỉ dùng đúng 1 trong các giá trị sau cho trường "category":
 
   "Soft Skill"
       Communication, Teamwork, Problem-solving, Leadership, Logical Thinking,
-      Team Management, Product Thinking, Critical Thinking, Time Management,
-      Presentation Skills, English (tiếng Anh), Japanese (tiếng Nhật)
+      Work Ethic, Responsibility, Team Management, Product Thinking,
+      English (tiếng Anh), Japanese (tiếng Nhật)
       Biến thể VN: "làm việc nhóm", "giao tiếp tốt", "đọc hiểu tài liệu tiếng Anh",
-                   "tư duy logic", "tư duy phản biện", "kỹ năng thuyết trình"
-
-      KHÔNG thuộc Soft Skill — BỎ QUA (xem EC-10):
-        ham học hỏi | cầu tiến | tự học | chủ động | tự giác | năng động |
-        nhiệt tình | tận tâm | có trách nhiệm | kiên nhẫn | cẩn thận | tỉ mỉ |
-        trung thực | có đam mê | thái độ tích cực | yêu thích lĩnh vực X |
-        tinh thần làm việc | work ethic (khi là danh sách trait)
+                   "tư duy logic", "tinh thần trách nhiệm"
 
   "Domain Knowledge"
       eCommerce, FinTech, Logistics, HealthTech, Embedded Systems,
       ERP, IoT, Robotics, Automotive, DICOM/HL7, Bluetooth (BLE)
       Biến thể VN: "thương mại điện tử", "hệ thống nhúng", "vi điều khiển",
                    "cơ điện tử"
-  
-  "Testing & QA"
-      Testing Types   : Manual Testing, Automation Testing, Web Testing,
-                        API Testing, Unit Testing, Integration Testing,
-                        Performance Testing, Regression Testing, UAT,
-                        kiểm thử thủ công, kiểm thử tự động,
-                        kiểm thử tự động mobile app / web / API
-      Test Artifacts  : test plan, test case, test script, tạo data test,
-                        bug report, quy trình kiểm thử
-      Automation Tools: Selenium, JMeter, Playwright, Cypress, Appium,
-                        Postman (khi dùng cho API testing), Xray,
-                        công cụ kiểm thử tự động
-      Embedded Testing: Tessy, ECU Test, TPT, RTRT, LabCar, INCA, PC-lint,
-                        LDRA, PRQA (automotive/embedded test tools)
-      QA Process      : kiểm thử hiệu năng, kiểm thử bảo mật, load testing,
-                        stress testing, quy trình QA/QC
-      Biến thể VN     : "kiểm thử tự động", "kiểm thử tự động mobile app",
-                        "viết test case", "công cụ test"
 
-      BOUNDARY RULES:
-        • Automation Testing (kỹ năng tổng quát) → "Testing & QA"
-          Selenium / Playwright / Cypress / JMeter (tool cụ thể) → "Testing & QA"
-          Postman khi test API → "Testing & QA"
-          Postman khi debug / explore API (không rõ context) → "Tool & Platform"
-        • TDD (Test-Driven Development)
-            → "Engineering Concepts & Methodologies" (design philosophy)
-            → KHÔNG phải "Testing & QA"
-        • A/B Testing
-            → "Engineering Concepts & Methodologies" (product/data methodology)
-            → KHÔNG phải "Testing & QA"
-        • "kiểm thử hiệu năng" / Performance Testing
-            → "Testing & QA" (QA activity)
-          "Performance Optimization" / caching / query tuning
-            → "Engineering Concepts & Methodologies" (engineering practice)
-  "IT Support & Hardware"
-      Device Repair   : PC/Laptop repair, hardware troubleshooting,
-                        chẩn đoán phần cứng, sửa chữa thiết bị số
-      Storage         : HDD/SSD/USB/Thẻ nhớ, Data Recovery, Digital Forensics
-      Support Skills  : IT Helpdesk, IT Support, remote support, TAT/SLA
-      Biến thể VN     : "sửa chữa PC/Laptop", "chẩn đoán phần cứng chuyên sâu",
-                        "xử lý thiết bị và phần cứng"
-
-      BOUNDARY RULES:
-        • Network troubleshooting (cấu hình mạng, routing)
-            → "Infrastructure & DevOps"
-        • Phần mềm diệt virus, endpoint security
-            → "Tool & Platform"
-
-  "Embedded & Firmware"
-      Programming     : Embedded C/C++, Firmware, RTOS, Assembly
-      Hardware        : Microcontroller, PLC, MCU, vi điều khiển, cảm biến,
-                        sensor, IO, Serial
-      Automotive      : CAN, LIN, CANoe, CANalyser, ISO14229, Diagnostic,
-                        ECU, LabCar, INCA
-      Testing Tools   : Tessy, ECU Test, TPT, RTRT, PC-lint, LDRA, PRQA
-      Biến thể VN     : "hệ thống nhúng", "lập trình PLC", "vi điều khiển",
-                        "lập trình nhúng"
-
-      BOUNDARY RULES:
-        • Tessy / ECU Test / TPT → "Embedded & Firmware" (không phải "Testing & QA")
-        • PLC khi trong context automation/manufacturing → "Embedded & Firmware"
-        • IoT (khi thiên về connectivity/cloud) → "Domain Knowledge"
-          IoT (khi thiên về firmware/hardware) → "Embedded & Firmware"
   "Other"
       Dùng khi skill không thuộc rõ ràng vào nhóm nào.
       KHÔNG được bỏ trống trường category — dùng "Other" thay cho null.
@@ -325,22 +194,22 @@ EC-05 [Skill không có context — áp dụng default rule]
   LÝ DO : Không có soft qualifier → default rule = required_skill.
            "Cơ bản" áp dụng cho tiếng Anh → level="basic".
 
-EC-06 [Soft skill lẫn technical skill — ÁP DỤNG EC-10 TRƯỚC, sau đó tách]
-  INPUT : "Yêu cầu: Python, tư duy logic tốt, kỹ năng giao tiếp,
-           có tinh thần trách nhiệm, nhiệt tình, chủ động"
+EC-06 [Soft skill lẫn technical skill — TÁCH từng cụm distinct]
+  INPUT : "Yêu cầu: Python, tư duy logic tốt, có tinh thần trách nhiệm"
   OUTPUT: Python → required ("Programming Language")
           "tư duy logic" → required ("Soft Skill")
-          "kỹ năng giao tiếp" → required ("Soft Skill")
-          "tinh thần trách nhiệm" → BỎ QUA (personality trait — EC-10)
-          "nhiệt tình" → BỎ QUA (personality trait — EC-10)
-          "chủ động" → BỎ QUA (personality trait — EC-10)
-  LÝ DO : Áp dụng EC-10 trước để loại personality trait. Với các soft skill
-          còn lại, mỗi distinct concept = 1 entry riêng.
+          "tinh thần trách nhiệm" → required ("Soft Skill")
+  LÝ DO : Label áp dụng theo mục. Mỗi soft skill distinct = 1 entry riêng.
+          KHÔNG gộp "tư duy logic" với "tinh thần trách nhiệm" thành 1 skill.
 
-  QUY TẮC TÁCH soft skill sau khi đã lọc EC-10:
+  QUY TẮC GỘP/TÁCH SOFT SKILL:
+  • Synonym/cụm cùng nghĩa → gộp 1 skill:
+      "tự giác, chủ động, nhiệt tình, có kỷ luật" → 1 skill "Work Ethic"
+      (vì 4 từ này đều mô tả thái độ làm việc tích cực — cùng concept)
   • Distinct concepts → tách riêng:
-      "tư duy logic, kỹ năng giao tiếp" → 2 entries
-      "giao tiếp tốt, làm việc nhóm" → 2 entries (communication ≠ teamwork)
+      "tư duy logic, tinh thần trách nhiệm" → 2 skills
+      (logic = năng lực tư duy; trách nhiệm = thái độ — khác concept)
+      "giao tiếp tốt, làm việc nhóm" → 2 skills (communication ≠ teamwork)
 
 EC-07 [skill_name — giữ raw, KHÔNG normalize]
   INPUT : "các mô hình học máy", "mô hình học máy"
@@ -384,38 +253,6 @@ EC-09 [Thông tin học vấn / ngành học — KHÔNG PHẢI skill, BỎ QUA]
              "cử nhân", "thạc sĩ", "tiến sĩ", "cao đẳng", "đại học loại"
   • Ngay cả khi tên ngành trùng với tên skill (ví dụ "ngành thống kê" ≠ skill statistics)
 
-EC-10 [Personality trait — KHÔNG PHẢI skill, BỎ QUA]
-  INPUT : "Có tinh thần ham học hỏi, chủ động, nhiệt tình và có kỷ luật.
-           Kỹ năng giao tiếp tốt và làm việc nhóm hiệu quả."
-  OUTPUT: "kỹ năng giao tiếp" → required ("Soft Skill")
-          "làm việc nhóm" → required ("Soft Skill")
-          "ham học hỏi", "chủ động", "nhiệt tình", "có kỷ luật" → BỎ QUA tất cả
-  LÝ DO : Personality trait mô tả phẩm chất, thái độ, tinh thần của ứng viên —
-          không thể đào tạo được và không có signal cho mô hình dự đoán lương.
-          Soft skill là năng lực cụ thể, quan sát được qua hành vi và có thể rèn luyện.
-
-  PHÂN BIỆT personality trait vs soft skill:
-  ┌────────────────────────────────────┬──────────────────────────────────────┐
-  │ BỎ QUA (personality trait)         │ CÓ extract (soft skill)              │
-  ├────────────────────────────────────┼──────────────────────────────────────┤
-  │ ham học hỏi, cầu tiến, tự học      │ Communication / giao tiếp            │
-  │ chủ động, tự giác, năng động       │ Teamwork / làm việc nhóm             │
-  │ nhiệt tình, tận tâm                │ Leadership / lãnh đạo                │
-  │ có trách nhiệm, tận tụy            │ Problem-solving / giải quyết vấn đề  │
-  │ kiên nhẫn, cẩn thận, tỉ mỉ        │ Logical Thinking / tư duy logic      │
-  │ trung thực, chính trực             │ Presentation Skills / thuyết trình   │
-  │ có đam mê với lĩnh vực X          │ Time Management / quản lý thời gian  │
-  │ thái độ làm việc tích cực          │ Team Management / quản lý nhóm       │
-  │ tinh thần làm việc (trait list)    │ Critical Thinking / tư duy phản biện │
-  │ yêu thích / đam mê công nghệ      │ Product Thinking / tư duy sản phẩm   │
-  │                                    │ English / Japanese (ngoại ngữ)       │
-  └────────────────────────────────────┴──────────────────────────────────────┘
-
-  TEST NHANH: "Năng lực này có thể đào tạo trong 3–6 tháng và đánh giá qua
-  output công việc cụ thể không?"
-    → CÓ: extract (soft skill)
-    → KHÔNG: bỏ qua (personality trait)
-
 ═══════════════════════════════════════════════════════
 OUTPUT JSON SCHEMA
 ═══════════════════════════════════════════════════════
@@ -431,18 +268,7 @@ OUTPUT JSON SCHEMA
                     | "intermediate"
                     | "basic"
                     | null,
-      "source_text" : string  // Cụm từ TỐI ĐA 60 ký tự trực tiếp chứa skill.
-                        // Ưu tiên: fragment nhỏ nhất có skill + trigger keyword.
-                        // Nếu câu gốc > 60 ký tự: cắt lấy phần chứa skill,
-                        //   thêm "…" ở đầu/cuối nếu bị cắt.
-                        // KHÔNG trích cả câu nếu chỉ cần 1 cụm từ.
-                        //
-                        // Ví dụ ĐÚNG:
-                        //   "Power BI – expert level (minimum 3 years)"   ✓
-                        //   "Ưu tiên ứng viên có kinh nghiệm Docker"      ✓
-                        //   "…kinh nghiệm sử dụng ít nhất một trong…"     ✓
-                        // Ví dụ SAI:
-                        //   "Có kinh nghiệm sử dụng ít nhất một trong các ngôn ngữ Python, R, để xây dựng mô hình"  ✗
+      "source_text" : string               // Đoạn trích NGẮN NHẤT từ requirement chứa skill
     }
   ]
 }
@@ -478,9 +304,6 @@ CRITICAL OUTPUT RULES:
        Chỉ nói "biết tiếng Anh" / "có tiếng Anh" không có mức độ
          → null
   ⑩ skill_name GIỮ RAW từ JD — không dịch, không canonical hóa (xem EC-07).
-  ⑪ KHÔNG extract personality trait (thái độ, tinh thần, phẩm chất cá nhân)
-     thành skill (xem EC-10). Chỉ extract soft skill là năng lực cụ thể,
-     quan sát được và có thể rèn luyện.
 
 ===FEW_SHOT===
 [
@@ -608,6 +431,14 @@ CRITICAL OUTPUT RULES:
           "source_text": "Có tư duy logic tốt, có tinh thần trách nhiệm"
         },
         {
+          "skill_name": "tinh thần trách nhiệm",
+          "label": "required_skill",
+          "category": "Soft Skill",
+          "min_years": null,
+          "level": null,
+          "source_text": "Có tư duy logic tốt, có tinh thần trách nhiệm"
+        },
+        {
           "skill_name": "lập trình mobile",
           "label": "preferred_skill",
           "category": "Other",
@@ -701,6 +532,14 @@ CRITICAL OUTPUT RULES:
           "min_years": null,
           "level": null,
           "source_text": "có sử dụng Reinforcement Learning"
+        },
+        {
+          "skill_name": "tinh thần làm việc tự giác, chủ động, nhiệt tình và có kỷ luật",
+          "label": "required_skill",
+          "category": "Soft Skill",
+          "min_years": null,
+          "level": null,
+          "source_text": "Tinh thần làm việc tự giác, chủ động, nhiệt tình và có kỷ luật"
         }
       ]
     }
