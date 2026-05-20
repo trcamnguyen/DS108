@@ -149,6 +149,7 @@ def main():
         
         edited_df = st.data_editor(
             skills_df, 
+            key=f"editor_{job_key}",
             use_container_width=True, 
             num_rows="dynamic",
             column_config={
@@ -174,9 +175,10 @@ def main():
             }
         )
         
-        # Lưu lại thay đổi vào session state
+        # Lưu lại thay đổi vào session state nếu có sự khác biệt
         updated_skills = edited_df.where(pd.notnull(edited_df), None).to_dict('records')
-        st.session_state.annotations[job_key]["skills"] = updated_skills
+        if updated_skills != current_skills:
+            st.session_state.annotations[job_key]["skills"] = updated_skills
         
         # Nút xóa skill cuối cùng (phòng trường hợp nhập sai)
         if st.button("🗑️ Xóa skill vừa thêm"):
