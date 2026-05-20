@@ -18,10 +18,6 @@ sys.stdout.reconfigure(encoding="utf-8")
 
 ROOT = Path(__file__).parent.parent
 
-CSV_IN  = ROOT.parent.parent / "data" / "raw" / "00-topcv_raw.csv"
-JSON_IN = ROOT / "output" / "job_title_full.json"
-CSV_OUT = ROOT / "output" / "01-topcv_llm_standardized.csv"
-
 NEW_COLS = [
     "is_valid_job",
     "standardized_title",
@@ -117,6 +113,20 @@ def merge(
 # -------------------------------------------------------------------
 
 if __name__ == "__main__":
+    import argparse
+    parser = argparse.ArgumentParser(description="Merge LLM results into dataset CSV")
+    parser.add_argument(
+        "--dataset", choices=["topcv", "itviec"], default="topcv",
+        help="Dataset to merge (default: topcv). "
+             "Note: if merging TopCV from old checkpoint, rename "
+             "output/job_title_full.json → output/topcv_job_title_full.json first."
+    )
+    args = parser.parse_args()
+
+    CSV_IN  = ROOT.parent.parent / "data" / "raw" / f"00-{args.dataset}_raw.csv"
+    JSON_IN = ROOT / "output" / f"{args.dataset}_job_title_full.json"
+    CSV_OUT = ROOT / "output" / f"01-{args.dataset}_llm_standardized.csv"
+
     merge(
         csv_in=CSV_IN,
         json_in=JSON_IN,
