@@ -33,6 +33,19 @@ def load_data():
         return pd.read_csv(file_path)
     return None
 
+def _invalidate_editor(job_key):
+    """Xóa base DataFrame và widget state của data_editor để buộc rebuild."""
+    for prefix in ("_base_", "editor_"):
+        k = f"{prefix}{job_key}"
+        if k in st.session_state:
+            del st.session_state[k]
+
+def _invalidate_all_editors():
+    """Xóa tất cả editor state (dùng khi import dữ liệu mới)."""
+    for k in list(st.session_state.keys()):
+        if k.startswith("_base_") or k.startswith("editor_"):
+            del st.session_state[k]
+
 def main():
     st.title("🎯 Gán nhãn kỹ năng (Skill Annotation)")
     
@@ -63,12 +76,14 @@ def main():
     col_nav1, col_nav2, col_nav3 = st.columns([1, 2, 1])
     with col_nav1:
         if st.button("⬅️ Previous Job") and st.session_state.current_index > 0:
+            _invalidate_editor(job_key)
             st.session_state.current_index -= 1
             st.rerun()
     with col_nav2:
         st.markdown(f"<h3 style='text-align: center;'>Job {st.session_state.current_index + 1} / {total_jobs}</h3>", unsafe_allow_html=True)
     with col_nav3:
         if st.button("Next Job ➡️") and st.session_state.current_index < total_jobs - 1:
+            _invalidate_editor(job_key)
             st.session_state.current_index += 1
             st.rerun()
 
@@ -95,9 +110,9 @@ def main():
         with col3:
             category = st.selectbox("Category", [
                 "Programming Language", "Framework / Library", "Database", 
-                "Cloud & DevOps", "AI / ML / Data", "Data Engineering & Analytics", 
+                "Infrastructure & DevOps", "AI / ML / Data", "Data Engineering & Analytics", 
                 "Testing & QA", "Engineering Concepts & Methodologies", "Tool & Platform", "Soft Skill", 
-                "Domain Knowledge", "Other"
+                "Domain Knowledge", "IT Support & Hardware", "Embedded & Firmware", "Other"
             ])
             
         col4, col5 = st.columns(2)
@@ -136,20 +151,30 @@ def main():
                 }
                 
                 st.session_state.annotations[job_key]["skills"].append(skill_obj)
+                _invalidate_editor(job_key)
                 st.success(f"Đã thêm thành công: {skill_name}")
 
     # --- Hiển thị danh sách kỹ năng đã gán nhãn ---
     st.markdown("### 📋 Các kỹ năng đã thêm cho Job này (Có thể chỉnh sửa trực tiếp)")
-    current_skills = st.session_state.annotations[job_key]["skills"]
-    if len(current_skills) == 0:
-        st.write("Chưa có kỹ năng nào được thêm.")
-    else:
-        # Hiển thị dưới dạng bảng để dễ nhìn và cho phép chỉnh sửa
-        skills_df = pd.DataFrame(current_skills)
-        
+
+    @st.fragment
+    def render_skill_editor():
+        skills = st.session_state.annotations[job_key]["skills"]
+
+        if not skills:
+            st.write("Chưa có kỹ năng nào được thêm.")
+            return
+
+        # Stable base: chỉ rebuild khi bị invalidate (add/delete/import/navigation),
+        # KHÔNG rebuild khi user chỉnh sửa cell → giữ nguyên widget state & scroll.
+        base_key = f"_base_{job_key}"
+        if base_key not in st.session_state:
+            st.session_state[base_key] = pd.DataFrame(skills)
+
         edited_df = st.data_editor(
-            skills_df, 
-            use_container_width=True, 
+            st.session_state[base_key],
+            key=f"editor_{job_key}",
+            use_container_width=True,
             num_rows="dynamic",
             column_config={
                 "label": st.column_config.SelectboxColumn(
@@ -160,10 +185,10 @@ def main():
                 "category": st.column_config.SelectboxColumn(
                     "Category",
                     options=[
-                        "Programming Language", "Framework / Library", "Database", 
-                        "Cloud & DevOps", "AI / ML / Data", "Data Engineering & Analytics", 
-                        "Testing & QA", "Engineering Concepts & Methodologies", "Tool & Platform", "Soft Skill", 
-                        "Domain Knowledge", "Other"
+                        "Programming Language", "Framework / Library", "Database",
+                        "Infrastructure & DevOps", "AI / ML / Data", "Data Engineering & Analytics",
+                        "Testing & QA", "Engineering Concepts & Methodologies", "Tool & Platform", "Soft Skill",
+                        "Domain Knowledge", "IT Support & Hardware", "Embedded & Firmware", "Other"
                     ],
                     required=True
                 ),
@@ -173,16 +198,21 @@ def main():
                 )
             }
         )
-        
-        # Lưu lại thay đổi vào session state
-        updated_skills = edited_df.where(pd.notnull(edited_df), None).to_dict('records')
-        st.session_state.annotations[job_key]["skills"] = updated_skills
-        
-        # Nút xóa skill cuối cùng (phòng trường hợp nhập sai)
+
+        # Đồng bộ kết quả edit vào annotations (để Save/Export đúng),
+        # nhưng KHÔNG ghi lại vào base → base ổn định, widget không bị reset.
+        st.session_state.annotations[job_key]["skills"] = (
+            edited_df.where(pd.notnull(edited_df), None).to_dict("records")
+        )
+
+        # Nút xóa skill cuối cùng
         if st.button("🗑️ Xóa skill vừa thêm"):
-            if len(st.session_state.annotations[job_key]["skills"]) > 0:
+            if st.session_state.annotations[job_key]["skills"]:
                 st.session_state.annotations[job_key]["skills"].pop()
+                _invalidate_editor(job_key)
                 st.rerun()
+
+    render_skill_editor()
 
     st.markdown("---")
     
@@ -211,6 +241,7 @@ def main():
                         st.session_state.annotations = {}
                         for item in saved_data:
                             st.session_state.annotations[str(item["id"])] = item
+                    _invalidate_all_editors()
                     st.success(f"Đã tải dữ liệu thành công từ file: {output_filename}! Bạn có thể chuyển job để thấy kết quả.")
                 except Exception as e:
                     st.error(f"Lỗi khi đọc file: {e}")
