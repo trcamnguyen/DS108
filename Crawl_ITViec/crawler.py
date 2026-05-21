@@ -29,7 +29,7 @@ headers = {
     "Accept-Language": "vi-VN,vi;q=0.9,en-US;q=0.8",
     "Referer": "https://itviec.com/",
     "Connection": "keep-alive",
-    "Cookie": """Enter_your_cookies_here"""
+    "Cookie": """Enter_your_cookie_here"""
 }
 session = requests.Session()
 session.headers.update(headers)
@@ -107,13 +107,23 @@ def parse_job_detail(job_url):
     # =============================
     # SALARY
     # =============================
-    salary_el = soup.select_one(".salary .ips-2")
-    salary_val = clean_text(salary_el) if salary_el else clean_text(soup.select_one(".salary"))
+    # Bước 1: Thử lấy thẻ CHỨA SỐ trước (ips-2)
+    salary_el = soup.select_one(".salary .ips-2") or soup.select_one(".ips-2")
+    
+    # Bước 2: Nếu KHÔNG THẤY thẻ số, mới lấy cái thẻ .salary bao quát
+    if not salary_el:
+        salary_el = soup.select_one(".salary")
 
-    if not salary_val or "sign in" in salary_val.lower() or "love it" in salary_val.lower():
-        salary_final = "Thỏa thuận"
+    if salary_el:
+        # Lấy nguyên văn
+        salary_final = clean_text(salary_el).strip()
+        
+        if "sign in" in salary_final.lower() or "đăng nhập" in salary_final.lower():
+            deep_check = salary_el.select_one(".ips-2")
+            if deep_check:
+                salary_final = clean_text(deep_check).strip()
     else:
-        salary_final = salary_val
+        salary_final = "Not Found"
 
     # =============================
     # LOCATION
@@ -239,26 +249,57 @@ if __name__ == "__main__":
 
     for idx, link in enumerate(remaining_links, start=1):
         try:
+            exists = next((item for item in all_jobs if item["url"] == link), None)
+            
+            if exists:
+                s_val = str(exists.get("salary", "")).lower()
+                # CHỈ CÀO LẠI nếu lương chứa chữ "sign in" hoặc "đăng nhập"
+                if "sign in" in s_val or "đăng nhập" in s_val:
+                    print(f"[{idx}]  Re-crawling: {link} (Reason: {s_val})")
+                    # Xóa dòng cũ bị lỗi lương 
+                    all_jobs = [item for item in all_jobs if item["url"] != link]
+                else:
+                    # Nếu là con số hoặc "Thỏa thuận" thì bỏ qua
+                    print(f"[{idx}] Skipping: {link}")
+                    crawled_urls.add(link)
+                    continue
+            
             print(f"[{idx}/{len(remaining_links)}] Processing...")
             data = parse_job_detail(link)
             if data:
                 all_jobs.append(data)
                 crawled_urls.add(link)
-            
-            if idx % 10 == 0:
-                pd.DataFrame(all_jobs).to_csv(CSV_FILE, index=False, encoding="utf-8-sig")
+            else:
+                # NẾU LÀ LINK RÁC (Intermediate/Lỗi), cũng cho vào tiến độ để lần sau không cào lại
+                crawled_urls.add(link)
+                print(f"   [System] Marked invalid link as done to skip later.")
+                time.sleep(0.5)
+            if idx % 1 == 0:
+                pd.DataFrame(all_jobs).to_csv(CSV_FILE, index=False, encoding="utf-8-sig",quoting=1)
                 with open(PROGRESS_FILE, "w", encoding="utf-8") as f:
                     json.dump(list(crawled_urls), f)
+                    f.flush()            # Ép dữ liệu ra khỏi bộ nhớ đệm Python
+                    os.fsync(f.fileno()) # Ép dữ liệu xuống ổ cứng
                 print(f"Checkpoint saved ({len(crawled_urls)} crawled)")
             time.sleep(random.uniform(4.0, 8.0))
         except Exception as e:
             print(f"Error with {link}: {e}")
             failed_urls.append({"url": link, "error": str(e)})
 
+            # Nếu là lỗi 410 (Job hết hạn), đánh dấu để lần sau không cào lại nữa
+            if "410" in str(e):
+                crawled_urls.add(link)
+                with open(PROGRESS_FILE, "w", encoding="utf-8") as f:
+                    json.dump(list(crawled_urls), f)
+                    f.flush()
+                    os.fsync(f.fileno())
+                print(f"   [System] Marked Expired link (410) as done.")
+                time.sleep(0.5)
+    
     # Final Save
     if all_jobs:
         df = pd.DataFrame(all_jobs).drop_duplicates(subset=["url"])
-        df.to_csv(CSV_FILE, index=False, encoding="utf-8-sig")
+        df.to_csv(CSV_FILE, index=False, encoding="utf-8-sig", quoting=1)
         df.to_json(JSON_FILE, orient="records", force_ascii=False, indent=2)
         with open(PROGRESS_FILE, "w", encoding="utf-8") as f:
             json.dump(list(crawled_urls), f)
