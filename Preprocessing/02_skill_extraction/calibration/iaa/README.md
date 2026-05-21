@@ -12,11 +12,7 @@ Tính Inter-Annotator Agreement giữa Human A, Human B và LLM trên 3 sub-task
 ```bash
 cd Preprocessing/02_skill_extraction/calibration
 
-python -m iaa.iaa_framework 
-  --human-a annotated_skills_cnguyen.json 
-  --human-b annotated_skills_kngoc.json 
-  --llm output/few_shot_parsed.csv 
-  --output-dir ./iaa_results
+python -m iaa.iaa_framework --human-a annotated_skills_cnguyen.json --human-b annotated_skills_kngoc.json --llm output/few_shot_parsed.csv --output-dir ./iaa_results
 ```
 
 `--human-b` là tùy chọn. Nếu bỏ qua, chỉ tính `llm_vs_human_a` (không có Fleiss' κ).

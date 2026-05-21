@@ -90,9 +90,13 @@ def parse_job_detail(job_url):
     # =============================
     # CHẶN TRANG TRUNG GIAN
     # =============================
+    # Job detail page bắt buộc có .job-header-info; listing/tag page không có
+    if not soup.select_one(".job-header-info"):
+        print(f"  [Skip] No job-header-info, likely a listing/tag page: {job_url}")
+        return None
+
     h1_el = soup.select_one("h1")
     h1_text = clean_text(h1_el).lower() if h1_el else ""
-
     if "jobs in" in h1_text or "việc làm" in h1_text:
         print(f"  [Skip] Intermediate page detected: {h1_text}")
         return None
@@ -241,7 +245,7 @@ if __name__ == "__main__":
         try:
             print(f"[{idx}/{len(remaining_links)}] Processing...")
             data = parse_job_detail(link)
-            if data:
+            if data and data.get("job_title"):
                 all_jobs.append(data)
                 crawled_urls.add(link)
             
