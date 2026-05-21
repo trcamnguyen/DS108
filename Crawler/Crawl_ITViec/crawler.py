@@ -90,9 +90,19 @@ def parse_job_detail(job_url):
     # =============================
     # CHẶN TRANG TRUNG GIAN
     # =============================
+    # Detect cookie expired / redirect to login
+    page_title = soup.title.get_text().lower() if soup.title else ""
+    if soup.select_one(".sign-in-page") or "đăng nhập" in page_title or "sign in" in page_title:
+        print(f"  [WARN] Cookie may have expired! Page: {job_url}")
+        return None
+
+    # Job detail page bắt buộc có .job-header-info; listing/tag page không có
+    if not soup.select_one(".job-header-info"):
+        print(f"  [Skip] No job-header-info, likely a listing/tag page: {job_url}")
+        return None
+
     h1_el = soup.select_one("h1")
     h1_text = clean_text(h1_el).lower() if h1_el else ""
-
     if "jobs in" in h1_text or "việc làm" in h1_text:
         print(f"  [Skip] Intermediate page detected: {h1_text}")
         return None
@@ -231,8 +241,11 @@ if __name__ == "__main__":
 
     all_jobs = []
     if os.path.exists(CSV_FILE):
-        try: all_jobs = pd.read_csv(CSV_FILE).to_dict(orient="records")
-        except: all_jobs = []
+        try:
+            old_df = pd.read_csv(CSV_FILE)
+            all_jobs = old_df[old_df['job_title'].notna() & (old_df['job_title'].astype(str).str.strip() != '')].to_dict(orient="records")
+        except:
+            all_jobs = []
 
     failed_urls = []
     remaining_links = [url for url in all_links if url not in crawled_urls]
@@ -241,7 +254,7 @@ if __name__ == "__main__":
         try:
             print(f"[{idx}/{len(remaining_links)}] Processing...")
             data = parse_job_detail(link)
-            if data:
+            if data and data.get("job_title"):
                 all_jobs.append(data)
                 crawled_urls.add(link)
             

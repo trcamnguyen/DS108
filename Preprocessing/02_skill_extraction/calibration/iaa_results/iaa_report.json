@@ -19,22 +19,22 @@
       "status": "PASS"
     },
     "llm_vs_human_b": {
-      "precision": 0.7604,
-      "recall": 0.9273,
-      "f1": 0.8218,
+      "precision": 0.8608,
+      "recall": 0.8945,
+      "f1": 0.8719,
       "ci_95": [
-        0.7812,
-        0.8592
+        0.8448,
+        0.8968
       ],
       "status": "PASS"
     },
     "human_a_vs_human_b": {
-      "precision": 0.6903,
-      "recall": 0.9332,
-      "f1": 0.7786,
+      "precision": 0.7895,
+      "recall": 0.9087,
+      "f1": 0.8359,
       "ci_95": [
-        0.7311,
-        0.8184
+        0.7991,
+        0.868
       ],
       "status": "FAIL"
     }
@@ -49,26 +49,26 @@
       "status": "PASS"
     },
     "llm_vs_human_b": {
-      "kappa": 0.9128,
+      "kappa": 0.9133,
       "ci_95": [
-        0.874,
-        0.9425
+        0.8809,
+        0.9434
       ],
       "status": "PASS"
     },
     "human_a_vs_human_b": {
-      "kappa": 0.8076,
+      "kappa": 0.8147,
       "ci_95": [
-        0.7572,
-        0.8538
+        0.7603,
+        0.858
       ],
       "status": "PASS"
     },
     "fleiss_kappa_all": {
-      "kappa": 0.8543,
+      "kappa": 0.8591,
       "ci_95": [
-        0.8178,
-        0.8876
+        0.8234,
+        0.8941
       ],
       "status": "PASS"
     }
@@ -83,14 +83,14 @@
       "status": "PASS"
     },
     "human_a_vs_human_b": {
-      "kappa": 0.6709,
+      "kappa": 0.7339,
       "ci_95": [
-        0.6325,
-        0.7067
+        0.6993,
+        0.7679
       ],
       "status": "PASS"
     }
   },
   "overall_status": "FAIL",
-  "n_error_cases": 1734
+  "n_error_cases": 1444
 }

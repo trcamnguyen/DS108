@@ -1,4 +1,5 @@
 import os
+import re
 import json
 import time
 import random
@@ -114,11 +115,15 @@ def crawl_itviec_links():
                 for h3 in p_soup.select("h3[data-url]"):
                     raw_url = h3.get("data-url")
                     if raw_url:
-                        page_links.append(raw_url.split("?")[0])
-                
+                        clean = raw_url.split("?")[0]
+                        if re.search(r'-\d{3,5}$', clean):
+                            page_links.append(clean)
+
                 for a in p_soup.select("a.stretched-link[href*='/it-jobs/']"):
-                    full_url = urljoin("https://itviec.com", a.get("href"))
-                    page_links.append(full_url.split("?")[0])
+                    full_url = urljoin("https://itviec.com", a.get("href")).split("?")[0]
+                    # Chỉ giữ job detail URL: kết thúc bằng -NNNN (không phải tag listing)
+                    if re.search(r'-\d{3,5}$', full_url):
+                        page_links.append(full_url)
                 # Cập nhật vào Set để tự động loại bỏ trùng lặp
                 all_links.update(page_links)
                 print(f"  Page {page}/{max_page}: Collected links")
