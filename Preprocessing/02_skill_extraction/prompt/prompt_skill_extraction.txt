@@ -48,7 +48,6 @@ LABEL DEFINITIONS
   VN triggers: ưu tiên | là lợi thế | là một lợi thế | biết thêm | được cộng điểm nếu |
                mong muốn thêm
   EN triggers: preferred | nice to have | Nice to Have | plus | bonus |
-               exposure to | knowledge of (no year qualifier) |
                ideally | advantageous | good to have | is a plus | desirable |
                would be a plus
   Không áp dụng khi: Skill có ngưỡng cụ thể bắt buộc hoặc không có
@@ -72,31 +71,10 @@ cho toàn bộ skill bên dưới — dù không có từ khóa inline:
     (2) Tiêu đề mục bao quanh
     (3) Default rule → required_skill
 
-⚠ CONFLICT RESOLUTION — "Hiểu biết về" / "Knowledge of" trong mục Yêu cầu:
-
-    "Hiểu biết về" và "Knowledge of" là WEAK soft qualifiers.
-    Chúng CHỈ trigger preferred_skill khi KHÔNG có section header mạnh hơn.
-
-    Quy tắc cứng:
-      Section "Yêu cầu:" / "Requirements:" + "Hiểu biết về X"
-        → required_skill (section header THẮNG)
-
-      Section "Ưu tiên:" / "Nice to have:" + "Hiểu biết về X"
-        → preferred_skill (cả hai đều chỉ về preferred)
-
-      Không có section header + "Hiểu biết về X" (câu đứng riêng)
-        → preferred_skill (weak qualifier, không có context mạnh hơn)
-
-    STRONG soft qualifiers — LUÔN override section header:
-      "ưu tiên" | "là lợi thế" | "là một lợi thế" | "nice to have" |
-      "is a plus" | "would be a plus" | "bonus" | "desirable"
-      → Những từ này trigger preferred_skill BẤT KỂ nằm trong mục nào.
-
-    WEAK soft qualifiers — BỊ section header override:
-      "hiểu biết về" | "knowledge of" | "familiar with" | "biết" |
-      "có thể" | "exposure to"
-      → Những từ này CHỈ trigger preferred khi không có section header
-        hoặc section header cũng là preferred.
+  STRONG soft qualifiers — LUÔN override section header:
+    "ưu tiên" | "là lợi thế" | "là một lợi thế" | "nice to have" |
+    "is a plus" | "would be a plus" | "bonus" | "desirable"
+    → Những từ này trigger preferred_skill BẤT KỂ nằm trong mục nào.
 
 ═══════════════════════════════════════════════════════
 SKILL TAXONOMY — 10 CATEGORIES + "Other"
@@ -849,7 +827,7 @@ CRITICAL OUTPUT RULES:
           "label": "required_skill",
           "category": "AI/ML/Data",
           "min_years": null,
-          "level": "basic",
+          "level": null,
           "source_text": "Hiểu biết về các mô hình học máy"
         },
         {
