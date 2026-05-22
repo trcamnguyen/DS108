@@ -1,0 +1,26 @@
+============================================================
+  JOB TITLE FILTER — REMOVED TITLES REPORT [ITVIEC]
+  Logic: CONSERVATIVE (logic mới)
+============================================================
+  Tổng bị loại (DROP + REVIEW) : 2
+    -> DROP   : 2
+    -> REVIEW : 0
+
+  Breakdown theo nhóm (DROP):
+    graphic_visual                  1  (50.0%)
+    industrial_engineering          1  (50.0%)
+
+============================================================
+  DROPPED TITLES (theo nhóm)
+============================================================
+
+[graphic_visual]  (1 titles)
+  - [JOB-43] Graphic Designer (Junior)
+
+[industrial_engineering]  (1 titles)
+  - Kỹ Sư Triển Khai Hệ Thống/Giám Sát Dự Án (AutoCAD)
+
+============================================================
+  REVIEW TITLES (title rỗng / cần kiểm tra)
+============================================================
+  (không có title nào cần REVIEW)

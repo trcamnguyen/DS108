@@ -1,0 +1,1256 @@
+[
+  {
+    "original": "Lập Trình Viên (.Net) - Không Yêu Cầu Kinh Nghiêm - Thu Nhập Up To 20 M++",
+    "is_valid_job": true,
+    "standardized_title": "Fullstack Developer",
+    "id": 0
+  },
+  {
+    "original": "Mobile App Engineer ( IOS / Android ) – AI Glasses",
+    "is_valid_job": true,
+    "standardized_title": "Mobile Developer",
+    "id": 1
+  },
+  {
+    "original": "Backend Lead Engineer",
+    "is_valid_job": true,
+    "standardized_title": "Data Engineer",
+    "id": 2
+  },
+  {
+    "original": "Lập Trình Viên Nodejs Đi Làm Ngay Tại Hà Nội",
+    "is_valid_job": true,
+    "standardized_title": "Fullstack Developer",
+    "id": 3
+  },
+  {
+    "original": "Kỹ Sư Tư Vấn Mạng/ Presale Network Engineer",
+    "is_valid_job": true,
+    "standardized_title": "Network Engineer",
+    "id": 4
+  },
+  {
+    "original": "Nhân Viên Kỹ Thuật IT - Dự Án Xây Dựng Cao Tầng - Lương Upto 15 Triệu/Tháng (Làm Việc Tại Hưng Yên )",
+    "is_valid_job": true,
+    "standardized_title": "IT Support",
+    "id": 5
+  },
+  {
+    "original": "Senior Backend Developer (Node.Js) Lương Upto 35M",
+    "is_valid_job": true,
+    "standardized_title": "Backend Developer",
+    "id": 6
+  },
+  {
+    "original": "Fullstack Software Engineers (Full-Time, Hybird) - Làm Tại Quận 1 HCM",
+    "is_valid_job": true,
+    "standardized_title": "Fullstack Developer",
+    "id": 7
+  },
+  {
+    "original": "AI-Augmented Quality Engineer – Dự Án Capigo",
+    "is_valid_job": true,
+    "standardized_title": "Automation Test Engineer",
+    "id": 8
+  },
+  {
+    "original": "Kỹ Sư Mạng , Bảo Mật",
+    "is_valid_job": true,
+    "standardized_title": "Network Security Engineer",
+    "id": 9
+  },
+  {
+    "original": "Kỹ Sư Hệ Thống ( Linux)",
+    "is_valid_job": true,
+    "standardized_title": "System Administrator",
+    "id": 10
+  },
+  {
+    "original": "Pre- Sales Engineer ( It Software) Remote Work/ Kỹ Sư Bán Hàng (Phần Mềm CNTT)",
+    "is_valid_job": true,
+    "standardized_title": "IT Sales Engineer",
+    "id": 11
+  },
+  {
+    "original": "Kỹ Sư Phát Triển Game H5 Cao Cấp (AI-Driven) Upto 50M/ Game Developer",
+    "is_valid_job": true,
+    "standardized_title": "Game Developer",
+    "id": 12
+  },
+  {
+    "original": "Key Account Manager (B2B)",
+    "is_valid_job": true,
+    "standardized_title": "IT Account Manager",
+    "id": 13
+  },
+  {
+    "original": "Senior Data Tester - Data And Digital Transformation Division (DTO)",
+    "is_valid_job": true,
+    "standardized_title": "QA Engineer",
+    "id": 14
+  },
+  {
+    "original": "Nhân Viên Triển Khai Bản Vẽ 2D (Part Time) - Trên Toàn Quốc (Trừ Huế Và Đà Nẵng )",
+    "is_valid_job": false,
+    "standardized_title": null,
+    "id": 15
+  },
+  {
+    "original": "Senior QA Engineer",
+    "is_valid_job": true,
+    "standardized_title": "QA Engineer",
+    "id": 16
+  },
+  {
+    "original": "Fullstack Developer Tại Hà Nội (Lương: 10 Triệu - 14 Triệu)",
+    "is_valid_job": true,
+    "standardized_title": "Fullstack Developer",
+    "id": 17
+  },
+  {
+    "original": "Lập Trình Viên Fullstack - Thu Nhập Trên 10Tr - Làm Việc Tại HCM ( Bình Dương Cũ)",
+    "is_valid_job": true,
+    "standardized_title": "Fullstack Developer",
+    "id": 18
+  },
+  {
+    "original": "Nhân Viên Manual Tester Tại Hà Nội (Lương: 12 Triệu - 15 Triệu)",
+    "is_valid_job": true,
+    "standardized_title": "QA Engineer",
+    "id": 19
+  },
+  {
+    "original": "Power Apps Developer (HCM)",
+    "is_valid_job": true,
+    "standardized_title": "Power Apps Developer",
+    "id": 20
+  },
+  {
+    "original": "Nhân Viên Triển Khai Bản Vẽ 2D (Full Time) - Trên Toàn Quốc (Trừ Huế Và Đà Nẵng )",
+    "is_valid_job": false,
+    "standardized_title": null,
+    "id": 21
+  },
+  {
+    "original": "Lâp Trình Viên / Software Engineer / IT",
+    "is_valid_job": true,
+    "standardized_title": "Fullstack Developer",
+    "id": 22
+  },
+  {
+    "original": "Product Owner (Shopify)",
+    "is_valid_job": true,
+    "standardized_title": "Product Owner",
+    "id": 23
+  },
+  {
+    "original": "Internship/ Fresher Program Web Developer",
+    "is_valid_job": true,
+    "standardized_title": "Backend Developer",
+    "id": 24
+  },
+  {
+    "original": "Chuyên Viên Phân Tích Nghiệp Vụ ( Business Analyst )",
+    "is_valid_job": true,
+    "standardized_title": "Business Analyst",
+    "id": 25
+  },
+  {
+    "original": "Chuyên Viên Kiểm Thử Phần Mềm ( Tester )",
+    "is_valid_job": true,
+    "standardized_title": "QA Engineer",
+    "id": 26
+  },
+  {
+    "original": "Nhân Viên Nhập Và Xử Lý Dữ Liệu Tiếng Nhật N3 N2 (Thu Nhập Hấp Dẫn, Nghỉ Thứ 7 - Chủ Nhật)",
+    "is_valid_job": false,
+    "standardized_title": null,
+    "id": 27
+  },
+  {
+    "original": "Nhân Viên Phân Tích Nghiệp Vụ ( BA )",
+    "is_valid_job": true,
+    "standardized_title": "Business Analyst",
+    "id": 28
+  },
+  {
+    "original": "Chuyên Viên Triển Khai Hệ Thống (Fluent English)",
+    "is_valid_job": true,
+    "standardized_title": "System Implementation Engineer",
+    "id": 29
+  },
+  {
+    "original": "Business Analyst",
+    "is_valid_job": true,
+    "standardized_title": "Business Analyst",
+    "id": 30
+  },
+  {
+    "original": "Kỹ Sư Triển Khai Giải Pháp Microsoft / Microsoft System Engineer Tại KCN Cao TPHCM - Lương Lên Đến 22 Triệu - Phỏng Vấn Đi Làm Ngay",
+    "is_valid_job": true,
+    "standardized_title": "System Administrator",
+    "id": 31
+  },
+  {
+    "original": "QC Mid-Senior",
+    "is_valid_job": true,
+    "standardized_title": "QA Engineer",
+    "id": 32
+  },
+  {
+    "original": "Tester Tiếng Nhật (N3/N2, Không Yc Kinh Nghiệm)",
+    "is_valid_job": true,
+    "standardized_title": "QA Engineer",
+    "id": 33
+  },
+  {
+    "original": "Bridge Engineer ( Tiếng Nhật N2 Trở Lên)-Nghỉ T7 CN",
+    "is_valid_job": true,
+    "standardized_title": "Project Manager",
+    "id": 34
+  },
+  {
+    "original": "SENIOR JAVA DEVELOPER ( FULLSTACK / BACKEND ) - Đi Làm Ngay Tại Hà Nội",
+    "is_valid_job": true,
+    "standardized_title": "Backend Developer",
+    "id": 35
+  },
+  {
+    "original": "Senior Software Engineer ( Backend Focused)",
+    "is_valid_job": true,
+    "standardized_title": "Data Engineer",
+    "id": 36
+  },
+  {
+    "original": "Thực Tập Sinh Backend . Net",
+    "is_valid_job": true,
+    "standardized_title": "Backend Developer",
+    "id": 37
+  },
+  {
+    "original": "NGÂN HÀNG TMCP VIỆT Á - VIETABANK",
+    "is_valid_job": false,
+    "standardized_title": null,
+    "id": 38
+  },
+  {
+    "original": "Chuyên Viên Phân Tích Nghiệp Vụ - Business Analyst",
+    "is_valid_job": true,
+    "standardized_title": "Business Analyst",
+    "id": 39
+  },
+  {
+    "original": "Mobile App Android Developer Fulltime",
+    "is_valid_job": true,
+    "standardized_title": "Mobile Developer",
+    "id": 40
+  },
+  {
+    "original": "DevOps Engineer",
+    "is_valid_job": true,
+    "standardized_title": "DevOps Engineer",
+    "id": 41
+  },
+  {
+    "original": "Embedded Android Developer ( Tân Bình HCM)",
+    "is_valid_job": true,
+    "standardized_title": "Embedded Engineer",
+    "id": 42
+  },
+  {
+    "original": "Business Analyst",
+    "is_valid_job": true,
+    "standardized_title": "Business Analyst",
+    "id": 43
+  },
+  {
+    "original": "Nhân Viên Phần Mềm",
+    "is_valid_job": true,
+    "standardized_title": "Backend Developer",
+    "id": 44
+  },
+  {
+    "original": "Senior Business Analyst / Chuyên Viên Phân Tích Nghiệp Vụ (1,800 - 2,500 USD) - Tại Hà Nội",
+    "is_valid_job": true,
+    "standardized_title": "Business Analyst",
+    "id": 45
+  },
+  {
+    "original": "Manual Tester",
+    "is_valid_job": true,
+    "standardized_title": "QA Engineer",
+    "id": 46
+  },
+  {
+    "original": "Tester / Nhân Viên Kiểm Thử (Lương Upto 18M)",
+    "is_valid_job": true,
+    "standardized_title": "QA Engineer",
+    "id": 47
+  },
+  {
+    "original": "Software QA / BA Project Manager",
+    "is_valid_job": true,
+    "standardized_title": "Project Manager",
+    "id": 48
+  },
+  {
+    "original": "Game Designer Intern (15M Net , Không Yêu Cầu Kinh Nghiệm, Cơ Hội Lên Chính Thức) [F01] (HN)",
+    "is_valid_job": true,
+    "standardized_title": "Game Developer",
+    "id": 49
+  },
+  {
+    "original": "Python Developer",
+    "is_valid_job": true,
+    "standardized_title": "Backend Developer",
+    "id": 50
+  },
+  {
+    "original": "Presales Engineer Network Security - (1 Năm Kinh Nghiệm) Hồ Chí Minh",
+    "is_valid_job": true,
+    "standardized_title": "Presales Engineer",
+    "id": 51
+  },
+  {
+    "original": "Unity Developer Tại Hà Nội , Đi Làm Ngay",
+    "is_valid_job": true,
+    "standardized_title": "Game Developer",
+    "id": 52
+  },
+  {
+    "original": "Chuyên Viên Phân Tích Nghiệp Vụ ( BA ) Thu Nhập 18-25 Triệu - Miễn Phí Ăn Trưa",
+    "is_valid_job": true,
+    "standardized_title": "Business Analyst",
+    "id": 53
+  },
+  {
+    "original": "Frontend Developer ( ReactJS )",
+    "is_valid_job": true,
+    "standardized_title": "Frontend Developer",
+    "id": 54
+  },
+  {
+    "original": "Middle Backend Developer | 3 Năm Kinh Nghiệm (Lương 15-25 Triệu) Đi Làm Ngay Tại Hà Nội",
+    "is_valid_job": true,
+    "standardized_title": "Backend Developer",
+    "id": 55
+  },
+  {
+    "original": "Backend Developer (Phát Triển Product)",
+    "is_valid_job": true,
+    "standardized_title": "Backend Developer",
+    "id": 56
+  },
+  {
+    "original": "IT Support(Intern Full-Time, Fresher Are Welcome)",
+    "is_valid_job": true,
+    "standardized_title": "IT Support",
+    "id": 57
+  },
+  {
+    "original": "Bridge System Engineer ( BrSE - Kỹ Sư Cầu Nối ) - Lương Upto 35 Triệu ( Nghỉ Thứ 7, Chủ Nhật)",
+    "is_valid_job": true,
+    "standardized_title": "Bridge System Engineer",
+    "id": 58
+  },
+  {
+    "original": "Manual Tester Onsite Bank , 2 Năm Kinh Nghiệm",
+    "is_valid_job": true,
+    "standardized_title": "QA Engineer",
+    "id": 59
+  },
+  {
+    "original": "Product Operations Executive ( Chuyên Viên Vận Hành Sản Phẩm) - 2 Năm Kinh Nghiệm - Thu Nhập 13 - 18 Triệu - Tại HCM (NHẬN CV TIẾNG ANH )",
+    "is_valid_job": true,
+    "standardized_title": "Product Operations",
+    "id": 60
+  },
+  {
+    "original": "Java Developer - Từ 3 Năm Kinh Nghiệm",
+    "is_valid_job": true,
+    "standardized_title": "Backend Developer",
+    "id": 61
+  },
+  {
+    "original": "Quản Lý IT Enterprise & Infrastructure",
+    "is_valid_job": true,
+    "standardized_title": "Software Architect",
+    "id": 62
+  },
+  {
+    "original": "IT Helpdesk - Hà Nội",
+    "is_valid_job": true,
+    "standardized_title": "IT Support",
+    "id": 63
+  },
+  {
+    "original": "Back-End Developer",
+    "is_valid_job": true,
+    "standardized_title": "Backend Developer",
+    "id": 64
+  },
+  {
+    "original": "Project Assistant - Non-Tech",
+    "is_valid_job": false,
+    "standardized_title": null,
+    "id": 65
+  },
+  {
+    "original": "Chuyên Viên Đào Tạo Và Phát Triển Chương Trình",
+    "is_valid_job": true,
+    "standardized_title": "IT Curriculum Developer",
+    "id": 66
+  },
+  {
+    "original": "IT Support (1-2 Năm Kinh Nghiệm)- [ Trung Kính - HN]",
+    "is_valid_job": true,
+    "standardized_title": "IT Support",
+    "id": 67
+  },
+  {
+    "original": "Phân Tích Nghiệp Vụ CNTT/ Business Analyst ( BA ) - Hà Nội",
+    "is_valid_job": true,
+    "standardized_title": "Business Analyst",
+    "id": 68
+  },
+  {
+    "original": "Lập Trình Viên Web Front-End ( ReactJS /NextJS)",
+    "is_valid_job": true,
+    "standardized_title": "Frontend Developer",
+    "id": 69
+  },
+  {
+    "original": "Senior Tester ( QA ) | 3+ Năm Kinh Nghiệm | Offer Up To 20M",
+    "is_valid_job": true,
+    "standardized_title": "QA Engineer",
+    "id": 70
+  },
+  {
+    "original": "Chuyên Viên Business Analyst ( BA ) - 3 Năm Kinh Nghiệm - Thu Nhập Upto 35M - Tại Hà Nội",
+    "is_valid_job": true,
+    "standardized_title": "Business Analyst",
+    "id": 71
+  },
+  {
+    "original": "Tech Lead / Senior Software Engineer (Up To 60M, 4+ Năm Kinh Nghiệm)",
+    "is_valid_job": true,
+    "standardized_title": "Technical Lead",
+    "id": 72
+  },
+  {
+    "original": "Nhân Viên IT Helpdesk / IT Support",
+    "is_valid_job": true,
+    "standardized_title": "IT Support",
+    "id": 73
+  },
+  {
+    "original": "Business Analyst / Nhân Viên Phân Tích Nghiệp Vụ",
+    "is_valid_job": true,
+    "standardized_title": "Business Analyst",
+    "id": 74
+  },
+  {
+    "original": "Công ty Cổ phần Đầu tư và Phát triển du lịch Ravi",
+    "is_valid_job": false,
+    "standardized_title": null,
+    "id": 75
+  },
+  {
+    "original": "Quản Trị Dự Án Công Nghệ Thông Tin - Product Manager",
+    "is_valid_job": true,
+    "standardized_title": "Project Manager",
+    "id": 76
+  },
+  {
+    "original": "Công ty Cổ phần TOPCV Việt Nam",
+    "is_valid_job": false,
+    "standardized_title": null,
+    "id": 77
+  },
+  {
+    "original": "Nhân Viên Tư Vấn Giải Pháp Công Nghệ Thông Tin (Yêu Cầu Tốt Nghiệp CNTT, Điện Tử Viễn Thông Và TOEIC 550)",
+    "is_valid_job": true,
+    "standardized_title": "IT Solutions Consultant",
+    "id": 78
+  },
+  {
+    "original": "Nhân Viên Kỹ Thuật Hệ Thống IT",
+    "is_valid_job": true,
+    "standardized_title": "System Administrator",
+    "id": 79
+  },
+  {
+    "original": "PM Staff Tại Bắc Giang / Bắc Ninh / Phú Thọ / Nghệ An / Nam Định",
+    "is_valid_job": true,
+    "standardized_title": "Project Manager",
+    "id": 80
+  },
+  {
+    "original": "Network Security Solution & Implementation Lead - Tại Hồ Chí Minh , Nhận Việc Ngay",
+    "is_valid_job": true,
+    "standardized_title": "Security Engineer",
+    "id": 81
+  },
+  {
+    "original": "Chuyên Viên Tuân Thủ",
+    "is_valid_job": true,
+    "standardized_title": "Security Engineer",
+    "id": 82
+  },
+  {
+    "original": "Project Manager / Quản Lý Dự Án",
+    "is_valid_job": true,
+    "standardized_title": "Project Manager",
+    "id": 83
+  },
+  {
+    "original": "Full-Stack Developer (AI-Augmented) – Dự Án Capigo",
+    "is_valid_job": true,
+    "standardized_title": "Fullstack Developer",
+    "id": 84
+  },
+  {
+    "original": "Technical Leader / Senior Fullstack Engineer Tại Hà Nội (Lương Upto 40 Triệu)",
+    "is_valid_job": true,
+    "standardized_title": "Technical Lead",
+    "id": 85
+  },
+  {
+    "original": "Java Developer (Middle) - Hà Nội",
+    "is_valid_job": true,
+    "standardized_title": "Backend Developer",
+    "id": 86
+  },
+  {
+    "original": "Unity UI Artist Developer (Mobile Game ) [ Hà Nội ] - Thu Nhập Cạnh Tranh, Cơ Hội Đi Công Tác Hàn Quốc",
+    "is_valid_job": true,
+    "standardized_title": "UI/UX Designer",
+    "id": 87
+  },
+  {
+    "original": "FPT IS",
+    "is_valid_job": false,
+    "standardized_title": null,
+    "id": 88
+  },
+  {
+    "original": "Data Analyst",
+    "is_valid_job": true,
+    "standardized_title": "Data Analyst",
+    "id": 89
+  },
+  {
+    "original": "Senior Fullstack Developer ( Java / Angular ) Tại Hà Nội (Lương Từ 25 - 30 Triệu)",
+    "is_valid_job": true,
+    "standardized_title": "Fullstack Developer",
+    "id": 90
+  },
+  {
+    "original": "Chuyên Viên Phân Tích Nghiệp Vụ ( BA )",
+    "is_valid_job": true,
+    "standardized_title": "Business Analyst",
+    "id": 91
+  },
+  {
+    "original": "Senior Business Development ( Sales B2B Outbound | Hoa Hồng 8 - 21%)",
+    "is_valid_job": true,
+    "standardized_title": "Business Development Executive",
+    "id": 92
+  },
+  {
+    "original": "Back End Developer ( Java , MySQL , Spring ) - Tại Hà Nội - Thu Nhập Hấp Dẫn",
+    "is_valid_job": true,
+    "standardized_title": "Backend Developer",
+    "id": 93
+  },
+  {
+    "original": "Business Analyst ( BA )/ Phân Tích Nghiệp Vụ Kinh Nghiệm Từ 2 Năm Lương 15-25TR",
+    "is_valid_job": true,
+    "standardized_title": "Business Analyst",
+    "id": 94
+  },
+  {
+    "original": "Senior Business Analyst (Chuyển Đổi Số Khối CP), Lương Từ 25-35 Triệu, Tại Hà Nội , Đi Làm Ngay",
+    "is_valid_job": true,
+    "standardized_title": "Business Analyst",
+    "id": 95
+  },
+  {
+    "original": "Network Security Engineer",
+    "is_valid_job": true,
+    "standardized_title": "Security Engineer",
+    "id": 96
+  },
+  {
+    "original": "Chuyên Viên Quản Trị Hệ Thống",
+    "is_valid_job": true,
+    "standardized_title": "System Administrator",
+    "id": 97
+  },
+  {
+    "original": "Nhân Viên Tư Vấn Giải Pháp Công Nghệ Thông Tin - VIETTEL Làm Việc Tại HCM, Bình Dương (Ưu Tiên Đi Làm Ngay )",
+    "is_valid_job": true,
+    "standardized_title": "IT Solutions Consultant",
+    "id": 98
+  },
+  {
+    "original": "Project Manager (Super App Project) - DTO",
+    "is_valid_job": true,
+    "standardized_title": "Project Manager",
+    "id": 99
+  },
+  {
+    "original": "Chuyên Viên IT / IT Support / IT Helpdesk",
+    "is_valid_job": true,
+    "standardized_title": "IT Support",
+    "id": 100
+  },
+  {
+    "original": "Chuyên Viên Phát Triển Phần Mềm ( Fullstack )",
+    "is_valid_job": true,
+    "standardized_title": "Fullstack Developer",
+    "id": 101
+  },
+  {
+    "original": "Software Engineer ( Fresher )",
+    "is_valid_job": true,
+    "standardized_title": "Embedded Engineer",
+    "id": 102
+  },
+  {
+    "original": "Chuyên Viên Phân Tích Dữ Liệu Tăng Trưởng Thu Nhập 18-25 Triệu Từ 1 -3 Năm Kinh Nghiệm Tại Hà Nội",
+    "is_valid_job": true,
+    "standardized_title": "Data Analyst",
+    "id": 103
+  },
+  {
+    "original": "Business Analyst ( BA ) - 2 Năm Kinh Nghiênm Trở Lên - Làm Việc Tại Cầu Giấy , HN - Phúc Lợi Tốt, Thu Nhập Xứng Đáng Với Năng Lực",
+    "is_valid_job": true,
+    "standardized_title": "Business Analyst",
+    "id": 104
+  },
+  {
+    "original": "Fresher Unity Developer (Up To 25M Net , 18 Tháng Lương)",
+    "is_valid_job": true,
+    "standardized_title": "Game Developer",
+    "id": 105
+  },
+  {
+    "original": "Backend Developer (20 - 30Tr)",
+    "is_valid_job": true,
+    "standardized_title": "Backend Developer",
+    "id": 106
+  },
+  {
+    "original": "IT Comtor ( Tiếng Nhật N2 Trở Lên) - Nghỉ T7 CN",
+    "is_valid_job": true,
+    "standardized_title": "IT Communicator",
+    "id": 107
+  },
+  {
+    "original": "Unreal Engine Artist Tại Hồ Chí Minh (Lương 10tr - 30tr) CV Tiếng Anh Và Portfolio File Video",
+    "is_valid_job": true,
+    "standardized_title": "Unreal Engine Artist",
+    "id": 108
+  },
+  {
+    "original": "Cộng Tác Viên Xử Lý Dữ Liệu Hình Ảnh Làm Fulltime Offline - Đi Làm Ngay",
+    "is_valid_job": true,
+    "standardized_title": "Data Annotator",
+    "id": 109
+  },
+  {
+    "original": "IT Support | Nhân Viên Kỹ Thuật / Bảo Hành IT ( Laptop, Linh Kiện) Lương 9-13 Triệu - Đi Làm Ngay",
+    "is_valid_job": true,
+    "standardized_title": "IT Support",
+    "id": 110
+  },
+  {
+    "original": "Java Developer (Mid – Senior)",
+    "is_valid_job": true,
+    "standardized_title": "Backend Developer",
+    "id": 111
+  },
+  {
+    "original": "Nhân Viên Tư Vấn Phần Mềm EasySalon Không Yêu Cầu Kinh Nghiệm - Tại Hà Nội , Hồ Chí Minh , Đà Nẵng (Thu Nhập Từ 10-25tr)",
+    "is_valid_job": true,
+    "standardized_title": "Software Sales Consultant",
+    "id": 112
+  },
+  {
+    "original": "Junior System Engineer (1-3 Năm) - [HN - Trung Kính]",
+    "is_valid_job": true,
+    "standardized_title": "System Administrator",
+    "id": 113
+  },
+  {
+    "original": "Senior Data Engineer",
+    "is_valid_job": true,
+    "standardized_title": "Data Engineer",
+    "id": 114
+  },
+  {
+    "original": "Kỹ Sư Machine Vision - Thu Nhập Upto 20 Triệu - 2 Năm Kinh Nghiệm - Hà Nội",
+    "is_valid_job": true,
+    "standardized_title": "Machine Learning Engineer",
+    "id": 115
+  },
+  {
+    "original": "Chuyên Viên Phân Tích Nghiệp Vụ & Triển Khai Lark Suite Từ 1 Năm Kinh Nghiệm Lương 18-25 Triệu Tại Hà Nội",
+    "is_valid_job": true,
+    "standardized_title": "Business Analyst",
+    "id": 116
+  },
+  {
+    "original": "Kỹ Sư Cầu Nối ( Bridge Engineer - BrSE ), Thu Nhập Từ 35- 50 Triệu+ Thưởng, Tại Hà Nội , Đi Làm Ngay",
+    "is_valid_job": true,
+    "standardized_title": "Bridge Engineer",
+    "id": 117
+  },
+  {
+    "original": "CÔNG TY TNHH CARBON BILLIARDS",
+    "is_valid_job": false,
+    "standardized_title": null,
+    "id": 118
+  },
+  {
+    "original": "Trưởng Phòng Số Hóa - Thu Nhập Lên Đến 35 Triệu - Ưu Tiên Đi Làm Luôn",
+    "is_valid_job": true,
+    "standardized_title": "Project Manager",
+    "id": 119
+  },
+  {
+    "original": "Expert/Senior Business And Data Analyst",
+    "is_valid_job": true,
+    "standardized_title": "Data Analyst",
+    "id": 120
+  },
+  {
+    "original": "Senior System Engineer",
+    "is_valid_job": true,
+    "standardized_title": "System Administrator",
+    "id": 121
+  },
+  {
+    "original": "Product Designer ( UI/UX Designer )",
+    "is_valid_job": true,
+    "standardized_title": "UI/UX Designer",
+    "id": 122
+  },
+  {
+    "original": "Kỹ Sư Phần Mềm C# Tại KCN Yên Phong , Bắc Ninh - Thu Nhập Hấp Dẫn - Đi Làm Ngay",
+    "is_valid_job": true,
+    "standardized_title": "Embedded Engineer",
+    "id": 123
+  },
+  {
+    "original": "Nhân Viên Tư Vấn ( Telesale )/ Kinh Doanh / Bán Hàng Tại Hà Nội & Hồ Chí Minh - Lương Up To 25M",
+    "is_valid_job": false,
+    "standardized_title": null,
+    "id": 124
+  },
+  {
+    "original": "Nhân Viên Triển Khai Phần Mềm MES/ Software Engineer - Biết Tiếng Hoa ( Bắc Ninh )",
+    "is_valid_job": true,
+    "standardized_title": "ERP Consultant",
+    "id": 125
+  },
+  {
+    "original": "IT Service Desk - MSB - KCN - 3I128",
+    "is_valid_job": true,
+    "standardized_title": "IT Support",
+    "id": 126
+  },
+  {
+    "original": "CÔNG TY TNHH CÁC GIẢI PHÁP SOFTEL",
+    "is_valid_job": false,
+    "standardized_title": null,
+    "id": 127
+  },
+  {
+    "original": "Tin tuyển dụng",
+    "is_valid_job": false,
+    "standardized_title": null,
+    "id": 128
+  },
+  {
+    "original": "Senior Business Development – SaaS",
+    "is_valid_job": true,
+    "standardized_title": "SaaS Sales",
+    "id": 129
+  },
+  {
+    "original": "Chuyên Viên Phát Triển Khách Hàng Doanh Nghiệp , Offer Upto 15M",
+    "is_valid_job": false,
+    "standardized_title": null,
+    "id": 130
+  },
+  {
+    "original": "Sales B2B Consultant Leader (Phần Mềm Công Nghệ Quản Trị)- Thu Nhập 15-45 Triệu- Tại Hà Nội , Hồ Chí Minh",
+    "is_valid_job": true,
+    "standardized_title": "IT Sales Consultant",
+    "id": 131
+  },
+  {
+    "original": "Java Developer (Mid/Senior), 20M – 45M VND",
+    "is_valid_job": true,
+    "standardized_title": "Backend Developer",
+    "id": 132
+  },
+  {
+    "original": "Tin tuyển dụng",
+    "is_valid_job": false,
+    "standardized_title": null,
+    "id": 133
+  },
+  {
+    "original": "Network & Security Engineer",
+    "is_valid_job": true,
+    "standardized_title": "Network and Security Engineer",
+    "id": 134
+  },
+  {
+    "original": "DevOps Engineer",
+    "is_valid_job": true,
+    "standardized_title": "DevOps Engineer",
+    "id": 135
+  },
+  {
+    "original": "Nhân Viên Kinh Doanh / Sales Digital Marketing (Data Có Sẵn, Không Yêu Cầu Bằng Cấp Kinh Nghiệm; Lương 5TR -20TR)",
+    "is_valid_job": false,
+    "standardized_title": null,
+    "id": 136
+  },
+  {
+    "original": "Gameplay Developer - High Salary 50 Million",
+    "is_valid_job": true,
+    "standardized_title": "Game Developer",
+    "id": 137
+  },
+  {
+    "original": "Kỹ Sư Mạng & Bảo Mật",
+    "is_valid_job": true,
+    "standardized_title": "Security Engineer",
+    "id": 138
+  },
+  {
+    "original": "Nhân Viên IT Phần Cứng , Phần Mềm - Lương Từ 8 - 18 Triệu/Tháng (Không Kinh Nghiệm Được Đào Tạo )",
+    "is_valid_job": true,
+    "standardized_title": "IT Support",
+    "id": 139
+  },
+  {
+    "original": "Nhân Viên Cộng Tác Viên - Thu Nhập Ổn Định",
+    "is_valid_job": false,
+    "standardized_title": null,
+    "id": 140
+  },
+  {
+    "original": "Trưởng Bộ Phận Triển Khai Vận Hành - Thu Nhập Hấp Dẫn - Nhận Việc Ngay - Tại Thanh Xuân , Hà Nội",
+    "is_valid_job": true,
+    "standardized_title": "Project Manager",
+    "id": 141
+  },
+  {
+    "original": "QC Lead / Trưởng Nhóm Kiểm Soát Chất Lượng",
+    "is_valid_job": true,
+    "standardized_title": "QA Engineer",
+    "id": 142
+  },
+  {
+    "original": "CÔNG TY CỔ PHẦN SMARTOSC",
+    "is_valid_job": false,
+    "standardized_title": null,
+    "id": 143
+  },
+  {
+    "original": "Trưởng Bộ Phận Giải Pháp - Thu Nhập Hấp Dẫn - Nhận Việc Ngay - Tại Thanh Xuân , Hà Nội",
+    "is_valid_job": true,
+    "standardized_title": "Software Architect",
+    "id": 144
+  },
+  {
+    "original": "Trưởng Nhóm Kinh Doanh Phần Mềm B2B / Sales Leader - (Nghỉ T7&CN, Thu Nhập Upto 40tr/Tháng+ Hoa Hồng)",
+    "is_valid_job": true,
+    "standardized_title": "IT Sales Manager",
+    "id": 145
+  },
+  {
+    "original": "Presales Engineer / Kỹ Sư Giải Pháp (Camera)",
+    "is_valid_job": true,
+    "standardized_title": "Software Architect",
+    "id": 146
+  },
+  {
+    "original": "Lập Trình Viên / Phát Triển Phần Mềm / Software Engineer",
+    "is_valid_job": true,
+    "standardized_title": "Fullstack Developer",
+    "id": 147
+  },
+  {
+    "original": "React Native Lead | HCMC (Hybrid)",
+    "is_valid_job": true,
+    "standardized_title": "Mobile Developer",
+    "id": 148
+  },
+  {
+    "original": "Chuyên Viên Phát Triển Đối Tác / Sale B2B (Data Có Sẵn, Nghỉ T7,CN) - Thu Nhập Trung Bình 10 - 30 Triệu",
+    "is_valid_job": true,
+    "standardized_title": "IT Sales Specialist",
+    "id": 149
+  },
+  {
+    "original": "Storage System Engineer",
+    "is_valid_job": true,
+    "standardized_title": "System Administrator",
+    "id": 150
+  },
+  {
+    "original": "DevOps Cloud Engineer",
+    "is_valid_job": true,
+    "standardized_title": "DevOps Engineer",
+    "id": 151
+  },
+  {
+    "original": "Data Scientist",
+    "is_valid_job": true,
+    "standardized_title": "Data Scientist",
+    "id": 152
+  },
+  {
+    "original": "Nhân Viên Tư Vấn Giải Pháp (Thu Nhập Hấp Dẫn) Nghỉ Thứ 7, Chủ Nhật Tại Hà Nội",
+    "is_valid_job": true,
+    "standardized_title": "Solutions Consultant",
+    "id": 153
+  },
+  {
+    "original": "Nhân Viên Quản Lý Dự Án /Dịch Vụ Tư Vấn Và Phần Mềm (Lương Cơ Bản Upto 15 Triệu + Thưởng) Nghỉ Thứ 7, Chủ Nhật",
+    "is_valid_job": true,
+    "standardized_title": "Project Manager",
+    "id": 154
+  },
+  {
+    "original": "Họa Viên 3D Blender (Có Kinh Nghiệm) - Thu Nhập Từ 10-20 Triệu, Hồ Chí Minh",
+    "is_valid_job": true,
+    "standardized_title": "3D Artist",
+    "id": 155
+  },
+  {
+    "original": "Chuyên Viên Sản Xuất Hình Ảnh Và Video (Thu Nhập Từ 15-22tr)",
+    "is_valid_job": false,
+    "standardized_title": null,
+    "id": 156
+  },
+  {
+    "original": "Product Owner (Sản Phẩm Kho/ Mua Hàng )",
+    "is_valid_job": true,
+    "standardized_title": "Product Owner",
+    "id": 157
+  },
+  {
+    "original": "Kế Toán / Kiểm Toán Làm Chuyên Viên Kiểm Thử Phần Mềm ( QC/Tester )",
+    "is_valid_job": true,
+    "standardized_title": "QA Engineer",
+    "id": 158
+  },
+  {
+    "original": "Nhân Viên Software Developer – Froned (Dev) - Làm Việc Tại Hà Nội",
+    "is_valid_job": true,
+    "standardized_title": "Frontend Developer",
+    "id": 159
+  },
+  {
+    "original": "Nhân Viên Software Developer - Backend (Dev) - Làm Việc Tại Hà Nội",
+    "is_valid_job": true,
+    "standardized_title": "Backend Developer",
+    "id": 160
+  },
+  {
+    "original": "Tin tuyển dụng",
+    "is_valid_job": false,
+    "standardized_title": null,
+    "id": 161
+  },
+  {
+    "original": "Chuyên Viên Phân Tích Nghiệp Vụ ( Business Analyst )",
+    "is_valid_job": true,
+    "standardized_title": "Business Analyst",
+    "id": 162
+  },
+  {
+    "original": "Business Analyst [MISA Lending/BankHub]",
+    "is_valid_job": true,
+    "standardized_title": "Business Analyst",
+    "id": 163
+  },
+  {
+    "original": "Product Manager Phần Mềm Nhân Sự (Mảng C&B )",
+    "is_valid_job": true,
+    "standardized_title": "Product Manager",
+    "id": 165
+  },
+  {
+    "original": "UI/UX Designer (Tối Thiểu 2 Năm Kinh Nghiệm)",
+    "is_valid_job": true,
+    "standardized_title": "UI/UX Designer",
+    "id": 166
+  },
+  {
+    "original": "Kế Toán / Kiểm Toán Làm Chuyên Viên Phân Tích Nghiệp Vụ (Sản Phẩm Kế Toán )",
+    "is_valid_job": true,
+    "standardized_title": "Business Analyst",
+    "id": 167
+  },
+  {
+    "original": "CÔNG TY CỔ PHẦN GIẢI PHÁP VÀ CÔNG NGHỆ VIETNIX",
+    "is_valid_job": false,
+    "standardized_title": null,
+    "id": 168
+  },
+  {
+    "original": "Fullstack Developer Middle (Web App) – English/ Japanese(Up To 27M) Remote 5 Days/Month",
+    "is_valid_job": true,
+    "standardized_title": "Fullstack Developer",
+    "id": 169
+  },
+  {
+    "original": "Chuyên Viên Kinh Doanh - Thu Nhập Đến 35tr - Làm Việc Tại TP.HCM",
+    "is_valid_job": false,
+    "standardized_title": null,
+    "id": 170
+  },
+  {
+    "original": "Nhân Viên Idea Creator / Ngành POD Hoặc E-Commerce / 3 Tháng Kinh Nghiệm - Đi Làm Ngay",
+    "is_valid_job": true,
+    "standardized_title": "Product Manager",
+    "id": 171
+  },
+  {
+    "original": "Lập Trình Viên Tại Hưng Yên (Lương Từ 12M - 15M)",
+    "is_valid_job": false,
+    "standardized_title": null,
+    "id": 172
+  },
+  {
+    "original": "Nhân Viên Kinh Doanh Giải Pháp CNTT, Sales / Tư Vấn Dịch Vụ CNTT",
+    "is_valid_job": true,
+    "standardized_title": "IT Sales",
+    "id": 173
+  },
+  {
+    "original": "Art Leader (5 Năm Kinh Nghiệm) - Thu Nhập Từ 15-30 Triệu, Hồ Chí Minh",
+    "is_valid_job": true,
+    "standardized_title": "Art Lead",
+    "id": 174
+  },
+  {
+    "original": "Nhân Viên Telesale ( Tuyển Nữ )– Lương 7–14 Triệu + Hoa Hồng – Nghỉ T7 & CN",
+    "is_valid_job": false,
+    "standardized_title": null,
+    "id": 175
+  },
+  {
+    "original": "Giảng Viên Đào Tạo Python Fulltime/Parttime, Từ 2 Năm Kinh Nghiệm, Làm Việc Tại Hà Nội / Hồ Chí Minh",
+    "is_valid_job": true,
+    "standardized_title": "Technical Trainer",
+    "id": 176
+  },
+  {
+    "original": "UA Marketing – Mobile App | Tối Thiểu 6 Tháng - 1 Năm Kinh Nghiệm | Mức Lương Upto 20 Triệu",
+    "is_valid_job": true,
+    "standardized_title": "User Acquisition Specialist",
+    "id": 177
+  },
+  {
+    "original": "Nhân Viên Tư Vấn/Kinh Doanh Ngành Game Chỉ Làm Việc Tại Văn Phòng Không Yêu Cầu Kinh Nghiệm",
+    "is_valid_job": true,
+    "standardized_title": "Game Sales Consultant",
+    "id": 178
+  },
+  {
+    "original": "IT Officer (M3 System)",
+    "is_valid_job": true,
+    "standardized_title": "IT Support",
+    "id": 179
+  },
+  {
+    "original": "Penetration Tester",
+    "is_valid_job": true,
+    "standardized_title": "Security Engineer",
+    "id": 180
+  },
+  {
+    "original": "Senior Project Manager",
+    "is_valid_job": true,
+    "standardized_title": "Project Manager",
+    "id": 181
+  },
+  {
+    "original": "Quản Lý Dự Án (Độ Tuổi Từ 28 Đến 40) - Thu Nhập Upto 30 Triệu (Hỗ Trợ Ăn Trưa Và Trang Thiết Bị Làm Việc) Tại Hà Nội",
+    "is_valid_job": false,
+    "standardized_title": null,
+    "id": 182
+  },
+  {
+    "original": "IT Comtor (N1 JLPT) - HN/HCM",
+    "is_valid_job": true,
+    "standardized_title": "IT Communicator",
+    "id": 183
+  },
+  {
+    "original": "Kỹ Thuật Viên Tiếng Nhật ( Đà Nẵng )",
+    "is_valid_job": false,
+    "standardized_title": null,
+    "id": 184
+  },
+  {
+    "original": "Trợ Lý Trưởng Ban CNTT (Assistant To Head Of IT Department)",
+    "is_valid_job": true,
+    "standardized_title": "System Administrator",
+    "id": 185
+  },
+  {
+    "original": "Kỹ Sư AndroidTV Settop Box",
+    "is_valid_job": true,
+    "standardized_title": "Embedded Engineer",
+    "id": 186
+  },
+  {
+    "original": "Lập Trình Nhúng -Embedded Software Engineer ( C/ C++)",
+    "is_valid_job": true,
+    "standardized_title": "Embedded Engineer",
+    "id": 187
+  },
+  {
+    "original": "Kỹ Sư Network Quality Assurance Engineer ( QA /ATS)",
+    "is_valid_job": true,
+    "standardized_title": "Automation Test Engineer",
+    "id": 188
+  },
+  {
+    "original": "Trưởng Nhóm Kinh Doanh Mảng IT Outsourcing (Thu Nhập 25 - 40 Triệu) - Nghỉ Thứ 7, Chủ Nhật",
+    "is_valid_job": true,
+    "standardized_title": "IT Sales",
+    "id": 189
+  },
+  {
+    "original": "Chuyên Viên Kinh Doanh An Ninh Mạng (Cyber Security) - Hà Nội / TP.HCM",
+    "is_valid_job": true,
+    "standardized_title": "IT Sales",
+    "id": 190
+  },
+  {
+    "original": "Chuyên Viên Kinh Doanh Dự Án CNTT (Khối Chính Phủ) (Kinh Nghiệm 3 Năm) Tại Hà Nội , Đi Làm Ngay",
+    "is_valid_job": true,
+    "standardized_title": "IT Sales",
+    "id": 191
+  },
+  {
+    "original": "Embedded Software Engineer",
+    "is_valid_job": true,
+    "standardized_title": "Embedded Engineer",
+    "id": 192
+  },
+  {
+    "original": "Android -TV Project Leader",
+    "is_valid_job": true,
+    "standardized_title": "Project Manager",
+    "id": 193
+  },
+  {
+    "original": "Chuyên Viên Bảo Mật Và Tuân Thủ ATTT",
+    "is_valid_job": true,
+    "standardized_title": "Security Engineer",
+    "id": 194
+  },
+  {
+    "original": "Business Development Executive - Software Sale",
+    "is_valid_job": true,
+    "standardized_title": "IT Sales",
+    "id": 195
+  },
+  {
+    "original": "Chuyên Viên Kinh Doanh (Lương Cứng+ Thưởng Thu Nhập Up To 40 Triệu)",
+    "is_valid_job": true,
+    "standardized_title": "IT Sales",
+    "id": 196
+  },
+  {
+    "original": "Tin tuyển dụng",
+    "is_valid_job": false,
+    "standardized_title": null,
+    "id": 197
+  },
+  {
+    "original": "Trưởng Phòng Kinh Doanh Phần Mềm",
+    "is_valid_job": true,
+    "standardized_title": "IT Sales",
+    "id": 198
+  },
+  {
+    "original": "Nhân Viên Kỹ Thuật IT - Điện - Điện Tử (Định Công - Hà Nội ) Từ 9 Đến 12 Triệu",
+    "is_valid_job": true,
+    "standardized_title": "IT Support",
+    "id": 199
+  },
+  {
+    "original": "Data Scientist",
+    "is_valid_job": true,
+    "standardized_title": "Data Scientist",
+    "id": 200
+  },
+  {
+    "original": "AI Agent Engineer",
+    "is_valid_job": true,
+    "standardized_title": "AI Engineer",
+    "id": 201
+  },
+  {
+    "original": "UI/UX Designer",
+    "is_valid_job": true,
+    "standardized_title": "UI/UX Designer",
+    "id": 202
+  },
+  {
+    "original": "Kỹ Sư Cầu Nối ( BrSE ) Tiếng Nhật N2",
+    "is_valid_job": true,
+    "standardized_title": "Bridge System Engineer",
+    "id": 203
+  },
+  {
+    "original": "Kỹ Sư Hệ Thống / System Engineer",
+    "is_valid_job": true,
+    "standardized_title": "System Administrator",
+    "id": 204
+  },
+  {
+    "original": "Data Engineer",
+    "is_valid_job": true,
+    "standardized_title": "Data Engineer",
+    "id": 205
+  },
+  {
+    "original": "BrSE (.NET, C#) - 5 Năm Kinh Nghiệm - Thu Nhập Upto 60M - Tại Hà Nội",
+    "is_valid_job": true,
+    "standardized_title": "Bridge System Engineer",
+    "id": 206
+  },
+  {
+    "original": "Nhân Viên UI/UX Designer (Thu Nhập Hấp Dẫn - Upto 18.000.000/Tháng)",
+    "is_valid_job": true,
+    "standardized_title": "UI/UX Designer",
+    "id": 207
+  },
+  {
+    "original": "Project Manager (GOV)",
+    "is_valid_job": true,
+    "standardized_title": "Project Manager",
+    "id": 208
+  },
+  {
+    "original": "Nhân Viên UI/UX Designer",
+    "is_valid_job": true,
+    "standardized_title": "UI/UX Designer",
+    "id": 209
+  }
+]

@@ -13,10 +13,11 @@ from pathlib import Path
 sys.stdout.reconfigure(encoding="utf-8")
 sys.stderr.reconfigure(encoding="utf-8")
 
-ROOT = Path(__file__).parent.parent
+ROOT = Path(__file__).resolve().parent.parent        # 01-standardize_title/
+REPO_ROOT = Path(__file__).resolve().parent.parent.parent.parent  # DS108/DS108/
 
 # --- load .env ---
-for line in (ROOT / ".env").read_text(encoding="utf-8").splitlines():
+for line in (REPO_ROOT / ".env").read_text(encoding="utf-8").splitlines():
     line = line.strip()
     if line and not line.startswith("#") and "=" in line:
         k, _, v = line.partition("=")
@@ -26,7 +27,7 @@ PROJECT = os.environ["GOOGLE_CLOUD_PROJECT"]
 LOCATION = os.environ["GOOGLE_CLOUD_LOCATION"].strip('"')
 MODEL = os.environ["GEMINI_MODEL"]
 
-CREDS = ROOT / os.environ["GOOGLE_APPLICATION_CREDENTIALS"]
+CREDS = REPO_ROOT / os.environ["GOOGLE_APPLICATION_CREDENTIALS"]
 os.environ["GOOGLE_APPLICATION_CREDENTIALS"] = str(CREDS)
 
 from google import genai  # noqa: E402
@@ -144,7 +145,7 @@ if __name__ == "__main__":
     )
     args = parser.parse_args()
 
-    CSV_FILE = ROOT.parent.parent / "data" / "raw" / f"00-{args.dataset}_raw.csv"
+    CSV_FILE = OUTPUT_DIR / f"00-{args.dataset}_filtered.csv"
     OUTPUT_FILE = OUTPUT_DIR / f"{args.dataset}_job_title_full.json"
 
     jobs = load_jobs(CSV_FILE)

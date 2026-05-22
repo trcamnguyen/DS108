@@ -1,0 +1,937 @@
+============================================================
+  JOB TITLE FILTER — REMOVED TITLES REPORT
+============================================================
+  Tổng bị loại (DROP + REVIEW) : 1,456
+    -> DROP   : 1,456
+    -> REVIEW : 0
+
+  Breakdown theo nhóm (DROP):
+    graphic_visual                911  (62.6%)
+    marketing_sales               443  (30.4%)
+    content_media                  52  (3.6%)
+    industrial_engineering         48  (3.3%)
+    non_tech_roles                  2  (0.1%)
+
+============================================================
+  DROPPED TITLES (theo nhóm)
+============================================================
+
+[graphic_visual]  (911 titles)
+  - (JP 232) Kỹ Sư PLC Thiết Kế Điều Khiển Điện Cho Máy Tiếp Nhiên Liệu Tàu, Cảng Đi Nhật Miễn Phí Làm Việc Tại Tokyo
+  - 2D Designer
+  - 2D Designer - Clinic
+  - 2D Designer Executive
+  - 2D EVENT DESIGNER ( Thiết Kế Đồ Họa Sự Kiện)
+  - 2D Game Artist (Concept & Illustration)
+  - 2D Graphic Designer (Anime/Manga Artist )
+  - 2D Motion Graphic Designer
+  - 3D Designer
+  - 3D Designer ( Event , Stage & Exhibition)
+  - 3D Designer - Đi Làm Ngay
+  - Artist Intern ( 2D / ILLUSTRATION / MOTION)
+  - CHUYÊN VIÊN THIẾT KẾ - Đi Làm Ngay
+  - CTV Thiết Kế 3D
+  - CTV Thiết Kế Thumbnail Và Dựng Video Youtube
+  - CTV Thiết Kế Đồ Họa ( Graphic Designer )
+  - Chuyên Gia Thiết Kế Và Sáng Tạo - Popplife - 2V053
+  - Chuyên Viên DESIGNER - Mảng BĐS
+  - Chuyên Viên Designer
+  - Chuyên Viên Graphic Design Ngành Nội Thất
+  - Chuyên Viên Graphic Designer
+  - Chuyên Viên Graphic Designer Giáo Dục
+  - Chuyên Viên Graphic Designer Mảng Thẩm Mỹ
+  - Chuyên Viên Media (Video & Thiết Kế)
+  - Chuyên Viên Thiết Kế
+  - Chuyên Viên Thiết Kế & Chế Bản Bao Bì ( Hà Nội ) - Lương Từ 12-15 Triệu/Tháng
+  - Chuyên Viên Thiết Kế ( Designer )
+  - Chuyên Viên Thiết Kế ( Graphic Design )
+  - Chuyên Viên Thiết Kế ( Graphic Designer )
+  - Chuyên Viên Thiết Kế ( Senior Designer )
+  - Chuyên Viên Thiết Kế (Công Ty Đối Tác)
+  - Chuyên Viên Thiết Kế (FULL-TIME)
+  - Chuyên Viên Thiết Kế (Phòng Khám, Thẩm Mỹ) Từ 2 Năm Kinh Nghiệm - Thu Nhập Hấp Dẫn - Tại Cầu Giấy , Hà Nội - Đi Làm Ngay
+  - Chuyên Viên Thiết Kế - Designer
+  - Chuyên Viên Thiết Kế - Designer Marketing (Thu Nhập 15tr- 17tr/ Tháng)
+  - Chuyên Viên Thiết Kế - Graphic Design
+  - Chuyên Viên Thiết Kế - Graphic Designer
+  - Chuyên Viên Thiết Kế - Graphic Designer / Thu Nhập Đến 18 Triệu
+  - Chuyên Viên Thiết Kế - Nhận Việc Ngay
+  - Chuyên Viên Thiết Kế - Video Editor
+  - Chuyên Viên Thiết Kế / Design Marketing
+  - Chuyên Viên Thiết Kế / Designer - Tại Hà Nội
+  - Chuyên Viên Thiết Kế 2D - Lương Thưởng Hấp Dẫn - Hà Nội
+  - Chuyên Viên Thiết Kế 3D
+  - Chuyên Viên Thiết Kế 3D (Lương Upto 25 Triệu/Tháng)
+  - Chuyên Viên Thiết Kế Bao Bì
+  - Chuyên Viên Thiết Kế Bao Bì/ Packaging Designer Làm Việc Từ T2 - T6 Lương Từ 15 - 30M Tại Quận 1 (Phỏng Vấn Trước Tết - Nhận Việc Sau Tết)
+  - Chuyên Viên Thiết Kế Bảng Giá (SPA)
+  - Chuyên Viên Thiết Kế Cấp Cao
+  - Chuyên Viên Thiết Kế Kiểu Dáng (Industrial Design )
+  - Chuyên Viên Thiết Kế Ngành Bất Động Sản
+  - Chuyên Viên Thiết Kế Production ( Graphic Designer )
+  - Chuyên Viên Thiết Kế Setup Decor
+  - Chuyên Viên Thiết Kế Và Sản Xuất Video - Từ Năm 2 Kinh Nghiệm
+  - Chuyên Viên Thiết Kế Đa Phương Tiện
+  - Chuyên Viên Thiết Kế Đồ Hoạ
+  - Chuyên Viên Thiết Kế Đồ Hoạ - Chế Bản Bao Bì 2D /3D
+  - Chuyên Viên Thiết Kế Đồ Hoạ / Designer - Agency MKT
+  - Chuyên Viên Thiết Kế Đồ Họa
+  - Chuyên Viên Thiết Kế Đồ Họa ( Graphic Design )
+  - Chuyên Viên Thiết Kế Đồ Họa (Biết Tiếng Trung ) - Thu Nhập Hấp Dẫn, Nhận Việc Ngay
+  - Chuyên Viên Thiết Kế Đồ Họa (Nghỉ Full Thứ 7- CN)
+  - Chuyên Viên Thiết Kế Đồ Họa - Graphic Design (1 Năm Kinh Nghiệm)
+  - Chuyên Viên Thiết Kế Đồ Họa - Graphic Design (Lương Cứng 15-20TR/Tháng)
+  - Chuyên Viên Thiết Kế Đồ Họa - Senior Designer
+  - Chuyên Viên Thiết Kế Đồ Họa / Graphic Designer
+  - Chuyên Viên Thiết Kế Đồ Họa Graphic Designer
+  - Chuyên Viên Thiết Kế Đồ Họa Thương Hiệu Và Truyền Thông ( Graphic Designer – Branding & Digital Marketing )
+  - Chuyên Viên Thiết Kế Đồ Họa Và Quay Dựng Video
+  - Chuyên Viên Thiết Kế Đồ Họa Và Quay Phim
+  - Chuyên Viên Thiết Kế Đồ Họa Xây Dựng & Nội Thất
+  - Chuyên Viên Video Editor ( Animation )
+  - Clinic Designer
+  - Creative Designer
+  - Creative Graphic Designer
+  - Customer Service & Graphic Design Executive
+  - Cộng Tác Viên Designer
+  - Cộng Tác Viên Thiết Kế
+  - Cộng Tác Viên Thiết Kế Parttime
+  - Cộng Tác Viên Thiết Kế Ấn Phẩm
+  - DESIGN MEDIA - Thiết Kế Ấn Phẩm Sự Kiện
+  - Design 2D / Thiết Kế Đồ Họa - Lương Upto 17 Triệu
+  - Design Thiết Kế Đồ Họa
+  - Designer
+  - Designer - Thiết Kế Hình Ảnh Trên Áo
+  - Designer - Thu Nhập Hấp Dẫn - Ưu Tiên Nam - Làm Việc Tại Quận 02
+  - Designer - Trade Marketing (Part-Time)
+  - Designer 2D ; 3D
+  - Designer 3D (YC Kinh Nghiệm Thiết Kế Sân Khấu Sự Kiện)
+  - Designer Cum Tiktoker Creative (Salary 12 - 20M)
+  - Designer Hình Ảnh Mỹ Phẩm
+  - Designer Intern
+  - Designer Kiêm Video Editor Ngành Mỹ Phẩm - Lương Up To 18M, Bảo Hiểm Full Lương, Đãi Ngộ Tương Đương 14 Tháng Lương/Năm, Bảo Hiểm Sức Khỏe Doanh Nghiệp
+  - Designer Lead
+  - Designer Marketing
+  - Designer Mảng Event
+  - Designer POD
+  - Designer Sáng Tạo Nội Dung (Tik Tok & Facebook )
+  - Designer Thiết Kế
+  - Division Leader - Thiết Kế Bảng Kế
+  - Ecommerce POD Designer
+  - Fresher Video Editor (Mobile App)
+  - GAME VISUAL ARTIST / Chuyên Viên Thiết Kế Hình Ảnh Game (Nghỉ T7, CN)
+  - Giảng Viên Thiết Kế Đồ Họa
+  - Grapgic Designer / Thiết Kế Thu Nhập Hấp Dẫn
+  - Graphic /Visual Designer , Thời Trang Nữ Cao Cấp, Quận 2, Thu Nhập Tốt, Nhiều Không Gian Sáng Tạo, Kết Hợp AI, Đi Làm Ngay
+  - Graphic Design
+  - Graphic Design & Video Editor Executive (B2C)
+  - Graphic Design (Channel Marketing )
+  - Graphic Design (Fulltime)
+  - Graphic Design (Ngành Nội Thất)
+  - Graphic Design - Dưới 1 Năm Kinh Nghiệm
+  - Graphic Design - Ngành Thẩm Mỹ & Mỹ Phẩm
+  - Graphic Design / Nhân Viên Thiết Kế Đồ Họa
+  - Graphic Design Executive
+  - Graphic Design Intern
+  - Graphic Design Manager
+  - Graphic Design Ngành Thực Phẩm
+  - Graphic Design Part-Time
+  - Graphic Designer
+  - Graphic Designer ( Ca Đêm , Nghỉ Thứ 7 Và CN)
+  - Graphic Designer ( Có Kỹ Năng Quay Dựng)
+  - Graphic Designer ( Event )
+  - Graphic Designer ( Mảng Bao Bì Quà Tặng)
+  - Graphic Designer ( Social Media ) Full Time-Part Time, Làm Việc Tại Bình Tân
+  - Graphic Designer (Bao Gói, Tem Nhãn SP)
+  - Graphic Designer (E-Commerce) - Marketing Materials & Social Media
+  - Graphic Designer (Full-Time/Intern)
+  - Graphic Designer (Infographic & Media ) - Từ 2 Năm Kinh Nghiệm - Hà Nội
+  - Graphic Designer (Mid-Level)
+  - Graphic Designer (Mobile App)
+  - Graphic Designer (Mảng Nội Thất)
+  - Graphic Designer (Personalized Gifts) - Junior
+  - Graphic Designer (Senior)
+  - Graphic Designer (Up-To $2000)
+  - Graphic Designer - Chuyên Viên Thiết Kế
+  - Graphic Designer - Chuyên Viên Thiết Kế F&B
+  - Graphic Designer - Lương Cơ Bản Upto 15 Triệu (Cung Cấp Suất Ăn Trưa) Tại Bắc Ninh Và Hà Nội
+  - Graphic Designer - Mobile App
+  - Graphic Designer - Ngành Bất Động Sản
+  - Graphic Designer - Nhân Viên Thiết Kế
+  - Graphic Designer - Nhân Viên Thiết Kế 2D
+  - Graphic Designer - Nhân Viên Thiết Kế Đồ Họa
+  - Graphic Designer - Thiết Kế Đồ Họa
+  - Graphic Designer / Nhân Viên Thiết Kế
+  - Graphic Designer 2D
+  - Graphic Designer 2D /3D - Ngành Truyền Thông /Quảng Cáo Ngoài Trời OOH/Activation Tại TP HCM
+  - Graphic Designer Executive
+  - Graphic Designer Fresher
+  - Graphic Designer Full-Time
+  - Graphic Designer Intern
+  - Graphic Designer Intern (TTS Thiết Kế Đồ Họa )
+  - Graphic Designer Intern - Marketing Communication
+  - Graphic Designer Junior
+  - Graphic Designer Kiêm Video Editor
+  - Graphic Designer Ngành Thời Trang Túi Xách Cao Cấp
+  - Graphic Designer POD
+  - Graphic Designer POD ( Thu Nhập Đến 15 Triệu - Đi Làm Ngay )
+  - Graphic Designer POD (Sau Tết Đi Làm)
+  - Graphic Designer Parttime
+  - Graphic Designer Sàn E-Commerce
+  - Graphic Designer Thumbnail
+  - Graphic Designer Tại Phòng Khám Da Liễu - Thu Nhập Hấp Dẫn
+  - Graphic Designer Từ 3 Năm Kinh Nghiệm
+  - Graphic Designer | Chuyên Viên Thiết Kế Sản Phẩm
+  - Graphics Designer
+  - Họa Sĩ Hoạt Hình 3D – Thiết Kế Nhân Vật, Dựng Mô Hình 3D (Phần Mềm Zbrush)
+  - Inhouse Graphic Designer
+  - Intern Graphic Design (Full-Time)
+  - Junior Graphic Designer
+  - Junior Graphic Designer - Onsite
+  - Kỹ Sư Lập Trình PLC - Thiết Kế Bản Vẽ Điện
+  - Kỹ Sư Lập Trình PLC - Thiết Kế Điện
+  - Kỹ Sư Thiết Kế , Lập Trình CNC
+  - Kỹ Sư Thiết Kế FPGA
+  - Kỹ Sư Thiết Kế Lập Trình/ Kỹ Sư Thiết Kế Điện Điều Khiển AGV Thu Nhập Đến 45 Triệu ( Bắc Ninh )
+  - Kỹ Sư Thiết Kế Phần Cứng Điện Tử
+  - Kỹ Sư Điện Tự Động Hóa /Lập Trình, Thiết Kế Bản Vẽ (Thu Nhập Tới 20tr) /Môi Trường Khách Hàng FDI Nhật Bản
+  - Leader Graphic Designer
+  - Leader Thiết Kế
+  - Leader Thiết Kế Nội Thất
+  - Marketing Designer
+  - Media Designer / Nhân Viên Thiết Kế ( Đi Làm Ngay )
+  - Mid Graphic Design ( Game )
+  - Motion Graphic Designer
+  - MultiMedia Designer
+  - Multimedia Designer
+  - NV MARKETING (Thế Mạnh Thiết Kế & Quay Dựng)
+  - NV Thiết Kế Nhận Diện Và Truyền Thông Thương Hiệu
+  - Nhân Sự Designer - Tân Phú - HCM - Thu Nhập 12tr
+  - Nhân Viên Brand Visual - Brand Designer - Nghỉ T7&CN - 1 Năm Kinh Nghiệm - Làm Việc Tại P.Long Bình, TP HCM - Thu Nhập 9 - 13 Triệu
+  - Nhân Viên DESIGNER
+  - Nhân Viên Design
+  - Nhân Viên Design Có Kinh Nghiệm Thiết Kế Ngành Hàng TMĐT (Thu Nhập Hấp Dẫn + KPI)
+  - Nhân Viên Design Full-Time (Lương Cơ Bản: 8.5 - 12 Triệu + Thưởng)
+  - Nhân Viên Design Marketing
+  - Nhân Viên Design POD
+  - Nhân Viên Design Sách Học Tiếng Nhật
+  - Nhân Viên Design Thiết Kế Sáng Tạo
+  - Nhân Viên Design Thumbnail
+  - Nhân Viên Designer
+  - Nhân Viên Designer (MẢNG MẸ & BÉ) Tại Hoàng Mai , Hà Nội - Thu Nhập Hấp Dẫn - Đi Làm Ngay
+  - Nhân Viên Designer - Graphic Designer POD
+  - Nhân Viên Designer - PartTime (Nữ)
+  - Nhân Viên Designer / 1 Năm Kinh Nghiệm / Ngành POD
+  - Nhân Viên Designer / Thiết Kế Đồ Họa
+  - Nhân Viên Designer Clone Và Thiết Kế Sản Phẩm POD
+  - Nhân Viên Designer Có Kinh Nghiệm
+  - Nhân Viên Designer Social 2D
+  - Nhân Viên Dàn Trang Và Thiết Kế Đồ Họa
+  - Nhân Viên Edit Video Và Thiết Kế
+  - Nhân Viên GRAPHIC DESIGNER
+  - Nhân Viên Graphic Design
+  - Nhân Viên Graphic Design (Fulltime)
+  - Nhân Viên Graphic Design (Social/Multimedia)
+  - Nhân Viên Graphic Design - Kinh Nghiệm Từ 1 Năm
+  - Nhân Viên Graphic Design - Thiết Kế ( Nha Khoa)
+  - Nhân Viên Graphic Design Kiêm Edit Video
+  - Nhân Viên Graphic Design Thumbnail Cho Kênh Youtube Âm Nhạc - Lương Upto 20tr - Tại Hà Nội
+  - Nhân Viên Graphic Designer
+  - Nhân Viên Graphic Designer ( Biết Edit Video)
+  - Nhân Viên Graphic Designer (Mảng Game )
+  - Nhân Viên Graphic Designer (Phòng Shopee)
+  - Nhân Viên Graphic Designer - F&B
+  - Nhân Viên Graphic Designer POD
+  - Nhân Viên Graphic Designer Phòng Marketing
+  - Nhân Viên Graphic Designer Tại Hà Nội (14 - 20 Triệu)
+  - Nhân Viên Kinh Doanh Phần Mềm Thiết Kế Nội Thất
+  - Nhân Viên Marketing Designer
+  - Nhân Viên Media - ( Photographer - Graphic Design )
+  - Nhân Viên Media - Designer Full Time (Nữ)
+  - Nhân Viên Media - Thiết Kế Đồ Họa
+  - Nhân Viên Media Designer
+  - Nhân Viên Nữ Thiết Kế Fulltime (Ưu Tiên Sinh Viên Mới Ra Trường , Thu Nhập Từ 8-15 Triệu Trở Lên) - Bình Tân TPHCM
+  - Nhân Viên Quay Dựng - Video Editor - Đi Làm Ngay !!
+  - Nhân Viên Thiết Kế
+  - Nhân Viên Thiết Kế ( Design )
+  - Nhân Viên Thiết Kế ( Design Graphic )
+  - Nhân Viên Thiết Kế ( Designer )
+  - Nhân Viên Thiết Kế ( Graphic Design )
+  - Nhân Viên Thiết Kế ( Graphic Design ) Tại Hà Nội (Lương 12 - 16 Triệu)
+  - Nhân Viên Thiết Kế ( Graphic Designer )
+  - Nhân Viên Thiết Kế ( Graphic Designer ) - Thu Nhập 12 - 15 Triệu
+  - Nhân Viên Thiết Kế ( Graphic Designer 2D / 3D)
+  - Nhân Viên Thiết Kế (Lĩnh Vực BĐS)
+  - Nhân Viên Thiết Kế (Mức Lương Hấp Dẫn)
+  - Nhân Viên Thiết Kế (Ngành Hàng Tiêu Dùng Mẹ Và Bé)
+  - Nhân Viên Thiết Kế (Part-Time)
+  - Nhân Viên Thiết Kế (Photoshop & Figma) - Hồ Chí Minh
+  - Nhân Viên Thiết Kế (Phỏng Vấn Đi Làm Ngay )
+  - Nhân Viên Thiết Kế (Print On Demand)
+  - Nhân Viên Thiết Kế (Senior) - Lương Upto 15 Triệu Tại Hà Nội
+  - Nhân Viên Thiết Kế (Thu Nhập Lên Đến 12 Triệu)
+  - Nhân Viên Thiết Kế (Wordpress Designer )
+  - Nhân Viên Thiết Kế , Thu Nhập Upto 12 Triệu, Full Chế Độ, Đi Làm Ngay
+  - Nhân Viên Thiết Kế - Designer
+  - Nhân Viên Thiết Kế - Designer POD
+  - Nhân Viên Thiết Kế - Graphic Design
+  - Nhân Viên Thiết Kế - Graphic Designer
+  - Nhân Viên Thiết Kế - Kinh Nghiệm 8 Tháng - Đi Làm Ngay - Thu Nhập Tốt
+  - Nhân Viên Thiết Kế - Ngành POD
+  - Nhân Viên Thiết Kế - Phòng Marketing
+  - Nhân Viên Thiết Kế / DESIGN STAFF
+  - Nhân Viên Thiết Kế / Design
+  - Nhân Viên Thiết Kế / Designer
+  - Nhân Viên Thiết Kế / Designer (Phòng Khám)
+  - Nhân Viên Thiết Kế / Designer - Thu Nhập 15-20 Triệu
+  - Nhân Viên Thiết Kế / Designer - Thương Mại Điện Tử
+  - Nhân Viên Thiết Kế / Designer - Thương Mại Điện Tử Thu Nhập Upto 16M - Không Yêu Cầu Kinh Nghiệm
+  - Nhân Viên Thiết Kế / Graphic Designer
+  - Nhân Viên Thiết Kế / Marketing Designer
+  - Nhân Viên Thiết Kế / Marketing Designer - Ngành Mỹ Phẩm (Lương Từ 12 - 16 Triệu)
+  - Nhân Viên Thiết Kế / Thiết Kế Đồ Họa / Graphic Design - Tuyển Nam ( Thu Nhập 13 Triệu - 15 Triệu)
+  - Nhân Viên Thiết Kế / Thực Tập Sinh Thiết Kế
+  - Nhân Viên Thiết Kế /Quay Dựng
+  - Nhân Viên Thiết Kế 2D
+  - Nhân Viên Thiết Kế 2D ( Graphic Design )
+  - Nhân Viên Thiết Kế 2D ( Graphic Designer ) - Không YC Kinh Nghiệm - Phú Thọ
+  - Nhân Viên Thiết Kế 2D - 3D
+  - Nhân Viên Thiết Kế 2D / Designer
+  - Nhân Viên Thiết Kế 2D / Vẽ File CNC (Ngành Nội Thất)– Thu Nhập 10–13 Triệu
+  - Nhân Viên Thiết Kế 2D /3D
+  - Nhân Viên Thiết Kế 2D Parttime
+  - Nhân Viên Thiết Kế 2D Thời Vụ
+  - Nhân Viên Thiết Kế 2D – Mảng Quảng Cáo - Lương Upto 10 Triệu/ Tháng
+  - Nhân Viên Thiết Kế 3D
+  - Nhân Viên Thiết Kế 3D - Sự Kiện
+  - Nhân Viên Thiết Kế 3D / Graphic Design
+  - Nhân Viên Thiết Kế 3D / Graphic Design Tại Thủ Đức
+  - Nhân Viên Thiết Kế 3D / Graphic Designer
+  - Nhân Viên Thiết Kế 3D Ngành Giày Dép
+  - Nhân Viên Thiết Kế Bao Bì
+  - Nhân Viên Thiết Kế Bao Bì Sản Phẩm
+  - Nhân Viên Thiết Kế Bao Bì Thuốc BVTV
+  - Nhân Viên Thiết Kế Biển Bảng
+  - Nhân Viên Thiết Kế Công Ty Sự Kiện
+  - Nhân Viên Thiết Kế Cúp
+  - Nhân Viên Thiết Kế Design
+  - Nhân Viên Thiết Kế Designer
+  - Nhân Viên Thiết Kế Designer - Branding Agency
+  - Nhân Viên Thiết Kế Designer Agency Marketing
+  - Nhân Viên Thiết Kế Digital Twin 3D Designer
+  - Nhân Viên Thiết Kế Digital Twin 3D Designer (Thu Nhập 20 - 30 Triệu) Đi Làm Ngay Tại Hồ Chí Minh
+  - Nhân Viên Thiết Kế F&B
+  - Nhân Viên Thiết Kế Full-Time
+  - Nhân Viên Thiết Kế Fulltime 2026
+  - Nhân Viên Thiết Kế Graphic Design
+  - Nhân Viên Thiết Kế Graphic Design Mỹ Phẩm
+  - Nhân Viên Thiết Kế Graphic Designer
+  - Nhân Viên Thiết Kế Hình Ảnh ( Graphic Designer )
+  - Nhân Viên Thiết Kế Hình Ảnh Thương Mại Điện Tử
+  - Nhân Viên Thiết Kế Hộp/ Packaging Designer Làm Việc Từ T2 - T6 Tại Bến Nghé
+  - Nhân Viên Thiết Kế In Ấn
+  - Nhân Viên Thiết Kế Marketing
+  - Nhân Viên Thiết Kế Ngành POD ( Designer )
+  - Nhân Viên Thiết Kế Nhãn Hàng Thức Uống
+  - Nhân Viên Thiết Kế Nhãn, Bao Bì Sản Phẩm
+  - Nhân Viên Thiết Kế Nhận Đơn In Ấn
+  - Nhân Viên Thiết Kế Nội Thất 3D
+  - Nhân Viên Thiết Kế POD (Print On Demand)
+  - Nhân Viên Thiết Kế Partime
+  - Nhân Viên Thiết Kế Quảng Cáo - Thành Thạo Corel
+  - Nhân Viên Thiết Kế Quảng Cáo / Graphic Designer – Bảng Hiệu
+  - Nhân Viên Thiết Kế Thiệp 3D Thu Nhập Lên Đến 15 Triệu Đồng
+  - Nhân Viên Thiết Kế Thumbnail Parttime
+  - Nhân Viên Thiết Kế Thị Trường Quốc Tế- Designer POD (Có Từ 1 Năm Kinh Nghiệm)
+  - Nhân Viên Thiết Kế Và Edit Video
+  - Nhân Viên Thiết Kế Và Phát Triển Nội Dung Game
+  - Nhân Viên Thiết Kế Và Quay Dựng Video
+  - Nhân Viên Thiết Kế Và Quản Lý Hạ Tầng FPT
+  - Nhân Viên Thiết Kế _ GRAPHIC DESIGNER - Thu Nhập 13.000.000 - 15.000.000 - Tại Hà Nội
+  - Nhân Viên Thiết Kế _ Graphic Designer
+  - Nhân Viên Thiết Kế | Ca Làm Việc Linh Hoạt
+  - Nhân Viên Thiết Kế Đa Phương Tiện
+  - Nhân Viên Thiết Kế Đi Làm Ngay
+  - Nhân Viên Thiết Kế Đồ Hoạ
+  - Nhân Viên Thiết Kế Đồ Hoạ (In Chuyển Nhiệt) - Thu Nhập Đến 20 Triệu
+  - Nhân Viên Thiết Kế Đồ Hoạ - Graphic Designer
+  - Nhân Viên Thiết Kế Đồ Hoạ - Thời Trang (Lương Lên Đến 12tr) Tại Hồ Chí Minh
+  - Nhân Viên Thiết Kế Đồ Hoạ / Graphic Designer Làm Việc Từ T2 - T6 Tại Đống Đa , Hà Nội - Môi Trường Làm Việc Gen Z, Cởi Mở (Lương Upto 13 Triệu/ Tháng)
+  - Nhân Viên Thiết Kế Đồ Hoạ Và Chỉnh Sửa Video
+  - Nhân Viên Thiết Kế Đồ Họa
+  - Nhân Viên Thiết Kế Đồ Họa ( 2D )
+  - Nhân Viên Thiết Kế Đồ Họa ( Graphic Design )
+  - Nhân Viên Thiết Kế Đồ Họa ( Graphic Designer )
+  - Nhân Viên Thiết Kế Đồ Họa ( Graphic Designer ) -Nữ
+  - Nhân Viên Thiết Kế Đồ Họa ( Social Marketing )
+  - Nhân Viên Thiết Kế Đồ Họa (Senior)
+  - Nhân Viên Thiết Kế Đồ Họa (Thời Trang)
+  - Nhân Viên Thiết Kế Đồ Họa (Upto 15M + Thưởng)
+  - Nhân Viên Thiết Kế Đồ Họa - Branding, Packaging
+  - Nhân Viên Thiết Kế Đồ Họa - Designer Marketing
+  - Nhân Viên Thiết Kế Đồ Họa - Graphic Design
+  - Nhân Viên Thiết Kế Đồ Họa - Graphic Designer
+  - Nhân Viên Thiết Kế Đồ Họa - PK Cơ Xương Khớp
+  - Nhân Viên Thiết Kế Đồ Họa / Graphic Design
+  - Nhân Viên Thiết Kế Đồ Họa / Làm Remote (Từ Xa) / Không Yêu Cầu Kinh Nghiệm / Thu Nhập Đến 15 Triệu
+  - Nhân Viên Thiết Kế Đồ Họa 2D
+  - Nhân Viên Thiết Kế Đồ Họa 2D ( Graphic Design )
+  - Nhân Viên Thiết Kế Đồ Họa Fresher (Ngành May Mặc)
+  - Nhân Viên Thiết Kế Đồ Họa Phòng Truyền Thông
+  - Nhân Viên Thiết Kế Đồ Họa Sách Tiểu Học
+  - Nhân Viên Thiết Kế Đồ Họa T03/2026
+  - Nhân Viên Thiết Kế Đồ Họa – Graphic Designer
+  - Nhân Viên Video Editor (Mobile App)
+  - Nhân Viên Vận Hành Cộng Đồng Game - Có Khả Năng Thiết Kế - Offer Upto 15M
+  - Nhân Viên Vẽ Minh Họa - Illustrator
+  - POD Graphic Designer (All Levels)
+  - Packaging Designer
+  - Part-Time Graphic Designer Co-Living Field
+  - R&D Thiết Kế Sản Phẩm Trầm Hương
+  - Sales Designer
+  - Senior 2D & 3D Graphic Designer ( Tổ Chức Sự Kiện )
+  - Senior 3D Designer
+  - Senior Creative Designer
+  - Senior Designer
+  - Senior Designer (Yêu Cầu Kinh Nghiệm Thiết Kế BĐS Trên 2 Năm)
+  - Senior Designer / Chuyên Viên Thiết Kế
+  - Senior Fashion Designer
+  - Senior Graphic Design
+  - Senior Graphic Design (Visual Direction)
+  - Senior Graphic Designer
+  - Senior Graphic Designer (Brand & Marketing )
+  - Senior Graphic Designer (Mạnh Ecom)
+  - Senior Graphic Designer (Nhãn Menard Spa)
+  - Senior Graphic Designer - Hà Nội
+  - Senior Graphic Designer / Chuyên Viên Thiết Kế Đồ Họa
+  - Senior Graphic Designer – Delivery (Express & Food)
+  - Senior Multidisciplinary Designer
+  - Senior Packaging Designer
+  - Thiết Kế
+  - Thiết Kế (Thẩm Mỹ, Spa, Nha Khoa)
+  - Thiết Kế - Graphic Designer
+  - Thiết Kế - Marketing
+  - Thiết Kế 2D ( 2D Designer ) Công Ty Event
+  - Thiết Kế 2D Part - Time
+  - Thiết Kế Họa Sĩ Vẽ Minh Họa - Creative Artist
+  - Thiết Kế Ngành Nails (Thu Nhập Từ 15-18 Triệu)
+  - Thiết Kế Thumbnail Cho Kênh YouTube
+  - Thiết Kế Video AI [ Quận 7 - Hồ Chí Minh ] - Thu Nhập Từ 15 Triệu, Tối Thiểu 1 Năm Kinh Nghiệm
+  - Thiết Kế Và Sản Xuất Animator Tại Hồ Chí Minh (Lương 20tr - 35tr) CV Tiếng Anh Và Portfolio File Video
+  - Thiết Kế Đồ Gá Tại Hưng Yên (Lương 15tr - 20tr)
+  - Thiết Kế Đồ Hoạ
+  - Thiết Kế Đồ Hoạ (TMĐT)
+  - Thiết Kế Đồ Hoạ Graphic Design (Chỉ Tuyển Nữ)
+  - Thiết Kế Đồ Họa
+  - Thiết Kế Đồ Họa & Phát Triển Sản Phẩm Thể Thao - Thu Nhập Hấp Dẫn - ( Phường Bình Hưng Hòa , Hồ Chí Minh ) - Đi Làm Ngay
+  - Thiết Kế Đồ Họa ( Graphic Design )
+  - Thiết Kế Đồ Họa ( Graphic Design ) _ Lương Cứng 12-16tr
+  - Thiết Kế Đồ Họa ( Graphic Designer )
+  - Thiết Kế Đồ Họa (Chế Độ Hấp Dẫn - Nghỉ T7,CN)
+  - Thiết Kế Đồ Họa - Graphic Designer (Mảng F&B )
+  - Thiết Kế Đồ Họa - Graphic Designer Mảng Giáo Dục
+  - Thiết Kế Đồ Họa - Ngành Contact Lens
+  - Thiết Kế Đồ Họa / Graphic Design
+  - Thiết Kế Đồ Họa / Graphic Designer (Team Thiết Kế Ngành Wedding & Event ) Lương Upto 18 Triệu
+  - Thiết Kế Đồ Họa / Mid - Weight Designer
+  - Thiết Kế Đồ Họa Design & Edit Video
+  - Thiết Kế Đồ Họa Design & Edit Video Lương Trên 12 Triệu Đi Làm Ngay
+  - Thiết Kế Đồ Họa Designer - Thu Nhập Upto 15 Triệu - Tại Nha Trang
+  - Thiết Kế Đồ Họa Ngành Ô Tô (Chỉ Tuyển Nữ)
+  - Thiết Kế Đồ Họa Quảng Cáo
+  - Thiết Kế Đồ Họa TMĐT (Ngành Đồ Lót)
+  - Thiết Kế Đồ Họa Thương Mại Điện Tử
+  - Thiết Kế Đồ Họa Tại Agency Marketing
+  - Thiết Kế Ảnh Graphic Designer
+  - Thực Tập Graphic Designer
+  - Thực Tập Sinh Design
+  - Thực Tập Sinh Design Full Time
+  - Thực Tập Sinh Design Full-Time
+  - Thực Tập Sinh Design TMĐT Amazon
+  - Thực Tập Sinh Designer
+  - Thực Tập Sinh Graphic Design
+  - Thực Tập Sinh Graphic Design Quảng Cáo
+  - Thực Tập Sinh Graphic Designer
+  - Thực Tập Sinh Ngành Thiết Kế Đồ Họa
+  - Thực Tập Sinh Thiết Kế
+  - Thực Tập Sinh Thiết Kế ( Graphic Design Intern )
+  - Thực Tập Sinh Thiết Kế (Phụ Cấp + Mộc Đỏ)
+  - Thực Tập Sinh Thiết Kế Hình Ảnh Bằng AI & Retouch
+  - Thực Tập Sinh Thiết Kế Level Game (Level Design )
+  - Thực Tập Sinh Thiết Kế Sản Phẩm
+  - Thực Tập Sinh Thiết Kế Đồ Hoạ
+  - Thực Tập Sinh Thiết Kế Đồ Hoạ ( Designer )
+  - Thực Tập Sinh Thiết Kế Đồ Họa
+  - Thực Tập Sinh Thiết Kế Đồ Họa ( Design )
+  - Thực Tập Sinh Thiết Kế Đồ Họa ( Designer )
+  - Thực Tập Sinh Thiết Kế Đồ Họa Designer
+  - Thực Tập Sinh Thiết Kế Đồ Họa Ngành Thời Trang
+  - Thực Tập Sinh Thiết Kế Đồ Họa Tại Agency Marketing
+  - Thực Tập Sinh Thiết Kế –Cơ Hội Designer Chính Thức
+  - Thực Tập Sinh Thiết Kế/ Design Intern | Đi Làm Ngay
+  - Thực Tập Sinh Video Editor
+  - Thực Tập Thiết Kế Đồ Họa 2D Mảng Print On Demand
+  - Thực Tập Video Editor Intern
+  - Thực Tập Viên Graphic Designer
+  - Trưởng Nhóm Thiết Kế
+  - Trưởng Nhóm Thiết Kế ( Design Team Leader )
+  - Trưởng Nhóm Thiết Kế (Lead Designer )
+  - Trưởng Nhóm Thiết Kế - Design Leader
+  - Trưởng Nhóm Thiết Kế / Senior Designer
+  - Trưởng Nhóm Thiết Kế Đồ Họa
+  - Trưởng Nhóm Thiết Kế Đồ Họa (Upto 25M + Thưởng)
+  - Trưởng Phòng Thiết Kế - Lĩnh Vực Quảng Cáo In Ấn
+  - Trưởng Phòng Thiết Kế Đồ Họa ( Mảng Bất Động Sản )
+  - Trưởng Phòng Thiết Kế Đồ Họa (Chủ Đầu Tư )
+  - Unity 3D/ Unity Designer
+  - Video Editor ( Game )
+  - Video Editor (Middle - Game Mobile)
+  - Video Editor (Mobile App)
+  - Video Editor - Xây Dựng Kênh Youtube
+  - Video Editor 2D Animation (Hoạt Hình Trẻ Em)
+  - Video Editor Youtube (Yêu Cầu Biết Làm Animation )
+  - [HN] Senior Graphic Designer
+
+[marketing_sales]  (443 titles)
+  - Account Executive
+  - Account Executive / Sales B2B / Martech Solutions ( Tư Vấn Trải Nghiệm Khách Hàng Hoa Hồng Lên Tới 30% Deal)
+  - Account Manager
+  - Account Manager (B2B)
+  - Account Manager Korean Market
+  - Account Manager – Enterprise IT
+  - Android App Marketing
+  - B2B IT Sales Executive (Korean Market)
+  - Business Consultant ( Tư Vấn Giải Pháp Marketing )
+  - Business Development
+  - Business Development ( IT )
+  - Business Development ( Japanese)
+  - Business Development ( Sales )
+  - Business Development (B2B)
+  - Business Development (Global Market)
+  - Business Development (Korean)
+  - Business Development B2B - Phát Triển Kinh Doanh
+  - Business Development Executive
+  - Business Development Executive ( ERP )
+  - Business Development Executive (STEM)
+  - Business Development Executive (Software)
+  - Business Development Executive - Software Sale
+  - Business Development Intern
+  - Business Development Intern (JP Market) - N1/N2
+  - Business Development Intern (Saas, Lark Suite)
+  - Business Development Intern - International Market
+  - Business Development Lead (ITO/BPO)
+  - Business Development Manager
+  - Business Development Manager (Japanese)
+  - Business Development Partnership ( Tiếng Anh Tốt)
+  - Business Development Representative
+  - Business Development Specialist
+  - Business Development Staff
+  - Business Development Từ 1 Năm Kinh Nghiệm
+  - CHUYÊN VIÊN PHÁT TRIỂN KINH DOANH ( ERP Solution)
+  - Chuyên Viên Design Marketing | Kinh Nghiệm 1 Năm | Thu Nhập Tới 12 Triệu Tại Hà Nội
+  - Chuyên Viên Kinh Doanh
+  - Chuyên Viên Kinh Doanh (Lương Cứng+ Thưởng Thu Nhập Up To 40 Triệu)
+  - Chuyên Viên Kinh Doanh (TT Hạ Tầng & Giải Pháp Số)
+  - Chuyên Viên Kinh Doanh (Tên Miền-Hosting-Server)
+  - Chuyên Viên Kinh Doanh - Không Yêu Cầu Kinh Nghiệm
+  - Chuyên Viên Kinh Doanh - Phần Mềm Quản Lý Bán Hàng
+  - Chuyên Viên Kinh Doanh - Sales (Mảng Phần Mềm)
+  - Chuyên Viên Kinh Doanh - Thu Nhập Đến 35tr - Làm Việc Tại TP.HCM
+  - Chuyên Viên Kinh Doanh / Sale B2B / Sale Phần Mềm Lương Cứng Upto 20M
+  - Chuyên Viên Kinh Doanh An Ninh Mạng (Cyber Security) - Hà Nội / TP.HCM
+  - Chuyên Viên Kinh Doanh B2B
+  - Chuyên Viên Kinh Doanh CNTT
+  - Chuyên Viên Kinh Doanh Dịch Vụ - Khối ITS
+  - Chuyên Viên Kinh Doanh Dự Án (Khối Nhà Nước / B2G)
+  - Chuyên Viên Kinh Doanh Dự Án CNTT (Khối Chính Phủ) (Kinh Nghiệm 3 Năm) Tại Hà Nội , Đi Làm Ngay
+  - Chuyên Viên Kinh Doanh Dự Án CNTT/ĐTVT
+  - Chuyên Viên Kinh Doanh Dự Án IT - Account Manager - Gross Salary 15M - 20M
+  - Chuyên Viên Kinh Doanh Giải Pháp Phần Mềm
+  - Chuyên Viên Kinh Doanh Hệ Thống SAP/ ERP (HN/HCM)
+  - Chuyên Viên Kinh Doanh Mảng Công Nghệ B2B
+  - Chuyên Viên Kinh Doanh Phầm Mềm
+  - Chuyên Viên Kinh Doanh Phần Mềm
+  - Chuyên Viên Kinh Doanh Phần Mềm ( Sales )
+  - Chuyên Viên Kinh Doanh Phần Mềm ( Thứ 2 - Thứ 6 )
+  - Chuyên Viên Kinh Doanh Phần Mềm ALOBO (Chế Độ Tốt)
+  - Chuyên Viên Kinh Doanh Phần Mềm B2B
+  - Chuyên Viên Kinh Doanh Phần Mềm DMS
+  - Chuyên Viên Kinh Doanh Phần Mềm KiotViet
+  - Chuyên Viên Kinh Doanh Phần Mềm Y Tế
+  - Chuyên Viên Kinh Doanh Phần Mềm/ Sale B2B
+  - Chuyên Viên Kinh Doanh Quốc Tế Hệ Thống SAP/ ERP
+  - Chuyên Viên Kinh Doanh Tư Vấn Phần Mềm - Hộ Kinh Doanh
+  - Chuyên Viên Marketing
+  - Chuyên Viên Marketing (Full – Stack) – Hệ Thống ADCBook
+  - Chuyên Viên Marketing Full-Stack
+  - Chuyên Viên Phát Triển Kinh Doanh
+  - Chuyên Viên Phát Triển Kinh Doanh (B2B) | Kinh Nghiệm Trên 5 Năm | Lương Cứng Tới 20 Triệu + Thưởng | Remote Hà Nội
+  - Chuyên Viên Phát Triển Kinh Doanh Data Center (Hạ Tầng IT )
+  - Chuyên Viên SEO Website
+  - Chuyên Viên Sale Marketing ( Nhân Viên Tư Vấn )
+  - Chuyên Viên Sales Enterprise ( IT )
+  - Chuyên Viên Telesales - Không Yêu Cầu Kinh Nghiệm - Lương Trung Bình Upto 20 Triệu Đến Không Giới Hạn - Bình Thạnh (TPHCM)
+  - Chuyên Viên Telesales / Tư Vấn Khách Hàng
+  - Chuyên Viên Tư Vấn Giải Pháp ERP ( Sales B2B DỰ ÁN )
+  - Chuyên Viên Tư Vấn Kinh Doanh Business Consultant
+  - Digital Marketing ( Dựng Phim Và Đồ Họa)
+  - Fresher Business Development
+  - Fresher Business Development (English)
+  - Fresher Business Development (Good Engish)
+  - Fresher Business Development Offer 15M
+  - Fresher Sales Support - IT Software - Japan Market
+  - Genius Sales Manager – Thử Thách Với Sản Phẩm SaaS
+  - Giám Đốc Kinh Doanh
+  - INTERN - Phát Triển Kinh Doanh Thị Trường Nhật Bản
+  - IT Business Development
+  - IT Sales
+  - IT Sales Middle Cum Digital Marketing
+  - Intern Business Development
+  - Junior Account Manager - Dự Án Chính Phủ
+  - Key Account Manager (B2B)
+  - Kinh Doanh Dự Án Công Nghệ Thông Tin
+  - Kinh Doanh Giải Pháp Phần Mềm B2B
+  - Leader Sale / Trưởng Nhóm Kinh Doanh
+  - Marketing Fullstack
+  - Marketing Intern
+  - Marketing Intern ( Advertising - Mailer)
+  - NV Kinh Doanh Phần Mềm Y Tế
+  - Nhân Viên Digital Marketing
+  - Nhân Viên Kinh Doanh
+  - Nhân Viên Kinh Doanh ( Sales Associate)
+  - Nhân Viên Kinh Doanh ( Sales B2B )
+  - Nhân Viên Kinh Doanh ( Sales Executive )
+  - Nhân Viên Kinh Doanh ( Sales Phần Mềm )
+  - Nhân Viên Kinh Doanh ( Sales Zalo MiniApp & ZNS)
+  - Nhân Viên Kinh Doanh ( Telesale /B2B)
+  - Nhân Viên Kinh Doanh ( Thiết Bị CNTT Và Phần Mềm)_ Lương Cứng 10 - 20 Triệu/Tháng - Cầu Giấy , Hà Nội
+  - Nhân Viên Kinh Doanh (B2B)/ Bán Hàng Kỹ Thuật ICT - Thu Nhập Không Giới Hạn
+  - Nhân Viên Kinh Doanh (Dịch Vụ Thiết Kế Website )
+  - Nhân Viên Kinh Doanh (LCB 8tr-12tr+Thưởng Quý+Thưởng Tháng)
+  - Nhân Viên Kinh Doanh (Thiết Bị + Giải Pháp CNTT)
+  - Nhân Viên Kinh Doanh (Thu Nhập Trên 20tr/Tháng - Không Yêu Cầu Kinh Nghiệm)
+  - Nhân Viên Kinh Doanh , Tư Vấn / Sales Phần Mềm
+  - Nhân Viên Kinh Doanh , Tư Vấn Phần Mềm / Sale B2B (Nghỉ Thứ 7, Chủ Nhật, Thu Nhập 10 - 20M) Tại Hà Nội + HCM
+  - Nhân Viên Kinh Doanh - Có Data Sẵn
+  - Nhân Viên Kinh Doanh - Không Yêu Cầu Kinh Nghiệm ( Gia Lai - Kon Tum )
+  - Nhân Viên Kinh Doanh - Lĩnh Vực CNTT
+  - Nhân Viên Kinh Doanh - Ngành Công Nghệ Thông Tin
+  - Nhân Viên Kinh Doanh - Tư Vấn Phần Mềm ( Telesales )
+  - Nhân Viên Kinh Doanh - Tư Vấn Website
+  - Nhân Viên Kinh Doanh / Sale / Tư Vấn/Bán Hàng Phần Mềm - Nữ - Thu Nhập Upto 40 Triệu - 2 Năm Kinh Nghiệm - Từ Liêm ( Hà Nội )
+  - Nhân Viên Kinh Doanh / Sale / Tư Vấn/Bán Hàng Phần Mềm - Thu Nhập Upto 40 Triệu -Nam Từ Liêm , Từ Liêm ( Hà Nội )
+  - Nhân Viên Kinh Doanh / Sale B2B
+  - Nhân Viên Kinh Doanh / Sale Domain, Hosting, Server ( Lương Cứng 7-9 Triệu + Hoa Hồng Hấp Dẫn ) Tại Hồ Chí Minh , Hà Nội
+  - Nhân Viên Kinh Doanh / Sales ( B2B Sales )
+  - Nhân Viên Kinh Doanh / Sales / Tư Vấn Bán Hàng
+  - Nhân Viên Kinh Doanh / Sales B2B / Nhân Viên Tư Vấn
+  - Nhân Viên Kinh Doanh / Sales B2b (Mảng Công Nghệ) - Thu Nhập Hấp Dẫn Upto +30M - Đi Làm Ngay Tại Hải Phòng
+  - Nhân Viên Kinh Doanh / Sales Digital Marketing (Data Có Sẵn, Không Yêu Cầu Bằng Cấp Kinh Nghiệm; Lương 5TR -20TR)
+  - Nhân Viên Kinh Doanh / Sales Executive / Telesales
+  - Nhân Viên Kinh Doanh / Sales Tư Vấn Phần Mềm
+  - Nhân Viên Kinh Doanh / Telesales / Tư Vấn Phần Mềm , Thu Nhập Trung Bình 15 - 30 Triệu++
+  - Nhân Viên Kinh Doanh / Tư Vấn / Telesales (Chỉ Tuyển Nam, Thu Nhập Hấp Dẫn Tại Hà Nội - Đi Làm Ngay )
+  - Nhân Viên Kinh Doanh / Tư Vấn Bán Hàng / Sale Marketing - Lương Up To 30 Triệu - Không Yêu Cầu KN - Làm Việc Tại Gò Vấp
+  - Nhân Viên Kinh Doanh / Tư Vấn Bán Hàng / Sales Thu Nhập Từ 10 - 50 Triệu + Hoa Hồng Không Giới Hạn
+  - Nhân Viên Kinh Doanh / Tư Vấn Phần Mềm (B2B) - Thu Nhập 15 - 30 Triệu - Kinh Nghiệm Từ 6 Tháng
+  - Nhân Viên Kinh Doanh / Tư Vấn Phần Mềm ERP - Hồ Chí Minh / Hà Nội
+  - Nhân Viên Kinh Doanh / Tư Vấn Phần Mềm Kế Toán (Thu Nhập 10 - 15 Triệu) - Hồ Chí Minh
+  - Nhân Viên Kinh Doanh / Tư Vấn Phần Mềm Quản Lý Bán Hàng Myspa / Nghỉ Thứ 7 & CN / Làm Việc Tại TP.HCM / Thu Nhập Upto 30tr / Đi Làm Ngay
+  - Nhân Viên Kinh Doanh B2B
+  - Nhân Viên Kinh Doanh B2B (Phần Mềm / AI / Chatbot)
+  - Nhân Viên Kinh Doanh B2B Mảng Công Nghệ Và Đào Tạo - Thu Nhập 12 - 40 Triệu [ Cầu Giấy - Hà Nội ]
+  - Nhân Viên Kinh Doanh B2B Nghỉ Thứ 7 - Kinh Nghiệm Từ 1 Năm - Thu Nhập 15 - 40 Triệu
+  - Nhân Viên Kinh Doanh B2B – Phát Triển Thị Trường
+  - Nhân Viên Kinh Doanh B2B – Phần Mềm Nhân Sự
+  - Nhân Viên Kinh Doanh B2b
+  - Nhân Viên Kinh Doanh Bán Giải Pháp Zalo OA, SMS Brandname, Tổng Đài (B2B) - Lương Cứng Upto 12M + Hoa Hồng Không Giới Hạn
+  - Nhân Viên Kinh Doanh Bán Hàng Phần Cứng Máy Tính
+  - Nhân Viên Kinh Doanh Bán Lẻ Linh Kiện CNTT
+  - Nhân Viên Kinh Doanh Bán Lẻ Sản Phẩm CNTT
+  - Nhân Viên Kinh Doanh CNTT
+  - Nhân Viên Kinh Doanh Ca Đêm
+  - Nhân Viên Kinh Doanh Chữ Kí Số - Không Áp KPI
+  - Nhân Viên Kinh Doanh Chữ Ký Số, PM Hóa Đơn
+  - Nhân Viên Kinh Doanh Cloud (VPS/Server)
+  - Nhân Viên Kinh Doanh Công Nghệ
+  - Nhân Viên Kinh Doanh Công Nghệ Thông Tin
+  - Nhân Viên Kinh Doanh DMS & ERP
+  - Nhân Viên Kinh Doanh Domain/Hosting/Cloud/Server
+  - Nhân Viên Kinh Doanh Dịch Vụ Cloud Và IDC
+  - Nhân Viên Kinh Doanh Dịch Vụ Viễn Thông
+  - Nhân Viên Kinh Doanh Dự Án
+  - Nhân Viên Kinh Doanh Dự Án - B2B
+  - Nhân Viên Kinh Doanh Dự Án - Thu Nhập Hấp Dẫn, 15M+++ - Hỗ Trợ Thiết Bị Làm Việc - Hà Nội
+  - Nhân Viên Kinh Doanh Dự Án B2B ( IT /Telecom)
+  - Nhân Viên Kinh Doanh Dự Án CNTT
+  - Nhân Viên Kinh Doanh Dự Án Công Nghệ Thông Tin
+  - Nhân Viên Kinh Doanh Dự Án Kỹ Thuật Và Mobile App
+  - Nhân Viên Kinh Doanh Giải Pháp CNTT, Sales / Tư Vấn Dịch Vụ CNTT
+  - Nhân Viên Kinh Doanh Giải Pháp Cloud & Workspace
+  - Nhân Viên Kinh Doanh Giải Pháp Công Nghệ ERP
+  - Nhân Viên Kinh Doanh Giải Pháp Công Nghệ Thông Tin
+  - Nhân Viên Kinh Doanh Giải Pháp Dữ Liệu
+  - Nhân Viên Kinh Doanh Giải Pháp Phần Mềm
+  - Nhân Viên Kinh Doanh Giải Pháp/Phần Mềm Mảng Giáo Dục - Từ 27 Tuổi - Thu Nhập Đến 35 Triệu - Kinh Nghiệm Từ 2 Năm - Hà Nội
+  - Nhân Viên Kinh Doanh Hosting
+  - Nhân Viên Kinh Doanh Khách Hàng Doanh Nghiệp
+  - Nhân Viên Kinh Doanh Khối Công Nghệ
+  - Nhân Viên Kinh Doanh Linh Kiện IT
+  - Nhân Viên Kinh Doanh Lĩnh Vực Phần Mềm - Khu Vực Toàn Quốc - Thu Nhập Hấp Dẫn
+  - Nhân Viên Kinh Doanh Máy Chủ Và Linh Kiện Máy Chủ
+  - Nhân Viên Kinh Doanh Máy POS
+  - Nhân Viên Kinh Doanh Mảng Công Nghệ Thông Tin
+  - Nhân Viên Kinh Doanh Mảng Công Nghệ, Lương Cứng 10 Triệu (Nghỉ T7-CN)- Cam Kết Thu Nhập Trên 15 Triệu, Data Nóng Từ Công Ty
+  - Nhân Viên Kinh Doanh Mảng Digital Marketing
+  - Nhân Viên Kinh Doanh Online
+  - Nhân Viên Kinh Doanh Phân Phối
+  - Nhân Viên Kinh Doanh Phần Mềm
+  - Nhân Viên Kinh Doanh Phần Mềm ( Sales Thị Trường ) - Thu Nhập Upto Đến 70 Triệu - Đi Làm Ngay
+  - Nhân Viên Kinh Doanh Phần Mềm ( Tiếng Nhật )
+  - Nhân Viên Kinh Doanh Phần Mềm (Chỉ Tuyển Nam)
+  - Nhân Viên Kinh Doanh Phần Mềm (Không Yêu Cầu Kinh Nghiệm) - Thu Nhập Hấp Dẫn, Đãi Ngộ Tốt - Quận Thanh Xuân ( Hà Nội ) - Đi Làm Ngay
+  - Nhân Viên Kinh Doanh Phần Mềm (Không Yêu Cầu Kinh Nghiệm) Thu Nhập 20 - 40 Triệu. Làm Tại Smart City
+  - Nhân Viên Kinh Doanh Phần Mềm (Ko YC Kinh Nghiệm)
+  - Nhân Viên Kinh Doanh Phần Mềm , Thiết Bị Công Nghệ
+  - Nhân Viên Kinh Doanh Phần Mềm - Lương CB 8tr + Thưởng Doanh Số
+  - Nhân Viên Kinh Doanh Phần Mềm / Sale IT
+  - Nhân Viên Kinh Doanh Phần Mềm / Tư Vấn /Giải Pháp
+  - Nhân Viên Kinh Doanh Phần Mềm B2B
+  - Nhân Viên Kinh Doanh Phần Mềm B2B - Thu Nhập Từ 13 - 20 Triệu
+  - Nhân Viên Kinh Doanh Phần Mềm Bán Hàng
+  - Nhân Viên Kinh Doanh Phần Mềm Bán Hàng Đa Kênh
+  - Nhân Viên Kinh Doanh Phần Mềm CRM ( Sales B2B )
+  - Nhân Viên Kinh Doanh Phần Mềm DDH BOX
+  - Nhân Viên Kinh Doanh Phần Mềm ERP (Thứ 2 - Thứ 6)
+  - Nhân Viên Kinh Doanh Phần Mềm ERP / Sales B2B
+  - Nhân Viên Kinh Doanh Phần Mềm ERP T2-T6
+  - Nhân Viên Kinh Doanh Phần Mềm FluentGo
+  - Nhân Viên Kinh Doanh Phần Mềm Nghỉ T7, CN
+  - Nhân Viên Kinh Doanh Phần Mềm Nhân Sự Tiền Lương
+  - Nhân Viên Kinh Doanh Phần Mềm Quản Lý Bán Hàng
+  - Nhân Viên Kinh Doanh Phần Mềm SaaS
+  - Nhân Viên Kinh Doanh Phần Mềm Tại Hà Nội (Thu Nhập Hấp Dẫn)
+  - Nhân Viên Kinh Doanh Phần Mềm Đa Kênh (Thu Nhập 20-40Tr/Tháng - Không Yêu Cầu Kinh Nghiệm) Tuyển Nữ
+  - Nhân Viên Kinh Doanh Quốc Tế
+  - Nhân Viên Kinh Doanh Sale Marketing , Lương Up To 30 Triệu Làm Việc Tại Gò Vấp
+  - Nhân Viên Kinh Doanh Salework Contact
+  - Nhân Viên Kinh Doanh Sản Phẩm Phần Mềm
+  - Nhân Viên Kinh Doanh Telesale Phần Mềm
+  - Nhân Viên Kinh Doanh Thiết Bị Công Nghệ
+  - Nhân Viên Kinh Doanh Thiết Bị Công Nghệ Thông Tin
+  - Nhân Viên Kinh Doanh Thị Trường
+  - Nhân Viên Kinh Doanh Thị Trường - Direct Sales
+  - Nhân Viên Kinh Doanh Tiếng Hàn ( Sale IT )
+  - Nhân Viên Kinh Doanh Tư Vấn Web
+  - Nhân Viên Kinh Doanh Website
+  - Nhân Viên Kinh Doanh | Business Development ( Sales B2B Outbound) - 2 Năm Kinh Nghiệm - Hoa Hồng Lên Tới 20%
+  - Nhân Viên Kinh Doanh Đối Ngoại
+  - Nhân Viên Marketing Full Stack
+  - Nhân Viên Phát Triển Kinh Doanh
+  - Nhân Viên Sales - Phần Mềm/ Công Nghệ Thông Tin
+  - Nhân Viên Sales Admin - Sales Gia Hạn (Chế Độ Tốt)
+  - Nhân Viên Sales Dịch Vụ Website
+  - Nhân Viên Sales Dự Án Phần Mềm
+  - Nhân Viên Sales Khối Công Nghệ
+  - Nhân Viên Sales Phần Mềm Full-Time (Remote)
+  - Nhân Viên Sales Phần Mềm Quảng Cáo
+  - Nhân Viên Telesale
+  - Nhân Viên Telesale ( Tuyển Nữ )– Lương 7–14 Triệu + Hoa Hồng – Nghỉ T7 & CN
+  - Nhân Viên Telesale Kinh Doanh Phần Mềm
+  - Nhân Viên Telesales
+  - Nhân Viên Telesales (Giải Pháp Hạ Tầng, Internet)
+  - Nhân Viên Telesales Chữ Ký Số, Hóa Đơn Điện Tử
+  - Nhân Viên Thị Trường / Sales / Nhân Viên Kinh Doanh
+  - Nhân Viên Tư Vấn ( Telesale )/ Kinh Doanh / Bán Hàng Tại Hà Nội & Hồ Chí Minh - Lương Up To 25M
+  - Nhân Viên Tư Vấn Kinh Doanh Phần Mềm
+  - Nhân Viên Tư Vấn Marketing
+  - Nhân Viên Tư Vấn Marketing Phần Mềm
+  - Nhân Viên Tư Vấn Marketing Phần Mềm Website
+  - Nhân Viên Tư Vấn Marketing Website
+  - Nhân Viên Tư Vấn Phần Mềm - Nhân Viên Kinh Doanh
+  - Nữ Nhân Viên Kinh Doanh Phần Mềm
+  - Phó Trưởng Phòng Kinh Doanh - IT
+  - Pre- Sales Engineer ( It Software) Remote Work/ Kỹ Sư Bán Hàng (Phần Mềm CNTT)
+  - Product Sales
+  - Project Account Manager
+  - Remote Business Development
+  - SALES EXECUTIVE (Server/ IT Software/ Drone) REMOTE WORK
+  - Sale IT / Nhân Viên Kinh Doanh Dự Án (Lương 12-20 Triệu)
+  - Sales Account Executive
+  - Sales Admin - Chăm Sóc Khách Hàng Quốc Tế
+  - Sales B2B -Phần Mềm Quản Lý Bán Hàng (POS/SaaS)
+  - Sales B2B / Account Manager
+  - Sales B2B /B2G
+  - Sales B2B Consultant Leader (Phần Mềm Công Nghệ Quản Trị)- Thu Nhập 15-45 Triệu- Tại Hà Nội , Hồ Chí Minh
+  - Sales B2B Mảng Phần Mềm
+  - Sales Consultant / Nhân Viên Hỗ Trợ Tư Vấn Phần Mềm
+  - Sales Development Representative
+  - Sales Engineer
+  - Sales Executive
+  - Sales Executive / Chuyên Viên Kinh Doanh - Data Analytics
+  - Sales Giải Pháp Nhà Máy & Khu Công Nghiệp
+  - Sales IT - Business Development (JLPT N1)
+  - Sales IT - Nhân Viên Kinh Doanh Lĩnh Vực CNTT (1 - 3 Năm Kinh Nghiệm) [HN - Trung Kính]
+  - Sales IT B2B Thị Trường Nhật Bản - 1 Năm Kinh Nghiệm - Hà Nội - Thu Nhập Hấp Dẫn - Cơ Hội Trở Thành Team Lead
+  - Sales IT Executive
+  - Sales IT Outsourcing
+  - Sales IT Tiếng Nhật
+  - Sales Manager
+  - Sales Manager (Phần Mềm ERP )
+  - Sales Phần Mềm
+  - Sales Phần Mềm (Kinh Nghiệm Từ 1 Năm)
+  - Sales Phần Mềm (Mảng Giáo Dục - Đào Tạo )
+  - Sales Phần Mềm SMEs
+  - Senior Business Development
+  - Senior Business Development ( Sales B2B Outbound | Hoa Hồng 8 - 21%)
+  - Senior Business Development – SaaS
+  - Senior IT Sales Executive
+  - Senior IT Sales Representative
+  - Senior Sales Specialist - Nhân Viên Kinh Doanh Phần Mềm Logistics (Lương Cứng 14-17 Triệu+ Hoa Hồng Hấp Dẫn) Tại Hồ Chí Minh , Hà Nội , Đi Làm Ngay
+  - Solutions Sales Manager – Hospitality
+  - Talent Fresher - Sales Consultant / Business Development - B2B Công Nghệ (BASE REVENUE CHAMPIONS 2026)
+  - Technical & Business Development Manager
+  - Technical Account Executive
+  - Telemarketing / Telesales Sản Phẩm Phần Mềm B2B
+  - Thực Tập Marketing
+  - Thực Tập Sinh Digital Marketing Fullstack
+  - Thực Tập Sinh Kinh Doanh
+  - Thực Tập Sinh Kinh Doanh & Marketing
+  - Thực Tập Sinh Kinh Doanh & Phát Triển Thị Trường
+  - Thực Tập Sinh Kinh Doanh ( B2B Sales )
+  - Thực Tập Sinh Kinh Doanh B2B
+  - Thực Tập Sinh Kinh Doanh Dự Án
+  - Thực Tập Sinh Kinh Doanh Mảng Công Nghệ Thông Tin
+  - Thực Tập Sinh Kinh Doanh Mảng Website
+  - Thực Tập Sinh Kinh Doanh Phần Mềm
+  - Thực Tập Sinh Kinh Doanh Phần Mềm - Sale B2B Intern
+  - Thực Tập Sinh Kinh Doanh Phần Mềm Part Time
+  - Thực Tập Sinh Kinh Doanh Phần Mềm Website
+  - Thực Tập Sinh Kinh Doanh Phần Mềm Website App
+  - Thực Tập Sinh Kinh Doanh Website - Phần Mềm
+  - Thực Tập Sinh Kinh Doanh Website Phần Mềm
+  - Thực Tập Sinh Phát Triển Thị Trường Nhật Bản - Business Development Intern - Hà Nội - Có Hỗ Trợ Lương 3 - 5 Triệu
+  - Thực Tập Sinh Phát Triển Website Giỏi SEO
+  - Thực Tập Sinh Sales IT ( Tiếng Nhật )
+  - Trưởng Nhóm Kinh Doanh
+  - Trưởng Nhóm Kinh Doanh / Leader Sale Sản Phẩm Phần Mềm
+  - Trưởng Nhóm Kinh Doanh Mảng IT Outsourcing (Thu Nhập 25 - 40 Triệu) - Nghỉ Thứ 7, Chủ Nhật
+  - Trưởng Nhóm Kinh Doanh Phần Mềm
+  - Trưởng Nhóm Kinh Doanh Phần Mềm ( Sale Manager )
+  - Trưởng Nhóm Kinh Doanh Phần Mềm ( Sales B2B Leader)
+  - Trưởng Nhóm Kinh Doanh Phần Mềm - Sales Leader
+  - Trưởng Nhóm Kinh Doanh Phần Mềm B2B / Sales Leader - (Nghỉ T7&CN, Thu Nhập Upto 40tr/Tháng+ Hoa Hồng)
+  - Trưởng Phòng Kinh Doanh
+  - Trưởng Phòng Kinh Doanh ( Sales Manager )
+  - Trưởng Phòng Kinh Doanh (Giải Pháp Số Công Nghệ)
+  - Trưởng Phòng Kinh Doanh (Mảng Giải Pháp Phần Mềm Cho Doanh Nghiệp)
+  - Trưởng Phòng Kinh Doanh (Mảng Phần Mềm)
+  - Trưởng Phòng Kinh Doanh (Phần Mềm)
+  - Trưởng Phòng Kinh Doanh (Thu Nhập Không Giới Hạn)
+  - Trưởng Phòng Kinh Doanh B2B
+  - Trưởng Phòng Kinh Doanh Dự Án (Khối Chính Phủ)
+  - Trưởng Phòng Kinh Doanh Phân Phối
+  - Trưởng Phòng Kinh Doanh Phần Mềm
+  - Trưởng Phòng Kinh Doanh Phần Mềm ERP
+  - UA Marketing
+
+[industrial_engineering]  (48 titles)
+  - (JP 223) Kỹ Sư Lập Trình Vận Hành Máy Gia Công NC (CAD/CAM Programmer) Đi Nhật Miễn Phí
+  - (JP) Kỹ Sư PLC Thiết Bị Sản Xuất Bán Dẫn - Đi Nhật Miễn Phí
+  - Chuyên Gia Tự Động Hóa PLC - Nghỉ Thứ 7, Chủ Nhật
+  - Chuyên Viên Ra File Cắt Gỗ CNC
+  - Kỹ Sư Lập Trình PLC
+  - Kỹ Sư Lập Trình PLC Máy Tự Động Hóa
+  - Kỹ Sư Lập Trình PLC, Thu Nhập Từ 15-25 Triệu, Tại Hà Nội , Đi Làm Ngay
+  - Kỹ Sư Lập Trình Vận Hành CNC
+  - Kỹ Sư Lập Trình Đứng Máy Phay CNC
+  - Kỹ Sư Tự Động Hóa / Kỹ Sư PLC Tại KCN Yên Phong , Bắc Ninh - Thu Nhập Hấp Dẫn - Đi Làm Ngay
+  - Kỹ Sư Điện - PLC
+  - Kỹ Sư Điện / Plc
+  - Kỹ Thuật Lập Trình Máy CNC
+  - Kỹ Thuật Lập Trình Máy CNC - Gia Công Đồ Gá
+  - Kỹ Thuật Viên Lập Trình Máy CNC/ EDM/ Wire Cut
+  - Kỹ Thuật Viên Setup Và Lập Trình Gia Công Máy Tiện CNC ( Cơ Khí Chính Xác)
+  - Kỹ Thuật Viên Setup Và Lập Trình Gia Công Phay CNC ( Cơ Khí Chính Xác)
+  - Lập Trình & Vận Hành Phay CNC
+  - Lập Trình Gia Công CNC
+  - Lập Trình Khuôn Mẫu CNC/ Vận Hành Máy CNC
+  - Lập Trình Máy Phay CNC Thu Nhập Từ 8 - 15 Triệu Tại Hà Nội
+  - Nhân Viên CNC
+  - Nhân Viên Kỹ Thuật PLC
+  - Nhân Viên Kỹ Thuật Điện PLC
+  - Nhân Viên Lập Trình - Vận Hành Máy CNC
+  - Nhân Viên Lập Trình CAD/CAM
+  - Nhân Viên Lập Trình CNC
+  - Nhân Viên Lập Trình CNC (CNC Programmer) - Thu Nhập Upto 25 Triệu
+  - Nhân Viên Lập Trình Máy Gia Công CNC
+  - Nhân Viên Lập Trình PLC
+  - Nhân Viên Lập Trình Và Vận Hành Máy Tiện CNC Tại Hưng Yên
+  - Nhân Viên Lập Trình Vận Hành Cnc
+  - Nhân Viên Ra File CNC (Nội Thất)
+  - Nhân Viên Triển Khai Và Lập Trình Máy CNC
+  - Nhân Viên Vận Hành Máy CNC
+  - Nhân Viên Vận Hành Máy CNC - Nội Thất
+  - Nhân Viên Vận Hành Máy Tiện CNC
+  - Nhân Viên Điện Plc Servo
+  - Nhân Viên Đứng Máy Tiện CNC
+  - Thực Tập Sinh / Fresher PLC Engineer ( Tiếng Nhật N3)
+  - Trưởng Nhóm Lập Trình PLC, Điện Tự Động Hóa
+  - Tổ Trưởng Vận Hành CNC
+
+[non_tech_roles]  (2 titles)
+  - Chuyên Viên Chăm Sóc Khách Hàng & Đào Tạo ( Customer Success Specialist)
+  - Customer Success Officer
+
+[content_media]  (52 titles)
+  - 2D ARTIST (Mảng Âm Nhạc)
+  - 2D Animation
+  - 2D Animation (Mảng Âm Nhạc- Hoạt Hình Trẻ Em)
+  - 2D Animation (Từ 2 Năm Kinh Nghiệm)
+  - 2D Animation /VFX
+  - 2D Animation Artist
+  - 2D Animation Game
+  - 2D Animator ( Game Casual/Puzzle)
+  - 2D Animator (Junior)
+  - 2D Animator - Spine
+  - 2D Artist
+  - 2D Artist (Puzzle Game )
+  - 2D Artist (Senior)
+  - 2D Artist Game
+  - 2D Artist Intern
+  - 2D Concept Artist
+  - 3D Animation Artist (Industrial Products)
+  - 3D Animator
+  - 3D Artist
+  - 3D Artist ( Blender + Substance 3D Painter)
+  - 3D Artist ( Game /VR) - Job Now
+  - 3D Artist (3D Game Modelling)
+  - 3D Artist (Character)
+  - 3D Artist (Chuyên Blender )
+  - 3D Artist (Environment)
+  - 3D Artist (Senior)
+  - 3D Cinematic Animator - Job Now
+  - Animation
+  - Animation 2D (Mảng Game )
+  - Animation Game 2D
+  - Animator
+  - Concept Artist ( Game /VR)
+  - Content Creator (Mobile App)
+  - Content Creator - Video MKT - Sản Phẩm Mobile App
+  - Content Creator Full Stack
+  - Effect- Animation ( Unity )
+  - Game 2D Animator - Từ 03 Năm Kinh Nghiệm
+  - Họa Sỹ Concept Artist
+  - Key Animator
+  - Lead 2D Artist
+  - Middle 2D Artist
+  - Nhân Viên 2D Artist (Storyboard)
+  - Nhân Viên Digital Painting, 2D Artist
+  - Senior Spine 2D Animator – Game Midcore RPG - Hà Nội - Up To 1000$
+  - Thực Tập Sinh 3D Animation (Fulltime) Thu Nhập Từ 10 - 12 Triệu Nghỉ Thứ 7 Chủ Nhật
+  - Trưởng Nhóm Vẽ Truyện Tranh Concept Artist (Kinh Nghiệm Từ 1 Năm - Nghỉ T7,CN - Nghỉ 1 Ngày/Tháng Hưởng Nguyên Lương)
+
+============================================================
+  REVIEW TITLES (title rỗng / cần kiểm tra)
+============================================================
+  (không có title nào cần REVIEW)

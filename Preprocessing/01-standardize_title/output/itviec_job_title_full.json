@@ -1,0 +1,4412 @@
+[
+  {
+    "original": "02 Back-end Developer (Golang, PostgreSQL, AWS)",
+    "is_valid_job": true,
+    "standardized_title": "Backend Developer",
+    "id": 0
+  },
+  {
+    "original": "02 Mobile App Developer (Flutter)",
+    "is_valid_job": true,
+    "standardized_title": "Mobile Developer",
+    "id": 1
+  },
+  {
+    "original": "03 Flutter Mobile Apps Developer (Dart, Android, iOS)",
+    "is_valid_job": true,
+    "standardized_title": "Mobile Developer",
+    "id": 2
+  },
+  {
+    "original": "03 Java Backend Developer (Spring, SQL)",
+    "is_valid_job": true,
+    "standardized_title": "Backend Developer",
+    "id": 3
+  },
+  {
+    "original": "03 Java/Kotlin Developers (All level, English)",
+    "is_valid_job": true,
+    "standardized_title": "Backend Developer",
+    "id": 4
+  },
+  {
+    "original": "03 Tester (Manual Tester, Automation Test, QA QC)",
+    "is_valid_job": true,
+    "standardized_title": "QA Engineer",
+    "id": 5
+  },
+  {
+    "original": "03 UI-UX Desginer (Photoshop, Illustrator, Figma)",
+    "is_valid_job": true,
+    "standardized_title": "UI/UX Designer",
+    "id": 6
+  },
+  {
+    "original": "04 Senior Fullstack Dev (Golang, Java, NodeJS, IOS)",
+    "is_valid_job": true,
+    "standardized_title": "Fullstack Developer",
+    "id": 7
+  },
+  {
+    "original": "05 Senior/Lead Product Manager ( Fintech)",
+    "is_valid_job": true,
+    "standardized_title": "Product Manager",
+    "id": 8
+  },
+  {
+    "original": "05 System Admin (Linux)",
+    "is_valid_job": true,
+    "standardized_title": "System Administrator",
+    "id": 9
+  },
+  {
+    "original": "10 Mid/Senior Java Backend Developer (Spring, AI, SQL)",
+    "is_valid_job": true,
+    "standardized_title": "Backend Developer",
+    "id": 10
+  },
+  {
+    "original": "10 Senior Frontend Engineer (ReactJs/Flutter, HTML/CSS)",
+    "is_valid_job": true,
+    "standardized_title": "Frontend Developer",
+    "id": 11
+  },
+  {
+    "original": "30 Tester (Agile/ Scrum/ SQL)",
+    "is_valid_job": true,
+    "standardized_title": "QA Engineer",
+    "id": 12
+  },
+  {
+    "original": "ABAP Developer/ SAP Technical Consultant",
+    "is_valid_job": true,
+    "standardized_title": "ABAP Developer",
+    "id": 13
+  },
+  {
+    "original": "Agentic AI Developer (Python, Prompt Engineering)",
+    "is_valid_job": true,
+    "standardized_title": "AI Engineer",
+    "id": 14
+  },
+  {
+    "original": "Agentic AI Engineer/Developer (Vertex AI/ADK)",
+    "is_valid_job": true,
+    "standardized_title": "AI Engineer",
+    "id": 15
+  },
+  {
+    "original": "Agentic Coding Specialist",
+    "is_valid_job": true,
+    "standardized_title": "Agentic Coding Specialist",
+    "id": 16
+  },
+  {
+    "original": "Agentic Engineer (Python/Go/C/C++ Backend & AI Agents)",
+    "is_valid_job": true,
+    "standardized_title": "AI Engineer",
+    "id": 17
+  },
+  {
+    "original": "AI Agent Engineer (ML, Python, TypeSript, .NET, ADK)",
+    "is_valid_job": true,
+    "standardized_title": "AI Engineer",
+    "id": 18
+  },
+  {
+    "original": "AI Application Developer (Machine Learning, LLM)",
+    "is_valid_job": true,
+    "standardized_title": "AI Application Developer",
+    "id": 19
+  },
+  {
+    "original": "AI Automation Developer",
+    "is_valid_job": true,
+    "standardized_title": "AI Engineer",
+    "id": 20
+  },
+  {
+    "original": "AI Automation Engineer (GenAI / LLMs / Python)",
+    "is_valid_job": true,
+    "standardized_title": "AI Engineer",
+    "id": 21
+  },
+  {
+    "original": "AI Developer",
+    "is_valid_job": true,
+    "standardized_title": "AI Engineer",
+    "id": 22
+  },
+  {
+    "original": "AI Developer (Python, GenAI/LLM)",
+    "is_valid_job": true,
+    "standardized_title": "AI Engineer",
+    "id": 23
+  },
+  {
+    "original": "AI Engineer (Backend Experience)",
+    "is_valid_job": true,
+    "standardized_title": "AI Engineer",
+    "id": 24
+  },
+  {
+    "original": "AI Engineer (C++, PyTorch, LLM)",
+    "is_valid_job": true,
+    "standardized_title": "AI Engineer",
+    "id": 25
+  },
+  {
+    "original": "AI Engineer (Computer Vision, C/C++, Python)",
+    "is_valid_job": true,
+    "standardized_title": "AI Engineer",
+    "id": 26
+  },
+  {
+    "original": "Remote AI Engineer (Deep Learning Algorithm/ Python)",
+    "is_valid_job": true,
+    "standardized_title": "AI Engineer",
+    "id": 27
+  },
+  {
+    "original": "AI Engineer Fullstack (Python, SQL, NoSQL, LLM)",
+    "is_valid_job": true,
+    "standardized_title": "AI Engineer",
+    "id": 28
+  },
+  {
+    "original": "AI Engineer (Generative AI, MLOps, Scikit-learn, Azure)",
+    "is_valid_job": true,
+    "standardized_title": "AI Engineer",
+    "id": 29
+  },
+  {
+    "original": "AI Engineer (Machine Learning, Python)",
+    "is_valid_job": true,
+    "standardized_title": "AI Engineer",
+    "id": 30
+  },
+  {
+    "original": "AI Engineer (Middle/Senior/Leader)",
+    "is_valid_job": true,
+    "standardized_title": "AI Engineer",
+    "id": 31
+  },
+  {
+    "original": "AI Engineer (NLP)",
+    "is_valid_job": true,
+    "standardized_title": "AI Engineer",
+    "id": 32
+  },
+  {
+    "original": "AI Engineer (Python, Microservices, Docker)",
+    "is_valid_job": true,
+    "standardized_title": "AI Engineer",
+    "id": 33
+  },
+  {
+    "original": "AI Engineer",
+    "is_valid_job": true,
+    "standardized_title": "AI Engineer",
+    "id": 34
+  },
+  {
+    "original": "AI Expert (Machine Learning, Deep Learning, LLM)",
+    "is_valid_job": true,
+    "standardized_title": "AI Engineer",
+    "id": 36
+  },
+  {
+    "original": "AI/ML Developer (Python, LLM, Redis, LLM)",
+    "is_valid_job": true,
+    "standardized_title": "AI Engineer",
+    "id": 37
+  },
+  {
+    "original": "AI / ML Engineer (TensorFlow, Pytorch, NLP)",
+    "is_valid_job": true,
+    "standardized_title": "AI Engineer",
+    "id": 38
+  },
+  {
+    "original": "AI-Native Associate Product Manager (Japanese required)",
+    "is_valid_job": true,
+    "standardized_title": "Product Manager",
+    "id": 39
+  },
+  {
+    "original": "AI Prompt Engineer (Animation, Design)",
+    "is_valid_job": true,
+    "standardized_title": "AI Engineer",
+    "id": 40
+  },
+  {
+    "original": "AI Software Engineer (Python/Go/C/C++ & AI Agents)",
+    "is_valid_job": true,
+    "standardized_title": "AI Engineer",
+    "id": 41
+  },
+  {
+    "original": "AI Solutions Architect (Transformation Lead)",
+    "is_valid_job": true,
+    "standardized_title": "Software Architect",
+    "id": 42
+  },
+  {
+    "original": "AI System Integration Engineer (C++, Python, LLM)",
+    "is_valid_job": true,
+    "standardized_title": "AI Engineer",
+    "id": 43
+  },
+  {
+    "original": "AI Tech Lead (LLM, Python)",
+    "is_valid_job": true,
+    "standardized_title": "Technical Lead",
+    "id": 44
+  },
+  {
+    "original": "All Levels Security Engineer (Mobile/Web)",
+    "is_valid_job": true,
+    "standardized_title": "Security Engineer",
+    "id": 45
+  },
+  {
+    "original": "Analytics Engineer (Advanced SQL, Python, Data Analyst)",
+    "is_valid_job": true,
+    "standardized_title": "Data Engineer",
+    "id": 46
+  },
+  {
+    "original": "Android Developer (Java, Kotlin)",
+    "is_valid_job": true,
+    "standardized_title": "Mobile Developer",
+    "id": 47
+  },
+  {
+    "original": "Android Developer (Kotlin / MVVM)",
+    "is_valid_job": true,
+    "standardized_title": "Mobile Developer",
+    "id": 48
+  },
+  {
+    "original": "Android Developer (Middle - Senior) - Up to $3000",
+    "is_valid_job": true,
+    "standardized_title": "Mobile Developer",
+    "id": 49
+  },
+  {
+    "original": "Android Engineer (Java/Kotlin) - Captcha",
+    "is_valid_job": true,
+    "standardized_title": "Mobile Developer",
+    "id": 50
+  },
+  {
+    "original": "Android Engineer (Kotlin)",
+    "is_valid_job": true,
+    "standardized_title": "Mobile Developer",
+    "id": 51
+  },
+  {
+    "original": "Android HMI SDK Development for Automotive Developer",
+    "is_valid_job": true,
+    "standardized_title": "Mobile Developer",
+    "id": 52
+  },
+  {
+    "original": "API Integration Engineer (OAuth2 / WS02 / AWS)",
+    "is_valid_job": true,
+    "standardized_title": "Backend Developer",
+    "id": 53
+  },
+  {
+    "original": "Appication Ops/Vận hành ứng dụng (T24, Payment)",
+    "is_valid_job": true,
+    "standardized_title": "IT Support",
+    "id": 54
+  },
+  {
+    "original": "Application Support Level 2 (.Net, Angular)",
+    "is_valid_job": true,
+    "standardized_title": "IT Support",
+    "id": 55
+  },
+  {
+    "original": "Assistant To Head Of IT Department (Agile, English)",
+    "is_valid_job": true,
+    "standardized_title": "Project Manager",
+    "id": 56
+  },
+  {
+    "original": "Associate Software Architect (AWS)",
+    "is_valid_job": true,
+    "standardized_title": "Software Architect",
+    "id": 57
+  },
+  {
+    "original": "Automation QA Engineer (QA QC/Tester/Automation Test)",
+    "is_valid_job": true,
+    "standardized_title": "Automation Test Engineer",
+    "id": 58
+  },
+  {
+    "original": "Automation Test Engineer (Python, Embedded)",
+    "is_valid_job": true,
+    "standardized_title": "Automation Test Engineer",
+    "id": 59
+  },
+  {
+    "original": "Automation Test Engineer",
+    "is_valid_job": true,
+    "standardized_title": "Automation Test Engineer",
+    "id": 60
+  },
+  {
+    "original": "Automation Tester (QA Engineer)",
+    "is_valid_job": true,
+    "standardized_title": "Automation Test Engineer",
+    "id": 61
+  },
+  {
+    "original": "Automation Tester (QA QC)",
+    "is_valid_job": true,
+    "standardized_title": "Automation Test Engineer",
+    "id": 62
+  },
+  {
+    "original": "Automation Tester ( QA QC)",
+    "is_valid_job": true,
+    "standardized_title": "Automation Test Engineer",
+    "id": 63
+  },
+  {
+    "original": "Automotive Embedded Developer (Flash Bootloader/C++)",
+    "is_valid_job": true,
+    "standardized_title": "Embedded Engineer",
+    "id": 64
+  },
+  {
+    "original": "Automotive Embedded Engineer (AUTOSAR, C++, Linux)",
+    "is_valid_job": true,
+    "standardized_title": "Embedded Engineer",
+    "id": 65
+  },
+  {
+    "original": "Automotive Software Engineer (C++, OOP, Middleware)",
+    "is_valid_job": true,
+    "standardized_title": "Embedded Engineer",
+    "id": 66
+  },
+  {
+    "original": "BA tích hợp - Phòng phân tích nghiệp vụ và kiểm thử",
+    "is_valid_job": true,
+    "standardized_title": "Business Analyst",
+    "id": 67
+  },
+  {
+    "original": "Babylon.js Developer (Web 3D Developer)",
+    "is_valid_job": true,
+    "standardized_title": "Frontend Developer",
+    "id": 68
+  },
+  {
+    "original": "Back End Developer (Golang, SQL, NoSQL)",
+    "is_valid_job": true,
+    "standardized_title": "Backend Developer",
+    "id": 69
+  },
+  {
+    "original": "Back-end Developer (Node.js/Java)",
+    "is_valid_job": true,
+    "standardized_title": "Backend Developer",
+    "id": 70
+  },
+  {
+    "original": "Backend Dev (Golang, AI) - Lương cạnh tranh",
+    "is_valid_job": true,
+    "standardized_title": "Backend Developer",
+    "id": 71
+  },
+  {
+    "original": "Backend Developer (Golang/ MySQL/ PostgreSQL/ Nginx)",
+    "is_valid_job": true,
+    "standardized_title": "Backend Developer",
+    "id": 72
+  },
+  {
+    "original": "Backend Developer (Golang/ Python/Java)",
+    "is_valid_job": true,
+    "standardized_title": "Backend Developer",
+    "id": 73
+  },
+  {
+    "original": "Backend Developer (Java)",
+    "is_valid_job": true,
+    "standardized_title": "Backend Developer",
+    "id": 74
+  },
+  {
+    "original": "Backend Developer (PHP/ Python/ SQL)",
+    "is_valid_job": true,
+    "standardized_title": "Backend Developer",
+    "id": 75
+  },
+  {
+    "original": "Backend Engineer (Java, C#, Python, Golang)",
+    "is_valid_job": true,
+    "standardized_title": "Backend Developer",
+    "id": 76
+  },
+  {
+    "original": "Backend Engineer (Java, Golang, Cloud, AWS, PostgreSQL)",
+    "is_valid_job": true,
+    "standardized_title": "Backend Developer",
+    "id": 77
+  },
+  {
+    "original": "Backend/Fullstack Developer (PHP, ReactJS)",
+    "is_valid_job": true,
+    "standardized_title": "Fullstack Developer",
+    "id": 78
+  },
+  {
+    "original": "Backend .NET Developer (Microservices/API)",
+    "is_valid_job": true,
+    "standardized_title": "Fullstack Developer",
+    "id": 79
+  },
+  {
+    "original": "Backend Technical Lead – PRO Trading (Go, Rust, Python)",
+    "is_valid_job": true,
+    "standardized_title": "Backend Developer",
+    "id": 80
+  },
+  {
+    "original": "Bridge Engineer - BrSE / ERP Consultant (Japanese N2)",
+    "is_valid_job": true,
+    "standardized_title": "Bridge System Engineer",
+    "id": 81
+  },
+  {
+    "original": "Bridge Software Engineer (onsite Ho Chi Minh City)",
+    "is_valid_job": true,
+    "standardized_title": "Bridge System Engineer",
+    "id": 82
+  },
+  {
+    "original": "Fresher/Junior Bridge System Engineer (BrSE, Japanese)",
+    "is_valid_job": true,
+    "standardized_title": "Bridge System Engineer",
+    "id": 83
+  },
+  {
+    "original": "Business Analyst (Agile, Proficient in English)",
+    "is_valid_job": true,
+    "standardized_title": "Business Analyst",
+    "id": 84
+  },
+  {
+    "original": "Business Analyst (Agile, Scrum, Waterfall, IoT)",
+    "is_valid_job": true,
+    "standardized_title": "Business Analyst",
+    "id": 85
+  },
+  {
+    "original": "Business Analyst - BA (ERP/CRM/eVAT)",
+    "is_valid_job": true,
+    "standardized_title": "Business Analyst",
+    "id": 86
+  },
+  {
+    "original": "Business Analyst (BA)",
+    "is_valid_job": true,
+    "standardized_title": "Business Analyst",
+    "id": 87
+  },
+  {
+    "original": "Business Analyst (Bank, Finance)",
+    "is_valid_job": true,
+    "standardized_title": "Business Analyst",
+    "id": 89
+  },
+  {
+    "original": "Business Analyst (BRD, SRS, Microservices, REST API)",
+    "is_valid_job": true,
+    "standardized_title": "Business Analyst",
+    "id": 90
+  },
+  {
+    "original": "Business Analyst (CRM)",
+    "is_valid_job": true,
+    "standardized_title": "Business Analyst",
+    "id": 91
+  },
+  {
+    "original": "Business Analyst (ERP, CRM)",
+    "is_valid_job": true,
+    "standardized_title": "Business Analyst",
+    "id": 92
+  },
+  {
+    "original": "Business Analyst",
+    "is_valid_job": true,
+    "standardized_title": "Business Analyst",
+    "id": 93
+  },
+  {
+    "original": "Business Analyst (HRDomain/SQL/Agile/Scrum/English)",
+    "is_valid_job": true,
+    "standardized_title": "Business Analyst",
+    "id": 94
+  },
+  {
+    "original": "Business Analyst – Insurance Solutions",
+    "is_valid_job": true,
+    "standardized_title": "Business Analyst",
+    "id": 95
+  },
+  {
+    "original": "Business Analyst Leader",
+    "is_valid_job": true,
+    "standardized_title": "Business Analyst",
+    "id": 97
+  },
+  {
+    "original": "Business Analyst (Mockups, ERP, SQL)",
+    "is_valid_job": true,
+    "standardized_title": "Business Analyst",
+    "id": 99
+  },
+  {
+    "original": "Business Analyst Officer",
+    "is_valid_job": true,
+    "standardized_title": "Business Analyst",
+    "id": 100
+  },
+  {
+    "original": "Business Analyst (Product & Growth) for Edtech project",
+    "is_valid_job": true,
+    "standardized_title": "Business Analyst",
+    "id": 101
+  },
+  {
+    "original": "Business Analyst/Product Owner (AI/ML/LLM, Jira, SQL)",
+    "is_valid_job": true,
+    "standardized_title": "Product Owner",
+    "id": 102
+  },
+  {
+    "original": "Business Analyst/Product Planner (~$1500)",
+    "is_valid_job": true,
+    "standardized_title": "Product Manager",
+    "id": 103
+  },
+  {
+    "original": "Business Analyst (Public Finance)",
+    "is_valid_job": true,
+    "standardized_title": "Business Analyst",
+    "id": 104
+  },
+  {
+    "original": "Business Analyst",
+    "is_valid_job": true,
+    "standardized_title": "Business Analyst",
+    "id": 105
+  },
+  {
+    "original": "Business Analyst (Tech) - Attractive Salary",
+    "is_valid_job": true,
+    "standardized_title": "Business Analyst",
+    "id": 106
+  },
+  {
+    "original": "C# Developer (Rhino / Grasshopper / Revit Plugin) – 25M",
+    "is_valid_job": true,
+    "standardized_title": "Backend Developer",
+    "id": 107
+  },
+  {
+    "original": "C# Software Engineer [Remote - Mid Level]",
+    "is_valid_job": true,
+    "standardized_title": "Backend Developer",
+    "id": 108
+  },
+  {
+    "original": "Caspeco - Backend Developer (NodeJS | Automation & AI)",
+    "is_valid_job": true,
+    "standardized_title": "Backend Developer",
+    "id": 109
+  },
+  {
+    "original": "Chief Technology Officer (CTO)",
+    "is_valid_job": true,
+    "standardized_title": "Chief Technology Officer",
+    "id": 110
+  },
+  {
+    "original": "Chuyên gia an ninh mạng (Cybersecurity, Networking)",
+    "is_valid_job": true,
+    "standardized_title": "Security Engineer",
+    "id": 111
+  },
+  {
+    "original": "Chuyên gia Core banking - HDFG",
+    "is_valid_job": true,
+    "standardized_title": "ERP Consultant",
+    "id": 112
+  },
+  {
+    "original": "Solution Architect (Microservices, Java, SQL)",
+    "is_valid_job": true,
+    "standardized_title": "Software Architect",
+    "id": 113
+  },
+  {
+    "original": "Senior Data Architect ( Big Data, Data Warehousing)",
+    "is_valid_job": true,
+    "standardized_title": "Data Architect",
+    "id": 114
+  },
+  {
+    "original": "Senior Data Analyst (SQL, Cloud Data, Data modeling)",
+    "is_valid_job": true,
+    "standardized_title": "Data Analyst",
+    "id": 115
+  },
+  {
+    "original": "Chuyên gia phát triển sản phẩm/giải pháp CNTT",
+    "is_valid_job": true,
+    "standardized_title": "Product Manager",
+    "id": 116
+  },
+  {
+    "original": "Chuyên Gia Quản Trị Cơ Sở Dữ Liệu (DBA)",
+    "is_valid_job": true,
+    "standardized_title": "Database Administrator",
+    "id": 117
+  },
+  {
+    "original": "Chuyên viên AI Engineer (Machine Learning, Python)",
+    "is_valid_job": true,
+    "standardized_title": "AI Engineer",
+    "id": 118
+  },
+  {
+    "original": "Chuyên viên An toàn Thông tin- Up to 35M (net)",
+    "is_valid_job": true,
+    "standardized_title": "Security Engineer",
+    "id": 119
+  },
+  {
+    "original": "Chuyên viên BA – CoreBanking T24",
+    "is_valid_job": true,
+    "standardized_title": "Business Analyst",
+    "id": 120
+  },
+  {
+    "original": "Chuyên viên Báo cáo tuân thủ - Khối Dữ liệu",
+    "is_valid_job": true,
+    "standardized_title": "Data Analyst",
+    "id": 121
+  },
+  {
+    "original": "Chuyên viên cao cấp Quản trị cơ sở dữ liệu (PostgreSQL)",
+    "is_valid_job": true,
+    "standardized_title": "Database Administrator",
+    "id": 122
+  },
+  {
+    "original": "Chuyên viên Cơ sở Hạ tầng (Network Infrastructure)",
+    "is_valid_job": true,
+    "standardized_title": "Network Engineer",
+    "id": 123
+  },
+  {
+    "original": "Chuyên Viên/ CVCC Phân Tích Dữ Liệu (Data Analyst)",
+    "is_valid_job": true,
+    "standardized_title": "Data Analyst",
+    "id": 124
+  },
+  {
+    "original": "Chuyên viên ERP (SAP MM)",
+    "is_valid_job": true,
+    "standardized_title": "ERP Consultant",
+    "id": 125
+  },
+  {
+    "original": "Chuyên viên lập trình AI/ SAP B1 Hepldesk",
+    "is_valid_job": true,
+    "standardized_title": "AI Engineer",
+    "id": 126
+  },
+  {
+    "original": "Chuyên viên Lập trình (Java, Spring, ReactJS)",
+    "is_valid_job": true,
+    "standardized_title": "Fullstack Developer",
+    "id": 127
+  },
+  {
+    "original": "Chuyên viên NETWORK - TT. Kỹ thuật hạ tầng",
+    "is_valid_job": true,
+    "standardized_title": "Network Engineer",
+    "id": 128
+  },
+  {
+    "original": "Chuyên viên Phân tích nghiệp vụ (Business Analyst)",
+    "is_valid_job": true,
+    "standardized_title": "Business Analyst",
+    "id": 129
+  },
+  {
+    "original": "Chuyên viên Phát triển ứng dụng Corebanking",
+    "is_valid_job": true,
+    "standardized_title": "Backend Developer",
+    "id": 130
+  },
+  {
+    "original": "Chuyên viên quản lý dự án phần mềm (Project Manager)",
+    "is_valid_job": true,
+    "standardized_title": "Project Manager",
+    "id": 131
+  },
+  {
+    "original": "Chuyên viên Quản lý dự án - Project Manager (PM)",
+    "is_valid_job": true,
+    "standardized_title": "Project Manager",
+    "id": 132
+  },
+  {
+    "original": "Chuyên viên Quản trị mạng (Networking)",
+    "is_valid_job": true,
+    "standardized_title": "Network Engineer",
+    "id": 133
+  },
+  {
+    "original": "Chuyên viên System Engineer (Linux, Cloud)",
+    "is_valid_job": true,
+    "standardized_title": "Cloud Engineer",
+    "id": 134
+  },
+  {
+    "original": "Chuyên viên tích hợp hệ thống (Java Developer)",
+    "is_valid_job": true,
+    "standardized_title": "Backend Developer",
+    "id": 135
+  },
+  {
+    "original": "Chuyên viên Ứng dụng và Tổng hợp (Software)",
+    "is_valid_job": true,
+    "standardized_title": "Backend Developer",
+    "id": 136
+  },
+  {
+    "original": "Chuyên Viên Vận Hành Ứng Dụng (Appops/ Window/ Linux)",
+    "is_valid_job": true,
+    "standardized_title": "System Administrator",
+    "id": 137
+  },
+  {
+    "original": "Chuyên viên Vận hành và Kiểm thử phần mềm ( Tester )",
+    "is_valid_job": true,
+    "standardized_title": "QA Engineer",
+    "id": 138
+  },
+  {
+    "original": "Cloud DevOps Engineer (English, Kubernetes, AWS/Azure)",
+    "is_valid_job": true,
+    "standardized_title": "DevOps Engineer",
+    "id": 139
+  },
+  {
+    "original": "Cloud/DevOps/Infrastructure Engineer - Up to 1,800$",
+    "is_valid_job": true,
+    "standardized_title": "Cloud Engineer",
+    "id": 140
+  },
+  {
+    "original": "Cloud Engineer (Azure)",
+    "is_valid_job": true,
+    "standardized_title": "Cloud Engineer",
+    "id": 141
+  },
+  {
+    "original": "Cloud Technical Engineer (Senior/Manager Level)",
+    "is_valid_job": true,
+    "standardized_title": "Cloud Engineer",
+    "id": 142
+  },
+  {
+    "original": "Core Banking Developer (C/C++)",
+    "is_valid_job": true,
+    "standardized_title": "Backend Developer",
+    "id": 143
+  },
+  {
+    "original": "CV/CVC/CVCC Quản trị rủi ro CNTT (IT Risk Management)",
+    "is_valid_job": true,
+    "standardized_title": "IT Risk Management",
+    "id": 144
+  },
+  {
+    "original": "CV/ CVCC Data Analyst (SQL, Power BI, Python) Khối CNTT",
+    "is_valid_job": true,
+    "standardized_title": "Data Analyst",
+    "id": 145
+  },
+  {
+    "original": "Data Engineer (Big Data, Kafka, Java, ETL, SQL)",
+    "is_valid_job": true,
+    "standardized_title": "Data Engineer",
+    "id": 146
+  },
+  {
+    "original": "CV Quản trị hệ thống (Unix/Linux)",
+    "is_valid_job": true,
+    "standardized_title": "System Administrator",
+    "id": 147
+  },
+  {
+    "original": "CVCC/ Chuyên gia Phát triển Ứng dụng (Java, Spring)",
+    "is_valid_job": true,
+    "standardized_title": "Backend Developer",
+    "id": 148
+  },
+  {
+    "original": "CVCC/Chuyên gia Vận hành Ứng dụng",
+    "is_valid_job": true,
+    "standardized_title": "DevOps Engineer",
+    "id": 149
+  },
+  {
+    "original": "Cybersecurity Engineer (Security/API/Networking)",
+    "is_valid_job": true,
+    "standardized_title": "Security Engineer",
+    "id": 150
+  },
+  {
+    "original": "[Da Nang] Full-Stack Developer (ReactJS/ NodeJS)",
+    "is_valid_job": true,
+    "standardized_title": "Fullstack Developer",
+    "id": 151
+  },
+  {
+    "original": "[Da Nang & Ho Chi Minh] Technical Architect",
+    "is_valid_job": true,
+    "standardized_title": "Software Architect",
+    "id": 152
+  },
+  {
+    "original": "[Da Nang / Ho Chi Minh] UI/UX Designer",
+    "is_valid_job": true,
+    "standardized_title": "UI/UX Designer",
+    "id": 153
+  },
+  {
+    "original": "[Da Nang] Scrum Master",
+    "is_valid_job": true,
+    "standardized_title": "Scrum Master",
+    "id": 154
+  },
+  {
+    "original": "[Đà Nẵng] Senior/Leader AI Engineer (Machine Learning)",
+    "is_valid_job": true,
+    "standardized_title": "AI Engineer",
+    "id": 155
+  },
+  {
+    "original": "[Danang] Project Leader/ BrSE (Japanese N2+)",
+    "is_valid_job": true,
+    "standardized_title": "Bridge System Engineer",
+    "id": 156
+  },
+  {
+    "original": "Data Analyst - Data Division",
+    "is_valid_job": true,
+    "standardized_title": "Data Analyst",
+    "id": 157
+  },
+  {
+    "original": "Data Analyst",
+    "is_valid_job": true,
+    "standardized_title": "Data Analyst",
+    "id": 158
+  },
+  {
+    "original": "Data Analyst - onsite tại thủ đô Vientiane, Laos",
+    "is_valid_job": true,
+    "standardized_title": "Data Analyst",
+    "id": 159
+  },
+  {
+    "original": "Data Analyst (SnOP – eLogistics)",
+    "is_valid_job": true,
+    "standardized_title": "Data Analyst",
+    "id": 160
+  },
+  {
+    "original": "Data Analyst (SQL, BigQuery, GCP)",
+    "is_valid_job": true,
+    "standardized_title": "Data Analyst",
+    "id": 161
+  },
+  {
+    "original": "Data Analyst/Product Analyst (SQL, Mobile App)",
+    "is_valid_job": true,
+    "standardized_title": "Data Analyst",
+    "id": 162
+  },
+  {
+    "original": "Data Analyst (SQL, Python, Database, Tableau)",
+    "is_valid_job": true,
+    "standardized_title": "Data Analyst",
+    "id": 163
+  },
+  {
+    "original": "Data Analyst (SQL, Python, PowerBI, Tableau, API)",
+    "is_valid_job": true,
+    "standardized_title": "Data Analyst",
+    "id": 164
+  },
+  {
+    "original": "Data Annotation",
+    "is_valid_job": true,
+    "standardized_title": "Data Annotator",
+    "id": 165
+  },
+  {
+    "original": "Data Architect - Data Division",
+    "is_valid_job": true,
+    "standardized_title": "Software Architect",
+    "id": 166
+  },
+  {
+    "original": "Data Architect",
+    "is_valid_job": true,
+    "standardized_title": "Software Architect",
+    "id": 167
+  },
+  {
+    "original": "Remote Data Engineer - AI Data Platform Japan (Python)",
+    "is_valid_job": true,
+    "standardized_title": "Data Engineer",
+    "id": 168
+  },
+  {
+    "original": "Data Engineer (AWS/GCP) - Up to $2700",
+    "is_valid_job": true,
+    "standardized_title": "Data Engineer",
+    "id": 169
+  },
+  {
+    "original": "Data Engineer (AWS, SQL, Python)",
+    "is_valid_job": true,
+    "standardized_title": "Data Engineer",
+    "id": 170
+  },
+  {
+    "original": "Data Engineer - Data Division",
+    "is_valid_job": true,
+    "standardized_title": "Data Engineer",
+    "id": 171
+  },
+  {
+    "original": "Data Engineer (Python, PowerBI, SnowFlake, DataBrick)",
+    "is_valid_job": true,
+    "standardized_title": "Data Engineer",
+    "id": 172
+  },
+  {
+    "original": "Data Engineer (SQL, Python)",
+    "is_valid_job": true,
+    "standardized_title": "Data Engineer",
+    "id": 173
+  },
+  {
+    "original": "Data Engineer",
+    "is_valid_job": true,
+    "standardized_title": "Data Engineer",
+    "id": 174
+  },
+  {
+    "original": "Data Manager (Data Engineer, SQL, Python)",
+    "is_valid_job": true,
+    "standardized_title": "Technical Lead",
+    "id": 175
+  },
+  {
+    "original": "Data Platform Operations (Database, Oracle)",
+    "is_valid_job": true,
+    "standardized_title": "Data Engineer",
+    "id": 176
+  },
+  {
+    "original": "Data Quality Management Specialist - Data Division",
+    "is_valid_job": true,
+    "standardized_title": "Data Quality Specialist",
+    "id": 177
+  },
+  {
+    "original": "Data Scientist - Data Division",
+    "is_valid_job": true,
+    "standardized_title": "Data Scientist",
+    "id": 178
+  },
+  {
+    "original": "Data Scientist / Data Engineer (Python, AI/LLM)",
+    "is_valid_job": true,
+    "standardized_title": "Data Scientist",
+    "id": 179
+  },
+  {
+    "original": "Database Administrator (Oracle/ PostgreSQL/ Linux)",
+    "is_valid_job": true,
+    "standardized_title": "Database Administrator",
+    "id": 180
+  },
+  {
+    "original": "Database Administrator (PostgreSQL, AWS)",
+    "is_valid_job": true,
+    "standardized_title": "Database Administrator",
+    "id": 181
+  },
+  {
+    "original": "Database Administrator (SQL, PostgreSQL, MariaDB)",
+    "is_valid_job": true,
+    "standardized_title": "Database Administrator",
+    "id": 182
+  },
+  {
+    "original": "Database Administrator ( SQL, PostgreSQL, MySQL)",
+    "is_valid_job": true,
+    "standardized_title": "Database Administrator",
+    "id": 183
+  },
+  {
+    "original": "Delivery Lead (Technical Project Manager)",
+    "is_valid_job": true,
+    "standardized_title": "Project Manager",
+    "id": 184
+  },
+  {
+    "original": "Delivery Leader/Delivery Manager",
+    "is_valid_job": true,
+    "standardized_title": "Project Manager",
+    "id": 185
+  },
+  {
+    "original": "Demo Operations Specialist (Enterprise Software,  POC)",
+    "is_valid_job": true,
+    "standardized_title": "Demo Operations Specialist",
+    "id": 186
+  },
+  {
+    "original": "DevOps/Developer Experience Engineer (English)",
+    "is_valid_job": true,
+    "standardized_title": "DevOps Engineer",
+    "id": 187
+  },
+  {
+    "original": "DevOps Engineer (AWS Cloud, Linux/Unix)",
+    "is_valid_job": true,
+    "standardized_title": "DevOps Engineer",
+    "id": 188
+  },
+  {
+    "original": "DevOps Engineer (Azure,Terraform,Kubernetes,Cloud,Git)",
+    "is_valid_job": true,
+    "standardized_title": "DevOps Engineer",
+    "id": 189
+  },
+  {
+    "original": "DevOps Engineer ( Blockchain/web3 )",
+    "is_valid_job": true,
+    "standardized_title": "DevOps Engineer",
+    "id": 190
+  },
+  {
+    "original": "DevOps Engineer( Cloud, K8S, DevSecOps)",
+    "is_valid_job": true,
+    "standardized_title": "DevOps Engineer",
+    "id": 191
+  },
+  {
+    "original": "DevOps Engineer",
+    "is_valid_job": true,
+    "standardized_title": "DevOps Engineer",
+    "id": 192
+  },
+  {
+    "original": "DevOps Engineer (Kubernetes, AWS, CI/CD)",
+    "is_valid_job": true,
+    "standardized_title": "DevOps Engineer",
+    "id": 193
+  },
+  {
+    "original": "DevOps Engineer (Linux)",
+    "is_valid_job": true,
+    "standardized_title": "DevOps Engineer",
+    "id": 194
+  },
+  {
+    "original": "DevOps Engineer (Python, AWS, Linux)",
+    "is_valid_job": true,
+    "standardized_title": "DevOps Engineer",
+    "id": 196
+  },
+  {
+    "original": "DevOps Engineer/ System Admin (eCommerce)",
+    "is_valid_job": true,
+    "standardized_title": "DevOps Engineer",
+    "id": 197
+  },
+  {
+    "original": "DevOps Engineering Manager",
+    "is_valid_job": true,
+    "standardized_title": "DevOps Engineer",
+    "id": 199
+  },
+  {
+    "original": "DevOps Lead/ Manager (Strong AWS)",
+    "is_valid_job": true,
+    "standardized_title": "DevOps Engineer",
+    "id": 200
+  },
+  {
+    "original": "Devops Manager (Cloud, Scurity)",
+    "is_valid_job": true,
+    "standardized_title": "DevOps Engineer",
+    "id": 201
+  },
+  {
+    "original": "DevOps Manager",
+    "is_valid_job": true,
+    "standardized_title": "DevOps Engineer",
+    "id": 202
+  },
+  {
+    "original": "DevOps/ SRE Engineer (Cloud/MLOps/AI)",
+    "is_valid_job": true,
+    "standardized_title": "DevOps Engineer",
+    "id": 203
+  },
+  {
+    "original": "DevSecOps/DevOps Engineer (Mid - Senior)",
+    "is_valid_job": true,
+    "standardized_title": "DevOps Engineer",
+    "id": 204
+  },
+  {
+    "original": "DevSecOps Engineer (English-required)",
+    "is_valid_job": true,
+    "standardized_title": "DevOps Engineer",
+    "id": 205
+  },
+  {
+    "original": "DevSecOps (Jenkins, gitlab)",
+    "is_valid_job": true,
+    "standardized_title": "DevOps Engineer",
+    "id": 206
+  },
+  {
+    "original": "(Đống Đa, HN) AI Application Engineer (Python, AI API)",
+    "is_valid_job": true,
+    "standardized_title": "AI Engineer",
+    "id": 207
+  },
+  {
+    "original": "Embedded Engineer (C focused) - All levels",
+    "is_valid_job": true,
+    "standardized_title": "Embedded Engineer",
+    "id": 208
+  },
+  {
+    "original": "Embedded Engineer (Classic AUTOSAR / Java Developer)",
+    "is_valid_job": true,
+    "standardized_title": "Embedded Engineer",
+    "id": 209
+  },
+  {
+    "original": "Engineering Director (B2B SaaS)",
+    "is_valid_job": true,
+    "standardized_title": "Engineering Manager",
+    "id": 210
+  },
+  {
+    "original": "Engineering Manager",
+    "is_valid_job": true,
+    "standardized_title": "Engineering Manager",
+    "id": 211
+  },
+  {
+    "original": "Engineering Manager (HRM, SaaS, Golang, Microservices)",
+    "is_valid_job": true,
+    "standardized_title": "Engineering Manager",
+    "id": 212
+  },
+  {
+    "original": "Engineering Team Lead (AI-native, Java, English)",
+    "is_valid_job": true,
+    "standardized_title": "Technical Lead",
+    "id": 215
+  },
+  {
+    "original": "(English) AI Project Manager (AI Product)",
+    "is_valid_job": true,
+    "standardized_title": "Project Manager",
+    "id": 216
+  },
+  {
+    "original": "[English] Project Manager",
+    "is_valid_job": true,
+    "standardized_title": "Project Manager",
+    "id": 217
+  },
+  {
+    "original": "Enterprise Architect (TOGAF 9.x, AWS/Azure/GCP)",
+    "is_valid_job": true,
+    "standardized_title": "Enterprise Architect",
+    "id": 218
+  },
+  {
+    "original": "Enterprise Architect",
+    "is_valid_job": true,
+    "standardized_title": "Enterprise Architect",
+    "id": 219
+  },
+  {
+    "original": "Enterprise Architecture (Quản Trị Kiến Trúc)",
+    "is_valid_job": true,
+    "standardized_title": "Software Architect",
+    "id": 220
+  },
+  {
+    "original": "Enterprise IT Services (Microsoft 365, Jira)",
+    "is_valid_job": true,
+    "standardized_title": "System Administrator",
+    "id": 221
+  },
+  {
+    "original": "Expert, Information Security (Networking, AWS) – ID383",
+    "is_valid_job": true,
+    "standardized_title": "Security Engineer",
+    "id": 222
+  },
+  {
+    "original": "Expert/ Senior Business and Data Analyst",
+    "is_valid_job": true,
+    "standardized_title": "Data Analyst",
+    "id": 223
+  },
+  {
+    "original": "Expert/Sr. IT Business Analyst",
+    "is_valid_job": true,
+    "standardized_title": "Business Analyst",
+    "id": 224
+  },
+  {
+    "original": "Flutter Developer (iOS, Android)",
+    "is_valid_job": true,
+    "standardized_title": "Mobile Developer",
+    "id": 225
+  },
+  {
+    "original": "Flutter Mobile Apps Developer (Android, iOS)",
+    "is_valid_job": true,
+    "standardized_title": "Mobile Developer",
+    "id": 226
+  },
+  {
+    "original": "FPT401- Embedded Software Developer (Java, C++, Python)",
+    "is_valid_job": true,
+    "standardized_title": "Embedded Engineer",
+    "id": 227
+  },
+  {
+    "original": "Fresher Data Engineer",
+    "is_valid_job": true,
+    "standardized_title": "Data Engineer",
+    "id": 228
+  },
+  {
+    "original": "Fresher Embedded Software Engineer (C focused)",
+    "is_valid_job": true,
+    "standardized_title": "Embedded Engineer",
+    "id": 229
+  },
+  {
+    "original": "Fresher Software Engineer (Automation Test, Selenium)",
+    "is_valid_job": true,
+    "standardized_title": "Automation Test Engineer",
+    "id": 230
+  },
+  {
+    "original": "Front-End Developer (Wix & Shopify)",
+    "is_valid_job": true,
+    "standardized_title": "Frontend Developer",
+    "id": 231
+  },
+  {
+    "original": "Frontend Dev (Sitefinity/uCommerce,JS, Jquery,SASS)",
+    "is_valid_job": true,
+    "standardized_title": "Frontend Developer",
+    "id": 232
+  },
+  {
+    "original": "Frontend Developer (Angular 2+, HTML5, CSS, TypeScript)",
+    "is_valid_job": true,
+    "standardized_title": "Frontend Developer",
+    "id": 233
+  },
+  {
+    "original": "Frontend Developer (ReactJS)",
+    "is_valid_job": true,
+    "standardized_title": "Frontend Developer",
+    "id": 234
+  },
+  {
+    "original": "Frontend Developer (Svelte, ReactJS, NextJS)",
+    "is_valid_job": true,
+    "standardized_title": "Frontend Developer",
+    "id": 235
+  },
+  {
+    "original": "Frontend Technical Lead (NextJS/ ReactJS)",
+    "is_valid_job": true,
+    "standardized_title": "Technical Lead",
+    "id": 236
+  },
+  {
+    "original": "Full-stack AI Engineer",
+    "is_valid_job": true,
+    "standardized_title": "AI Engineer",
+    "id": 237
+  },
+  {
+    "original": "Full-Stack Developer (NodeJS/ReactJS/Angular)",
+    "is_valid_job": true,
+    "standardized_title": "Fullstack Developer",
+    "id": 238
+  },
+  {
+    "original": "Fullstack Dev (Laravel/CakePHP/ ReactJS)",
+    "is_valid_job": true,
+    "standardized_title": "Fullstack Developer",
+    "id": 239
+  },
+  {
+    "original": "Fullstack Dev (.NET, Angular) – Phát Triển Hệ Thống ERP",
+    "is_valid_job": true,
+    "standardized_title": "Fullstack Developer",
+    "id": 240
+  },
+  {
+    "original": "Fullstack Developer (AI, ReactJS, NextJS, LLM)",
+    "is_valid_job": true,
+    "standardized_title": "Fullstack Developer",
+    "id": 241
+  },
+  {
+    "original": "Fullstack Developer (ASP.NET, C#, SQL, ReactJS)",
+    "is_valid_job": true,
+    "standardized_title": "Fullstack Developer",
+    "id": 242
+  },
+  {
+    "original": "Fullstack Developer",
+    "is_valid_job": true,
+    "standardized_title": "Fullstack Developer",
+    "id": 243
+  },
+  {
+    "original": "Fullstack Developer (Java/Vue3/Typescript)",
+    "is_valid_job": true,
+    "standardized_title": "Fullstack Developer",
+    "id": 244
+  },
+  {
+    "original": "Fullstack Developer (.Net, NodeJs, Angular)",
+    "is_valid_job": true,
+    "standardized_title": "Fullstack Developer",
+    "id": 245
+  },
+  {
+    "original": "Fullstack Developer (NextJS, ReactJS, NodeJS, Git)",
+    "is_valid_job": true,
+    "standardized_title": "Fullstack Developer",
+    "id": 246
+  },
+  {
+    "original": "Fullstack Developer (NodeJS/ TypeScript/ ReactJS)",
+    "is_valid_job": true,
+    "standardized_title": "Fullstack Developer",
+    "id": 247
+  },
+  {
+    "original": "FullStack Developer (NodeJS, ReactJS, AI)",
+    "is_valid_job": true,
+    "standardized_title": "Fullstack Developer",
+    "id": 248
+  },
+  {
+    "original": "Fullstack Developer (NodeJS, ReactJS, AI Native)",
+    "is_valid_job": true,
+    "standardized_title": "Fullstack Developer",
+    "id": 249
+  },
+  {
+    "original": "Fullstack Developer (NodeJS/ReactJS/Java Script)",
+    "is_valid_job": true,
+    "standardized_title": "Fullstack Developer",
+    "id": 250
+  },
+  {
+    "original": "Fullstack Developer | PHP | Python | JavaScript | SQL",
+    "is_valid_job": true,
+    "standardized_title": "Fullstack Developer",
+    "id": 251
+  },
+  {
+    "original": "Fullstack Developer (React, NextJS, and TypeScript)",
+    "is_valid_job": true,
+    "standardized_title": "Fullstack Developer",
+    "id": 252
+  },
+  {
+    "original": "Fullstack Developer (Ruby on Rails/ PHP/ AWS/ English)",
+    "is_valid_job": true,
+    "standardized_title": "Technical Lead",
+    "id": 253
+  },
+  {
+    "original": "Fullstack Developer (Web API, PostgreSQL, SQL)",
+    "is_valid_job": true,
+    "standardized_title": "Fullstack Developer",
+    "id": 254
+  },
+  {
+    "original": "Fullstack Engineer (Azure, AI, DevOps, NextJS)",
+    "is_valid_job": true,
+    "standardized_title": "Fullstack Developer",
+    "id": 255
+  },
+  {
+    "original": "Fullstack Engineer",
+    "is_valid_job": true,
+    "standardized_title": "Fullstack Developer",
+    "id": 256
+  },
+  {
+    "original": "Fullstack Mobile Developer (Flutter + IOS/Android)",
+    "is_valid_job": true,
+    "standardized_title": "Mobile Developer",
+    "id": 257
+  },
+  {
+    "original": "Fullstack  NodeJs - 3 năm kinh nghiệm",
+    "is_valid_job": true,
+    "standardized_title": "Fullstack Developer",
+    "id": 258
+  },
+  {
+    "original": "Fullstack NodeJS Developer (Middle)",
+    "is_valid_job": true,
+    "standardized_title": "Fullstack Developer",
+    "id": 259
+  },
+  {
+    "original": "Fullstack Software Engineer",
+    "is_valid_job": true,
+    "standardized_title": "Fullstack Developer",
+    "id": 260
+  },
+  {
+    "original": "Fullstack Software Engineer (TypeScript, GenAI, LLM)",
+    "is_valid_job": true,
+    "standardized_title": "Fullstack Developer",
+    "id": 261
+  },
+  {
+    "original": "Fullstack Teachnical Leader (NestJS, Angular, MongoDB)",
+    "is_valid_job": true,
+    "standardized_title": "Fullstack Developer",
+    "id": 262
+  },
+  {
+    "original": "Fullstack Web Developer (ReactJS, NodeJS) ~ Up to $2000",
+    "is_valid_job": true,
+    "standardized_title": "Fullstack Developer",
+    "id": 263
+  },
+  {
+    "original": "Game Developer (Cocos Creator)",
+    "is_valid_job": true,
+    "standardized_title": "Game Developer",
+    "id": 264
+  },
+  {
+    "original": "Game Developer (Unity, C#)",
+    "is_valid_job": true,
+    "standardized_title": "Game Developer",
+    "id": 265
+  },
+  {
+    "original": "Game Producer (Project Manager)",
+    "is_valid_job": true,
+    "standardized_title": "Project Manager",
+    "id": 266
+  },
+  {
+    "original": "Game Tester",
+    "is_valid_job": true,
+    "standardized_title": "QA Engineer",
+    "id": 267
+  },
+  {
+    "original": "Giám đốc thiết kế & quản lý trải nghiệm số - Head of UX",
+    "is_valid_job": true,
+    "standardized_title": "UI/UX Designer",
+    "id": 268
+  },
+  {
+    "original": "(Good English) 5+ YOE Manual QA/QC Tester | Banking",
+    "is_valid_job": true,
+    "standardized_title": "QA Engineer",
+    "id": 269
+  },
+  {
+    "original": "[Hanoi] Embedded Software Engineer (C/C++ | MCU/SoC)",
+    "is_valid_job": true,
+    "standardized_title": "Embedded Engineer",
+    "id": 270
+  },
+  {
+    "original": "[Hanoi] Senior Manager (Japanese N2+)",
+    "is_valid_job": true,
+    "standardized_title": "Delivery Manager",
+    "id": 271
+  },
+  {
+    "original": "Hardware Engineer (All levels)",
+    "is_valid_job": true,
+    "standardized_title": "Hardware Engineer",
+    "id": 272
+  },
+  {
+    "original": "[HCM/DN-Hybrid] Middle/Senior Automation Tester",
+    "is_valid_job": true,
+    "standardized_title": "Automation Test Engineer",
+    "id": 273
+  },
+  {
+    "original": "[HCM/DN-Hybrid] Middle/Senior .NET Engineer",
+    "is_valid_job": true,
+    "standardized_title": "Backend Developer",
+    "id": 274
+  },
+  {
+    "original": "(HCM) (Senior) Data Engineer",
+    "is_valid_job": true,
+    "standardized_title": "Data Engineer",
+    "id": 275
+  },
+  {
+    "original": "Head of IT & Digital Transformation (AI, Cloud, ERP)",
+    "is_valid_job": true,
+    "standardized_title": "Head of IT",
+    "id": 276
+  },
+  {
+    "original": "(HN) Expert/Manager Software Engineering",
+    "is_valid_job": true,
+    "standardized_title": "Technical Lead",
+    "id": 277
+  },
+  {
+    "original": "(HN/HCM) Senior Product Owner (Data Platform)",
+    "is_valid_job": true,
+    "standardized_title": "Product Owner",
+    "id": 278
+  },
+  {
+    "original": "HO - AI Engineer (Python, Machine Learning)",
+    "is_valid_job": true,
+    "standardized_title": "AI Engineer",
+    "id": 279
+  },
+  {
+    "original": "HO - Business Intelligence Executive",
+    "is_valid_job": true,
+    "standardized_title": "Data Analyst",
+    "id": 280
+  },
+  {
+    "original": "[Ho Chi Minh] Full-Stack Developer (ReactJS/ NodeJS)",
+    "is_valid_job": true,
+    "standardized_title": "Fullstack Developer",
+    "id": 281
+  },
+  {
+    "original": "[Ho Chi Minh] QA Engineer",
+    "is_valid_job": true,
+    "standardized_title": "QA Engineer",
+    "id": 282
+  },
+  {
+    "original": "HO - ETL Specialist (SQL, Python)",
+    "is_valid_job": true,
+    "standardized_title": "Data Engineer",
+    "id": 283
+  },
+  {
+    "original": "[HYBRID] Senior Java Developer",
+    "is_valid_job": true,
+    "standardized_title": "Backend Developer",
+    "id": 284
+  },
+  {
+    "original": "[Hybrid] UI/UX Designer (Mid/ Senior)",
+    "is_valid_job": true,
+    "standardized_title": "UI/UX Designer",
+    "id": 285
+  },
+  {
+    "original": "Implementation Engineer (JavaScript, API, Integration)",
+    "is_valid_job": true,
+    "standardized_title": "Implementation Engineer",
+    "id": 286
+  },
+  {
+    "original": "Information Security Engineer (Patching , English)",
+    "is_valid_job": true,
+    "standardized_title": "Security Engineer",
+    "id": 287
+  },
+  {
+    "original": "Infrastructure Engineer (English, Azure, Cisco)",
+    "is_valid_job": true,
+    "standardized_title": "Infrastructure Engineer",
+    "id": 288
+  },
+  {
+    "original": "Infrastructure Security Engineer II - Cloud & DevSecOps",
+    "is_valid_job": true,
+    "standardized_title": "DevSecOps Engineer",
+    "id": 289
+  },
+  {
+    "original": "Innovation Engineer (AI/Blockchain/MVP)",
+    "is_valid_job": true,
+    "standardized_title": "AI Engineer",
+    "id": 290
+  },
+  {
+    "original": "Intermediate React-Native Engineer (ENG)",
+    "is_valid_job": true,
+    "standardized_title": "Mobile Developer",
+    "id": 291
+  },
+  {
+    "original": "Intermediate/Senior AI Engineer (Python)",
+    "is_valid_job": true,
+    "standardized_title": "AI Engineer",
+    "id": 292
+  },
+  {
+    "original": "(Intermediate/Senior) Product Owner",
+    "is_valid_job": true,
+    "standardized_title": "Product Owner",
+    "id": 293
+  },
+  {
+    "original": "iOS Developer (Swift)",
+    "is_valid_job": true,
+    "standardized_title": "Mobile Developer",
+    "id": 294
+  },
+  {
+    "original": "iOS Developer (Swift/ Objective-C)",
+    "is_valid_job": true,
+    "standardized_title": "Mobile Developer",
+    "id": 295
+  },
+  {
+    "original": "IP Portfolio Manager (AI Program) - Up to $4000",
+    "is_valid_job": true,
+    "standardized_title": "IP Portfolio Manager",
+    "id": 296
+  },
+  {
+    "original": "IT Application Executive (E-commerce/ POS/ CRM/ ERP)",
+    "is_valid_job": true,
+    "standardized_title": "IT Support",
+    "id": 297
+  },
+  {
+    "original": "IT Associate (System Engineer, Oracle, MsSQL, MySQL)",
+    "is_valid_job": true,
+    "standardized_title": "System Administrator",
+    "id": 298
+  },
+  {
+    "original": "Data Backup & Recovery Engineer (VMware & Windows)",
+    "is_valid_job": true,
+    "standardized_title": "System Administrator",
+    "id": 299
+  },
+  {
+    "original": "IT Business Analysis Partner Expert",
+    "is_valid_job": true,
+    "standardized_title": "Business Analyst",
+    "id": 300
+  },
+  {
+    "original": "IT Business Analyst (AI product)",
+    "is_valid_job": true,
+    "standardized_title": "Business Analyst",
+    "id": 301
+  },
+  {
+    "original": "IT Business Analyst (English-required)",
+    "is_valid_job": true,
+    "standardized_title": "Business Analyst",
+    "id": 302
+  },
+  {
+    "original": "IT Business Analyst (T24, banking, finance)",
+    "is_valid_job": true,
+    "standardized_title": "Business Analyst",
+    "id": 303
+  },
+  {
+    "original": "Cloud Engineer (AWS, Terraform, DevOps, Ansible, Linux)",
+    "is_valid_job": true,
+    "standardized_title": "Cloud Engineer",
+    "id": 304
+  },
+  {
+    "original": "System Administrator (Azure, IT Support, Networking)",
+    "is_valid_job": true,
+    "standardized_title": "System Administrator",
+    "id": 305
+  },
+  {
+    "original": "IT Communicator (Japanese N3)",
+    "is_valid_job": true,
+    "standardized_title": "IT Communicator",
+    "id": 306
+  },
+  {
+    "original": "IT Comtor (Japanese N1) & Business Admin",
+    "is_valid_job": true,
+    "standardized_title": "IT Communicator",
+    "id": 307
+  },
+  {
+    "original": "IT Core Banking Developer",
+    "is_valid_job": true,
+    "standardized_title": "Backend Developer",
+    "id": 308
+  },
+  {
+    "original": "IT Data Analyst (Automation, SQL, Python)",
+    "is_valid_job": true,
+    "standardized_title": "Data Analyst",
+    "id": 309
+  },
+  {
+    "original": "IT Digital Banking Developer (Java/API)",
+    "is_valid_job": true,
+    "standardized_title": "Backend Developer",
+    "id": 310
+  },
+  {
+    "original": "IT Fullstack Developer (ReactJS, NextJS, JavaScript)",
+    "is_valid_job": true,
+    "standardized_title": "Fullstack Developer",
+    "id": 311
+  },
+  {
+    "original": "IT Governance",
+    "is_valid_job": true,
+    "standardized_title": "IT Governance",
+    "id": 312
+  },
+  {
+    "original": "IT Internal Auditor",
+    "is_valid_job": true,
+    "standardized_title": "IT Auditor",
+    "id": 313
+  },
+  {
+    "original": "IT Manager (JavaScript, HTML, CSS, .Net)",
+    "is_valid_job": true,
+    "standardized_title": "IT Manager",
+    "id": 314
+  },
+  {
+    "original": "IT - Middle/ Senior QC",
+    "is_valid_job": true,
+    "standardized_title": "QA Engineer",
+    "id": 315
+  },
+  {
+    "original": "IT - Mobile Developer (React Native)",
+    "is_valid_job": true,
+    "standardized_title": "Mobile Developer",
+    "id": 316
+  },
+  {
+    "original": "IT Network & Security Specialist (System Admin)",
+    "is_valid_job": true,
+    "standardized_title": "System Administrator",
+    "id": 317
+  },
+  {
+    "original": "IT Project Manager (BFSI Domain)",
+    "is_valid_job": true,
+    "standardized_title": "Project Manager",
+    "id": 318
+  },
+  {
+    "original": "IT Project Manager (ERP, SAP, Oracle)",
+    "is_valid_job": true,
+    "standardized_title": "Project Manager",
+    "id": 319
+  },
+  {
+    "original": "IT - Project Manager",
+    "is_valid_job": true,
+    "standardized_title": "Project Manager",
+    "id": 320
+  },
+  {
+    "original": "IT Project Manager - Quản lý dự án CNTT",
+    "is_valid_job": true,
+    "standardized_title": "Project Manager",
+    "id": 321
+  },
+  {
+    "original": "IT Security & Network Engineer",
+    "is_valid_job": true,
+    "standardized_title": "Security Engineer",
+    "id": 322
+  },
+  {
+    "original": "IT - Senior Backend Engineer (Digital Banking)",
+    "is_valid_job": true,
+    "standardized_title": "Backend Developer",
+    "id": 323
+  },
+  {
+    "original": "System Engineer (Windows, Linux, VMware)",
+    "is_valid_job": true,
+    "standardized_title": "System Administrator",
+    "id": 324
+  },
+  {
+    "original": "IT Support Administrator (English)",
+    "is_valid_job": true,
+    "standardized_title": "IT Support",
+    "id": 325
+  },
+  {
+    "original": "IT Support Analyst – Level 1 to Level 3",
+    "is_valid_job": true,
+    "standardized_title": "IT Support",
+    "id": 326
+  },
+  {
+    "original": "IT Support Specialist (Helpdesk / Evening shift)",
+    "is_valid_job": true,
+    "standardized_title": "IT Support",
+    "id": 327
+  },
+  {
+    "original": "20 Java Deverloper (Spring Boot, Angular, HTML/CSS)",
+    "is_valid_job": true,
+    "standardized_title": "Fullstack Developer",
+    "id": 328
+  },
+  {
+    "original": "Java Backend Developer (Spring Boot, Git)",
+    "is_valid_job": true,
+    "standardized_title": "Backend Developer",
+    "id": 329
+  },
+  {
+    "original": "Java Backend Developer (Spring Boot, RESTful API, SQL)",
+    "is_valid_job": true,
+    "standardized_title": "Backend Developer",
+    "id": 330
+  },
+  {
+    "original": "Java Developer (Expert/Senior Officer)",
+    "is_valid_job": true,
+    "standardized_title": "Backend Developer",
+    "id": 331
+  },
+  {
+    "original": "Java Developer (Java 17+, Spring Boot)",
+    "is_valid_job": true,
+    "standardized_title": "Backend Developer",
+    "id": 332
+  },
+  {
+    "original": "All level-Java Dev (Spring Boot/SQL/Clean Architecture)",
+    "is_valid_job": true,
+    "standardized_title": "Backend Developer",
+    "id": 333
+  },
+  {
+    "original": "Java Developer (OOP, Spring Boot, MySQL)",
+    "is_valid_job": true,
+    "standardized_title": "Backend Developer",
+    "id": 334
+  },
+  {
+    "original": "Java Developer",
+    "is_valid_job": true,
+    "standardized_title": "Backend Developer",
+    "id": 335
+  },
+  {
+    "original": "Java Developer (Spring Boot, Japanese N4+)",
+    "is_valid_job": true,
+    "standardized_title": "Backend Developer",
+    "id": 336
+  },
+  {
+    "original": "Java Developer (Spring, OOP) Up to $2000",
+    "is_valid_job": true,
+    "standardized_title": "Backend Developer",
+    "id": 337
+  },
+  {
+    "original": "Java (Spring) Backend Engineer (Middle/Senior)",
+    "is_valid_job": true,
+    "standardized_title": "Backend Developer",
+    "id": 338
+  },
+  {
+    "original": "Java Spring Boot (~50 Mil)",
+    "is_valid_job": true,
+    "standardized_title": "Backend Developer",
+    "id": 339
+  },
+  {
+    "original": "JavaScript Engineer (Remote cho công ty Nhật Bản)",
+    "is_valid_job": true,
+    "standardized_title": "Fullstack Developer",
+    "id": 340
+  },
+  {
+    "original": "JN301- AI, IoT-Robotics Integrated Mobile App & Web Dev",
+    "is_valid_job": true,
+    "standardized_title": "AI Engineer",
+    "id": 341
+  },
+  {
+    "original": "Jr. Fullstack .Net Developer (ASP.NET, ReactJS, .NET 8)",
+    "is_valid_job": true,
+    "standardized_title": "Fullstack Developer",
+    "id": 342
+  },
+  {
+    "original": "Jr/Mid Automation Engineer (.NET)",
+    "is_valid_job": true,
+    "standardized_title": "Embedded Engineer",
+    "id": 343
+  },
+  {
+    "original": "Sr/ Technical Leader ODOO Developer - Tuyển gấp",
+    "is_valid_job": true,
+    "standardized_title": "ERP Consultant",
+    "id": 344
+  },
+  {
+    "original": "Jr Tester - AI Chatbot Systems (Python)",
+    "is_valid_job": true,
+    "standardized_title": "Automation Test Engineer",
+    "id": 345
+  },
+  {
+    "original": "Junior Android Developer (Kotlin/Java)",
+    "is_valid_job": true,
+    "standardized_title": "Mobile Developer",
+    "id": 346
+  },
+  {
+    "original": "Junior Backend Developer (.NET, C#)",
+    "is_valid_job": true,
+    "standardized_title": "Backend Developer",
+    "id": 347
+  },
+  {
+    "original": "Junior Backend Developer (PHP/ NodeJS/ Ruby on Rails)",
+    "is_valid_job": true,
+    "standardized_title": "Backend Developer",
+    "id": 348
+  },
+  {
+    "original": "Junior Data Modeler (SQL)",
+    "is_valid_job": true,
+    "standardized_title": "Data Engineer",
+    "id": 349
+  },
+  {
+    "original": "Junior iOS Mobile Developer (Swift, English)",
+    "is_valid_job": true,
+    "standardized_title": "Mobile Developer",
+    "id": 350
+  },
+  {
+    "original": "[Junior] Java Developers",
+    "is_valid_job": true,
+    "standardized_title": "Fullstack Developer",
+    "id": 351
+  },
+  {
+    "original": "Junior/Middle AI Engineer (AI/ML, Python)",
+    "is_valid_job": true,
+    "standardized_title": "AI Engineer",
+    "id": 352
+  },
+  {
+    "original": "Junior/Middle Business Analyst",
+    "is_valid_job": true,
+    "standardized_title": "Business Analyst",
+    "id": 353
+  },
+  {
+    "original": "Junior/Middle/Senior React Native Developer",
+    "is_valid_job": true,
+    "standardized_title": "Mobile Developer",
+    "id": 354
+  },
+  {
+    "original": "Junior/Middle Tester (Automation Test/ QA QC)",
+    "is_valid_job": true,
+    "standardized_title": "Automation Test Engineer",
+    "id": 355
+  },
+  {
+    "original": "Junior QA Engineer",
+    "is_valid_job": true,
+    "standardized_title": "Automation Test Engineer",
+    "id": 356
+  },
+  {
+    "original": "Junior React Native Developer (JavaScript / TypeScript)",
+    "is_valid_job": true,
+    "standardized_title": "Mobile Developer",
+    "id": 357
+  },
+  {
+    "original": "Junior/Senior Business Analyst (Agile, Jira, SQL)",
+    "is_valid_job": true,
+    "standardized_title": "Business Analyst",
+    "id": 358
+  },
+  {
+    "original": "(Junior/Senior) IT Business Analyst (API, SQL, English)",
+    "is_valid_job": true,
+    "standardized_title": "Business Analyst",
+    "id": 359
+  },
+  {
+    "original": "Junior/Senior Software Developer (OOP, Database, Java)",
+    "is_valid_job": true,
+    "standardized_title": "Backend Developer",
+    "id": 360
+  },
+  {
+    "original": "Kiến trúc sư giải pháp CNTT (Solution Architect)",
+    "is_valid_job": true,
+    "standardized_title": "Software Architect",
+    "id": 361
+  },
+  {
+    "original": "Knowledge System Lead (IC role)",
+    "is_valid_job": true,
+    "standardized_title": "Technical Writer",
+    "id": 362
+  },
+  {
+    "original": "Korean IT Comtor/ Project Coordinator (ERP/CRM)",
+    "is_valid_job": true,
+    "standardized_title": "IT Communicator",
+    "id": 363
+  },
+  {
+    "original": "Kỹ sư Cầu nối BrSE (Tiếng Nhật)",
+    "is_valid_job": true,
+    "standardized_title": "Bridge System Engineer",
+    "id": 364
+  },
+  {
+    "original": "Kỹ sư phân tích nghiệp vụ (IT Business Analyst) - VIC",
+    "is_valid_job": true,
+    "standardized_title": "Business Analyst",
+    "id": 365
+  },
+  {
+    "original": "Kỹ sư Triển khai Hệ thống (System Engineer/K8S/Docker)",
+    "is_valid_job": true,
+    "standardized_title": "DevOps Engineer",
+    "id": 366
+  },
+  {
+    "original": "Kỹ Sư Tư Vấn Giải Pháp CNTT (Presales, Network, System)",
+    "is_valid_job": true,
+    "standardized_title": "Presales Engineer",
+    "id": 367
+  },
+  {
+    "original": "Kỹ Sư Vận Hành Mạng & An Ninh Hệ Thống",
+    "is_valid_job": true,
+    "standardized_title": "Network Security Engineer",
+    "id": 368
+  },
+  {
+    "original": "Lập trình viên AnyCUBE (.NET/.NET Core, Japanese)",
+    "is_valid_job": true,
+    "standardized_title": "Backend Developer",
+    "id": 369
+  },
+  {
+    "original": "Lead Data Analyst",
+    "is_valid_job": true,
+    "standardized_title": "Data Analyst",
+    "id": 370
+  },
+  {
+    "original": "Lead Front-end Developer (JavaScript, ReactJS/Angular)",
+    "is_valid_job": true,
+    "standardized_title": "Frontend Developer",
+    "id": 371
+  },
+  {
+    "original": "Lead Java Engineer",
+    "is_valid_job": true,
+    "standardized_title": "Backend Developer",
+    "id": 372
+  },
+  {
+    "original": "Lead QA/QC Tester (Python/Playwright)",
+    "is_valid_job": true,
+    "standardized_title": "Automation Test Engineer",
+    "id": 373
+  },
+  {
+    "original": "Lead QC Engineer (Automation & Gen AI)",
+    "is_valid_job": true,
+    "standardized_title": "Automation Test Engineer",
+    "id": 374
+  },
+  {
+    "original": "Lead Software Developer (Java)",
+    "is_valid_job": true,
+    "standardized_title": "Backend Developer",
+    "id": 375
+  },
+  {
+    "original": "Lead Solution Architect",
+    "is_valid_job": true,
+    "standardized_title": "Software Architect",
+    "id": 376
+  },
+  {
+    "original": "Linux/Android Kernel Engineer",
+    "is_valid_job": true,
+    "standardized_title": "Embedded Engineer",
+    "id": 377
+  },
+  {
+    "original": "LM1001 - Fullstack Developer (ReactJS, NodeJS)",
+    "is_valid_job": true,
+    "standardized_title": "Fullstack Developer",
+    "id": 378
+  },
+  {
+    "original": "Mainframe Technical Lead (COBOL/JCL/DB2) – Up to 60M",
+    "is_valid_job": true,
+    "standardized_title": "Mainframe Engineer",
+    "id": 379
+  },
+  {
+    "original": "MaintMaster - Quality Assurance Engineer",
+    "is_valid_job": true,
+    "standardized_title": "QA Engineer",
+    "id": 380
+  },
+  {
+    "original": "MaintMaster - Senior Software Developer (React, .NET)",
+    "is_valid_job": true,
+    "standardized_title": "Fullstack Developer",
+    "id": 381
+  },
+  {
+    "original": "Manual & Automation Test Lead (Tester/QA/QC/Python)",
+    "is_valid_job": true,
+    "standardized_title": "Automation Test Engineer",
+    "id": 382
+  },
+  {
+    "original": "Manual Test Engineer (Automotive Domain_From 1 YOE)",
+    "is_valid_job": true,
+    "standardized_title": "QA Engineer",
+    "id": 383
+  },
+  {
+    "original": "Manual Tester (Japanese Speaking)",
+    "is_valid_job": true,
+    "standardized_title": "QA Engineer",
+    "id": 384
+  },
+  {
+    "original": "Manual Tester - Khối Công nghệ thông tin",
+    "is_valid_job": true,
+    "standardized_title": "QA Engineer",
+    "id": 385
+  },
+  {
+    "original": "Manual Tester",
+    "is_valid_job": true,
+    "standardized_title": "QA Engineer",
+    "id": 386
+  },
+  {
+    "original": "Manual Tester (QA QC/English)",
+    "is_valid_job": true,
+    "standardized_title": "QA Engineer",
+    "id": 387
+  },
+  {
+    "original": "MCU Software Engineer (Embedded Systems)",
+    "is_valid_job": true,
+    "standardized_title": "Embedded Engineer",
+    "id": 388
+  },
+  {
+    "original": "Medior Enterprise Security Architect",
+    "is_valid_job": true,
+    "standardized_title": "Security Architect",
+    "id": 389
+  },
+  {
+    "original": "Microsoft D365 BC Technical Expert - 24Hr Campaign",
+    "is_valid_job": true,
+    "standardized_title": "ERP Consultant",
+    "id": 390
+  },
+  {
+    "original": "Mid AI Engineer (LLM, NLP, ReactJS, NextJS)",
+    "is_valid_job": true,
+    "standardized_title": "AI Engineer",
+    "id": 391
+  },
+  {
+    "original": "Mid-Level Python Developer (2 – 3 years)",
+    "is_valid_job": true,
+    "standardized_title": "Backend Developer",
+    "id": 392
+  },
+  {
+    "original": "Mid/Senior Automation QC (Playwright)",
+    "is_valid_job": true,
+    "standardized_title": "Automation Test Engineer",
+    "id": 393
+  },
+  {
+    "original": "Mid - Senior Business Analyst",
+    "is_valid_job": true,
+    "standardized_title": "Business Analyst",
+    "id": 394
+  },
+  {
+    "original": "Mid/Senior Business Analyst (English required)",
+    "is_valid_job": true,
+    "standardized_title": "Business Analyst",
+    "id": 395
+  },
+  {
+    "original": "Mid/Senior Frontend Dev (ReactJS, SaaS, US Product, AI)",
+    "is_valid_job": true,
+    "standardized_title": "Frontend Developer",
+    "id": 396
+  },
+  {
+    "original": "Mid/Senior Fullstack Developer",
+    "is_valid_job": true,
+    "standardized_title": "Fullstack Developer",
+    "id": 397
+  },
+  {
+    "original": "Mid-Senior IOS Developer(Swift, Objective C)",
+    "is_valid_job": true,
+    "standardized_title": "Mobile Developer",
+    "id": 398
+  },
+  {
+    "original": "Mid/Senior Java Developer",
+    "is_valid_job": true,
+    "standardized_title": "Backend Developer",
+    "id": 399
+  },
+  {
+    "original": "Mid/Senior Microsoft AI / Power Platform Developer",
+    "is_valid_job": true,
+    "standardized_title": "AI Engineer",
+    "id": 400
+  },
+  {
+    "original": "Mid/Senior .NET Engineer (Airlines domain, English)",
+    "is_valid_job": true,
+    "standardized_title": "Backend Developer",
+    "id": 401
+  },
+  {
+    "original": "Mid/Senior Software Engineer (AI)",
+    "is_valid_job": true,
+    "standardized_title": "AI Engineer",
+    "id": 402
+  },
+  {
+    "original": "Mid/Sr DevOps Engineer (Terraform/Kubernetes)",
+    "is_valid_job": true,
+    "standardized_title": "DevOps Engineer",
+    "id": 403
+  },
+  {
+    "original": "Mid/Sr Golang Software Engineer",
+    "is_valid_job": true,
+    "standardized_title": "Backend Developer",
+    "id": 404
+  },
+  {
+    "original": "Mid/Sr Java Developer (English Required) - Up to 3200$",
+    "is_valid_job": true,
+    "standardized_title": "Backend Developer",
+    "id": 405
+  },
+  {
+    "original": "Mid to Senior Backend Developer (Golang/NodeJS/Product)",
+    "is_valid_job": true,
+    "standardized_title": "Backend Developer",
+    "id": 406
+  },
+  {
+    "original": "Mid to Senior Fullstack Developer (NodeJS/Javascript)",
+    "is_valid_job": true,
+    "standardized_title": "Fullstack Developer",
+    "id": 407
+  },
+  {
+    "original": "Middle AI Engineer (ML, MLOps, CI/CD, AWS)",
+    "is_valid_job": true,
+    "standardized_title": "AI Engineer",
+    "id": 408
+  },
+  {
+    "original": "Middle Angular Developer",
+    "is_valid_job": true,
+    "standardized_title": "Frontend Developer",
+    "id": 409
+  },
+  {
+    "original": "(Middle) Cloud Solutions Architect",
+    "is_valid_job": true,
+    "standardized_title": "Software Architect",
+    "id": 410
+  },
+  {
+    "original": "Middle DevOps Engineer (Azure Cloud)",
+    "is_valid_job": true,
+    "standardized_title": "DevOps Engineer",
+    "id": 411
+  },
+  {
+    "original": "Middle Frontend Dev (React / React Native / Mobile)",
+    "is_valid_job": true,
+    "standardized_title": "Mobile Developer",
+    "id": 412
+  },
+  {
+    "original": "Middle Manual QC Engineer",
+    "is_valid_job": true,
+    "standardized_title": "QA Engineer",
+    "id": 413
+  },
+  {
+    "original": "Middle Product Owner (Agile/ Scrum/ Jira)",
+    "is_valid_job": true,
+    "standardized_title": "Product Owner",
+    "id": 414
+  },
+  {
+    "original": "Middle/Senior Automation QA (Good English)",
+    "is_valid_job": true,
+    "standardized_title": "Automation Test Engineer",
+    "id": 415
+  },
+  {
+    "original": "Middle/Senior Backend Engineer(English, Fullstack plus)",
+    "is_valid_job": true,
+    "standardized_title": "Backend Developer",
+    "id": 416
+  },
+  {
+    "original": "Middle/Senior Backend Engineer (Python, FastAPI)",
+    "is_valid_job": true,
+    "standardized_title": "Backend Developer",
+    "id": 417
+  },
+  {
+    "original": "Middle/Senior Business Analyst (Banking)",
+    "is_valid_job": true,
+    "standardized_title": "Business Analyst",
+    "id": 418
+  },
+  {
+    "original": "[MIDDLE/SENIOR] FRONTEND DEVELOPER (Jquery, HTML5, CSS)",
+    "is_valid_job": true,
+    "standardized_title": "Frontend Developer",
+    "id": 419
+  },
+  {
+    "original": "Middle/Senior Fullstack Dev (ReactJS/Wordpress/NodeJS)",
+    "is_valid_job": true,
+    "standardized_title": "Fullstack Developer",
+    "id": 420
+  },
+  {
+    "original": "Middle/Senior Java Engineer",
+    "is_valid_job": true,
+    "standardized_title": "Backend Developer",
+    "id": 421
+  },
+  {
+    "original": "Middle/ Senior Mobile Developer (React Native)",
+    "is_valid_job": true,
+    "standardized_title": "Mobile Developer",
+    "id": 422
+  },
+  {
+    "original": "Middle/Senior NodeJS Developer (NestJS, ReactJS, Redux)",
+    "is_valid_job": true,
+    "standardized_title": "Backend Developer",
+    "id": 423
+  },
+  {
+    "original": "Middle/Senior PHP Developer (Laravel / ReactJS / VueJS)",
+    "is_valid_job": true,
+    "standardized_title": "Fullstack Developer",
+    "id": 424
+  },
+  {
+    "original": "Middle/Senior Software Engineer - C#/.Net, Azure, Cloud",
+    "is_valid_job": true,
+    "standardized_title": "DevOps Engineer",
+    "id": 425
+  },
+  {
+    "original": "Middle/ Senior Software Engineer (C#, .NET, SQL)",
+    "is_valid_job": true,
+    "standardized_title": "Backend Developer",
+    "id": 426
+  },
+  {
+    "original": "Middle/Senior Software Engineer (Golang, Python, Java)",
+    "is_valid_job": true,
+    "standardized_title": "Backend Developer",
+    "id": 427
+  },
+  {
+    "original": "Middle/Senior Software Engineer (Java)",
+    "is_valid_job": true,
+    "standardized_title": "Backend Developer",
+    "id": 428
+  },
+  {
+    "original": "Middle/Senior Software Engineer (.NET/C#)",
+    "is_valid_job": true,
+    "standardized_title": "Backend Developer",
+    "id": 429
+  },
+  {
+    "original": "Milient - Senior Fullstack Developer (NodeJS, MERN)",
+    "is_valid_job": true,
+    "standardized_title": "Fullstack Developer",
+    "id": 430
+  },
+  {
+    "original": "MNF1201: Fullstack Developer (JavaScript,ReactJS, Java)",
+    "is_valid_job": true,
+    "standardized_title": "Fullstack Developer",
+    "id": 431
+  },
+  {
+    "original": "Mobile App Developer (React Native / Web Frontend)",
+    "is_valid_job": true,
+    "standardized_title": "Mobile Developer",
+    "id": 432
+  },
+  {
+    "original": "Mobile App Junior~Leader  (React Native +Firebase GG)",
+    "is_valid_job": true,
+    "standardized_title": "Mobile Developer",
+    "id": 433
+  },
+  {
+    "original": "Mobile Automation Engineer (QA)",
+    "is_valid_job": true,
+    "standardized_title": "Automation Test Engineer",
+    "id": 434
+  },
+  {
+    "original": "Mobile Engineer (iOS, React Native)",
+    "is_valid_job": true,
+    "standardized_title": "Mobile Developer",
+    "id": 435
+  },
+  {
+    "original": "Mobile Tech Lead",
+    "is_valid_job": true,
+    "standardized_title": "Technical Lead",
+    "id": 436
+  },
+  {
+    "original": "Senior Data Scientist (Machine Learning)",
+    "is_valid_job": true,
+    "standardized_title": "Data Scientist",
+    "id": 437
+  },
+  {
+    "original": ".NET Developer (Angular, C#, RESTful API, SQL)",
+    "is_valid_job": true,
+    "standardized_title": "Backend Developer",
+    "id": 438
+  },
+  {
+    "original": ".NET Developer (Middle, Senior, Principal)",
+    "is_valid_job": true,
+    "standardized_title": "Backend Developer",
+    "id": 439
+  },
+  {
+    "original": "Network - Hardware Engineer (Firewall, Window Server)",
+    "is_valid_job": true,
+    "standardized_title": "Network Engineer",
+    "id": 440
+  },
+  {
+    "original": "Network Security Engineer (Security, Firebase)",
+    "is_valid_job": true,
+    "standardized_title": "Security Engineer",
+    "id": 441
+  },
+  {
+    "original": "Network Security Engineer",
+    "is_valid_job": true,
+    "standardized_title": "Security Engineer",
+    "id": 442
+  },
+  {
+    "original": "Network & System Administrator",
+    "is_valid_job": true,
+    "standardized_title": "System Administrator",
+    "id": 443
+  },
+  {
+    "original": "Nhân Viên Kỹ Thuật (Systems Engineer)",
+    "is_valid_job": true,
+    "standardized_title": "System Administrator",
+    "id": 444
+  },
+  {
+    "original": "NV Triển Khai Phần Mềm MES (MySQL, Chinese)",
+    "is_valid_job": true,
+    "standardized_title": "ERP Consultant",
+    "id": 445
+  },
+  {
+    "original": "NX501 - Fullstack Developer (ReactJS, Python, NextJS)",
+    "is_valid_job": true,
+    "standardized_title": "Fullstack Developer",
+    "id": 446
+  },
+  {
+    "original": "Off-Shore IT COMTOR (Delivery Manager/ Korean)",
+    "is_valid_job": true,
+    "standardized_title": "IT Communicator",
+    "id": 447
+  },
+  {
+    "original": "Operation Engineer (Devops, Linux, AWS)",
+    "is_valid_job": true,
+    "standardized_title": "DevOps Engineer",
+    "id": 448
+  },
+  {
+    "original": "P. Khoa học dữ liệu - CVCC/Chuyên gia Khoa học dữ liệu",
+    "is_valid_job": true,
+    "standardized_title": "Data Scientist",
+    "id": 449
+  },
+  {
+    "original": "PHP Developer (Magento / ReactJS / JavaScript)",
+    "is_valid_job": true,
+    "standardized_title": "Backend Developer",
+    "id": 450
+  },
+  {
+    "original": "PHP Developer (Oracle, Laravel) ~$1600",
+    "is_valid_job": true,
+    "standardized_title": "Backend Developer",
+    "id": 451
+  },
+  {
+    "original": "PHP Developer (Yii2, Laravel)",
+    "is_valid_job": true,
+    "standardized_title": "Backend Developer",
+    "id": 452
+  },
+  {
+    "original": "Platform Software Engineer (Embedded)",
+    "is_valid_job": true,
+    "standardized_title": "Embedded Engineer",
+    "id": 453
+  },
+  {
+    "original": "PMO Manager / Project Management Office Manager",
+    "is_valid_job": true,
+    "standardized_title": "PMO Manager",
+    "id": 454
+  },
+  {
+    "original": "Database Administrator ( PostgreSQL / MySQL )",
+    "is_valid_job": true,
+    "standardized_title": "Database Administrator",
+    "id": 455
+  },
+  {
+    "original": "Principal Android Engineer (Kotlin)",
+    "is_valid_job": true,
+    "standardized_title": "Mobile Developer",
+    "id": 456
+  },
+  {
+    "original": "Principal Architect (AI)",
+    "is_valid_job": true,
+    "standardized_title": "AI Architect",
+    "id": 457
+  },
+  {
+    "original": "Principal Frontend Engineer (ReactJS/VueJS)",
+    "is_valid_job": true,
+    "standardized_title": "Frontend Developer",
+    "id": 458
+  },
+  {
+    "original": "Principal iOS Native Engineer (Swift)",
+    "is_valid_job": true,
+    "standardized_title": "Mobile Developer",
+    "id": 459
+  },
+  {
+    "original": "Process Quality Assurance (PQA, QA QC)",
+    "is_valid_job": true,
+    "standardized_title": "QA Engineer",
+    "id": 460
+  },
+  {
+    "original": "Product Analyst ( Business Analyst, Product Owner)",
+    "is_valid_job": true,
+    "standardized_title": "Business Analyst",
+    "id": 461
+  },
+  {
+    "original": "Product Backend Engineer (Java, NodeJS, NestJS)",
+    "is_valid_job": true,
+    "standardized_title": "Backend Developer",
+    "id": 462
+  },
+  {
+    "original": "Product Designer (AI, Figma)",
+    "is_valid_job": true,
+    "standardized_title": "UI/UX Designer",
+    "id": 463
+  },
+  {
+    "original": "Product Designer (UI/UX/AI)",
+    "is_valid_job": true,
+    "standardized_title": "UI/UX Designer",
+    "id": 464
+  },
+  {
+    "original": "Product Manager (AgriTech)",
+    "is_valid_job": true,
+    "standardized_title": "Product Manager",
+    "id": 465
+  },
+  {
+    "original": "Product Manager",
+    "is_valid_job": true,
+    "standardized_title": "Product Manager",
+    "id": 466
+  },
+  {
+    "original": "Product Operation (Data Analysis, Business Analysis)",
+    "is_valid_job": true,
+    "standardized_title": "Data Analyst",
+    "id": 467
+  },
+  {
+    "original": "Product Owner - 13T Lương - Upto 3000$",
+    "is_valid_job": true,
+    "standardized_title": "Product Owner",
+    "id": 468
+  },
+  {
+    "original": "Product Owner (Business Analyst, AI, Agile/Scrum)",
+    "is_valid_job": true,
+    "standardized_title": "Product Owner",
+    "id": 469
+  },
+  {
+    "original": "Product Owner/ Business Analyst (Proficient in English)",
+    "is_valid_job": true,
+    "standardized_title": "Product Owner",
+    "id": 470
+  },
+  {
+    "original": "Product Owner Expert (Mobile Banking, eKYC)",
+    "is_valid_job": true,
+    "standardized_title": "Product Owner",
+    "id": 471
+  },
+  {
+    "original": "Product Owner",
+    "is_valid_job": true,
+    "standardized_title": "Product Owner",
+    "id": 472
+  },
+  {
+    "original": "Product Tester (QA QC, Jira, Trello)",
+    "is_valid_job": true,
+    "standardized_title": "QA Engineer",
+    "id": 473
+  },
+  {
+    "original": "Project Leader/ BrSE (Japanese N2+)",
+    "is_valid_job": true,
+    "standardized_title": "Bridge System Engineer",
+    "id": 474
+  },
+  {
+    "original": "Project Leader – Japanese Communication",
+    "is_valid_job": true,
+    "standardized_title": "Bridge System Engineer",
+    "id": 475
+  },
+  {
+    "original": "Project Manager (Agile, Scrum Master, English)",
+    "is_valid_job": true,
+    "standardized_title": "Project Manager",
+    "id": 476
+  },
+  {
+    "original": "Project Manager (Banking/Securities Domain)",
+    "is_valid_job": true,
+    "standardized_title": "Project Manager",
+    "id": 477
+  },
+  {
+    "original": "Project Manager",
+    "is_valid_job": true,
+    "standardized_title": "Project Manager",
+    "id": 478
+  },
+  {
+    "original": "Project Manager (Java, Chinese, English, MySQL, SQL)",
+    "is_valid_job": true,
+    "standardized_title": "Project Manager",
+    "id": 479
+  },
+  {
+    "original": "Project Manager (Korean Topik 6, Agile)",
+    "is_valid_job": true,
+    "standardized_title": "Project Manager",
+    "id": 480
+  },
+  {
+    "original": "Project Manager",
+    "is_valid_job": true,
+    "standardized_title": "Project Manager",
+    "id": 481
+  },
+  {
+    "original": "Project Manager (Scrum Master, Java, Database)",
+    "is_valid_job": true,
+    "standardized_title": "Project Manager",
+    "id": 482
+  },
+  {
+    "original": "Project Manager (Super App Project) - DTO",
+    "is_valid_job": true,
+    "standardized_title": "Project Manager",
+    "id": 483
+  },
+  {
+    "original": "Project / Program Manager (Automotive)",
+    "is_valid_job": true,
+    "standardized_title": "Project Manager",
+    "id": 484
+  },
+  {
+    "original": "Python Developer",
+    "is_valid_job": true,
+    "standardized_title": "Backend Developer",
+    "id": 485
+  },
+  {
+    "original": "QA Automation Engineer (Python, Embedded)",
+    "is_valid_job": true,
+    "standardized_title": "Automation Test Engineer",
+    "id": 486
+  },
+  {
+    "original": "QA Automation Tester (Java, Javascript)",
+    "is_valid_job": true,
+    "standardized_title": "Automation Test Engineer",
+    "id": 487
+  },
+  {
+    "original": "QA Engineer (Automation/Manual Testing)~Up to $1500",
+    "is_valid_job": true,
+    "standardized_title": "QA Engineer",
+    "id": 488
+  },
+  {
+    "original": "Mid/Senior QA Engineer (2 Openings)",
+    "is_valid_job": true,
+    "standardized_title": "QA Engineer",
+    "id": 489
+  },
+  {
+    "original": "QA Engineer ( Python, AI, Automation Test, CI/CD, C++ )",
+    "is_valid_job": true,
+    "standardized_title": "QA Engineer",
+    "id": 490
+  },
+  {
+    "original": "QA Lead & QA Process Architect",
+    "is_valid_job": true,
+    "standardized_title": "QA Engineer",
+    "id": 491
+  },
+  {
+    "original": "QA Manager (Leadership, Tester, English)",
+    "is_valid_job": true,
+    "standardized_title": "QA Engineer",
+    "id": 492
+  },
+  {
+    "original": "QC Engineer (Tester/QA QC) for Web - Up to 1500$",
+    "is_valid_job": true,
+    "standardized_title": "QA Engineer",
+    "id": 493
+  },
+  {
+    "original": "QC Lead (Manual Tester & Automation- Web, Mobile & API)",
+    "is_valid_job": true,
+    "standardized_title": "QA Engineer",
+    "id": 494
+  },
+  {
+    "original": "QC Manager cum Product Manager (QA QC/Tester/AI)",
+    "is_valid_job": true,
+    "standardized_title": "QA Engineer",
+    "id": 495
+  },
+  {
+    "original": "Quality Assurance Engineer",
+    "is_valid_job": true,
+    "standardized_title": "QA Engineer",
+    "id": 496
+  },
+  {
+    "original": "Quality Assurance (QA/QC Mobile Games)",
+    "is_valid_job": true,
+    "standardized_title": "QA Engineer",
+    "id": 497
+  },
+  {
+    "original": "Quản trị hệ thống Cơ sở Dữ liệu (DBA - Database Admin)",
+    "is_valid_job": true,
+    "standardized_title": "Database Administrator",
+    "id": 498
+  },
+  {
+    "original": "React Native Dev (Up to 2,000 USD)",
+    "is_valid_job": true,
+    "standardized_title": "Mobile Developer",
+    "id": 499
+  },
+  {
+    "original": "React Native Developer (JavaScript)- Up to 1800$",
+    "is_valid_job": true,
+    "standardized_title": "Mobile Developer",
+    "id": 500
+  },
+  {
+    "original": "React Native Fresher (ENG)",
+    "is_valid_job": true,
+    "standardized_title": "Mobile Developer",
+    "id": 501
+  },
+  {
+    "original": "React Native Frontend Developer",
+    "is_valid_job": true,
+    "standardized_title": "Mobile Developer",
+    "id": 502
+  },
+  {
+    "original": "React Native Lead - Sign-on Bonus",
+    "is_valid_job": true,
+    "standardized_title": "Mobile Developer",
+    "id": 503
+  },
+  {
+    "original": "React Native Mobile Apps (iOS, Android) - SI - 3I132",
+    "is_valid_job": true,
+    "standardized_title": "Mobile Developer",
+    "id": 504
+  },
+  {
+    "original": "ReactJS Frontend Developer (JavaScript)",
+    "is_valid_job": true,
+    "standardized_title": "Frontend Developer",
+    "id": 505
+  },
+  {
+    "original": "Regular/Senior Embedded Software Engineer",
+    "is_valid_job": true,
+    "standardized_title": "Embedded Engineer",
+    "id": 506
+  },
+  {
+    "original": "[Remote/ Freelancer] Mid/Sr Backend Dev (.NET Core 8)",
+    "is_valid_job": true,
+    "standardized_title": "Backend Developer",
+    "id": 507
+  },
+  {
+    "original": "Remote - Operations Analyst (AWS CloudWatch)",
+    "is_valid_job": true,
+    "standardized_title": "IT Support",
+    "id": 508
+  },
+  {
+    "original": "Remote -Sr. React Native Engineer (ReactJS, Javascript)",
+    "is_valid_job": true,
+    "standardized_title": "Mobile Developer",
+    "id": 509
+  },
+  {
+    "original": "Ruby on Rails Developer (Middle/Senior)",
+    "is_valid_job": true,
+    "standardized_title": "Backend Developer",
+    "id": 510
+  },
+  {
+    "original": "SAP IT Project Lead (Test/ Data/ Cutover/ Cloud)",
+    "is_valid_job": true,
+    "standardized_title": "Project Manager",
+    "id": 511
+  },
+  {
+    "original": "Scrum Master",
+    "is_valid_job": true,
+    "standardized_title": "Scrum Master",
+    "id": 512
+  },
+  {
+    "original": "Security Engineer - Application Security",
+    "is_valid_job": true,
+    "standardized_title": "Security Engineer",
+    "id": 514
+  },
+  {
+    "original": "Security Engineer (Linux, Windows, DNS)",
+    "is_valid_job": true,
+    "standardized_title": "Security Engineer",
+    "id": 515
+  },
+  {
+    "original": "Security Network Engineer",
+    "is_valid_job": true,
+    "standardized_title": "Security Engineer",
+    "id": 516
+  },
+  {
+    "original": "Security Operations (SecOps/SOC)",
+    "is_valid_job": true,
+    "standardized_title": "Security Engineer",
+    "id": 517
+  },
+  {
+    "original": "Security Solution Architect (Networking, ZTNA)",
+    "is_valid_job": true,
+    "standardized_title": "Software Architect",
+    "id": 518
+  },
+  {
+    "original": "Senior Accelerator (IT Comtor, BrPM, BrSE background)",
+    "is_valid_job": true,
+    "standardized_title": "IT Communicator",
+    "id": 519
+  },
+  {
+    "original": "Senior AI Developer (Generative AI, Python, FastAPI)",
+    "is_valid_job": true,
+    "standardized_title": "AI Engineer",
+    "id": 520
+  },
+  {
+    "original": "Senior AI Developer (ML/Python/SQL)",
+    "is_valid_job": true,
+    "standardized_title": "AI Engineer",
+    "id": 521
+  },
+  {
+    "original": "Senior AI Engineer (AI ML / English)",
+    "is_valid_job": true,
+    "standardized_title": "AI Engineer",
+    "id": 522
+  },
+  {
+    "original": "Senior AI Engineer (AI Xây Dựng Hệ Thống, Python, LLM)",
+    "is_valid_job": true,
+    "standardized_title": "AI Engineer",
+    "id": 523
+  },
+  {
+    "original": "Senior AI Engineer (AIML/CV/OCR, Yolo, Python, Pytorch)",
+    "is_valid_job": true,
+    "standardized_title": "AI Engineer",
+    "id": 524
+  },
+  {
+    "original": "Senior AI Engineer (Computer Vision/NLP/LLM)",
+    "is_valid_job": true,
+    "standardized_title": "AI Engineer",
+    "id": 525
+  },
+  {
+    "original": "Senior AI Engineer",
+    "is_valid_job": true,
+    "standardized_title": "AI Engineer",
+    "id": 526
+  },
+  {
+    "original": "Senior AI Engineer (LLM/AI Agent)",
+    "is_valid_job": true,
+    "standardized_title": "AI Engineer",
+    "id": 527
+  },
+  {
+    "original": "Senior AI Engineer (Machine Learning, Python)",
+    "is_valid_job": true,
+    "standardized_title": "AI Engineer",
+    "id": 528
+  },
+  {
+    "original": "Senior AI Engineer",
+    "is_valid_job": true,
+    "standardized_title": "AI Engineer",
+    "id": 530
+  },
+  {
+    "original": "Senior AI Expert (Machine Learning, Deep Learning, LLM)",
+    "is_valid_job": true,
+    "standardized_title": "AI Engineer",
+    "id": 531
+  },
+  {
+    "original": "Senior AI Software Engineer (Ecommerce & Growth)",
+    "is_valid_job": true,
+    "standardized_title": "AI Engineer",
+    "id": 532
+  },
+  {
+    "original": "Senior AIOps/MLOps Engineer - Nexus",
+    "is_valid_job": true,
+    "standardized_title": "DevOps Engineer",
+    "id": 533
+  },
+  {
+    "original": "Senior Application Operations (Vận hành ứng dụng)",
+    "is_valid_job": true,
+    "standardized_title": "DevOps Engineer",
+    "id": 534
+  },
+  {
+    "original": "Senior Application/ Support Engineer (Java, AWS)",
+    "is_valid_job": true,
+    "standardized_title": "DevOps Engineer",
+    "id": 535
+  },
+  {
+    "original": "Senior Automation Test Engineer (Playwright, Java, AI)",
+    "is_valid_job": true,
+    "standardized_title": "Automation Test Engineer",
+    "id": 536
+  },
+  {
+    "original": "Senior Automation Tester",
+    "is_valid_job": true,
+    "standardized_title": "Automation Test Engineer",
+    "id": 537
+  },
+  {
+    "original": "Senior Automation Tester (Python/English)",
+    "is_valid_job": true,
+    "standardized_title": "Automation Test Engineer",
+    "id": 538
+  },
+  {
+    "original": "Senior Autosar Engineer - 6-Month Contract (HN/HCM)",
+    "is_valid_job": true,
+    "standardized_title": "Embedded Engineer",
+    "id": 539
+  },
+  {
+    "original": "Senior Back-End  Developer (.NET)",
+    "is_valid_job": true,
+    "standardized_title": "Backend Developer",
+    "id": 540
+  },
+  {
+    "original": "Senior Back-End Developer (Python, AI/ML, Integration)",
+    "is_valid_job": true,
+    "standardized_title": "Backend Developer",
+    "id": 541
+  },
+  {
+    "original": "Senior Backend Developer (Java, Hanoi)",
+    "is_valid_job": true,
+    "standardized_title": "Backend Developer",
+    "id": 542
+  },
+  {
+    "original": "Senior Backend Developer (Java, Linux, Algorithm)",
+    "is_valid_job": true,
+    "standardized_title": "Backend Developer",
+    "id": 543
+  },
+  {
+    "original": "Senior Backend Developer (PHP, Laravel, MySQL, Kafka)",
+    "is_valid_job": true,
+    "standardized_title": "Backend Developer",
+    "id": 544
+  },
+  {
+    "original": "Senior Backend Engineer (AI) - Up to 55k",
+    "is_valid_job": true,
+    "standardized_title": "Backend Developer",
+    "id": 545
+  },
+  {
+    "original": "Senior Backend Engineer (Go/Java) - Product Discovery",
+    "is_valid_job": true,
+    "standardized_title": "Backend Developer",
+    "id": 546
+  },
+  {
+    "original": "Senior Backend Engineer (Java/Kotlin/Spring)",
+    "is_valid_job": true,
+    "standardized_title": "Backend Developer",
+    "id": 547
+  },
+  {
+    "original": "Senior Backend Engineer (Java, Spring Boot, Backbase)",
+    "is_valid_job": true,
+    "standardized_title": "Backend Developer",
+    "id": 548
+  },
+  {
+    "original": "Senior Backend Engineer (Java/ Spring Boot)",
+    "is_valid_job": true,
+    "standardized_title": "Backend Developer",
+    "id": 549
+  },
+  {
+    "original": "Senior Backend Engineer (Java, Spring, English)",
+    "is_valid_job": true,
+    "standardized_title": "Backend Developer",
+    "id": 550
+  },
+  {
+    "original": "Senior Backend Engineer",
+    "is_valid_job": true,
+    "standardized_title": "Backend Developer",
+    "id": 551
+  },
+  {
+    "original": "Senior Backend Software Engineer (Java, Go, AI)",
+    "is_valid_job": true,
+    "standardized_title": "Backend Developer",
+    "id": 552
+  },
+  {
+    "original": "Senior Business Analyst (BA)",
+    "is_valid_job": true,
+    "standardized_title": "Business Analyst",
+    "id": 553
+  },
+  {
+    "original": "Senior Business Analyst (Customer Care Center)",
+    "is_valid_job": true,
+    "standardized_title": "Business Analyst",
+    "id": 554
+  },
+  {
+    "original": "Senior Business Analyst",
+    "is_valid_job": true,
+    "standardized_title": "Business Analyst",
+    "id": 555
+  },
+  {
+    "original": "Senior Business Analyst (Odoo, SAP, Oracle)",
+    "is_valid_job": true,
+    "standardized_title": "Business Analyst",
+    "id": 556
+  },
+  {
+    "original": "Senior Business Application Analyst (Digital Banking)",
+    "is_valid_job": true,
+    "standardized_title": "Business Analyst",
+    "id": 557
+  },
+  {
+    "original": "Senior Cloud Engineer",
+    "is_valid_job": true,
+    "standardized_title": "Cloud Engineer",
+    "id": 558
+  },
+  {
+    "original": "Senior Cloud Engineer (Microsoft Azure)",
+    "is_valid_job": true,
+    "standardized_title": "Cloud Engineer",
+    "id": 559
+  },
+  {
+    "original": "Senior Cloud Solutions Architect (AWS, GCP, Azure)",
+    "is_valid_job": true,
+    "standardized_title": "Software Architect",
+    "id": 560
+  },
+  {
+    "original": "Senior Consultant, Engineer - BEB",
+    "is_valid_job": true,
+    "standardized_title": "Software Architect",
+    "id": 561
+  },
+  {
+    "original": "Senior CRM Developer",
+    "is_valid_job": true,
+    "standardized_title": "Backend Developer",
+    "id": 562
+  },
+  {
+    "original": "Senior Data Engineer (Banking, Data Warehouse , AWS)",
+    "is_valid_job": true,
+    "standardized_title": "Data Engineer",
+    "id": 563
+  },
+  {
+    "original": "Senior Data Engineer",
+    "is_valid_job": true,
+    "standardized_title": "Data Engineer",
+    "id": 564
+  },
+  {
+    "original": "Senior Data Integration",
+    "is_valid_job": true,
+    "standardized_title": "Data Engineer",
+    "id": 566
+  },
+  {
+    "original": "Senior Data Mart Specialist",
+    "is_valid_job": true,
+    "standardized_title": "Data Engineer",
+    "id": 567
+  },
+  {
+    "original": "Senior Data Scientist (AI, GenAI, Machine Learning)",
+    "is_valid_job": true,
+    "standardized_title": "Data Scientist",
+    "id": 568
+  },
+  {
+    "original": "Senior Data Scientist (MLE, Python, SQL, AI)",
+    "is_valid_job": true,
+    "standardized_title": "Machine Learning Engineer",
+    "id": 569
+  },
+  {
+    "original": "Senior Data Scientist (Python, Tableau, PowerBI)",
+    "is_valid_job": true,
+    "standardized_title": "Data Scientist",
+    "id": 570
+  },
+  {
+    "original": "Senior Data Scientist",
+    "is_valid_job": true,
+    "standardized_title": "Data Scientist",
+    "id": 571
+  },
+  {
+    "original": "Senior Data Scientist (SQL, Python, Spark)",
+    "is_valid_job": true,
+    "standardized_title": "Data Scientist",
+    "id": 572
+  },
+  {
+    "original": "Senior Data Security - Data Division",
+    "is_valid_job": true,
+    "standardized_title": "Security Engineer",
+    "id": 573
+  },
+  {
+    "original": "Senior Database Administrator (Oracle/PostgreSQL)",
+    "is_valid_job": true,
+    "standardized_title": "Database Administrator",
+    "id": 574
+  },
+  {
+    "original": "Senior Manager (Japanese Speaking)",
+    "is_valid_job": true,
+    "standardized_title": "IT Delivery Manager",
+    "id": 575
+  },
+  {
+    "original": "Senior DevOps Engineer (Agile, AWS)",
+    "is_valid_job": true,
+    "standardized_title": "DevOps Engineer",
+    "id": 576
+  },
+  {
+    "original": "Senior DevOps Engineer (AWS, Linux, CI/CD)",
+    "is_valid_job": true,
+    "standardized_title": "DevOps Engineer",
+    "id": 577
+  },
+  {
+    "original": "Senior DevOps Engineer (Cloud, AWS)",
+    "is_valid_job": true,
+    "standardized_title": "DevOps Engineer",
+    "id": 578
+  },
+  {
+    "original": "Senior DevOps Engineer",
+    "is_valid_job": true,
+    "standardized_title": "DevOps Engineer",
+    "id": 579
+  },
+  {
+    "original": "Senior DevOps Engineer",
+    "is_valid_job": true,
+    "standardized_title": "DevOps Engineer",
+    "id": 580
+  },
+  {
+    "original": "Senior DevOps Engineer (SRE/Platform Engineer)",
+    "is_valid_job": true,
+    "standardized_title": "DevOps Engineer",
+    "id": 581
+  },
+  {
+    "original": "Senior DevOps Engineer (Strong AWS)",
+    "is_valid_job": true,
+    "standardized_title": "DevOps Engineer",
+    "id": 582
+  },
+  {
+    "original": "Senior Embedded C++ Developer",
+    "is_valid_job": true,
+    "standardized_title": "Embedded Engineer",
+    "id": 583
+  },
+  {
+    "original": "Senior Embedded Engineer (C / C++, Python, Linux, IoT)",
+    "is_valid_job": true,
+    "standardized_title": "Embedded Engineer",
+    "id": 584
+  },
+  {
+    "original": "Senior Embedded SW Engineer (Automotive SiL/ vECU)",
+    "is_valid_job": true,
+    "standardized_title": "Embedded Engineer",
+    "id": 585
+  },
+  {
+    "original": "Senior Engineer - Security Platform (SOC/Blue team)",
+    "is_valid_job": true,
+    "standardized_title": "Security Engineer",
+    "id": 586
+  },
+  {
+    "original": "Senior ERP Functional",
+    "is_valid_job": true,
+    "standardized_title": "ERP Consultant",
+    "id": 587
+  },
+  {
+    "original": "Senior/ Expert Data Tester",
+    "is_valid_job": true,
+    "standardized_title": "QA Engineer",
+    "id": 588
+  },
+  {
+    "original": "Senior Fintech / Payment Engineer (Java, Spring Boot)",
+    "is_valid_job": true,
+    "standardized_title": "Backend Developer",
+    "id": 589
+  },
+  {
+    "original": "Senior Front End Developer > 9Y Exp - 14th-month salary",
+    "is_valid_job": true,
+    "standardized_title": "Frontend Developer",
+    "id": 590
+  },
+  {
+    "original": "Senior Front-end Developer (Angular, ReactJS, VueJS)",
+    "is_valid_job": true,
+    "standardized_title": "Frontend Developer",
+    "id": 591
+  },
+  {
+    "original": "Senior Front-end Developer (NextJS/ReactJS)",
+    "is_valid_job": true,
+    "standardized_title": "Frontend Developer",
+    "id": 592
+  },
+  {
+    "original": "Senior Frontend Developer (Next.js, React.js)",
+    "is_valid_job": true,
+    "standardized_title": "Frontend Developer",
+    "id": 593
+  },
+  {
+    "original": "Senior Full-Stack Engineer (Java, ReactJS, JavaScript)",
+    "is_valid_job": true,
+    "standardized_title": "Fullstack Developer",
+    "id": 594
+  },
+  {
+    "original": "Senior Full-stack Python Developer",
+    "is_valid_job": true,
+    "standardized_title": "Fullstack Developer",
+    "id": 595
+  },
+  {
+    "original": "Senior Fullstack Developer (Java, Angular)",
+    "is_valid_job": true,
+    "standardized_title": "Fullstack Developer",
+    "id": 596
+  },
+  {
+    "original": "Senior Fullstack Developer",
+    "is_valid_job": true,
+    "standardized_title": "Fullstack Developer",
+    "id": 597
+  },
+  {
+    "original": "Senior Fullstack Developer (.NET/ Blazor/C#) - Up $3000",
+    "is_valid_job": true,
+    "standardized_title": "Fullstack Developer",
+    "id": 598
+  },
+  {
+    "original": "Senior Fullstack Developer / Team Leader",
+    "is_valid_job": true,
+    "standardized_title": "Fullstack Developer",
+    "id": 599
+  },
+  {
+    "original": "Senior Fullstack Engineer (Java base)",
+    "is_valid_job": true,
+    "standardized_title": "Fullstack Developer",
+    "id": 600
+  },
+  {
+    "original": "Sr Fullstack Engineer - DevX (TypeScript, Vue/React)",
+    "is_valid_job": true,
+    "standardized_title": "Fullstack Developer",
+    "id": 601
+  },
+  {
+    "original": "Senior Game Designer",
+    "is_valid_job": true,
+    "standardized_title": "Game Designer",
+    "id": 602
+  },
+  {
+    "original": "Senior Game Developer",
+    "is_valid_job": true,
+    "standardized_title": "Game Developer",
+    "id": 603
+  },
+  {
+    "original": "Senior Game Unity Developer",
+    "is_valid_job": true,
+    "standardized_title": "Game Developer",
+    "id": 604
+  },
+  {
+    "original": "Senior Golang Developer (Backend, AWS, MySQL)",
+    "is_valid_job": true,
+    "standardized_title": "Backend Developer",
+    "id": 605
+  },
+  {
+    "original": "Senior Infrastructure Engineer (Network, OS)",
+    "is_valid_job": true,
+    "standardized_title": "Infrastructure Engineer",
+    "id": 606
+  },
+  {
+    "original": "Senior Integration Engineer (Authorisation Policy)",
+    "is_valid_job": true,
+    "standardized_title": "Backend Developer",
+    "id": 607
+  },
+  {
+    "original": "Senior IT Infrastructure Engineer",
+    "is_valid_job": true,
+    "standardized_title": "System Administrator",
+    "id": 608
+  },
+  {
+    "original": "Senior IT PM (T24 and Banking Project)",
+    "is_valid_job": true,
+    "standardized_title": "Project Manager",
+    "id": 609
+  },
+  {
+    "original": "Senior IT Product Business Analyst (PO Assistant)",
+    "is_valid_job": true,
+    "standardized_title": "Business Analyst",
+    "id": 610
+  },
+  {
+    "original": "Senior IT Product & Service Manager (Agile/Scrum)",
+    "is_valid_job": true,
+    "standardized_title": "Product Manager",
+    "id": 611
+  },
+  {
+    "original": "Senior IT Risks Management Specialist",
+    "is_valid_job": true,
+    "standardized_title": "Security Engineer",
+    "id": 612
+  },
+  {
+    "original": "Senior IT & Security Engineer (strong scripting skill)",
+    "is_valid_job": true,
+    "standardized_title": "Security Engineer",
+    "id": 613
+  },
+  {
+    "original": "Senior IT System Administrator (MS 365 / Azure / Cloud)",
+    "is_valid_job": true,
+    "standardized_title": "System Administrator",
+    "id": 614
+  },
+  {
+    "original": "Senior Japanese Speaking Test Engineer (N2/N1/Tester)",
+    "is_valid_job": true,
+    "standardized_title": "QA Engineer",
+    "id": 615
+  },
+  {
+    "original": "Senior Java Backend Developer(K8S,OS,Kafka,Spring Boot)",
+    "is_valid_job": true,
+    "standardized_title": "Backend Developer",
+    "id": 616
+  },
+  {
+    "original": "Senior Java Developer (Fintech/Financial)",
+    "is_valid_job": true,
+    "standardized_title": "Backend Developer",
+    "id": 617
+  },
+  {
+    "original": "Senior Java Developer",
+    "is_valid_job": true,
+    "standardized_title": "Backend Developer",
+    "id": 618
+  },
+  {
+    "original": "Senior Java Developer (Spring Boot, MySQL, Docker)",
+    "is_valid_job": true,
+    "standardized_title": "Backend Developer",
+    "id": 619
+  },
+  {
+    "original": "Senior Java Developer (Spring/OOP)",
+    "is_valid_job": true,
+    "standardized_title": "Backend Developer",
+    "id": 620
+  },
+  {
+    "original": "Senior Java Developer/Squad Lead - SI - MSB - 3I131",
+    "is_valid_job": true,
+    "standardized_title": "Backend Developer",
+    "id": 621
+  },
+  {
+    "original": "Senior Java Developer",
+    "is_valid_job": true,
+    "standardized_title": "Backend Developer",
+    "id": 622
+  },
+  {
+    "original": "Senior Java Engineer (AWS, Spring, SOLID principles)",
+    "is_valid_job": true,
+    "standardized_title": "Backend Developer",
+    "id": 623
+  },
+  {
+    "original": "Senior Java Engineer (Spring Boot, Microservices, SQL)",
+    "is_valid_job": true,
+    "standardized_title": "Backend Developer",
+    "id": 624
+  },
+  {
+    "original": "Senior Java Engineer (Spring) From 5 Years",
+    "is_valid_job": true,
+    "standardized_title": "Backend Developer",
+    "id": 625
+  },
+  {
+    "original": "Senior Java Software Engineer (AWS, Acting Lead)",
+    "is_valid_job": true,
+    "standardized_title": "Backend Developer",
+    "id": 626
+  },
+  {
+    "original": "Senior/Junior AI Engineer (Python, GenAI)",
+    "is_valid_job": true,
+    "standardized_title": "AI Engineer",
+    "id": 627
+  },
+  {
+    "original": "Senior/Lead Fullstack Developer",
+    "is_valid_job": true,
+    "standardized_title": "Fullstack Developer",
+    "id": 628
+  },
+  {
+    "original": "Senior/Lead Fullstack Engineer (Reactjs base)",
+    "is_valid_job": true,
+    "standardized_title": "Fullstack Developer",
+    "id": 629
+  },
+  {
+    "original": "Senior/Lead QA Engineer (QE, QC, Automation)",
+    "is_valid_job": true,
+    "standardized_title": "Automation Test Engineer",
+    "id": 630
+  },
+  {
+    "original": "Senior/Leader IOS Developer (Swift) - Upto 60M",
+    "is_valid_job": true,
+    "standardized_title": "Mobile Developer",
+    "id": 631
+  },
+  {
+    "original": "Senior/Leader Javascript Developer (VueJS, NodeJS)",
+    "is_valid_job": true,
+    "standardized_title": "Fullstack Developer",
+    "id": 632
+  },
+  {
+    "original": "Senior Machine Learning Engineer (AI, C/C++, Python)",
+    "is_valid_job": true,
+    "standardized_title": "Machine Learning Engineer",
+    "id": 633
+  },
+  {
+    "original": "Senior Machine Learning Engineer (AI)",
+    "is_valid_job": true,
+    "standardized_title": "Machine Learning Engineer",
+    "id": 634
+  },
+  {
+    "original": "Senior Manager IT Infrastructure (Networking/Linux)",
+    "is_valid_job": true,
+    "standardized_title": "IT Infrastructure Engineer",
+    "id": 635
+  },
+  {
+    "original": "Senior Microsoft D365 F&O Developer - 24Hr Campaign",
+    "is_valid_job": true,
+    "standardized_title": "ERP Developer",
+    "id": 636
+  },
+  {
+    "original": "Senior Microsoft Intune Engineer",
+    "is_valid_job": true,
+    "standardized_title": "System Administrator",
+    "id": 637
+  },
+  {
+    "original": "Senior/Middle Backend Engineer (Java, Docker, Snyk)",
+    "is_valid_job": true,
+    "standardized_title": "Backend Developer",
+    "id": 638
+  },
+  {
+    "original": "Senior Mobile Application Engineer (Android/iOS/Swift)",
+    "is_valid_job": true,
+    "standardized_title": "Mobile Developer",
+    "id": 639
+  },
+  {
+    "original": "Senior Mobile Apps Android Engineer (Java, Kotlin)",
+    "is_valid_job": true,
+    "standardized_title": "Mobile Developer",
+    "id": 640
+  },
+  {
+    "original": "Senior Mobile Developer - Fintech",
+    "is_valid_job": true,
+    "standardized_title": "Mobile Developer",
+    "id": 641
+  },
+  {
+    "original": "Senior .Net Developer(C#, ASP.NET Core, Azure)",
+    "is_valid_job": true,
+    "standardized_title": "Backend Developer",
+    "id": 642
+  },
+  {
+    "original": "Senior .Net Developer",
+    "is_valid_job": true,
+    "standardized_title": "Backend Developer",
+    "id": 643
+  },
+  {
+    "original": "Senior .NET Engineer - 24Hr Campaign",
+    "is_valid_job": true,
+    "standardized_title": "Backend Developer",
+    "id": 644
+  },
+  {
+    "original": "Senior .NET Engineer (with Azure skills)",
+    "is_valid_job": true,
+    "standardized_title": "Backend Developer",
+    "id": 645
+  },
+  {
+    "original": "Senior OutSystems Developer/ Expert",
+    "is_valid_job": true,
+    "standardized_title": "Fullstack Developer",
+    "id": 646
+  },
+  {
+    "original": "Senior Performance Test Engineer",
+    "is_valid_job": true,
+    "standardized_title": "Automation Test Engineer",
+    "id": 647
+  },
+  {
+    "original": "Senior PHP Developer (Laravel) - Up to $2000",
+    "is_valid_job": true,
+    "standardized_title": "Backend Developer",
+    "id": 648
+  },
+  {
+    "original": "Senior/Principal Golang Engineer",
+    "is_valid_job": true,
+    "standardized_title": "Backend Developer",
+    "id": 649
+  },
+  {
+    "original": "Senior/Principal QA Hybrid (manual, automation)",
+    "is_valid_job": true,
+    "standardized_title": "QA Engineer",
+    "id": 650
+  },
+  {
+    "original": "Senior/Principal Ruby on Rails Developer (AWS, Backend)",
+    "is_valid_job": true,
+    "standardized_title": "Backend Developer",
+    "id": 651
+  },
+  {
+    "original": "Senior Product Delivery Executive",
+    "is_valid_job": true,
+    "standardized_title": "Business Analyst",
+    "id": 652
+  },
+  {
+    "original": "Senior Product Designer",
+    "is_valid_job": true,
+    "standardized_title": "UI/UX Designer",
+    "id": 653
+  },
+  {
+    "original": "Senior Product Owner/Business Analyst (AI Platform)",
+    "is_valid_job": true,
+    "standardized_title": "Product Owner",
+    "id": 654
+  },
+  {
+    "original": "Senior Product Owner",
+    "is_valid_job": true,
+    "standardized_title": "Product Owner",
+    "id": 655
+  },
+  {
+    "original": "Senior Project Manager (English)",
+    "is_valid_job": true,
+    "standardized_title": "Project Manager",
+    "id": 656
+  },
+  {
+    "original": "Senior Project Manager/Program Manager (RTE)",
+    "is_valid_job": true,
+    "standardized_title": "Project Manager",
+    "id": 657
+  },
+  {
+    "original": "Senior Project Manager",
+    "is_valid_job": true,
+    "standardized_title": "Project Manager",
+    "id": 658
+  },
+  {
+    "original": "Senior Python Developer",
+    "is_valid_job": true,
+    "standardized_title": "Backend Developer",
+    "id": 659
+  },
+  {
+    "original": "Senior QA Automation Engineer",
+    "is_valid_job": true,
+    "standardized_title": "Automation Test Engineer",
+    "id": 660
+  },
+  {
+    "original": "Senior QA Engineer (Tester, Japanese N2+)",
+    "is_valid_job": true,
+    "standardized_title": "QA Engineer",
+    "id": 662
+  },
+  {
+    "original": "Senior QA/QC Automation Tester (Playwright/Python)",
+    "is_valid_job": true,
+    "standardized_title": "Automation Test Engineer",
+    "id": 663
+  },
+  {
+    "original": "Senior QC Engineer",
+    "is_valid_job": true,
+    "standardized_title": "Automation Test Engineer",
+    "id": 664
+  },
+  {
+    "original": "Senior Quality Engineer (Kitchen & Living Projects)",
+    "is_valid_job": true,
+    "standardized_title": "QA Engineer",
+    "id": 665
+  },
+  {
+    "original": "Senior Quality Engineer",
+    "is_valid_job": true,
+    "standardized_title": "Automation Test Engineer",
+    "id": 666
+  },
+  {
+    "original": "Senior ReactJS Developer - Fluent English",
+    "is_valid_job": true,
+    "standardized_title": "Frontend Developer",
+    "id": 667
+  },
+  {
+    "original": "Senior Salesforce Developer",
+    "is_valid_job": true,
+    "standardized_title": "Salesforce Developer",
+    "id": 668
+  },
+  {
+    "original": "Senior Security Engineer",
+    "is_valid_job": true,
+    "standardized_title": "Security Engineer",
+    "id": 669
+  },
+  {
+    "original": "Senior Site Reliability Engineer",
+    "is_valid_job": true,
+    "standardized_title": "DevOps Engineer",
+    "id": 670
+  },
+  {
+    "original": "Senior Software Development Manager",
+    "is_valid_job": true,
+    "standardized_title": "Software Development Manager",
+    "id": 671
+  },
+  {
+    "original": "Senior Software Engineer (Android, Kotlin, Gen AI)",
+    "is_valid_job": true,
+    "standardized_title": "Mobile Developer",
+    "id": 673
+  },
+  {
+    "original": "Senior Software Engineer (Java/English)",
+    "is_valid_job": true,
+    "standardized_title": "Backend Developer",
+    "id": 674
+  },
+  {
+    "original": "Senior Software Engineer (Java/NextJS/AI Native)",
+    "is_valid_job": true,
+    "standardized_title": "Fullstack Developer",
+    "id": 675
+  },
+  {
+    "original": "Senior Software Engineer (Java, Spring boot, SQL)",
+    "is_valid_job": true,
+    "standardized_title": "Backend Developer",
+    "id": 676
+  },
+  {
+    "original": "Senior System Engineer (C, C++, Linux)",
+    "is_valid_job": true,
+    "standardized_title": "Embedded Engineer",
+    "id": 677
+  },
+  {
+    "original": "Senior System Engineer (Linux, Windows Server, Cloud)",
+    "is_valid_job": true,
+    "standardized_title": "System Administrator",
+    "id": 678
+  },
+  {
+    "original": "Senior Systems Administrator",
+    "is_valid_job": true,
+    "standardized_title": "System Administrator",
+    "id": 679
+  },
+  {
+    "original": "Senior Tester (Agile, SQL, API, Jira)",
+    "is_valid_job": true,
+    "standardized_title": "QA Engineer",
+    "id": 680
+  },
+  {
+    "original": "Senior UI Designer (UI UX, Figma)",
+    "is_valid_job": true,
+    "standardized_title": "UI/UX Designer",
+    "id": 681
+  },
+  {
+    "original": "Senior UI/UX Designer (Product mindset)",
+    "is_valid_job": true,
+    "standardized_title": "UI/UX Designer",
+    "id": 682
+  },
+  {
+    "original": "Senior Unity Developer",
+    "is_valid_job": true,
+    "standardized_title": "Game Developer",
+    "id": 683
+  },
+  {
+    "original": "Senior UX Engineer",
+    "is_valid_job": true,
+    "standardized_title": "Frontend Developer",
+    "id": 684
+  },
+  {
+    "original": "Server Infrastructure Engineer (Windows Servers, Linux)",
+    "is_valid_job": true,
+    "standardized_title": "System Administrator",
+    "id": 685
+  },
+  {
+    "original": "Shopify/WordPress Developer",
+    "is_valid_job": true,
+    "standardized_title": "Frontend Developer",
+    "id": 686
+  },
+  {
+    "original": "SOC Manager (Cloud Security, SIEM, Networking)",
+    "is_valid_job": true,
+    "standardized_title": "Security Engineer",
+    "id": 687
+  },
+  {
+    "original": "Software Developer (Python, PostgreSQL)",
+    "is_valid_job": true,
+    "standardized_title": "Backend Developer",
+    "id": 688
+  },
+  {
+    "original": "Software Engineer (C++, Embedded)",
+    "is_valid_job": true,
+    "standardized_title": "Embedded Engineer",
+    "id": 689
+  },
+  {
+    "original": "Software Engineer (Embedded C, MCU, RTOS)",
+    "is_valid_job": true,
+    "standardized_title": "Embedded Engineer",
+    "id": 690
+  },
+  {
+    "original": "Software Engineer - Integration Build (C, C++, Python)",
+    "is_valid_job": true,
+    "standardized_title": "DevOps Engineer",
+    "id": 691
+  },
+  {
+    "original": "Software Engineer/Java Backend (Bank, Payment)",
+    "is_valid_job": true,
+    "standardized_title": "Backend Developer",
+    "id": 692
+  },
+  {
+    "original": "Software Engineer (Mobile -  Flutter)",
+    "is_valid_job": true,
+    "standardized_title": "Mobile Developer",
+    "id": 693
+  },
+  {
+    "original": "Software Engineer (Node.js, AWS, Winforms)",
+    "is_valid_job": true,
+    "standardized_title": "Backend Developer",
+    "id": 694
+  },
+  {
+    "original": "Software Engineer (Python, TypeScript)",
+    "is_valid_job": true,
+    "standardized_title": "AI Engineer",
+    "id": 695
+  },
+  {
+    "original": "Software Engineer (RAG –Retrieval-Augmented Generation)",
+    "is_valid_job": true,
+    "standardized_title": "AI Engineer",
+    "id": 696
+  },
+  {
+    "original": "Software Engineer (Web Application)",
+    "is_valid_job": true,
+    "standardized_title": "Frontend Developer",
+    "id": 697
+  },
+  {
+    "original": "Software/Fullstack Engineer - Dev (PHP/Laravel/AI)",
+    "is_valid_job": true,
+    "standardized_title": "Fullstack Developer",
+    "id": 698
+  },
+  {
+    "original": "Software Project Manager",
+    "is_valid_job": true,
+    "standardized_title": "Project Manager",
+    "id": 699
+  },
+  {
+    "original": "Software QA Project Manager (Tester, Agile, Scrum)",
+    "is_valid_job": true,
+    "standardized_title": "Project Manager",
+    "id": 700
+  },
+  {
+    "original": "Software Test Engineer (All Levels)",
+    "is_valid_job": true,
+    "standardized_title": "QA Engineer",
+    "id": 701
+  },
+  {
+    "original": "Software Tester (QA QC, Selenium, SQL, Postman)",
+    "is_valid_job": true,
+    "standardized_title": "QA Engineer",
+    "id": 702
+  },
+  {
+    "original": "Solution Architect (AWS, Azure, GCP, ERP, TOGAF)",
+    "is_valid_job": true,
+    "standardized_title": "Software Architect",
+    "id": 703
+  },
+  {
+    "original": "Solution Architect (Java, Backbase)",
+    "is_valid_job": true,
+    "standardized_title": "Software Architect",
+    "id": 704
+  },
+  {
+    "original": "Solution Architect (Java/.NET/NodeJS/Python)",
+    "is_valid_job": true,
+    "standardized_title": "Software Architect",
+    "id": 705
+  },
+  {
+    "original": "Solution Architect - Salary Up to $5000",
+    "is_valid_job": true,
+    "standardized_title": "Software Architect",
+    "id": 706
+  },
+  {
+    "original": "Solution Architect/ Technical Lead (Java/Golang)",
+    "is_valid_job": true,
+    "standardized_title": "Technical Lead",
+    "id": 707
+  },
+  {
+    "original": "Solution Architecture (Java, AWS, BI) - KCN - 4M017",
+    "is_valid_job": true,
+    "standardized_title": "Software Architect",
+    "id": 708
+  },
+  {
+    "original": "Solution Designer",
+    "is_valid_job": true,
+    "standardized_title": "Software Architect",
+    "id": 709
+  },
+  {
+    "original": "Specialist, Senior Specialist Credit Risk Monitoring",
+    "is_valid_job": true,
+    "standardized_title": "Data Analyst",
+    "id": 710
+  },
+  {
+    "original": "Specialist, Senior Specialist Risk Modeling",
+    "is_valid_job": true,
+    "standardized_title": "Data Scientist",
+    "id": 711
+  },
+  {
+    "original": "Senior Embedded Software (C/C++, AUTOSAR, firmware)",
+    "is_valid_job": true,
+    "standardized_title": "Embedded Engineer",
+    "id": 712
+  },
+  {
+    "original": "Sr Technical Expert - Automotive HPC Embedded Platforms",
+    "is_valid_job": true,
+    "standardized_title": "Software Architect",
+    "id": 713
+  },
+  {
+    "original": "Storage System Engineer (Cloud, Redhat)",
+    "is_valid_job": true,
+    "standardized_title": "Cloud Engineer",
+    "id": 714
+  },
+  {
+    "original": "System Engineer (Windows, Linux, Cloud)",
+    "is_valid_job": true,
+    "standardized_title": "System Administrator",
+    "id": 715
+  },
+  {
+    "original": "System & Network Administrator",
+    "is_valid_job": true,
+    "standardized_title": "System Administrator",
+    "id": 716
+  },
+  {
+    "original": "Team Lead, Software Development (.NET)",
+    "is_valid_job": true,
+    "standardized_title": "Technical Lead",
+    "id": 717
+  },
+  {
+    "original": "Team Lead/Technical Lead – Java Fullstack (Spring Boot)",
+    "is_valid_job": true,
+    "standardized_title": "Technical Lead",
+    "id": 718
+  },
+  {
+    "original": "Technical Architect (Securities/Banking, Java, On-prem)",
+    "is_valid_job": true,
+    "standardized_title": "Software Architect",
+    "id": 719
+  },
+  {
+    "original": "Technical Lead – Data Engineering",
+    "is_valid_job": true,
+    "standardized_title": "Data Engineer",
+    "id": 720
+  },
+  {
+    "original": "Technical Lead (ERP & Inhouse Platform)",
+    "is_valid_job": true,
+    "standardized_title": "ERP Consultant",
+    "id": 721
+  },
+  {
+    "original": "Technical Lead (Golang) ~ Upto 3500$",
+    "is_valid_job": true,
+    "standardized_title": "Backend Developer",
+    "id": 722
+  },
+  {
+    "original": "Technical Lead (Kotlin/Java)",
+    "is_valid_job": true,
+    "standardized_title": "Backend Developer",
+    "id": 723
+  },
+  {
+    "original": "Technical Lead (Nodejs/Microservices/AWS)",
+    "is_valid_job": true,
+    "standardized_title": "Fullstack Developer",
+    "id": 724
+  },
+  {
+    "original": "Technical Lead (NodeJS, ReactJS, .NET)",
+    "is_valid_job": true,
+    "standardized_title": "Fullstack Developer",
+    "id": 725
+  },
+  {
+    "original": "Technical Leader (Angular, NestJS)",
+    "is_valid_job": true,
+    "standardized_title": "Fullstack Developer",
+    "id": 726
+  },
+  {
+    "original": "Technical Leader (Java Spring)",
+    "is_valid_job": true,
+    "standardized_title": "Backend Developer",
+    "id": 727
+  },
+  {
+    "original": "Technical Leader (Lending Platform, Java, Spring, AI)",
+    "is_valid_job": true,
+    "standardized_title": "Backend Developer",
+    "id": 728
+  },
+  {
+    "original": "Technical Product Marketing Manager",
+    "is_valid_job": true,
+    "standardized_title": "Technical Product Marketing Manager",
+    "id": 729
+  },
+  {
+    "original": "Technical Project Manager (English)",
+    "is_valid_job": true,
+    "standardized_title": "Project Manager",
+    "id": 730
+  },
+  {
+    "original": "Test Lead (Manual & Automation)",
+    "is_valid_job": true,
+    "standardized_title": "QA Engineer",
+    "id": 731
+  },
+  {
+    "original": "Tester (QA QC)",
+    "is_valid_job": true,
+    "standardized_title": "QA Engineer",
+    "id": 732
+  },
+  {
+    "original": "TMO - Cloud Engineering Senior Officer / Manager (AWS)",
+    "is_valid_job": true,
+    "standardized_title": "Cloud Engineer",
+    "id": 733
+  },
+  {
+    "original": "Trưởng phòng Công nghệ Thị giác Máy tính",
+    "is_valid_job": true,
+    "standardized_title": "AI Engineer",
+    "id": 734
+  },
+  {
+    "original": "Trưởng Phòng Giải Pháp Công Nghệ (CRM, ERP, AI)",
+    "is_valid_job": true,
+    "standardized_title": "Software Architect",
+    "id": 735
+  },
+  {
+    "original": "UI/UX DESIGNER (Blockchain/web3)",
+    "is_valid_job": true,
+    "standardized_title": "UI/UX Designer",
+    "id": 736
+  },
+  {
+    "original": "Unity Developer (C#)",
+    "is_valid_job": true,
+    "standardized_title": "Game Developer",
+    "id": 737
+  },
+  {
+    "original": "Unity Game Developer (C#)",
+    "is_valid_job": true,
+    "standardized_title": "Game Developer",
+    "id": 738
+  },
+  {
+    "original": "[Urgent] Full-Stack Developer (Java Spring Boot, React)",
+    "is_valid_job": true,
+    "standardized_title": "Fullstack Developer",
+    "id": 739
+  },
+  {
+    "original": "UX Specialist (Figma, Adobe XD, A/B Testing)",
+    "is_valid_job": true,
+    "standardized_title": "UI/UX Designer",
+    "id": 740
+  },
+  {
+    "original": "VIETTEL SOLUTIONS - Business analyst",
+    "is_valid_job": true,
+    "standardized_title": "Business Analyst",
+    "id": 741
+  },
+  {
+    "original": "VIETTEL SOLUTIONS - Project Manager",
+    "is_valid_job": true,
+    "standardized_title": "Project Manager",
+    "id": 742
+  },
+  {
+    "original": "VIETTEL SOLUTIONS - Solutions Architect",
+    "is_valid_job": true,
+    "standardized_title": "Software Architect",
+    "id": 743
+  },
+  {
+    "original": "VIETTEL SOLUTIONS - Tech lead",
+    "is_valid_job": true,
+    "standardized_title": "Technical Lead",
+    "id": 744
+  },
+  {
+    "original": "Website Developer Manager (PHP Technical Lead, English)",
+    "is_valid_job": true,
+    "standardized_title": "Technical Lead",
+    "id": 745
+  },
+  {
+    "original": "Windows Application Developer (Qt, C++, OOP)~$2000",
+    "is_valid_job": true,
+    "standardized_title": "Desktop Application Developer",
+    "id": 746
+  },
+  {
+    "original": "Wordpress Developer (PHP, HTML, CSS)",
+    "is_valid_job": true,
+    "standardized_title": "Fullstack Developer",
+    "id": 748
+  }
+]
