@@ -77,9 +77,15 @@ cho toàn bộ skill bên dưới — dù không có từ khóa inline:
     → Những từ này trigger preferred_skill BẤT KỂ nằm trong mục nào.
 
 ═══════════════════════════════════════════════════════
-SKILL TAXONOMY — 10 CATEGORIES + "Other"
+SKILL TAXONOMY — 14 CATEGORIES + "Other"
 ═══════════════════════════════════════════════════════
-Chỉ dùng đúng 1 trong các giá trị sau cho trường "category":
+⚠ DANH SÁCH ĐÓNG — chỉ dùng CHÍNH XÁC các giá trị sau:
+    "Programming Language" | "Framework / Library" | "Database" |
+    "Infrastructure & DevOps" | "AI/ML/Data" | "Data Engineering & Analytics" |
+    "Engineering Concepts & Methodologies" | "Testing & QA" |
+    "IT Support & Hardware" | "Embedded & Firmware" |
+    "Tool & Platform" | "Soft Skill" | "Domain Knowledge" |
+    "Design & UX" | "Other"
 
   "Programming Language"
       Python, Java, PHP, JavaScript, TypeScript, C#, C++, Swift, Kotlin, Go, Rust
@@ -328,6 +334,36 @@ Chỉ dùng đúng 1 trong các giá trị sau cho trường "category":
         RTOS, Pre-emptive scheduling, Round robin, Cooperative scheduling,
         OS Scheduler, V-model, SDLC, Waterfall
         → Mỗi scheduling model là 1 entry riêng
+  "Design & UX"
+      UX Process      : User Research, User Testing, Usability Testing,
+                        Information Architecture, UX Strategy, User Journey,
+                        Design Thinking, Heuristic Evaluation
+      Deliverables    : Wireframes, Prototypes, Mockups, User Flows,
+                        Sitemap, Storyboard, Design System
+      UI Design       : UI Design, Visual Design, Interaction Design,
+                        Typography, Color Theory, Layout, Iconography
+      Web Standards   : Responsive Design, Accessibility, WCAG,
+                        Cross-browser Compatibility
+      Design Skills   : Portfolio, Brand Identity, Motion Design
+      Biến thể VN     : "thiết kế giao diện", "nghiên cứu người dùng",
+                        "tạo wireframe", "thiết kế trải nghiệm người dùng",
+                        "thiết kế responsive"
+
+      BOUNDARY RULES:
+        • Figma / Sketch / Adobe XD / Photoshop / Illustrator
+            → "Tool & Platform" (là design tools, không phải UX skill)
+        • UX research / user testing / usability testing
+            → "Design & UX" (không phải "Testing & QA")
+            (Testing & QA dành cho software/code testing,
+            không phải user behavior research)
+        • Responsive design / Accessibility / WCAG
+            → "Design & UX" (không phải "Engineering Concepts & Methodologies")
+        • Wireframes / Prototypes / User flows
+            → "Design & UX" (là design deliverables, không phải
+            "Engineering Concepts & Methodologies")
+        • Frontend development (React, Vue, HTML/CSS)
+            → "Framework / Library" / "Programming Language"
+            (là implementation skill, không phải design skill)
 
 ═══════════════════════════════════════════════════════
 QUY TẮC VỀ skill_name — GIỮ RAW, KHÔNG NORMALIZE
@@ -452,12 +488,36 @@ EC-06 [Soft skill lẫn technical skill — ÁP DỤNG EC-10 TRƯỚC, sau đó 
       "tư duy logic, kỹ năng giao tiếp" → 2 entries
       "giao tiếp tốt, làm việc nhóm" → 2 entries (communication ≠ teamwork)
 
-EC-07 [skill_name — giữ raw, KHÔNG normalize]
-  INPUT : "các mô hình học máy", "mô hình học máy"
-  OUTPUT: skill_name = "mô hình học máy" (GIỮ NGUYÊN văn bản gốc)
-          source_text = "Có kinh nghiệm build các mô hình học máy"
-  LÝ DO : Canonical mapping là bước post-processing riêng. Annotator giữ raw
-          để đảm bảo audit và IAA chính xác (không bị nhiễu bởi normalize ngầm).
+EC-07 [skill_name — ƯU TIÊN CANONICAL SHORT FORM, tránh hallucination]
+  Mục tiêu kép:
+    (1) Tránh hallucination — chỉ extract skill có trong văn bản
+    (2) Ưu tiên skill_name ngắn gọn, canonical hóa được, dễ aggregate
+
+  NGUYÊN TẮC:
+    • Nếu skill có canonical form ngắn gọn rõ ràng trong văn bản hoặc
+      derive được trực tiếp từ văn bản → dùng canonical form.
+    • Strip mọi prefix/descriptor không phải tên skill thực sự.
+    • KHÔNG bịa skill không có trong văn bản (EC-08 vẫn áp dụng).
+
+  ✓ JD viết "các mô hình học máy"
+      → skill_name = "mô hình học máy" (strip "các")
+  ✓ JD viết "có khả năng debug và tối ưu hiệu năng ứng dụng"
+      → skill_name = "Performance Optimization" (canonical EN)
+      → KHÔNG dùng "debug và tối ưu hiệu năng" (dạng descriptor dài)
+  ✓ JD viết "ReactJS"
+      → skill_name = "ReactJS" (đã canonical, giữ nguyên)
+  ✓ JD viết "lập trình hướng đối tượng"
+      → skill_name = "OOP" (acronym chuẩn — xem ngoại lệ acronym)
+  ✓ JD viết "Có kinh nghiệm sử dụng Python"
+      → skill_name = "Python" (strip "Có kinh nghiệm sử dụng")
+  ✓ JD viết "Strong SQL skills including complex queries"
+      → skill_name = "SQL" (strip "Strong ... skills including ...")
+
+  PHÂN BIỆT canonical hóa hợp lệ vs hallucination:
+    HỢP LỆ: "debug và tối ưu hiệu năng" → "Performance Optimization"
+            (cùng concept, chỉ đổi sang canonical name có trong taxonomy)
+    HALLUCINATION: JD chỉ nói "phát triển ứng dụng web" → KHÔNG được suy
+                   ra "REST API", "HTTP" (không có trong văn bản)
 
 EC-08 [Skill ngầm định từ job title — KHÔNG suy diễn]
   INPUT : JD Backend Developer nhưng chỉ nói "phát triển ứng dụng web"
