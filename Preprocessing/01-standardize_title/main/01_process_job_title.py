@@ -43,11 +43,13 @@ BATCH_SIZE = 10
 def load_jobs(csv_path: Path) -> list[dict]:
     jobs = []
     with open(csv_path, encoding="utf-8-sig", newline="") as f:
-        for idx, row in enumerate(csv.DictReader(f)):
+        for row in csv.DictReader(f):
             t = row["job_title"].strip()
+            if not t:
+                continue
             d = row.get("job_description", "").strip()
-            if t:
-                jobs.append({"id": idx, "title": t, "description": d})
+            url = row.get("url", "").strip()
+            jobs.append({"id": url, "title": t, "description": d})
     return jobs
 
 def parse_response(raw: str) -> list[dict]:
@@ -69,14 +71,25 @@ def load_checkpoint(output_file: Path) -> dict:
             pass
     return {}
 
-def process_jobs(client: genai.Client, system_prompt: str, jobs: list[dict], output_file: Path):
+def process_jobs(
+    client: genai.Client,
+    system_prompt: str,
+    jobs: list[dict],
+    output_file: Path,
+    force_ids: set | None = None,
+):
     total = len(jobs)
     OUTPUT_DIR.mkdir(parents=True, exist_ok=True)
-    
+
     results_dict = load_checkpoint(output_file)
     done_ids = set(results_dict.keys())
+
+    # force_ids: bắt buộc re-process dù đã có trong checkpoint
+    if force_ids:
+        done_ids -= force_ids
+
     remaining = [j for j in jobs if j["id"] not in done_ids]
-    
+
     if done_ids:
         print(f"Resumed: {len(done_ids)} already done, {len(remaining)} remaining.\n")
         
@@ -136,23 +149,38 @@ def process_jobs(client: genai.Client, system_prompt: str, jobs: list[dict], out
 
 if __name__ == "__main__":
     import argparse
+    import pandas as pd
+
     parser = argparse.ArgumentParser(description="LLM job title standardization")
     parser.add_argument(
         "--dataset", choices=["topcv", "itviec"], default="topcv",
-        help="Dataset to process (default: topcv). "
-             "Note: if resuming TopCV from old checkpoint, rename "
-             "output/job_title_full.json → output/topcv_job_title_full.json first."
+        help="Dataset to process (default: topcv).",
+    )
+    parser.add_argument(
+        "--recrawled-only", action="store_true",
+        help="Chỉ xử lý các row có brand_recrawled=True trong raw CSV.",
     )
     args = parser.parse_args()
 
-    CSV_FILE = OUTPUT_DIR / f"00-{args.dataset}_filtered.csv"
+    CSV_FILE    = OUTPUT_DIR / f"00-{args.dataset}_filtered.csv"
     OUTPUT_FILE = OUTPUT_DIR / f"{args.dataset}_job_title_full.json"
 
     jobs = load_jobs(CSV_FILE)
+
+    force_ids = None
+    if args.recrawled_only:
+        RAW_CSV = REPO_ROOT / "data" / "raw" / f"00-{args.dataset}_raw.csv"
+        raw_df  = pd.read_csv(RAW_CSV, encoding="utf-8-sig")
+        recrawled_urls = set(
+            raw_df.loc[raw_df["brand_recrawled"] == True, "url"].dropna()
+        )
+        jobs = [j for j in jobs if j["id"] in recrawled_urls]
+        force_ids = recrawled_urls
+        print(f"Recrawled-only: {len(recrawled_urls)} URLs → {len(jobs)} jobs trong filtered CSV\n")
+
     system_prompt = PROMPT_FILE.read_text(encoding="utf-8")
-
     client = genai.Client(vertexai=True, project=PROJECT, location=LOCATION)
-    print(f"Dataset: {args.dataset} | Total jobs: {len(jobs)}, batch size: {BATCH_SIZE}\n")
+    print(f"Dataset: {args.dataset} | Jobs to process: {len(jobs)}, batch size: {BATCH_SIZE}\n")
 
-    results = process_jobs(client, system_prompt, jobs, OUTPUT_FILE)
+    results = process_jobs(client, system_prompt, jobs, OUTPUT_FILE, force_ids=force_ids)
     print(f"\nDone. {len(results)} records → {OUTPUT_FILE}")

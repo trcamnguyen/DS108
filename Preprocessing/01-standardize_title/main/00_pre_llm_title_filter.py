@@ -658,6 +658,42 @@ def run_source(dataset: str, root: Path, output_dir: Path) -> None:
     print(f"    {stats_path}")
 
 
+def patch_filtered_from_recrawled(dataset: str, root: Path, output_dir: Path) -> None:
+    """
+    Cập nhật 00-{dataset}_filtered.csv với dữ liệu mới từ brand_recrawled rows
+    trong 00-{dataset}_raw.csv. Chỉ update các row có URL khớp, không thay đổi
+    thứ tự, không đụng row khác.
+    """
+    raw_path      = root / SOURCE_CONFIG[dataset]["input"]
+    filtered_path = output_dir / SOURCE_CONFIG[dataset]["keep"]
+
+    raw_df      = pd.read_csv(raw_path, encoding="utf-8-sig")
+    filtered_df = pd.read_csv(filtered_path, encoding="utf-8-sig")
+
+    recrawled = raw_df[raw_df["brand_recrawled"] == True]
+    if recrawled.empty:
+        print(f"[{dataset.upper()}] Không có brand_recrawled rows trong raw CSV.")
+        return
+
+    # Các cột cần copy (tất cả trừ url là key và brand_recrawled không có trong filtered)
+    update_cols = [c for c in filtered_df.columns if c != "url"]
+
+    # Build lookup url → row từ raw
+    recrawled_map = recrawled.set_index("url")[update_cols].to_dict(orient="index")
+
+    patched = 0
+    for i, row in filtered_df.iterrows():
+        url = row["url"]
+        if url in recrawled_map:
+            for col, val in recrawled_map[url].items():
+                if col in filtered_df.columns:
+                    filtered_df.at[i, col] = val
+            patched += 1
+
+    filtered_df.to_csv(filtered_path, index=False, encoding="utf-8-sig")
+    print(f"[{dataset.upper()}] Patched {patched}/{len(recrawled)} recrawled rows → {filtered_path}")
+
+
 if __name__ == "__main__":
     parser = argparse.ArgumentParser(
         description="Pre-LLM job title filter (TopCV / ITViec) - tách 2 logic"
@@ -668,6 +704,12 @@ if __name__ == "__main__":
         default="all",
         help="Dataset to filter (default: all)",
     )
+    parser.add_argument(
+        "--patch-recrawled",
+        action="store_true",
+        help="Thay vì chạy lại toàn bộ filter, chỉ cập nhật filtered CSV "
+             "với dữ liệu mới từ brand_recrawled rows trong raw CSV.",
+    )
     args = parser.parse_args()
 
     ROOT       = Path(__file__).resolve().parents[3]   # DS108/
@@ -675,5 +717,10 @@ if __name__ == "__main__":
     OUTPUT_DIR.mkdir(parents=True, exist_ok=True)
 
     datasets = ["topcv", "itviec"] if args.dataset == "all" else [args.dataset]
-    for ds in datasets:
-        run_source(ds, ROOT, OUTPUT_DIR)
+
+    if args.patch_recrawled:
+        for ds in datasets:
+            patch_filtered_from_recrawled(ds, ROOT, OUTPUT_DIR)
+    else:
+        for ds in datasets:
+            run_source(ds, ROOT, OUTPUT_DIR)

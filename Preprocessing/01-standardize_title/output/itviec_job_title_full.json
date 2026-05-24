@@ -210,6 +210,12 @@
     "id": 34
   },
   {
+    "original": "AI Engineer",
+    "is_valid_job": true,
+    "standardized_title": "AI Engineer",
+    "id": 35
+  },
+  {
     "original": "AI Expert (Machine Learning, Deep Learning, LLM)",
     "is_valid_job": true,
     "standardized_title": "AI Engineer",
@@ -522,6 +528,12 @@
     "id": 87
   },
   {
+    "original": "Business Analyst (BA)",
+    "is_valid_job": true,
+    "standardized_title": "Business Analyst",
+    "id": 88
+  },
+  {
     "original": "Business Analyst (Bank, Finance)",
     "is_valid_job": true,
     "standardized_title": "Business Analyst",
@@ -564,10 +576,22 @@
     "id": 95
   },
   {
+    "original": "Business Analyst",
+    "is_valid_job": true,
+    "standardized_title": "Business Analyst",
+    "id": 96
+  },
+  {
     "original": "Business Analyst Leader",
     "is_valid_job": true,
     "standardized_title": "Business Analyst",
     "id": 97
+  },
+  {
+    "original": "Business Analyst",
+    "is_valid_job": true,
+    "standardized_title": "Business Analyst",
+    "id": 98
   },
   {
     "original": "Business Analyst (Mockups, ERP, SQL)",
@@ -1146,6 +1170,12 @@
     "id": 194
   },
   {
+    "original": "DevOps Engineer",
+    "is_valid_job": true,
+    "standardized_title": "DevOps Engineer",
+    "id": 195
+  },
+  {
     "original": "DevOps Engineer (Python, AWS, Linux)",
     "is_valid_job": true,
     "standardized_title": "DevOps Engineer",
@@ -1156,6 +1186,12 @@
     "is_valid_job": true,
     "standardized_title": "DevOps Engineer",
     "id": 197
+  },
+  {
+    "original": "DevOps Engineer",
+    "is_valid_job": true,
+    "standardized_title": "DevOps Engineer",
+    "id": 198
   },
   {
     "original": "DevOps Engineering Manager",
@@ -1240,6 +1276,18 @@
     "is_valid_job": true,
     "standardized_title": "Engineering Manager",
     "id": 212
+  },
+  {
+    "original": "Engineering Manager",
+    "is_valid_job": true,
+    "standardized_title": "Engineering Manager",
+    "id": 213
+  },
+  {
+    "original": "Engineering Manager",
+    "is_valid_job": true,
+    "standardized_title": "Engineering Manager",
+    "id": 214
   },
   {
     "original": "Engineering Team Lead (AI-native, Java, English)",
@@ -3030,6 +3078,12 @@
     "id": 512
   },
   {
+    "original": "Scrum Master",
+    "is_valid_job": true,
+    "standardized_title": "Scrum Master",
+    "id": 513
+  },
+  {
     "original": "Security Engineer - Application Security",
     "is_valid_job": true,
     "standardized_title": "Security Engineer",
@@ -3118,6 +3172,12 @@
     "is_valid_job": true,
     "standardized_title": "AI Engineer",
     "id": 528
+  },
+  {
+    "original": "Senior AI Engineer",
+    "is_valid_job": true,
+    "standardized_title": "AI Engineer",
+    "id": 529
   },
   {
     "original": "Senior AI Engineer",
@@ -3328,6 +3388,12 @@
     "is_valid_job": true,
     "standardized_title": "Data Engineer",
     "id": 564
+  },
+  {
+    "original": "Senior Data Engineer",
+    "is_valid_job": true,
+    "standardized_title": "Data Engineer",
+    "id": 565
   },
   {
     "original": "Senior Data Integration",
@@ -3900,6 +3966,12 @@
     "id": 660
   },
   {
+    "original": "Senior QA Automation Engineer",
+    "is_valid_job": true,
+    "standardized_title": "Automation Test Engineer",
+    "id": 661
+  },
+  {
     "original": "Senior QA Engineer (Tester, Japanese N2+)",
     "is_valid_job": true,
     "standardized_title": "QA Engineer",
@@ -3958,6 +4030,12 @@
     "is_valid_job": true,
     "standardized_title": "Software Development Manager",
     "id": 671
+  },
+  {
+    "original": "Senior Software Development Manager",
+    "is_valid_job": true,
+    "standardized_title": "Project Manager",
+    "id": 672
   },
   {
     "original": "Senior Software Engineer (Android, Kotlin, Gen AI)",
@@ -4402,6 +4480,12 @@
     "is_valid_job": true,
     "standardized_title": "Desktop Application Developer",
     "id": 746
+  },
+  {
+    "original": "Windows Application Developer (Qt, C++, OOP)~$2000",
+    "is_valid_job": true,
+    "standardized_title": "Windows Application Developer",
+    "id": 747
   },
   {
     "original": "Wordpress Developer (PHP, HTML, CSS)",

@@ -1,13 +1,14 @@
 ============================================================
-  JOB TITLE FILTER — REMOVED TITLES REPORT
+  JOB TITLE FILTER — REMOVED TITLES REPORT [TOPCV]
+  Logic: STRICT (logic gốc)
 ============================================================
-  Tổng bị loại (DROP + REVIEW) : 1,456
-    -> DROP   : 1,456
-    -> REVIEW : 0
+  Tổng bị loại (DROP + REVIEW) : 1,663
+    -> DROP   : 1,461
+    -> REVIEW : 202
 
   Breakdown theo nhóm (DROP):
-    graphic_visual                911  (62.6%)
-    marketing_sales               443  (30.4%)
+    graphic_visual                913  (62.5%)
+    marketing_sales               446  (30.5%)
     content_media                  52  (3.6%)
     industrial_engineering         48  (3.3%)
     non_tech_roles                  2  (0.1%)
@@ -16,7 +17,7 @@
   DROPPED TITLES (theo nhóm)
 ============================================================
 
-[graphic_visual]  (911 titles)
+[graphic_visual]  (913 titles)
   - (JP 232) Kỹ Sư PLC Thiết Kế Điều Khiển Điện Cho Máy Tiếp Nhiên Liệu Tàu, Cảng Đi Nhật Miễn Phí Làm Việc Tại Tokyo
   - 2D Designer
   - 2D Designer - Clinic
@@ -41,6 +42,7 @@
   - Chuyên Viên Graphic Designer Giáo Dục
   - Chuyên Viên Graphic Designer Mảng Thẩm Mỹ
   - Chuyên Viên Media (Video & Thiết Kế)
+  - Chuyên Viên Phân Tích Và Thiết Kế Mô Hình Dữ Liệu - Data Analyst - Khối Dữ Liệu (HO26.76)
   - Chuyên Viên Thiết Kế
   - Chuyên Viên Thiết Kế & Chế Bản Bao Bì ( Hà Nội ) - Lương Từ 12-15 Triệu/Tháng
   - Chuyên Viên Thiết Kế ( Designer )
@@ -492,7 +494,7 @@
   - Video Editor Youtube (Yêu Cầu Biết Làm Animation )
   - [HN] Senior Graphic Designer
 
-[marketing_sales]  (443 titles)
+[marketing_sales]  (446 titles)
   - Account Executive
   - Account Executive / Sales B2B / Martech Solutions ( Tư Vấn Trải Nghiệm Khách Hàng Hoa Hồng Lên Tới 30% Deal)
   - Account Manager
@@ -633,6 +635,7 @@
   - Nhân Viên Kinh Doanh / Tư Vấn / Telesales (Chỉ Tuyển Nam, Thu Nhập Hấp Dẫn Tại Hà Nội - Đi Làm Ngay )
   - Nhân Viên Kinh Doanh / Tư Vấn Bán Hàng / Sale Marketing - Lương Up To 30 Triệu - Không Yêu Cầu KN - Làm Việc Tại Gò Vấp
   - Nhân Viên Kinh Doanh / Tư Vấn Bán Hàng / Sales Thu Nhập Từ 10 - 50 Triệu + Hoa Hồng Không Giới Hạn
+  - Nhân Viên Kinh Doanh / Tư Vấn Chuyển Đổi Số Doanh Nghiệp (Thu Nhập Hấp Dẫn - Lương Cứng Không Phụ Thuộc KPIs)
   - Nhân Viên Kinh Doanh / Tư Vấn Phần Mềm (B2B) - Thu Nhập 15 - 30 Triệu - Kinh Nghiệm Từ 6 Tháng
   - Nhân Viên Kinh Doanh / Tư Vấn Phần Mềm ERP - Hồ Chí Minh / Hà Nội
   - Nhân Viên Kinh Doanh / Tư Vấn Phần Mềm Kế Toán (Thu Nhập 10 - 15 Triệu) - Hồ Chí Minh
@@ -813,6 +816,7 @@
   - Thực Tập Sinh Phát Triển Thị Trường Nhật Bản - Business Development Intern - Hà Nội - Có Hỗ Trợ Lương 3 - 5 Triệu
   - Thực Tập Sinh Phát Triển Website Giỏi SEO
   - Thực Tập Sinh Sales IT ( Tiếng Nhật )
+  - Thực Tập Sinh Telesales Marketing (Lương Cứng Từ 3 Triệu)
   - Trưởng Nhóm Kinh Doanh
   - Trưởng Nhóm Kinh Doanh / Leader Sale Sản Phẩm Phần Mềm
   - Trưởng Nhóm Kinh Doanh Mảng IT Outsourcing (Thu Nhập 25 - 40 Triệu) - Nghỉ Thứ 7, Chủ Nhật
@@ -934,4 +938,205 @@
 ============================================================
   REVIEW TITLES (title rỗng / cần kiểm tra)
 ============================================================
-  (không có title nào cần REVIEW)
+  - nan
+  - nan
+  - nan
+  - nan
+  - nan
+  - nan
+  - nan
+  - nan
+  - nan
+  - nan
+  - nan
+  - nan
+  - nan
+  - nan
+  - nan
+  - nan
+  - nan
+  - nan
+  - nan
+  - nan
+  - nan
+  - nan
+  - nan
+  - nan
+  - nan
+  - nan
+  - nan
+  - nan
+  - nan
+  - nan
+  - nan
+  - nan
+  - nan
+  - nan
+  - nan
+  - nan
+  - nan
+  - nan
+  - nan
+  - nan
+  - nan
+  - nan
+  - nan
+  - nan
+  - nan
+  - nan
+  - nan
+  - nan
+  - nan
+  - nan
+  - nan
+  - nan
+  - nan
+  - nan
+  - nan
+  - nan
+  - nan
+  - nan
+  - nan
+  - nan
+  - nan
+  - nan
+  - nan
+  - nan
+  - nan
+  - nan
+  - nan
+  - nan
+  - nan
+  - nan
+  - nan
+  - nan
+  - nan
+  - nan
+  - nan
+  - nan
+  - nan
+  - nan
+  - nan
+  - nan
+  - nan
+  - nan
+  - nan
+  - nan
+  - nan
+  - nan
+  - nan
+  - nan
+  - nan
+  - nan
+  - nan
+  - nan
+  - nan
+  - nan
+  - nan
+  - nan
+  - nan
+  - nan
+  - nan
+  - nan
+  - nan
+  - nan
+  - nan
+  - nan
+  - nan
+  - nan
+  - nan
+  - nan
+  - nan
+  - nan
+  - nan
+  - nan
+  - nan
+  - nan
+  - nan
+  - nan
+  - nan
+  - nan
+  - nan
+  - nan
+  - nan
+  - nan
+  - nan
+  - nan
+  - nan
+  - nan
+  - nan
+  - nan
+  - nan
+  - nan
+  - nan
+  - nan
+  - nan
+  - nan
+  - nan
+  - nan
+  - nan
+  - nan
+  - nan
+  - nan
+  - nan
+  - nan
+  - nan
+  - nan
+  - nan
+  - nan
+  - nan
+  - nan
+  - nan
+  - nan
+  - nan
+  - nan
+  - nan
+  - nan
+  - nan
+  - nan
+  - nan
+  - nan
+  - nan
+  - nan
+  - nan
+  - nan
+  - nan
+  - nan
+  - nan
+  - nan
+  - nan
+  - nan
+  - nan
+  - nan
+  - nan
+  - nan
+  - nan
+  - nan
+  - nan
+  - nan
+  - nan
+  - nan
+  - nan
+  - nan
+  - nan
+  - nan
+  - nan
+  - nan
+  - nan
+  - nan
+  - nan
+  - nan
+  - nan
+  - nan
+  - nan
+  - nan
+  - nan
+  - nan
+  - nan
+  - nan
+  - nan
+  - nan
+  - nan
+  - nan
+  - nan
+  - nan
