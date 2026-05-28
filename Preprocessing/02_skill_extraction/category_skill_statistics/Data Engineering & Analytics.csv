@@ -1,0 +1,534 @@
+category,normalized_skill,count
+Data Engineering & Analytics,kafka,153
+Data Engineering & Analytics,power bi,78
+Data Engineering & Analytics,phân tích dữ liệu,68
+Data Engineering & Analytics,tableau,58
+Data Engineering & Analytics,data warehouse,56
+Data Engineering & Analytics,spark,49
+Data Engineering & Analytics,etl,45
+Data Engineering & Analytics,big data,31
+Data Engineering & Analytics,airflow,30
+Data Engineering & Analytics,data analysis,30
+Data Engineering & Analytics,hadoop,25
+Data Engineering & Analytics,data engineering,22
+Data Engineering & Analytics,data lake,22
+Data Engineering & Analytics,dbt,19
+Data Engineering & Analytics,data governance,17
+Data Engineering & Analytics,data modeling,17
+Data Engineering & Analytics,bi,16
+Data Engineering & Analytics,data analyst,16
+Data Engineering & Analytics,bi tools,15
+Data Engineering & Analytics,data pipelines,15
+Data Engineering & Analytics,xử lý dữ liệu,15
+Data Engineering & Analytics,analytics,14
+Data Engineering & Analytics,xử lý dữ liệu lớn,14
+Data Engineering & Analytics,bigquery,12
+Data Engineering & Analytics,data pipeline,12
+Data Engineering & Analytics,databricks,12
+Data Engineering & Analytics,powerbi,12
+Data Engineering & Analytics,data analytics,11
+Data Engineering & Analytics,power automate,11
+Data Engineering & Analytics,quản trị dữ liệu,11
+Data Engineering & Analytics,data engineer,10
+Data Engineering & Analytics,dwh,10
+Data Engineering & Analytics,etl/elt,10
+Data Engineering & Analytics,nifi,10
+Data Engineering & Analytics,odi,10
+Data Engineering & Analytics,apache spark,9
+Data Engineering & Analytics,data visualization,9
+Data Engineering & Analytics,google bigquery,9
+Data Engineering & Analytics,looker,9
+Data Engineering & Analytics,pyspark,9
+Data Engineering & Analytics,apache airflow,8
+Data Engineering & Analytics,cdc,8
+Data Engineering & Analytics,data lakehouse,8
+Data Engineering & Analytics,data quality,8
+Data Engineering & Analytics,data warehousing,8
+Data Engineering & Analytics,flink,8
+Data Engineering & Analytics,trực quan hóa dữ liệu,8
+Data Engineering & Analytics,apache kafka,7
+Data Engineering & Analytics,datastage,7
+Data Engineering & Analytics,dữ liệu lớn,7
+Data Engineering & Analytics,glue,7
+Data Engineering & Analytics,hive,7
+Data Engineering & Analytics,looker studio,7
+Data Engineering & Analytics,metabase,7
+Data Engineering & Analytics,pentaho,7
+Data Engineering & Analytics,data,6
+Data Engineering & Analytics,data mapping,6
+Data Engineering & Analytics,data processing,6
+Data Engineering & Analytics,delta lake,6
+Data Engineering & Analytics,iceberg,6
+Data Engineering & Analytics,lakehouse,6
+Data Engineering & Analytics,redshift,6
+Data Engineering & Analytics,snowflake,6
+Data Engineering & Analytics,ssis,6
+Data Engineering & Analytics,superset,6
+Data Engineering & Analytics,talend,6
+Data Engineering & Analytics,workflow automation,6
+Data Engineering & Analytics,bigdata,5
+Data Engineering & Analytics,công cụ phân tích dữ liệu,5
+Data Engineering & Analytics,google data studio,5
+Data Engineering & Analytics,informatica,5
+Data Engineering & Analytics,phân tích,5
+Data Engineering & Analytics,phân tích số liệu,5
+Data Engineering & Analytics,product analytics,5
+Data Engineering & Analytics,quản lý dữ liệu,5
+Data Engineering & Analytics,xây dựng dashboard,5
+Data Engineering & Analytics,athena,4
+Data Engineering & Analytics,batch processing,4
+Data Engineering & Analytics,business intelligence,4
+Data Engineering & Analytics,cloudera,4
+Data Engineering & Analytics,data migration,4
+Data Engineering & Analytics,data platforms,4
+Data Engineering & Analytics,data product,4
+Data Engineering & Analytics,data-warehouse,4
+Data Engineering & Analytics,datamart,4
+Data Engineering & Analytics,google analytics,4
+Data Engineering & Analytics,hdfs,4
+Data Engineering & Analytics,kudu,4
+Data Engineering & Analytics,mixpanel,4
+Data Engineering & Analytics,phân tích data,4
+Data Engineering & Analytics,phân tích xử lý dữ liệu,4
+Data Engineering & Analytics,real-time data processing,4
+Data Engineering & Analytics,reporting,4
+Data Engineering & Analytics,trino,4
+Data Engineering & Analytics,aws glue,3
+Data Engineering & Analytics,azure data factory,3
+Data Engineering & Analytics,báo cáo,3
+Data Engineering & Analytics,da,3
+Data Engineering & Analytics,data mart,3
+Data Engineering & Analytics,data mesh,3
+Data Engineering & Analytics,data modelling,3
+Data Engineering & Analytics,data quality management,3
+Data Engineering & Analytics,databrick,3
+Data Engineering & Analytics,dimensional modelling,3
+Data Engineering & Analytics,etl pipelines,3
+Data Engineering & Analytics,etl processes,3
+Data Engineering & Analytics,etl tools,3
+Data Engineering & Analytics,etl/elt pipelines,3
+Data Engineering & Analytics,google looker studio,3
+Data Engineering & Analytics,hadoop ecosystem,3
+Data Engineering & Analytics,hortonworks,3
+Data Engineering & Analytics,hệ thống dữ liệu lớn,3
+Data Engineering & Analytics,ibm datastage,3
+Data Engineering & Analytics,impala,3
+Data Engineering & Analytics,làm việc với dữ liệu,3
+Data Engineering & Analytics,lập báo cáo,3
+Data Engineering & Analytics,mdm,3
+Data Engineering & Analytics,metadata,3
+Data Engineering & Analytics,mô hình dữ liệu,3
+Data Engineering & Analytics,oracle goldengate,3
+Data Engineering & Analytics,pipeline xử lý dữ liệu lớn,3
+Data Engineering & Analytics,prefect,3
+Data Engineering & Analytics,presto,3
+Data Engineering & Analytics,qlik,3
+Data Engineering & Analytics,sap bw,3
+Data Engineering & Analytics,scd,3
+Data Engineering & Analytics,spark sql,3
+Data Engineering & Analytics,spark streaming,3
+Data Engineering & Analytics,streaming data,3
+Data Engineering & Analytics,visualization,3
+Data Engineering & Analytics,xử lý và phân tích dữ liệu,3
+Data Engineering & Analytics,yarn,3
+Data Engineering & Analytics,airbyte,2
+Data Engineering & Analytics,amplitude,2
+Data Engineering & Analytics,analyze data,2
+Data Engineering & Analytics,apache flink,2
+Data Engineering & Analytics,apache iceberg,2
+Data Engineering & Analytics,automation,2
+Data Engineering & Analytics,automation workflow,2
+Data Engineering & Analytics,aws quicksight,2
+Data Engineering & Analytics,bi publisher,2
+Data Engineering & Analytics,bi tableau,2
+Data Engineering & Analytics,bi/analytics,2
+Data Engineering & Analytics,big data pipelines,2
+Data Engineering & Analytics,big-data,2
+Data Engineering & Analytics,cloud hadoop,2
+Data Engineering & Analytics,confluent kafka,2
+Data Engineering & Analytics,công cụ bi,2
+Data Engineering & Analytics,công cụ dashboard,2
+Data Engineering & Analytics,dashboard development,2
+Data Engineering & Analytics,data catalog,2
+Data Engineering & Analytics,data engieering,2
+Data Engineering & Analytics,data integration,2
+Data Engineering & Analytics,data leak,2
+Data Engineering & Analytics,data lineage,2
+Data Engineering & Analytics,data management,2
+Data Engineering & Analytics,data pipeline/etl,2
+Data Engineering & Analytics,data quality frameworks,2
+Data Engineering & Analytics,data stage,2
+Data Engineering & Analytics,data transformation,2
+Data Engineering & Analytics,data visualization tools,2
+Data Engineering & Analytics,datawarehouse,2
+Data Engineering & Analytics,debezium,2
+Data Engineering & Analytics,dremio,2
+Data Engineering & Analytics,dw,2
+Data Engineering & Analytics,dữ liệu,2
+Data Engineering & Analytics,dữ liệu quy mô lớn,2
+Data Engineering & Analytics,elt,2
+Data Engineering & Analytics,event streaming,2
+Data Engineering & Analytics,firebase analytics,2
+Data Engineering & Analytics,hudi,2
+Data Engineering & Analytics,ibm dwh,2
+Data Engineering & Analytics,jasper,2
+Data Engineering & Analytics,kafka streams,2
+Data Engineering & Analytics,kinesis,2
+Data Engineering & Analytics,large-scale data processing,2
+Data Engineering & Analytics,master data,2
+Data Engineering & Analytics,master data management (mdm,2
+Data Engineering & Analytics,metadata management,2
+Data Engineering & Analytics,mis,2
+Data Engineering & Analytics,modeling dữ liệu,2
+Data Engineering & Analytics,mô hình hóa dữ liệu,2
+Data Engineering & Analytics,n8n,2
+Data Engineering & Analytics,olap,2
+Data Engineering & Analytics,operational analytics,2
+Data Engineering & Analytics,oracle odi,2
+Data Engineering & Analytics,pbi,2
+Data Engineering & Analytics,phân tích data marketing,2
+Data Engineering & Analytics,phân tích dữ liệu người dùng,2
+Data Engineering & Analytics,pipeline dữ liệu,2
+Data Engineering & Analytics,power query,2
+Data Engineering & Analytics,product metrics,2
+Data Engineering & Analytics,quick sight,2
+Data Engineering & Analytics,sap bo,2
+Data Engineering & Analytics,staging,2
+Data Engineering & Analytics,star schema,2
+Data Engineering & Analytics,stream procesing,2
+Data Engineering & Analytics,streaming,2
+Data Engineering & Analytics,tableu,2
+Data Engineering & Analytics,thu thập dữ liệu,2
+Data Engineering & Analytics,thu thập và phân tích số liệu,2
+Data Engineering & Analytics,tiền xử lý dữ liệu,2
+Data Engineering & Analytics,trực quan hóa,2
+Data Engineering & Analytics,xử lý dữ liệu phân tán,2
+Data Engineering & Analytics,zeppelin,2
+Data Engineering & Analytics,actionable intelligence,1
+Data Engineering & Analytics,administration and reporting,1
+Data Engineering & Analytics,airflow dags,1
+Data Engineering & Analytics,amazon redshift,1
+Data Engineering & Analytics,analysis,1
+Data Engineering & Analytics,analysis services,1
+Data Engineering & Analytics,analyst,1
+Data Engineering & Analytics,analystic,1
+Data Engineering & Analytics,analytics engineer,1
+Data Engineering & Analytics,analytics platforms,1
+Data Engineering & Analytics,anthena,1
+Data Engineering & Analytics,apache doris,1
+Data Engineering & Analytics,apache storm,1
+Data Engineering & Analytics,apache superset,1
+Data Engineering & Analytics,automate flow for reporting,1
+Data Engineering & Analytics,automated data pipelines,1
+Data Engineering & Analytics,automated workflows,1
+Data Engineering & Analytics,automatic data transformation,1
+Data Engineering & Analytics,automating reporting,1
+Data Engineering & Analytics,aws data firehose,1
+Data Engineering & Analytics,aws emr,1
+Data Engineering & Analytics,aws kinesis,1
+Data Engineering & Analytics,aws redshift,1
+Data Engineering & Analytics,azure databricks,1
+Data Engineering & Analytics,batch,1
+Data Engineering & Analytics,batch feeds,1
+Data Engineering & Analytics,batch process,1
+Data Engineering & Analytics,batching,1
+Data Engineering & Analytics,benchmark models,1
+Data Engineering & Analytics,bi dashboards,1
+Data Engineering & Analytics,bi reports,1
+Data Engineering & Analytics,bi/reporting tools,1
+Data Engineering & Analytics,bi/visualization,1
+Data Engineering & Analytics,big data engineer,1
+Data Engineering & Analytics,big data processing,1
+Data Engineering & Analytics,big data systems,1
+Data Engineering & Analytics,business analyst,1
+Data Engineering & Analytics,business intelligence (bi) development,1
+Data Engineering & Analytics,business intelligence system,1
+Data Engineering & Analytics,báo cáo quản trị,1
+Data Engineering & Analytics,báo cáo số liệu,1
+Data Engineering & Analytics,cac,1
+Data Engineering & Analytics,causal analysis,1
+Data Engineering & Analytics,cdc (change data capture,1
+Data Engineering & Analytics,celery,1
+Data Engineering & Analytics,change data capture,1
+Data Engineering & Analytics,churn rate,1
+Data Engineering & Analytics,clinical data analytics,1
+Data Engineering & Analytics,cognos,1
+Data Engineering & Analytics,cognos ibm,1
+Data Engineering & Analytics,confluent,1
+Data Engineering & Analytics,conversion tracking,1
+Data Engineering & Analytics,crma,1
+Data Engineering & Analytics,crystal report,1
+Data Engineering & Analytics,custom etl frameworks,1
+Data Engineering & Analytics,công cụ phân tích số liệu,1
+Data Engineering & Analytics,công cụ visualize,1
+Data Engineering & Analytics,công cụ xử lý dữ liệu,1
+Data Engineering & Analytics,công nghệ dữ liệu lớn,1
+Data Engineering & Analytics,dagster,1
+Data Engineering & Analytics,dashboard,1
+Data Engineering & Analytics,dashboard phân tích dữ liệu,1
+Data Engineering & Analytics,dashboards,1
+Data Engineering & Analytics,dask,1
+Data Engineering & Analytics,data analysis tools,1
+Data Engineering & Analytics,data analytics systems,1
+Data Engineering & Analytics,data architecture,1
+Data Engineering & Analytics,data ba,1
+Data Engineering & Analytics,data brick,1
+Data Engineering & Analytics,data bricks,1
+Data Engineering & Analytics,data build,1
+Data Engineering & Analytics,data display and analysis,1
+Data Engineering & Analytics,data etl,1
+Data Engineering & Analytics,data federation solutions,1
+Data Engineering & Analytics,data integration tools,1
+Data Engineering & Analytics,data interpretation and visualization,1
+Data Engineering & Analytics,data lake technologies,1
+Data Engineering & Analytics,data lakes,1
+Data Engineering & Analytics,data lifecycle,1
+Data Engineering & Analytics,data manipulation,1
+Data Engineering & Analytics,data mart/warehousing,1
+Data Engineering & Analytics,data masking,1
+Data Engineering & Analytics,data model,1
+Data Engineering & Analytics,data operation,1
+Data Engineering & Analytics,data orchestration frameworks,1
+Data Engineering & Analytics,data preprocessing,1
+Data Engineering & Analytics,data processing workflows,1
+Data Engineering & Analytics,data quality checks,1
+Data Engineering & Analytics,data quality issue investigation,1
+Data Engineering & Analytics,data quality tools,1
+Data Engineering & Analytics,data readiness,1
+Data Engineering & Analytics,data risk management,1
+Data Engineering & Analytics,data security,1
+Data Engineering & Analytics,data sense,1
+Data Engineering & Analytics,data service,1
+Data Engineering & Analytics,data storytelling,1
+Data Engineering & Analytics,data strategy optimization,1
+Data Engineering & Analytics,data studio,1
+Data Engineering & Analytics,data tracking,1
+Data Engineering & Analytics,data warehouse concepts,1
+Data Engineering & Analytics,data warehouse solutions,1
+Data Engineering & Analytics,data warehouse/lakehouse,1
+Data Engineering & Analytics,data- warehouse,1
+Data Engineering & Analytics,data-analysis,1
+Data Engineering & Analytics,data-driven approach,1
+Data Engineering & Analytics,data/ml pipelines,1
+Data Engineering & Analytics,databricks expectations,1
+Data Engineering & Analytics,dataframes,1
+Data Engineering & Analytics,dax,1
+Data Engineering & Analytics,dbt (data build,1
+Data Engineering & Analytics,de,1
+Data Engineering & Analytics,deduplication,1
+Data Engineering & Analytics,deequ,1
+Data Engineering & Analytics,defining kpis,1
+Data Engineering & Analytics,delta,1
+Data Engineering & Analytics,design patterns trong data warehouse,1
+Data Engineering & Analytics,dimensional modeling,1
+Data Engineering & Analytics,distributed query engines,1
+Data Engineering & Analytics,diễn giải dữ liệu,1
+Data Engineering & Analytics,dịch vụ phân tích,1
+Data Engineering & Analytics,dữ liệu khối lượng lớn,1
+Data Engineering & Analytics,dữ liệu near realtime,1
+Data Engineering & Analytics,dữ liệu realtime,1
+Data Engineering & Analytics,dữ liệu thời gian thực,1
+Data Engineering & Analytics,dữ liệu tích hợp,1
+Data Engineering & Analytics,dữ liệu/bi/datalake,1
+Data Engineering & Analytics,ecommerce analytics,1
+Data Engineering & Analytics,edq,1
+Data Engineering & Analytics,emr,1
+Data Engineering & Analytics,enterprise data warehouse,1
+Data Engineering & Analytics,etl automation tools,1
+Data Engineering & Analytics,etl cho ai,1
+Data Engineering & Analytics,etl data,1
+Data Engineering & Analytics,etl frameworks,1
+Data Engineering & Analytics,etl jobs,1
+Data Engineering & Analytics,etl pipeline,1
+Data Engineering & Analytics,etl/elt development,1
+Data Engineering & Analytics,etljob,1
+Data Engineering & Analytics,event-time processing,1
+Data Engineering & Analytics,f2p product analytics,1
+Data Engineering & Analytics,flurry,1
+Data Engineering & Analytics,forecasting,1
+Data Engineering & Analytics,funnel analysis,1
+Data Engineering & Analytics,ga4,1
+Data Engineering & Analytics,game/app analytics,1
+Data Engineering & Analytics,gg analytic,1
+Data Engineering & Analytics,google analytics 4,1
+Data Engineering & Analytics,google looker,1
+Data Engineering & Analytics,governance,1
+Data Engineering & Analytics,graph,1
+Data Engineering & Analytics,great expectations,1
+Data Engineering & Analytics,growth analysis,1
+Data Engineering & Analytics,hadoop eco-system,1
+Data Engineering & Analytics,hex,1
+Data Engineering & Analytics,hệ sinh thái dữ liệu lớn,1
+Data Engineering & Analytics,hệ thống bi,1
+Data Engineering & Analytics,hệ thống báo cáo,1
+Data Engineering & Analytics,hệ thống báo cáo phục vụ vận hành,1
+Data Engineering & Analytics,hệ thống dữ liệu quy mô lớn,1
+Data Engineering & Analytics,hệ thống dữ liệu/bi,1
+Data Engineering & Analytics,hệ thống tích hợp dữ liệu,1
+Data Engineering & Analytics,hệ thống xử lý dữ liệu lớn,1
+Data Engineering & Analytics,hệ thống xử lý dữ liệu thời gian thực,1
+Data Engineering & Analytics,hệ thống xử lý lượng dữ liệu lớn,1
+Data Engineering & Analytics,ibm data stage,1
+Data Engineering & Analytics,incremental load,1
+Data Engineering & Analytics,job scheduling,1
+Data Engineering & Analytics,kestra,1
+Data Engineering & Analytics,kho dữ liệu,1
+Data Engineering & Analytics,kiến trúc big data,1
+Data Engineering & Analytics,kiến trúc kappa,1
+Data Engineering & Analytics,kiến trúc lambda,1
+Data Engineering & Analytics,kỹ thuật dữ liệu (data engineering,1
+Data Engineering & Analytics,lakehouse architecture,1
+Data Engineering & Analytics,large datasets,1
+Data Engineering & Analytics,lineage,1
+Data Engineering & Analytics,lineage practices,1
+Data Engineering & Analytics,ltv,1
+Data Engineering & Analytics,luồng dữ liệu,1
+Data Engineering & Analytics,làm sạch dữ liệu,1
+Data Engineering & Analytics,làm việc với dữ liệu and thông tin,1
+Data Engineering & Analytics,làm việc với dữ liệu lớn,1
+Data Engineering & Analytics,làm việc với dữ liệu số lượng lớn,1
+Data Engineering & Analytics,lập báo cáo bi,1
+Data Engineering & Analytics,mapreduce,1
+Data Engineering & Analytics,medallion architecture,1
+Data Engineering & Analytics,microsoft 365 bi,1
+Data Engineering & Analytics,microsoft fabric,1
+Data Engineering & Analytics,microsoft power automate,1
+Data Engineering & Analytics,microsoft power bi,1
+Data Engineering & Analytics,microsoft ssis,1
+Data Engineering & Analytics,migrate dữ liệu,1
+Data Engineering & Analytics,migration hệ thống dữ liệu lớn,1
+Data Engineering & Analytics,mobile analytics,1
+Data Engineering & Analytics,mode,1
+Data Engineering & Analytics,modern data stack tools,1
+Data Engineering & Analytics,monitoring pipeline,1
+Data Engineering & Analytics,ms fabric,1
+Data Engineering & Analytics,ms ssis,1
+Data Engineering & Analytics,msk,1
+Data Engineering & Analytics,multi-dimensional planning model design,1
+Data Engineering & Analytics,mô hình dữ liệu bi,1
+Data Engineering & Analytics,n8n workflow,1
+Data Engineering & Analytics,nats jetstream,1
+Data Engineering & Analytics,nền tảng dữ liệu,1
+Data Engineering & Analytics,oas,1
+Data Engineering & Analytics,obiee,1
+Data Engineering & Analytics,ods,1
+Data Engineering & Analytics,olap dw,1
+Data Engineering & Analytics,olap systems,1
+Data Engineering & Analytics,oracle bi,1
+Data Engineering & Analytics,oracle di,1
+Data Engineering & Analytics,orchestration,1
+Data Engineering & Analytics,parquet,1
+Data Engineering & Analytics,parquet pipelines,1
+Data Engineering & Analytics,phát triển quy trình etl,1
+Data Engineering & Analytics,phát triển và kiểm thử dữ liệu/báo cáo/phân tích/học máy,1
+Data Engineering & Analytics,phân loại và xử lý dữ liệu,1
+Data Engineering & Analytics,phân quyền,1
+Data Engineering & Analytics,phân tích cấu trúc dữ liệu,1
+Data Engineering & Analytics,phân tích dữ liệu dự án,1
+Data Engineering & Analytics,phân tích dữ liệu gameplay,1
+Data Engineering & Analytics,phân tích dữ liệu lớn,1
+Data Engineering & Analytics,phân tích dữ liệu mạng,1
+Data Engineering & Analytics,phân tích dữ liệu nâng cao,1
+Data Engineering & Analytics,phân tích dữ liệu phức,1
+Data Engineering & Analytics,phân tích dữ liệu sản phẩm,1
+Data Engineering & Analytics,phân tích dữ liệu thị trường,1
+Data Engineering & Analytics,phân tích khám phá dữ liệu (exploratory data analysis - eda,1
+Data Engineering & Analytics,phân tích nâng cao,1
+Data Engineering & Analytics,phân tích số liệu kinh doanh,1
+Data Engineering & Analytics,phân tích sức khỏe sản phẩm,1
+Data Engineering & Analytics,"phân tích thông tin, dữ liệu",1
+Data Engineering & Analytics,phân tích thị trường – dữ liệu,1
+Data Engineering & Analytics,phân tích và chuyển đổi dữ liệu,1
+Data Engineering & Analytics,phân tích và lập báo cáo,1
+Data Engineering & Analytics,phân tích và xử lý dữ liệu lớn,1
+Data Engineering & Analytics,phân tích và đối chiếu dữ liệu,1
+Data Engineering & Analytics,phân tích xu hướng dữ liệu,1
+Data Engineering & Analytics,"phân tích, lập báo cáo trên powerbi",1
+Data Engineering & Analytics,"phân tích, tổng hợp và xử lý dữ liệu",1
+Data Engineering & Analytics,pipeline etl,1
+Data Engineering & Analytics,pipeline tt dữ liệu thời gian thực,1
+Data Engineering & Analytics,product analyst,1
+Data Engineering & Analytics,pub/sub,1
+Data Engineering & Analytics,qlik sense,1
+Data Engineering & Analytics,qlikview,1
+Data Engineering & Analytics,quicksight,1
+Data Engineering & Analytics,quy trình etl,1
+Data Engineering & Analytics,quy trình etl/elt,1
+Data Engineering & Analytics,quy trình xử lý dữ liệu,1
+Data Engineering & Analytics,quản lý data,1
+Data Engineering & Analytics,quản lý số liệu,1
+Data Engineering & Analytics,quản lý thông tin doanh nghiệp,1
+Data Engineering & Analytics,rdds,1
+Data Engineering & Analytics,real-time data,1
+Data Engineering & Analytics,real-time pipelines,1
+Data Engineering & Analytics,real-time/near-real-time processing,1
+Data Engineering & Analytics,real-time/streaming data,1
+Data Engineering & Analytics,redis stream,1
+Data Engineering & Analytics,report,1
+Data Engineering & Analytics,report and bi,1
+Data Engineering & Analytics,report automation,1
+Data Engineering & Analytics,report builder,1
+Data Engineering & Analytics,reporting and analytics,1
+Data Engineering & Analytics,reporting tools,1
+Data Engineering & Analytics,retention curve,1
+Data Engineering & Analytics,sap bods,1
+Data Engineering & Analytics,sap dataservices,1
+Data Engineering & Analytics,sas,1
+Data Engineering & Analytics,solr,1
+Data Engineering & Analytics,spark etl,1
+Data Engineering & Analytics,spark ui,1
+Data Engineering & Analytics,spark-streaming,1
+Data Engineering & Analytics,sql server reporting services (ssrs,1
+Data Engineering & Analytics,star/snowflake schema,1
+Data Engineering & Analytics,stream,1
+Data Engineering & Analytics,stream processing,1
+Data Engineering & Analytics,streaming architectures,1
+Data Engineering & Analytics,streaming data processing,1
+Data Engineering & Analytics,streaming dữ liệu,1
+Data Engineering & Analytics,streaming platforms,1
+Data Engineering & Analytics,structured streaming,1
+Data Engineering & Analytics,thiết kế báo cáo,1
+Data Engineering & Analytics,thiết kế data pipeline,1
+Data Engineering & Analytics,thiết kế hạ tầng dữ liệu,1
+Data Engineering & Analytics,"thu thập, xử lý dữ liệu",1
+Data Engineering & Analytics,thống kê và phân tích cơ sở dữ liệu,1
+Data Engineering & Analytics,tracking,1
+Data Engineering & Analytics,tracking plan,1
+Data Engineering & Analytics,triển khai hệ thống quản trị dữ liệu,1
+Data Engineering & Analytics,trình bày dữ liệu,1
+Data Engineering & Analytics,trực quan hóa dữ liệu (data visualization,1
+Data Engineering & Analytics,tư duy về dữ liệu,1
+Data Engineering & Analytics,tối ưu các chỉ số của sản phẩm,1
+Data Engineering & Analytics,tối ưu hóa etl,1
+Data Engineering & Analytics,tổng hợp dữ liệu,1
+Data Engineering & Analytics,tổng hợp và phân tích dữ liệu,1
+Data Engineering & Analytics,"tổng hợp, phân tích và đánh giá dữ liệu",1
+Data Engineering & Analytics,tự động hóa quy trình xử lý dữ liệu,1
+Data Engineering & Analytics,unity catalog,1
+Data Engineering & Analytics,visualization tools,1
+Data Engineering & Analytics,visualize dữ liệu,1
+Data Engineering & Analytics,visualizing data,1
+Data Engineering & Analytics,vận hành luồng dữ liệu,1
+Data Engineering & Analytics,vận hành nền tảng dữ liệu,1
+Data Engineering & Analytics,web crawling,1
+Data Engineering & Analytics,web scraping,1
+Data Engineering & Analytics,web scraping/crawling,1
+Data Engineering & Analytics,webhook pipeline,1
+Data Engineering & Analytics,windowing,1
+Data Engineering & Analytics,workflow,1
+Data Engineering & Analytics,workflow orchestration platforms,1
+Data Engineering & Analytics,workflows,1
+Data Engineering & Analytics,xây dựng luồng dữ liệu,1
+Data Engineering & Analytics,xây dựng luồng etl,1
+Data Engineering & Analytics,xây dựng luồng xử lý dữ liệu,1
+Data Engineering & Analytics,xử lý dữ liệu real-time,1
+Data Engineering & Analytics,xử lý dữ liệu theo thời gian thực (streaming,1
+Data Engineering & Analytics,xử lý dữ liệu thương mại điện tử,1
+Data Engineering & Analytics,xử lý dữ liệu đa nguồn,1
+Data Engineering & Analytics,xử lý hệ thống có lượng dữ liệu lớn,1
+Data Engineering & Analytics,xử lý lỗi dữ liệu,1
+Data Engineering & Analytics,xử lý số liệu,1
+Data Engineering & Analytics,xử lý và khai thác dữ liệu khách hàng,1
+Data Engineering & Analytics,"xử lý, phân tích dữ liệu",1
+Data Engineering & Analytics,đối chiếu dữ liệu,1
+Data Engineering & Analytics,đồng bộ và xử lý dữ liệu,1

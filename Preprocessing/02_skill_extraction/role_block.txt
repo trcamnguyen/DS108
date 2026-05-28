@@ -1,0 +1,81 @@
+# ROLE BLOCKLIST — DS108 Skill Canonical Pipeline
+# Mục đích: drop các role/chức danh bị LLM extract nhầm thành skill
+# Áp dụng: post-processing step, sau canonical clustering, trước build feature
+# Gap trong Codebook: pattern "kinh nghiệm ở vị trí X" chưa có EC rule explicit
+# → Sẽ được address trong Codebook v1.6 EC-13
+# Generated: 2026-05-28
+# Format: mỗi dòng 1 final_canonical cần drop (exact match, case-insensitive)
+
+# ── DEVELOPER ROLES ─────────────────────────────────────────────────────────
+developer
+fullstack developer
+full stack developer
+frontend developer
+mobile developer
+java developer
+salesforce developer
+sql developer
+database developer
+web developer backend
+aws certified developer
+boomi associate developer certification
+salesforce platform developer i certified
+
+# ── ENGINEER ROLES ──────────────────────────────────────────────────────────
+devops engineer
+network engineer
+system engineer
+software engineer
+infrastructure engineer
+azure security engineer
+big data engineer
+aws certified data engineer
+engineering manager
+handling an engineer team
+
+# ── ANALYST ROLES ───────────────────────────────────────────────────────────
+data analyst
+system analyst
+analyst
+product analyst
+
+# ── TESTER / QA ROLES ───────────────────────────────────────────────────────
+qa tester
+agile tester
+
+# ── MANAGER ROLES ───────────────────────────────────────────────────────────
+project manager
+account manager
+bim manager
+
+# ── ARCHITECT ROLES (cloud cert + role context) ─────────────────────────────
+architect
+solution architect
+aws certified solutions architect
+azure solutions architect
+aws solutions architect
+gcp architect
+enterprise architect
+microsoft azure solutions architect expert
+
+# ── CONSULTANT ROLES ────────────────────────────────────────────────────────
+it consultant
+solution consultant
+
+# ── LEAD / LEADER (role context, không phải soft skill) ─────────────────────
+test lead
+test leader
+ba lead
+project leader
+
+# ── KHÁC ────────────────────────────────────────────────────────────────────
+administrator
+po
+developer training
+
+# ── AMBIGUOUS — REVIEW THỦ CÔNG TRƯỚC KHI DROP ──────────────────────────────
+ business analyst     
+ product manager      
+ product owner      
+ technical lead        
+ team lead           

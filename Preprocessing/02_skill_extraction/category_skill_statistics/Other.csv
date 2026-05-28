@@ -1,0 +1,957 @@
+category,normalized_skill,count
+Other,ccna,89
+Other,pmp,72
+Other,json,66
+Other,ccnp,58
+Other,mcsa,49
+Other,toeic,39
+Other,business analyst,38
+Other,ceh,38
+Other,itil,32
+Other,istqb,30
+Other,iso 27001,27
+Other,xml,26
+Other,cissp,24
+Other,mcse,21
+Other,cbap,19
+Other,sdlc,18
+Other,security,18
+Other,lpi,17
+Other,pci-dss,17
+Other,pmi-acp,17
+Other,prince2,17
+Other,ielts,16
+Other,brse,15
+Other,cism,15
+Other,pmi-pba,15
+Other,ba,13
+Other,gdpr,13
+Other,scrum master,13
+Other,cisa,12
+Other,cmmi,12
+Other,comptia security,12
+Other,oscp,12
+Other,jncip,11
+Other,psm,11
+Other,csm,10
+Other,iso 9001,10
+Other,owasp top 10,10
+Other,product owner,10
+Other,autosar,9
+Other,aws,9
+Other,mobile,9
+Other,rhcsa,9
+Other,nist,8
+Other,phần mềm,8
+Other,product manager,8
+Other,togaf,8
+Other,ccie,7
+Other,ccnp security,7
+Other,cspo,7
+Other,rhce,7
+Other,vmware,7
+Other,acp,6
+Other,ccba,6
+Other,cka,6
+Other,hipaa,6
+Other,iso 26262,6
+Other,iso/iec 27001,6
+Other,jlpt n2,6
+Other,lập trình mobile,6
+Other,mcp,6
+Other,mitre att&ck,6
+Other,ocp,6
+Other,owasp,6
+Other,pci dss,6
+Other,waterfall,6
+Other,aws certified solutions architect,5
+Other,chứng chỉ aws,5
+Other,chứng chỉ bảo mật,5
+Other,fortinet nse,5
+Other,fullstack,5
+Other,ios,5
+Other,iso,5
+Other,iso 27001 la/li,5
+Other,istqb foundation,5
+Other,jncia,5
+Other,jwt,5
+Other,lập trình,5
+Other,microsoft,5
+Other,mobile app,5
+Other,mobile development,5
+Other,oswe,5
+Other,toefl,5
+Other,vcp,5
+Other,automation,4
+Other,backend,4
+Other,ccna security,4
+Other,ccsa,4
+Other,cdmp practitioner,4
+Other,cdpse,4
+Other,celta,4
+Other,certified scrum master,4
+Other,chứng chỉ chuyên môn,4
+Other,ckad,4
+Other,decree 13/2023/nđ-cp,4
+Other,developer,4
+Other,google,4
+Other,ios development,4
+Other,iso26262,4
+Other,iso27001,4
+Other,jlpt n3,4
+Other,mcitp,4
+Other,palo alto,4
+Other,phát triển ứng dụng mobile,4
+Other,pmi,4
+Other,pmp certification,4
+Other,pspo,4
+Other,quản lý dự án,4
+Other,sc-200,4
+Other,software engineer,4
+Other,sscp,4
+Other,v-model,4
+Other,agile certification,3
+Other,android,3
+Other,aspice,3
+Other,aws certification,3
+Other,bim coordinator,3
+Other,bim manager,3
+Other,ccse,3
+Other,ccsp,3
+Other,chứng chỉ cloud,3
+Other,chứng chỉ linux,3
+Other,chứng chỉ microsoft,3
+Other,chứng chỉ quốc tế,3
+Other,chứng chỉ tester,3
+Other,chứng chỉ đào tạo về kiểm thử,3
+Other,cks,3
+Other,cysa,3
+Other,dell emc,3
+Other,dev,3
+Other,development,3
+Other,ejpt,3
+Other,fe,3
+Other,fortinet,3
+Other,google cloud,3
+Other,hpe,3
+Other,ios native,3
+Other,iso 8583,3
+Other,istqb certification,3
+Other,itil foundation,3
+Other,lập trình mobile app,3
+Other,mcp (model context protocol,3
+Other,microsoft certified,3
+Other,mobile application development,3
+Other,native,3
+Other,nghiên cứu khoa học,3
+Other,nse,3
+Other,oca,3
+Other,osep,3
+Other,pcnse,3
+Other,phát triển ứng dụng ios,3
+Other,pnsp,3
+Other,project manager,3
+Other,psm ii,3
+Other,software developer,3
+Other,technical background,3
+Other,toiec,3
+Other,uds,3
+Other,vmware vcp,3
+Other,agile,2
+Other,android developer,2
+Other,archimate,2
+Other,aws certifications,2
+Other,aws certified developer,2
+Other,aws certified developer – associate,2
+Other,aws certified machine learning – specialty,2
+Other,aws security,2
+Other,aws security specialty,2
+Other,aws solutions architect,2
+Other,aws solutions architect professional,2
+Other,az-104,2
+Other,azure,2
+Other,azure certification,2
+Other,azure solutions architect,2
+Other,babok,2
+Other,bpmn,2
+Other,budget management,2
+Other,bằng lái xe b2,2
+Other,certified kubernetes administrator (cka,2
+Other,certified scrum master (csm,2
+Other,cfa,2
+Other,check point ccse,2
+Other,checkpoint,2
+Other,chfi,2
+Other,chứng chỉ,2
+Other,chứng chỉ cntt,2
+Other,chứng chỉ lập trình viên quốc tế,2
+Other,chứng chỉ mạng,2
+Other,chứng chỉ quản lý dự án,2
+Other,chứng chỉ vmware,2
+Other,chứng chỉ về cloud,2
+Other,cia,2
+Other,cisco,2
+Other,cloud certifications,2
+Other,cloud security certifications,2
+Other,cobit,2
+Other,coding,2
+Other,comptia,2
+Other,comptia a,2
+Other,comptia network,2
+Other,comtor,2
+Other,crest,2
+Other,crisc,2
+Other,crto,2
+Other,cste,2
+Other,data analyst,2
+Other,data test certificate,2
+Other,dell,2
+Other,ecba,2
+Other,ecsa,2
+Other,frontend,2
+Other,fullstack developer,2
+Other,gcih,2
+Other,hl7,2
+Other,hpe ase,2
+Other,ibm,2
+Other,incident response,2
+Other,iso 20000,2
+Other,iso 20022,2
+Other,iso 27000,2
+Other,iso 27001 lead auditor,2
+Other,iso 27001 lead implementer,2
+Other,iso 27001/27701,2
+Other,iso 27701,2
+Other,iso14229,2
+Other,iso8583,2
+Other,istqb advanced,2
+Other,istqb advanced level,2
+Other,istqb foundation level,2
+Other,it business analyst,2
+Other,j1939,2
+Other,jlpt n4,2
+Other,jncis,2
+Other,jp n2,2
+Other,linux,2
+Other,lpi 1,2
+Other,lpi1,2
+Other,lpi2,2
+Other,lpic,2
+Other,lập trình ios,2
+Other,lập trình mobile trên nền tảng ios,2
+Other,misra,2
+Other,mobile dev,2
+Other,msca,2
+Other,netapp,2
+Other,nist csf,2
+Other,nist cybersecurity,2
+Other,oauth,2
+Other,oauth2,2
+Other,oce,2
+Other,ocm,2
+Other,open source contribution,2
+Other,oracle certified associate (oca,2
+Other,oracle certified expert (oce,2
+Other,oracle certified master (ocm,2
+Other,oracle certified professional (ocp,2
+Other,osce,2
+Other,oss,2
+Other,pan netsec-pro/ngfw-engineer,2
+Other,phát triển ứng dụng di động,2
+Other,pm,2
+Other,pnpt,2
+Other,product analyst,2
+Other,product management,2
+Other,professional certifications,2
+Other,project coordinator,2
+Other,project management certification,2
+Other,project management professional (pmp,2
+Other,psm i,2
+Other,ptes,2
+Other,sap sd certification,2
+Other,sc-100,2
+Other,sc-300,2
+Other,scrum,2
+Other,scrum master certification,2
+Other,security certifications,2
+Other,seo technical,2
+Other,technical,2
+Other,technical architect,2
+Other,vcap,2
+Other,web technologies,2
+Other,xây dựng hồ sơ thầu,2
+Other,802.11 series,1
+Other,802.11k,1
+Other,802.11r,1
+Other,802.11v,1
+Other,a,1
+Other,a-csm,1
+Other,a-spice,1
+Other,a2a,1
+Other,abac,1
+Other,acsp,1
+Other,actc,1
+Other,activitymanagerservice,1
+Other,adk,1
+Other,admin,1
+Other,administrator,1
+Other,aes,1
+Other,agile (csm/psm,1
+Other,agile ba,1
+Other,agile certifications,1
+Other,agile certified practitioner,1
+Other,agile/scrum master,1
+Other,agilepm,1
+Other,ai engineer,1
+Other,ams,1
+Other,android application,1
+Other,android application development,1
+Other,android development,1
+Other,android native,1
+Other,android/ios native,1
+Other,app,1
+Other,app builder,1
+Other,app mobile,1
+Other,app store review guideline,1
+Other,as2805,1
+Other,aso,1
+Other,att&ck,1
+Other,auto11-ed3,1
+Other,autosar classic,1
+Other,avro,1
+Other,aws architect,1
+Other,aws certification(s) related to advanced networking,1
+Other,aws certification: developer,1
+Other,aws certification: solutions architecture,1
+Other,aws certification: sysops,1
+Other,aws certified,1
+Other,aws certified data analytics,1
+Other,aws certified data engineer,1
+Other,aws certified devops engineer - professional,1
+Other,aws certified security,1
+Other,aws certified solution architect,1
+Other,aws certified solutions architect – associate,1
+Other,aws certified solutions architect – professional,1
+Other,aws certified sysops admin,1
+Other,aws cloud practitioner,1
+Other,aws data and analytic speciality,1
+Other,aws database speciality,1
+Other,aws database specialty,1
+Other,aws devops engineer,1
+Other,aws devops professional,1
+Other,aws saa,1
+Other,aws solutions architect associate/professional,1
+Other,aws sysops,1
+Other,aws/cloud certifications,1
+Other,az-305,1
+Other,az-700,1
+Other,az104,1
+Other,azure administrator associate,1
+Other,azure architect,1
+Other,azure certified sysops admin,1
+Other,azure certs,1
+Other,azure fundamentals (az-900,1
+Other,azure security engineer,1
+Other,azure security engineer (az-500,1
+Other,azure solutions architect expert,1
+Other,azure solutions architect professional,1
+Other,azure/gcp cloud certifications,1
+Other,ba it,1
+Other,ba phần mềm,1
+Other,basel iii,1
+Other,be,1
+Other,bi certification,1
+Other,bian,1
+Other,big data engineer,1
+Other,boomi associate developer certification,1
+Other,boomi professional developer certification,1
+Other,bpmn 2.0,1
+Other,bridge engineer,1
+Other,bscp,1
+Other,bsimm,1
+Other,build mobile app,1
+Other,business analysis,1
+Other,business product,1
+Other,bài viết kỹ thuật,1
+Other,"bảo trì các app, extension",1
+Other,bằng lái xe máy,1
+Other,bằng lái xe ô tô,1
+Other,bằng ô tô b2,1
+Other,c4,1
+Other,caac,1
+Other,can isotp,1
+Other,can specs,1
+Other,ccna – security,1
+Other,ccna/ccnp security,1
+Other,ccsk,1
+Other,cdcp,1
+Other,cdcs,1
+Other,cdmp,1
+Other,cdp,1
+Other,ceph,1
+Other,certification,1
+Other,certifications,1
+Other,certifications in quality assurance,1
+Other,certifications in quality management,1
+Other,certifications in sap fiori,1
+Other,certified agile tester (cat,1
+Other,certified business analysis professional (cbap,1
+Other,certified ethical hacker,1
+Other,certified functional safety expert,1
+Other,certified scrum product owner (cspo,1
+Other,certified scrum professional (csp,1
+Other,certified scrummaster,1
+Other,cfa level 1,1
+Other,check point,1
+Other,chính sách của admob,1
+Other,chơi thể thao,1
+Other,chạy ads,1
+Other,chứng chì đào tạo về kiểm thử phần mềm,1
+Other,chứng chỉ ba,1
+Other,chứng chỉ bim,1
+Other,chứng chỉ bảo mật quốc tế,1
+Other,chứng chỉ chuyên môn về ai,1
+Other,"chứng chỉ chỉnh lý, số hóa tài liệu",1
+Other,chứng chỉ cisco,1
+Other,chứng chỉ cloud (aws/azure/gcp,1
+Other,chứng chỉ cmmi,1
+Other,chứng chỉ các khóa học kiểm thử,1
+Other,chứng chỉ cơ bản về android,1
+Other,chứng chỉ data analysis,1
+Other,chứng chỉ data engineer,1
+Other,chứng chỉ database,1
+Other,chứng chỉ de,1
+Other,chứng chỉ devops,1
+Other,chứng chỉ excel,1
+Other,chứng chỉ financial service cloud,1
+Other,chứng chỉ giám sát thi công dự án cntt,1
+Other,chứng chỉ hành nghề đấu thầu,1
+Other,chứng chỉ iso 9001,1
+Other,chứng chỉ it hạng silver,1
+Other,chứng chỉ kiểm thử,1
+Other,chứng chỉ kỹ thuật,1
+Other,chứng chỉ liên quan,1
+Other,chứng chỉ liên quan đến an toàn thông tin,1
+Other,chứng chỉ liên quan đến lập trình ứng dụng,1
+Other,chứng chỉ liên quan đến qa/qc,1
+Other,chứng chỉ liên quan đến testing,1
+Other,chứng chỉ lập dự toán chi phí đầu tư ứng dụng cntt,1
+Other,chứng chỉ lập và quản lý dự án cntt,1
+Other,chứng chỉ microsoft azure,1
+Other,chứng chỉ microsoft dynamics 365,1
+Other,chứng chỉ microsoft power,1
+Other,chứng chỉ mạng máy tính,1
+Other,chứng chỉ nghiệp vụ ba,1
+Other,chứng chỉ nghiệp vụ sư phạm,1
+Other,chứng chỉ nghề,1
+Other,chứng chỉ nghề nghiệp,1
+Other,chứng chỉ ngoại ngữ quốc tế,1
+Other,chứng chỉ openshift,1
+Other,chứng chỉ openstack,1
+Other,chứng chỉ outsystem,1
+Other,chứng chỉ phân tích dữ liệu,1
+Other,chứng chỉ phân tích nghiệp vụ,1
+Other,chứng chỉ power bi,1
+Other,chứng chỉ quản lý dự án với agile/scrum,1
+Other,chứng chỉ quốc tế cisco,1
+Other,chứng chỉ quốc tế dell,1
+Other,chứng chỉ quốc tế hpe,1
+Other,chứng chỉ quốc tế vmware,1
+Other,chứng chỉ quốc tế về lĩnh vực cơ sở dữ liệu,1
+Other,chứng chỉ salesforce,1
+Other,chứng chỉ sdwan,1
+Other,chứng chỉ security,1
+Other,chứng chỉ server/storage,1
+Other,chứng chỉ sql,1
+Other,chứng chỉ system administration,1
+Other,chứng chỉ tin học,1
+Other,chứng chỉ tin học văn phòng,1
+Other,chứng chỉ viễn thông,1
+Other,chứng chỉ về bảo mật,1
+Other,chứng chỉ về cloud computing,1
+Other,chứng chỉ về devops,1
+Other,chứng chỉ về dữ liệu,1
+Other,chứng chỉ về network,1
+Other,chứng chỉ về os,1
+Other,chứng chỉ về phân tích nghiệp vụ,1
+Other,chứng chỉ về plc,1
+Other,chứng chỉ điện tử,1
+Other,chứng chỉ đấu thầu cơ bản,1
+Other,chứng nhận đào tạo đấu thầu cơ bản,1
+Other,cics,1
+Other,circular 09/2020,1
+Other,cisco certified network professional (ccnp,1
+Other,"cloud (aws, oci, azure",1
+Other,cloud certificates,1
+Other,cloud computing certification,1
+Other,cloud-related certifications,1
+Other,codec,1
+Other,commerce cloud certification,1
+Other,commvault,1
+Other,compliance,1
+Other,compliance controls,1
+Other,comptia linux,1
+Other,comptia pentest,1
+Other,computerrelated certifications,1
+Other,comtia,1
+Other,contract and acceptance management,1
+Other,contract and vendor management,1
+Other,control plan,1
+Other,cooperative scheduling,1
+Other,cost management,1
+Other,cpmp,1
+Other,cpts,1
+Other,cross-,1
+Other,crtp,1
+Other,cs certification,1
+Other,csdl,1
+Other,csslp,1
+Other,csv,1
+Other,cves,1
+Other,cwe,1
+Other,cwna,1
+Other,cyber kill chain,1
+Other,công bố nghiên cứu,1
+Other,cơ khí,1
+Other,dama,1
+Other,data analyst associate,1
+Other,data analytics professional certificate,1
+Other,data certs,1
+Other,data engineer,1
+Other,data platforms certification,1
+Other,data science council of america (dasca,1
+Other,data streaming certification,1
+Other,dell emc certified,1
+Other,developer i,1
+Other,devsecops-related credentials,1
+Other,dfmea,1
+Other,dmn,1
+Other,dva-c02,1
+Other,dự toán chi phí,1
+Other,dự án mã nguồn mở,1
+Other,ec council,1
+Other,ecih,1
+Other,ecma,1
+Other,encryption,1
+Other,endpoint management certified,1
+Other,esd,1
+Other,etl certification,1
+Other,fapi,1
+Other,fbx,1
+Other,fcp,1
+Other,fcss,1
+Other,fhir,1
+Other,fico certification,1
+Other,financial governance,1
+Other,financial planning,1
+Other,forensic,1
+Other,fortinet nse 5,1
+Other,fortinet nse 5/6,1
+Other,fortinet nse 6,1
+Other,frm,1
+Other,frm level 1,1
+Other,frontend developer,1
+Other,full-stack programming,1
+Other,gcia,1
+Other,gcp,1
+Other,gcp architect,1
+Other,gcp certified security,1
+Other,gcp professional cloud architect,1
+Other,gcp solutions architect,1
+Other,gcp solutions architect professional,1
+Other,gg,1
+Other,ghi chép biên bản nghiệm thu,1
+Other,giảng dạy,1
+Other,glb,1
+Other,gltf,1
+Other,google associate android developer certification,1
+Other,google cloud professional,1
+Other,google cloud professional data engineer,1
+Other,google compatibility test suite (cts) certification,1
+Other,google professional cloud architect,1
+Other,google professional data engineer,1
+Other,gpen,1
+Other,gwapt,1
+Other,hcia,1
+Other,hiểu biết về kỹ thuật,1
+Other,"hoạch định, triển khai chiến lược cntt",1
+Other,hp,1
+Other,hpe atp,1
+Other,hsk5,1
+Other,hệ thống iso,1
+Other,hệ thống mã nguồn mở,1
+Other,hệ thống đa nền tảng,1
+Other,hệ điều hành,1
+Other,ibm certified application developer - cobol,1
+Other,ibm certified data engineer,1
+Other,ibm storage,1
+Other,ielts 6.0,1
+Other,ielts 6.5,1
+Other,iiba certifications,1
+Other,infrastructure or backup-related certifications,1
+Other,input system,1
+Other,internal auditor,1
+Other,interpreter,1
+Other,ios application,1
+Other,ios native development,1
+Other,ip management,1
+Other,ippf - international professional practices,1
+Other,isa-88,1
+Other,iso 14229,1
+Other,iso 22301,1
+Other,iso 27000:27001,1
+Other,iso 27001 lead implementer/auditor,1
+Other,iso 27001 lead implementer/lead auditor,1
+Other,iso 41000,1
+Other,iso 55001,1
+Other,iso 9001:2015,1
+Other,iso/iec 27001:2013,1
+Other,iso/sae 21434,1
+Other,iso21434,1
+Other,iso27001 lead auditor,1
+Other,iso27k,1
+Other,istbq,1
+Other,istqb advanced test manager,1
+Other,istqb certificate,1
+Other,istqb certified tester foundation level (ctfl,1
+Other,istqb foundation certification,1
+Other,istqb foundation/advanced level,1
+Other,it,1
+Other,it brse,1
+Other,it comtor,1
+Other,it manager,1
+Other,it policies,1
+Other,it professional certifications,1
+Other,itc,1
+Other,itil v4,1
+Other,java ee,1
+Other,java se,1
+Other,jcl,1
+Other,jlpt n1,1
+Other,jncie,1
+Other,json/xml,1
+Other,juniper,1
+Other,kaggle,1
+Other,kill chain,1
+Other,kinh nghiệm làm tại môi trường nhật bản,1
+Other,kinh nghiệm làm việc tại nhật bản,1
+Other,kinh nghiệm thực tập/dự án,1
+Other,kubernetes cka,1
+Other,kubernetes security,1
+Other,lctp,1
+Other,ldap,1
+Other,lead auditor,1
+Other,lfce,1
+Other,lfcs,1
+Other,licensing,1
+Other,linux certifications,1
+Other,linux lpi-02,1
+Other,linux-lpic,1
+Other,livestream technician,1
+Other,loma,1
+Other,low-code certification,1
+Other,lpi 1/2,1
+Other,lpi 2,1
+Other,"làm công văn, tờ trình, báo cáo",1
+Other,làm hồ sơ thầu,1
+Other,làm việc tốt với số liệu,1
+Other,lái xe,1
+Other,lái xe ô tô,1
+Other,lập bản vẽ hoàn công,1
+Other,lập trình android,1
+Other,lập trình cho apple devices,1
+Other,lập trình ios native,1
+Other,lập trình phần mềm,1
+Other,lập trình ứng dụng,1
+Other,lập trình ứng dụng android,1
+Other,lập trình ứng dụng di động,1
+Other,lớp đào tạo ba,1
+Other,magma,1
+Other,mainframe development,1
+Other,masking,1
+Other,mba,1
+Other,mcm,1
+Other,mcp server development,1
+Other,mcsa/mcse,1
+Other,mcts,1
+Other,md-102,1
+Other,microsoft azure certifications,1
+Other,microsoft azure solutions architect expert,1
+Other,microsoft certified power bi data analyst associate,1
+Other,microsoft certified: azure developer associate,1
+Other,microsoft certified: azure solutions architect expert,1
+Other,microsoft cybersecurity architect (sc-100,1
+Other,microsoft security certifications,1
+Other,migration,1
+Other,misra 2004,1
+Other,misra 2012,1
+Other,misra c,1
+Other,mitre attack,1
+Other,mobile app development,1
+Other,mobile apps,1
+Other,mobile developer,1
+Other,mobile native,1
+Other,modernization projects,1
+Other,mqtt,1
+Other,ms – power fundamental (pl-900,1
+Other,msl,1
+Other,mtcna,1
+Other,mysql certified developer/dba,1
+Other,n2,1
+Other,n3 japanese certification,1
+Other,native android,1
+Other,native apps,1
+Other,native development,1
+Other,native editor,1
+Other,native mobile,1
+Other,native module development,1
+Other,network,1
+Other,nghị định 13/2023/nđ-cp,1
+Other,nist ssdf,1
+Other,nse4,1
+Other,numerai,1
+Other,nvidia,1
+Other,năng lực sư phạm,1
+Other,ocp mcsd,1
+Other,ocpjp,1
+Other,odoo 17 certification,1
+Other,office 365 enterprise administrator expert,1
+Other,oidc,1
+Other,okr,1
+Other,onsite,1
+Other,onvif,1
+Other,open api standards,1
+Other,open-source projects,1
+Other,openapi,1
+Other,openid,1
+Other,openid connect,1
+Other,opensource,1
+Other,openstack administrator,1
+Other,openstack certification (coa,1
+Other,openstack coa,1
+Other,operating system,1
+Other,operating system fundamentals,1
+Other,operational reporting,1
+Other,opic,1
+Other,oracle,1
+Other,oracle oca,1
+Other,oracle oca/ocp,1
+Other,os,1
+Other,os scheduler,1
+Other,osek,1
+Other,oss licenses,1
+Other,outsystem,1
+Other,owasp mobile security,1
+Other,owasp samm,1
+Other,packagemanager,1
+Other,palo alto network,1
+Other,palo alto pcnsa,1
+Other,palo alto pcnse,1
+Other,pba,1
+Other,pc troubleshoot,1
+Other,pccc,1
+Other,pci-dss standards,1
+Other,pcidss,1
+Other,pci‑dss,1
+Other,pcnsa,1
+Other,pcsne,1
+Other,pdf parsing,1
+Other,pdpd,1
+Other,pep-8,1
+Other,pfmea,1
+Other,pgmp,1
+Other,php developer,1
+Other,physics,1
+Other,phát triển android/ios gốc,1
+Other,phát triển các add on,1
+Other,phát triển giải pháp tự động hóa quản lý,1
+Other,phát triển mobile,1
+Other,phát triển mobile app,1
+Other,phần mềm máy tính,1
+Other,plugin,1
+Other,pmi acp,1
+Other,pmi agile certified practitioner (pmi-acp,1
+Other,pmi-related certificates,1
+Other,pmo,1
+Other,pmp certificate,1
+Other,pmp/acp certification,1
+Other,po,1
+Other,portfolio governance,1
+Other,posix,1
+Other,postgresql certified professional,1
+Other,power bi administrator associate,1
+Other,pre-emptive,1
+Other,pre-sale,1
+Other,presale,1
+Other,presales,1
+Other,prince ii,1
+Other,procurement processes,1
+Other,product delivery,1
+Other,product ownership,1
+Other,professional scrum master (psm,1
+Other,professional scrum product owner (pspo) certification,1
+Other,program governance,1
+Other,program mobile,1
+Other,project management certifications,1
+Other,project/portfolio management,1
+Other,protobuf,1
+Other,psd2,1
+Other,pspo i,1
+Other,pspo i/cspo,1
+Other,quantum,1
+Other,quản lý chi phí it,1
+Other,quản lý hệ thống thông tin,1
+Other,quản lý sản phẩm,1
+Other,quản trị cơ sở dữ liệu oracle,1
+Other,quản trị hệ thống,1
+Other,quản trị phần mềm,1
+Other,quản trị rủi ro,1
+Other,raml,1
+Other,rbac,1
+Other,read/understand source code,1
+Other,red hat certifications,1
+Other,red hat openshift,1
+Other,red hat openstack,1
+Other,redhat,1
+Other,redhat openshift,1
+Other,regex,1
+Other,regulatory compliance,1
+Other,related sap technologies certifications,1
+Other,risk management,1
+Other,round robin,1
+Other,rtsp,1
+Other,saa-c03,1
+Other,sabsa,1
+Other,sae 21434,1
+Other,safe agilist,1
+Other,safe agilist (sa,1
+Other,safe scrum master (ssm,1
+Other,safe5-6,1
+Other,salesforce admin,1
+Other,salesforce administrator,1
+Other,salesforce advanced administrator certified,1
+Other,salesforce consultant,1
+Other,salesforce developer,1
+Other,salesforce developer i certified,1
+Other,salesforce developer ii certified,1
+Other,salesforce sales cloud,1
+Other,saml,1
+Other,san,1
+Other,sans,1
+Other,sans 25,1
+Other,sap btp certification,1
+Other,sap bw/4hana certification,1
+Other,sap cap certification,1
+Other,sap certification,1
+Other,sap certification abap,1
+Other,sap certification btp,1
+Other,sap certification fiori,1
+Other,sap certified application specialist,1
+Other,sap fiori certification,1
+Other,sbom,1
+Other,sca,1
+Other,scjp,1
+Other,scorecard,1
+Other,scorm,1
+Other,scrum master (csm/psm,1
+Other,scrum master certifications,1
+Other,scrummaster,1
+Other,scummaster,1
+Other,se,1
+Other,security frameworks,1
+Other,selenium webdriver,1
+Other,seo on-page,1
+Other,seo optimization,1
+Other,sha,1
+Other,si,1
+Other,side project,1
+Other,siem certification,1
+Other,sla,1
+Other,snowflake snowpro,1
+Other,soc 2,1
+Other,soc2,1
+Other,solidworks certifications,1
+Other,solution architect,1
+Other,solution aws architect professional,1
+Other,sop/wi,1
+Other,sow,1
+Other,soạn thảo tài liệu hướng dẫn sử dụng,1
+Other,specialist cho oracle database 12c,1
+Other,sql server,1
+Other,stlc,1
+Other,stride,1
+Other,subsidiary support frameworks,1
+Other,support dự án phát triển phần mềm,1
+Other,surfaceflinger,1
+Other,system analyst,1
+Other,system engineer,1
+Other,system enhancement,1
+Other,sản phẩm demo,1
+Other,tcvn,1
+Other,tcvn11930,1
+Other,technical certifications,1
+Other,technical leadership certification,1
+Other,technical operations,1
+Other,technical understanding,1
+Other,technology certifications,1
+Other,technology strategy,1
+Other,terraform associate,1
+Other,terraform professional certification,1
+Other,tham gia dự án thực tế,1
+Other,thiết kế kết cấu cơ khí,1
+Other,thiết kế điện,1
+Other,tiêu chuẩn an toàn điện,1
+Other,tiêu chuẩn attt,1
+Other,tm certification,1
+Other,toeic 500,1
+Other,toeic 650,1
+Other,togaf 9.x,1
+Other,top10 owasp,1
+Other,topik,1
+Other,topik 6,1
+Other,tr-398,1
+Other,triển khai giải pháp,1
+Other,triển khai lấy chứng chỉ cmmi,1
+Other,triển khai phần mềm,1
+Other,triển khai số hoá,1
+Other,ttl core,1
+Other,tài liệu presale,1
+Other,tích hợp native code (android/ios,1
+Other,tư vấn cntt,1
+Other,tư vấn kỹ thuật,1
+Other,tư vấn triển khai,1
+Other,tự động hoá quy trình,1
+Other,tự động hóa,1
+Other,uds iso144229,1
+Other,uml,1
+Other,v model,1
+Other,vcdx,1
+Other,vcp (vmware,1
+Other,veeam,1
+Other,vendor and procurement management,1
+Other,veritas,1
+Other,vibe code,1
+Other,vietnam pdpd,1
+Other,viết proposal,1
+Other,viết script,1
+Other,vmware vcp-dcv,1
+Other,vpc automation,1
+Other,vpc network and security,1
+Other,vpc vdc,1
+Other,vtu,1
+Other,vòng đời phát triển sản phẩm phần mềm,1
+Other,văn nghệ,1
+Other,wcag 2.1,1
+Other,web scraping,1
+Other,webp,1
+Other,windowmanagerservice,1
+Other,workday certification,1
+Other,xây dựng mobile apps,1
+Other,xây dựng rfp,1
+Other,xây dựng đề xuất kỹ thuật,1
+Other,xử lý âm thanh,1
+Other,ánh sáng,1
+Other,âm thanh – ánh sáng,1
+Other,đánh giá roi kỹ thuật,1
+Other,đóng góp cộng đồng,1
+Other,ứng dụng di động,1

@@ -1,0 +1,2468 @@
+category,normalized_skill,count
+Domain Knowledge,erp,161
+Domain Knowledge,ngân hàng,96
+Domain Knowledge,tài chính,91
+Domain Knowledge,fintech,84
+Domain Knowledge,crm,69
+Domain Knowledge,banking,66
+Domain Knowledge,saas,54
+Domain Knowledge,e-commerce,52
+Domain Knowledge,iot,43
+Domain Knowledge,ecommerce,31
+Domain Knowledge,logistics,31
+Domain Knowledge,backend,29
+Domain Knowledge,frontend,29
+Domain Knowledge,thương mại điện tử,29
+Domain Knowledge,finance,28
+Domain Knowledge,backend development,26
+Domain Knowledge,blockchain,26
+Domain Knowledge,financial services,26
+Domain Knowledge,chứng khoán,25
+Domain Knowledge,hrm,25
+Domain Knowledge,it,25
+Domain Knowledge,chuyển đổi số,24
+Domain Knowledge,viễn thông,24
+Domain Knowledge,sản xuất,23
+Domain Knowledge,cntt,21
+Domain Knowledge,nghiệp vụ ngân hàng,20
+Domain Knowledge,web development,19
+Domain Knowledge,marketing,18
+Domain Knowledge,tài chính ngân hàng,18
+Domain Knowledge,bảo hiểm,17
+Domain Knowledge,công nghệ thông tin,17
+Domain Knowledge,game,17
+Domain Knowledge,business analyst,16
+Domain Knowledge,ví điện tử,16
+Domain Knowledge,retail,15
+Domain Knowledge,ba,14
+Domain Knowledge,edtech,14
+Domain Knowledge,kế toán,14
+Domain Knowledge,mobile app,14
+Domain Knowledge,bất động sản,13
+Domain Knowledge,digital banking,13
+Domain Knowledge,phát triển phần mềm,13
+Domain Knowledge,core banking,12
+Domain Knowledge,dms,12
+Domain Knowledge,front-end,12
+Domain Knowledge,insurance,12
+Domain Knowledge,mes,12
+Domain Knowledge,mobile banking,12
+Domain Knowledge,presales,12
+Domain Knowledge,healthcare,11
+Domain Knowledge,brse,10
+Domain Knowledge,f&b,10
+Domain Knowledge,fmcg,10
+Domain Knowledge,fullstack,10
+Domain Knowledge,payment,10
+Domain Knowledge,phần mềm,10
+Domain Knowledge,back-end,9
+Domain Knowledge,game mobile,9
+Domain Knowledge,lms,9
+Domain Knowledge,pos,9
+Domain Knowledge,thanh toán,9
+Domain Knowledge,web3,9
+Domain Knowledge,bank,8
+Domain Knowledge,ble,8
+Domain Knowledge,bán lẻ,8
+Domain Knowledge,compliance,8
+Domain Knowledge,financial systems,8
+Domain Knowledge,frontend development,8
+Domain Knowledge,lập trình backend,8
+Domain Knowledge,lập trình web,8
+Domain Knowledge,manufacturing,8
+Domain Knowledge,product,8
+Domain Knowledge,quản lý kho,8
+Domain Knowledge,tài chính – ngân hàng,8
+Domain Knowledge,xây dựng,8
+Domain Knowledge,bim,7
+Domain Knowledge,cctv,7
+Domain Knowledge,digital marketing,7
+Domain Knowledge,digital transformation,7
+Domain Knowledge,ekyc,7
+Domain Knowledge,enterprise,7
+Domain Knowledge,giáo dục,7
+Domain Knowledge,hệ thống tài chính,7
+Domain Knowledge,iap,7
+Domain Knowledge,payment gateway,7
+Domain Knowledge,phát triển ứng dụng web,7
+Domain Knowledge,presale,7
+Domain Knowledge,product owner,7
+Domain Knowledge,puzzle,7
+Domain Knowledge,quản trị rủi ro,7
+Domain Knowledge,web,7
+Domain Knowledge,y tế,7
+Domain Knowledge,b2b saas,6
+Domain Knowledge,b2c,6
+Domain Knowledge,bán hàng,6
+Domain Knowledge,game mechanics,6
+Domain Knowledge,hệ thống erp,6
+Domain Knowledge,internet banking,6
+Domain Knowledge,inventory,6
+Domain Knowledge,lending,6
+Domain Knowledge,los,6
+Domain Knowledge,marketplace,6
+Domain Knowledge,monetization,6
+Domain Knowledge,phát triển backend,6
+Domain Knowledge,quản trị doanh nghiệp,6
+Domain Knowledge,tmđt,6
+Domain Knowledge,tổ chức tài chính,6
+Domain Knowledge,tự động hóa,6
+Domain Knowledge,video streaming,6
+Domain Knowledge,web applications,6
+Domain Knowledge,ai,5
+Domain Knowledge,audio,5
+Domain Knowledge,automotive,5
+Domain Knowledge,bluetooth,5
+Domain Knowledge,chăm sóc khách hàng,5
+Domain Knowledge,crypto,5
+Domain Knowledge,defi,5
+Domain Knowledge,full-stack,5
+Domain Knowledge,information security,5
+Domain Knowledge,it business analyst,5
+Domain Knowledge,loyalty,5
+Domain Knowledge,mobile apps,5
+Domain Knowledge,mrp,5
+Domain Knowledge,ngân hàng/tài chính,5
+Domain Knowledge,outsourcing,5
+Domain Knowledge,payment systems,5
+Domain Knowledge,phát triển web,5
+Domain Knowledge,phát triển ứng dụng,5
+Domain Knowledge,quản lý bán hàng,5
+Domain Knowledge,software development,5
+Domain Knowledge,trading,5
+Domain Knowledge,triển khai erp,5
+Domain Knowledge,tài chính/ngân hàng,5
+Domain Knowledge,web application development,5
+Domain Knowledge,aml,4
+Domain Knowledge,android development,4
+Domain Knowledge,automation,4
+Domain Knowledge,banking/financial services,4
+Domain Knowledge,bpm,4
+Domain Knowledge,bđs,4
+Domain Knowledge,chuỗi cung ứng,4
+Domain Knowledge,chính phủ,4
+Domain Knowledge,cấu trúc bài thi (ielts/toeic,4
+Domain Knowledge,digital,4
+Domain Knowledge,enterprise platforms,4
+Domain Knowledge,enterprise software,4
+Domain Knowledge,erp systems,4
+Domain Knowledge,fe,4
+Domain Knowledge,fullstack developer,4
+Domain Knowledge,game 3d,4
+Domain Knowledge,game development,4
+Domain Knowledge,giải pháp chuyển đổi số doanh nghiệp,4
+Domain Knowledge,giảng dạy ngôn ngữ anh,4
+Domain Knowledge,his,4
+Domain Knowledge,hr,4
+Domain Knowledge,hạ tầng,4
+Domain Knowledge,hệ thống cntt,4
+Domain Knowledge,hệ thống ngân hàng,4
+Domain Knowledge,hệ thống thông tin,4
+Domain Knowledge,it outsourcing,4
+Domain Knowledge,kinh doanh,4
+Domain Knowledge,lis,4
+Domain Knowledge,marketing automation,4
+Domain Knowledge,metaverse,4
+Domain Knowledge,mobile,4
+Domain Knowledge,mobile game,4
+Domain Knowledge,mua hàng,4
+Domain Knowledge,nghiệp vụ tài chính ngân hàng,4
+Domain Knowledge,ngân hàng - tài chính,4
+Domain Knowledge,phân phối,4
+Domain Knowledge,phân tích game,4
+Domain Knowledge,phần mềm kế toán,4
+Domain Knowledge,phần mềm quản lý,4
+Domain Knowledge,product management,4
+Domain Knowledge,proptech,4
+Domain Knowledge,quy trình nghiệp vụ,4
+Domain Knowledge,"quy định pháp lý, đạo đức liên quan đến ai",4
+Domain Knowledge,quản lý doanh nghiệp,4
+Domain Knowledge,risk management,4
+Domain Knowledge,robotics,4
+Domain Knowledge,sales,4
+Domain Knowledge,seo,4
+Domain Knowledge,si projects,4
+Domain Knowledge,smart contract,4
+Domain Knowledge,subscription,4
+Domain Knowledge,supply chain,4
+Domain Knowledge,system integration,4
+Domain Knowledge,sản phẩm số,4
+Domain Knowledge,thanh toán điện tử,4
+Domain Knowledge,thương mại,4
+Domain Knowledge,tài chính - ngân hàng,4
+Domain Knowledge,tư vấn giải pháp,4
+Domain Knowledge,vận hành,4
+Domain Knowledge,web app,4
+Domain Knowledge,web technologies,4
+Domain Knowledge,wms,4
+Domain Knowledge,điện tử,4
+Domain Knowledge,đấu thầu,4
+Domain Knowledge,accounting,3
+Domain Knowledge,adas,3
+Domain Knowledge,amr,3
+Domain Knowledge,android application development,3
+Domain Knowledge,android automotive,3
+Domain Knowledge,app,3
+Domain Knowledge,automotive domain,3
+Domain Knowledge,back-end development,3
+Domain Knowledge,backend developer,3
+Domain Knowledge,backend engineering,3
+Domain Knowledge,bank data,3
+Domain Knowledge,bank general,3
+Domain Knowledge,bank projects,3
+Domain Knowledge,banking domain,3
+Domain Knowledge,banking or financial sector,3
+Domain Knowledge,bảo mật dữ liệu,3
+Domain Knowledge,casual,3
+Domain Knowledge,cdp,3
+Domain Knowledge,chuỗi bán lẻ,3
+Domain Knowledge,chính phủ điện tử,3
+Domain Knowledge,consulting,3
+Domain Knowledge,contracts,3
+Domain Knowledge,corebanking,3
+Domain Knowledge,corebanking (t24,3
+Domain Knowledge,cybersecurity,3
+Domain Knowledge,công nghệ,3
+Domain Knowledge,công nghệ giáo dục,3
+Domain Knowledge,delivery,3
+Domain Knowledge,dicom,3
+Domain Knowledge,dịch vụ,3
+Domain Knowledge,dịch vụ cntt,3
+Domain Knowledge,dự án chuyển đổi số,3
+Domain Knowledge,dự án cntt,3
+Domain Knowledge,dự án khối chính phủ,3
+Domain Knowledge,dự án đầu tư công,3
+Domain Knowledge,education,3
+Domain Knowledge,ehr,3
+Domain Knowledge,emr,3
+Domain Knowledge,energy,3
+Domain Knowledge,enterprise it,3
+Domain Knowledge,financial,3
+Domain Knowledge,full stack developer,3
+Domain Knowledge,full stack development,3
+Domain Knowledge,full-stack development,3
+Domain Knowledge,functional safety,3
+Domain Knowledge,game bắn súng,3
+Domain Knowledge,game casual,3
+Domain Knowledge,game casual/puzzle,3
+Domain Knowledge,game designer,3
+Domain Knowledge,game puzzle,3
+Domain Knowledge,gaming,3
+Domain Knowledge,healthcare it,3
+Domain Knowledge,hls,3
+Domain Knowledge,hybrid casual,3
+Domain Knowledge,hóa đơn điện tử,3
+Domain Knowledge,hệ thống phần mềm y tế,3
+Domain Knowledge,in-app purchase,3
+Domain Knowledge,information technology,3
+Domain Knowledge,it risk,3
+Domain Knowledge,kho vận,3
+Domain Knowledge,khách sạn,3
+Domain Knowledge,kinh tế,3
+Domain Knowledge,ltv,3
+Domain Knowledge,lĩnh vực y tế,3
+Domain Knowledge,marketplace platforms,3
+Domain Knowledge,mobile attribution,3
+Domain Knowledge,multiplayer,3
+Domain Knowledge,napas,3
+Domain Knowledge,nền tảng số,3
+Domain Knowledge,omnichannel,3
+Domain Knowledge,open banking,3
+Domain Knowledge,operations,3
+Domain Knowledge,ott,3
+Domain Knowledge,pacs,3
+Domain Knowledge,payment gateways,3
+Domain Knowledge,pháp lý liên quan đến đấu thầu,3
+Domain Knowledge,phát triển frontend,3
+Domain Knowledge,phát triển sản phẩm,3
+Domain Knowledge,phát triển sản phẩm mobile app,3
+Domain Knowledge,phát triển website,3
+Domain Knowledge,phân tích kinh doanh,3
+Domain Knowledge,playable ads,3
+Domain Knowledge,pre-sales,3
+Domain Knowledge,quy trình nghiệp vụ ngành xây dựng,3
+Domain Knowledge,real-time systems,3
+Domain Knowledge,recordings,3
+Domain Knowledge,sap,3
+Domain Knowledge,securities,3
+Domain Knowledge,security,3
+Domain Knowledge,soc,3
+Domain Knowledge,social,3
+Domain Knowledge,system integration – si,3
+Domain Knowledge,tech,3
+Domain Knowledge,telco,3
+Domain Knowledge,thanh toán trực tuyến,3
+Domain Knowledge,thiết kế game,3
+Domain Knowledge,thị trường game,3
+Domain Knowledge,thị trường game mobile,3
+Domain Knowledge,"tài chính, ngân hàng",3
+Domain Knowledge,video call,3
+Domain Knowledge,voice call,3
+Domain Knowledge,vận hành game,3
+Domain Knowledge,web application,3
+Domain Knowledge,workflow,3
+Domain Knowledge,điện,3
+Domain Knowledge,ứng dụng ngân hàng,3
+Domain Knowledge,4g,2
+Domain Knowledge,ad monetization,2
+Domain Knowledge,ads monetization,2
+Domain Knowledge,advertising,2
+Domain Knowledge,agv,2
+Domain Knowledge,ai domain,2
+Domain Knowledge,ai trong marketing,2
+Domain Knowledge,ai/ml projects,2
+Domain Knowledge,am hiểu thị trường game,2
+Domain Knowledge,an toàn thông tin,2
+Domain Knowledge,antt,2
+Domain Knowledge,asset management,2
+Domain Knowledge,attt,2
+Domain Knowledge,automotive software development,2
+Domain Knowledge,aviation,2
+Domain Knowledge,b2b business domain,2
+Domain Knowledge,back-end developer,2
+Domain Knowledge,back-end web development,2
+Domain Knowledge,backend software development,2
+Domain Knowledge,backoffice tools,2
+Domain Knowledge,banking operations,2
+Domain Knowledge,banking products,2
+Domain Knowledge,be,2
+Domain Knowledge,bfsi,2
+Domain Knowledge,bioinformatics,2
+Domain Knowledge,bitcoin,2
+Domain Knowledge,bom,2
+Domain Knowledge,booking,2
+Domain Knowledge,business,2
+Domain Knowledge,business analysis,2
+Domain Knowledge,business workflow,2
+Domain Knowledge,bán hàng online,2
+Domain Knowledge,báo cáo tuân thủ,2
+Domain Knowledge,bảo mật,2
+Domain Knowledge,bảo mật thông tin,2
+Domain Knowledge,call center,2
+Domain Knowledge,card,2
+Domain Knowledge,card management systems,2
+Domain Knowledge,cash management,2
+Domain Knowledge,chat realtime,2
+Domain Knowledge,chatbot,2
+Domain Knowledge,chơi game,2
+Domain Knowledge,clinical workflows,2
+Domain Knowledge,cms,2
+Domain Knowledge,collection,2
+Domain Knowledge,commerce platforms,2
+Domain Knowledge,compliance frameworks,2
+Domain Knowledge,compliance requirements,2
+Domain Knowledge,construction tech,2
+Domain Knowledge,core,2
+Domain Knowledge,core banking systems,2
+Domain Knowledge,core loop,2
+Domain Knowledge,corebanking t24,2
+Domain Knowledge,crm systems,2
+Domain Knowledge,cskh,2
+Domain Knowledge,cxm,2
+Domain Knowledge,công nghệ giáo dục (edtech,2
+Domain Knowledge,dash,2
+Domain Knowledge,data,2
+Domain Knowledge,data analyst,2
+Domain Knowledge,data engineer,2
+Domain Knowledge,data science,2
+Domain Knowledge,desktop applications,2
+Domain Knowledge,developer,2
+Domain Knowledge,digital products,2
+Domain Knowledge,digital twin,2
+Domain Knowledge,doanh nghiệp số,2
+Domain Knowledge,dược phẩm,2
+Domain Knowledge,dịch vụ tài chính ngân hàng,2
+Domain Knowledge,dữ liệu tài chính,2
+Domain Knowledge,dữ liệu viễn thông,2
+Domain Knowledge,dự án nhà nước,2
+Domain Knowledge,dự án phần mềm,2
+Domain Knowledge,dự án tích hợp hệ thống,2
+Domain Knowledge,e-commerce platforms,2
+Domain Knowledge,e-wallet,2
+Domain Knowledge,edu,2
+Domain Knowledge,ehr/emr,2
+Domain Knowledge,elv,2
+Domain Knowledge,embedded systems,2
+Domain Knowledge,employer branding,2
+Domain Knowledge,engagement,2
+Domain Knowledge,engineering,2
+Domain Knowledge,enterprise b2b systems,2
+Domain Knowledge,enterprise systems,2
+Domain Knowledge,erp consultant,2
+Domain Knowledge,fico,2
+Domain Knowledge,finance/banking domain,2
+Domain Knowledge,fintech platforms,2
+Domain Knowledge,fix protocol,2
+Domain Knowledge,front-end development,2
+Domain Knowledge,frontend technologies,2
+Domain Knowledge,full-stack web development,2
+Domain Knowledge,fullstack development,2
+Domain Knowledge,functional consultant,2
+Domain Knowledge,game balancing,2
+Domain Knowledge,game design,2
+Domain Knowledge,gdpr,2
+Domain Knowledge,giao dịch tài chính,2
+Domain Knowledge,giải pháp ứng dụng cntt,2
+Domain Knowledge,gnss,2
+Domain Knowledge,health informatics,2
+Domain Knowledge,healthcare data,2
+Domain Knowledge,hfp,2
+Domain Knowledge,home automation,2
+Domain Knowledge,hospital information systems,2
+Domain Knowledge,hospitality,2
+Domain Knowledge,hybrid app development,2
+Domain Knowledge,hybrid-monetization,2
+Domain Knowledge,hàng không,2
+Domain Knowledge,hạ tầng giao thông,2
+Domain Knowledge,hệ thống doanh nghiệp,2
+Domain Knowledge,hệ thống giao dịch,2
+Domain Knowledge,hệ thống iot,2
+Domain Knowledge,hệ thống it,2
+Domain Knowledge,"hệ thống ngân hàng, tài chính",2
+Domain Knowledge,hệ thống phần mềm,2
+Domain Knowledge,hệ thống quản lý kho (wms,2
+Domain Knowledge,hệ thống quản trị doanh nghiệp,2
+Domain Knowledge,hệ thống tự động hóa,2
+Domain Knowledge,hệ thống web,2
+Domain Knowledge,hệ thống yêu cầu bảo mật cao,2
+Domain Knowledge,ibm,2
+Domain Knowledge,idle rpg,2
+Domain Knowledge,in ấn,2
+Domain Knowledge,insurtech,2
+Domain Knowledge,internal tools,2
+Domain Knowledge,investment,2
+Domain Knowledge,it comtor,2
+Domain Knowledge,ito,2
+Domain Knowledge,japanese market,2
+Domain Knowledge,kho bãi,2
+Domain Knowledge,khoa học máy tính,2
+Domain Knowledge,khối chính phủ,2
+Domain Knowledge,kiểm toán,2
+Domain Knowledge,launchpad,2
+Domain Knowledge,liveops,2
+Domain Knowledge,loan product workflows,2
+Domain Knowledge,lora,2
+Domain Knowledge,luật đấu thầu,2
+Domain Knowledge,làm game,2
+Domain Knowledge,làm game mobile,2
+Domain Knowledge,làm tại các công ty outsourcing thị trường nhật,2
+Domain Knowledge,làm việc tại nhật,2
+Domain Knowledge,lĩnh vực phần mềm,2
+Domain Knowledge,lập trình bảo mật ios,2
+Domain Knowledge,lập trình front-end,2
+Domain Knowledge,lập trình frontend,2
+Domain Knowledge,lập trình game,2
+Domain Knowledge,management consulting,2
+Domain Knowledge,market microstructure,2
+Domain Knowledge,market research,2
+Domain Knowledge,match-3,2
+Domain Knowledge,media streaming,2
+Domain Knowledge,medical/dental domain,2
+Domain Knowledge,misa,2
+Domain Knowledge,mobile application security,2
+Domain Knowledge,mobile applications,2
+Domain Knowledge,mobile security,2
+Domain Knowledge,multi-tenant saas,2
+Domain Knowledge,mạng viễn thông,2
+Domain Knowledge,nghiên cứu thị trường,2
+Domain Knowledge,nghiệp vụ kế toán,2
+Domain Knowledge,ngành game,2
+Domain Knowledge,ngân hàng số,2
+Domain Knowledge,ngân hàng tài chính,2
+Domain Knowledge,"ngân hàng, tài chính",2
+Domain Knowledge,nhà máy,2
+Domain Knowledge,nhân sự,2
+Domain Knowledge,nền tảng giao dịch,2
+Domain Knowledge,oil and gas,2
+Domain Knowledge,oms,2
+Domain Knowledge,order fulfillment,2
+Domain Knowledge,payment processing,2
+Domain Knowledge,payments,2
+Domain Knowledge,performance marketing,2
+Domain Knowledge,photo,2
+Domain Knowledge,physics,2
+Domain Knowledge,phát triển front-end,2
+Domain Knowledge,phát triển full◦ stack,2
+Domain Knowledge,phát triển game,2
+Domain Knowledge,phát triển game mobile,2
+Domain Knowledge,phát triển ứng dụng backend,2
+Domain Knowledge,phân tích thị trường,2
+Domain Knowledge,phần mềm doanh nghiệp,2
+Domain Knowledge,phần mềm quản lý bán hàng,2
+Domain Knowledge,phần mềm quản lý bán lẻ,2
+Domain Knowledge,phần mềm quản lý bệnh viện,2
+Domain Knowledge,phần mềm quản trị,2
+Domain Knowledge,phần mềm quản trị doanh nghiệp,2
+Domain Knowledge,phần mềm ô tô,2
+Domain Knowledge,pms,2
+Domain Knowledge,po,2
+Domain Knowledge,portfolio optimization,2
+Domain Knowledge,product operations,2
+Domain Knowledge,progression systems,2
+Domain Knowledge,quy trình sản xuất,2
+Domain Knowledge,quy trình vận hành doanh nghiệp,2
+Domain Knowledge,quản lý công việc,2
+Domain Knowledge,quản lý dự án,2
+Domain Knowledge,quản lý dự án it,2
+Domain Knowledge,quản lý hợp đồng,2
+Domain Knowledge,quản lý kho vận,2
+Domain Knowledge,quản lý rủi ro tín dụng,2
+Domain Knowledge,quản trị tài chính doanh nghiệp,2
+Domain Knowledge,quảng cáo,2
+Domain Knowledge,r&d,2
+Domain Knowledge,reconciliation,2
+Domain Knowledge,regulatory compliance,2
+Domain Knowledge,retention,2
+Domain Knowledge,ris,2
+Domain Knowledge,risk control,2
+Domain Knowledge,robot,2
+Domain Knowledge,robot công nghiệp,2
+Domain Knowledge,rpa,2
+Domain Knowledge,rtsp,2
+Domain Knowledge,saas platforms,2
+Domain Knowledge,sale,2
+Domain Knowledge,sap erp,2
+Domain Knowledge,scm,2
+Domain Knowledge,security operations,2
+Domain Knowledge,semiconductor,2
+Domain Knowledge,sip,2
+Domain Knowledge,smart building,2
+Domain Knowledge,smart city,2
+Domain Knowledge,social media,2
+Domain Knowledge,social network,2
+Domain Knowledge,spp,2
+Domain Knowledge,super app,2
+Domain Knowledge,supply chain finance,2
+Domain Knowledge,swift,2
+Domain Knowledge,sàn tmđt,2
+Domain Knowledge,sản phầm công nghệ thông tin,2
+Domain Knowledge,sản phẩm công nghệ,2
+Domain Knowledge,sản phẩm tài chính,2
+Domain Knowledge,telecom,2
+Domain Knowledge,telecommunication,2
+Domain Knowledge,thị trường chứng khoán,2
+Domain Knowledge,thủ tục tham gia đấu thầu,2
+Domain Knowledge,trade finance,2
+Domain Knowledge,trading platforms,2
+Domain Knowledge,treasury,2
+Domain Knowledge,triển khai phần mềm doanh nghiệp,2
+Domain Knowledge,triển khai phần mềm quản trị doanh nghiệp,2
+Domain Knowledge,trung gian thanh toán,2
+Domain Knowledge,truyền hình số,2
+Domain Knowledge,truyền thông,2
+Domain Knowledge,trải nghiệm khách hàng,2
+Domain Knowledge,tài chính số,2
+Domain Knowledge,tài chính tiêu dùng,2
+Domain Knowledge,tài chính – chứng khoán,2
+Domain Knowledge,tín dụng,2
+Domain Knowledge,tư vấn,2
+Domain Knowledge,tự động hóa công nghiệp,2
+Domain Knowledge,ua,2
+Domain Knowledge,user acquisition,2
+Domain Knowledge,utilities,2
+Domain Knowledge,utility,2
+Domain Knowledge,video,2
+Domain Knowledge,voip,2
+Domain Knowledge,vận hành hệ thống truyền hình,2
+Domain Knowledge,vận tải,2
+Domain Knowledge,warehouse,2
+Domain Knowledge,web-based applications,2
+Domain Knowledge,website,2
+Domain Knowledge,wi-fi,2
+Domain Knowledge,workflow automation,2
+Domain Knowledge,xe điện,2
+Domain Knowledge,zigbee,2
+Domain Knowledge,ô tô,2
+Domain Knowledge,điện nhẹ,2
+Domain Knowledge,điện- điện tử viễn thông,2
+Domain Knowledge,đánh giá game,2
+Domain Knowledge,ứng dụng mobile,2
+Domain Knowledge,,1
+Domain Knowledge,0-to-1 product lifecycle,1
+Domain Knowledge,3d gameplay,1
+Domain Knowledge,3pl,1
+Domain Knowledge,4g/5g,1
+Domain Knowledge,5g,1
+Domain Knowledge,acces control,1
+Domain Knowledge,access control,1
+Domain Knowledge,accounting principles,1
+Domain Knowledge,accounting systems,1
+Domain Knowledge,accounting/finance,1
+Domain Knowledge,accounting/finance best practices,1
+Domain Knowledge,accounting/ledger systems,1
+Domain Knowledge,acs,1
+Domain Knowledge,action,1
+Domain Knowledge,ad attack,1
+Domain Knowledge,ad network,1
+Domain Knowledge,admin dashboards,1
+Domain Knowledge,adnetwork,1
+Domain Knowledge,ads tech,1
+Domain Knowledge,aftermarket parts,1
+Domain Knowledge,agency,1
+Domain Knowledge,agency field,1
+Domain Knowledge,agency quảng cáo sáng tạo,1
+Domain Knowledge,ai application,1
+Domain Knowledge,ai applications,1
+Domain Knowledge,ai product integration,1
+Domain Knowledge,ai saas,1
+Domain Knowledge,ai service,1
+Domain Knowledge,ai systems,1
+Domain Knowledge,ai trong sản xuất anime,1
+Domain Knowledge,ai y tế,1
+Domain Knowledge,ai ứng dụng trong sản phẩm,1
+Domain Knowledge,ai-assisted software development,1
+Domain Knowledge,ai-driven products,1
+Domain Knowledge,ai/automation,1
+Domain Knowledge,airline systems,1
+Domain Knowledge,algorithmic trading,1
+Domain Knowledge,am hiểu nhiều văn hóa,1
+Domain Knowledge,amadeus,1
+Domain Knowledge,an ninh,1
+Domain Knowledge,an ninh giám sát,1
+Domain Knowledge,an ninh quốc phòng,1
+Domain Knowledge,an ninh viễn thông,1
+Domain Knowledge,an toan thông tin,1
+Domain Knowledge,an toàn bảo mật cho ứng dụng mobile,1
+Domain Knowledge,an toàn thông tin trong lĩnh vực y tế,1
+Domain Knowledge,an toàn điện,1
+Domain Knowledge,analyst,1
+Domain Knowledge,analytical domain,1
+Domain Knowledge,android application layer,1
+Domain Knowledge,android bluetooth structures,1
+Domain Knowledge,android developer,1
+Domain Knowledge,android multiple users,1
+Domain Knowledge,android security,1
+Domain Knowledge,android service layer,1
+Domain Knowledge,android-based ivi,1
+Domain Knowledge,animation/video domain,1
+Domain Knowledge,annotation,1
+Domain Knowledge,aosp,1
+Domain Knowledge,aov,1
+Domain Knowledge,apac payment ecosystems,1
+Domain Knowledge,api thương mại điện tử,1
+Domain Knowledge,api/web development,1
+Domain Knowledge,app giao dịch chứng khoán,1
+Domain Knowledge,app ios,1
+Domain Knowledge,app mobile,1
+Domain Knowledge,app monetization,1
+Domain Knowledge,app studios,1
+Domain Knowledge,app trên mobile,1
+Domain Knowledge,app tài chính,1
+Domain Knowledge,app/web học ngoại ngữ,1
+Domain Knowledge,application security,1
+Domain Knowledge,ar,1
+Domain Knowledge,ar/vr,1
+Domain Knowledge,architecture/construction industry,1
+Domain Knowledge,aso,1
+Domain Knowledge,atv stb,1
+Domain Knowledge,audio specifications,1
+Domain Knowledge,audio/photo/video codec,1
+Domain Knowledge,audit in it industry,1
+Domain Knowledge,audit procedures,1
+Domain Knowledge,audit processes,1
+Domain Knowledge,audit requirements,1
+Domain Knowledge,audit trail,1
+Domain Knowledge,audit/gxp concepts,1
+Domain Knowledge,auditing methods and techniques,1
+Domain Knowledge,australian banks,1
+Domain Knowledge,automation cho doanh nghiệp,1
+Domain Knowledge,automation projects,1
+Domain Knowledge,automation system,1
+Domain Knowledge,automation systems,1
+Domain Knowledge,automation workflow,1
+Domain Knowledge,automotive ai,1
+Domain Knowledge,automotive electronics,1
+Domain Knowledge,automotive embedded,1
+Domain Knowledge,automotive embedded system,1
+Domain Knowledge,automotive engineering,1
+Domain Knowledge,automotive projects,1
+Domain Knowledge,automotive sw,1
+Domain Knowledge,automotive systems,1
+Domain Knowledge,automotive technology,1
+Domain Knowledge,automotive ux,1
+Domain Knowledge,autonomous systems,1
+Domain Knowledge,autotech,1
+Domain Knowledge,aviation domain,1
+Domain Knowledge,b2b,1
+Domain Knowledge,b2b marketplace,1
+Domain Knowledge,b2b sales,1
+Domain Knowledge,b2b/saas products,1
+Domain Knowledge,b2e products,1
+Domain Knowledge,ba phần mềm,1
+Domain Knowledge,ba phần mềm nghiệp vụ,1
+Domain Knowledge,ba/consultant,1
+Domain Knowledge,ba/it po,1
+Domain Knowledge,ba/product analyst,1
+Domain Knowledge,baas,1
+Domain Knowledge,back end development,1
+Domain Knowledge,back office,1
+Domain Knowledge,backend api,1
+Domain Knowledge,backend api/system,1
+Domain Knowledge,backend cho game,1
+Domain Knowledge,backend systems,1
+Domain Knowledge,backend/system development,1
+Domain Knowledge,backup solutions,1
+Domain Knowledge,bakery,1
+Domain Knowledge,banking /fintech,1
+Domain Knowledge,banking and finance industry,1
+Domain Knowledge,banking data model,1
+Domain Knowledge,banking domains,1
+Domain Knowledge,banking or financial services domain,1
+Domain Knowledge,banking security standards,1
+Domain Knowledge,banking systems,1
+Domain Knowledge,banking testing,1
+Domain Knowledge,banking/finance,1
+Domain Knowledge,banking/tài chính,1
+Domain Knowledge,banks,1
+Domain Knowledge,bao bì giấy,1
+Domain Knowledge,base,1
+Domain Knowledge,beauty,1
+Domain Knowledge,bhnt,1
+Domain Knowledge,bi developer,1
+Domain Knowledge,bidding,1
+Domain Knowledge,big4 firms,1
+Domain Knowledge,billing,1
+Domain Knowledge,biomedical,1
+Domain Knowledge,biotech,1
+Domain Knowledge,biz app,1
+Domain Knowledge,blockchain/dlt,1
+Domain Knowledge,blockchain/tokenization,1
+Domain Knowledge,blockchain/web3,1
+Domain Knowledge,bluetooth (ble,1
+Domain Knowledge,bluetooth classic,1
+Domain Knowledge,bluetooth stack,1
+Domain Knowledge,bom creation,1
+Domain Knowledge,bonding curve,1
+Domain Knowledge,booking engines,1
+Domain Knowledge,booking hotels,1
+Domain Knowledge,booking-site,1
+Domain Knowledge,boolean search,1
+Domain Knowledge,bpm/workflow systems,1
+Domain Knowledge,braking systems,1
+Domain Knowledge,brand management,1
+Domain Knowledge,bravo,1
+Domain Knowledge,broadband product software features,1
+Domain Knowledge,btob applications,1
+Domain Knowledge,bug bounty,1
+Domain Knowledge,business automation,1
+Domain Knowledge,business case,1
+Domain Knowledge,business continuity management,1
+Domain Knowledge,business continuity planning,1
+Domain Knowledge,business development,1
+Domain Knowledge,business information systems,1
+Domain Knowledge,business intelligence,1
+Domain Knowledge,business model,1
+Domain Knowledge,business operations,1
+Domain Knowledge,business partner,1
+Domain Knowledge,bài toán tài chính,1
+Domain Knowledge,bán gói offer,1
+Domain Knowledge,bán hàng (hệ thống pos,1
+Domain Knowledge,bán lẻ (retail,1
+Domain Knowledge,bán lẻ/e-commerce,1
+Domain Knowledge,bóc tách gameplay,1
+Domain Knowledge,bóng đá,1
+Domain Knowledge,bản vẽ kỹ thuật,1
+Domain Knowledge,bản đồ số,1
+Domain Knowledge,bảo hiểm số,1
+Domain Knowledge,bảo mật dữ liệu y tế,1
+Domain Knowledge,bảo mật ngân hàng,1
+Domain Knowledge,bảo mật trong ngành tài chính,1
+Domain Knowledge,bảo mật trên di động,1
+Domain Knowledge,bảo mật web,1
+Domain Knowledge,bảo mật ứng dụng di động,1
+Domain Knowledge,bảo trì – bảo dưỡng thiết bị công nghiệp,1
+Domain Knowledge,bất động sản thông minh,1
+Domain Knowledge,bệnh viện,1
+Domain Knowledge,cac,1
+Domain Knowledge,camera công nghiệp,1
+Domain Knowledge,camera systems,1
+Domain Knowledge,camera/video,1
+Domain Knowledge,campaign management system,1
+Domain Knowledge,capital markets,1
+Domain Knowledge,card management,1
+Domain Knowledge,cards,1
+Domain Knowledge,cashback,1
+Domain Knowledge,casual and puzzle games,1
+Domain Knowledge,casual games,1
+Domain Knowledge,casual puzzle,1
+Domain Knowledge,casual simulation,1
+Domain Knowledge,casual/puzzle/match-3,1
+Domain Knowledge,category management,1
+Domain Knowledge,catering apps,1
+Domain Knowledge,cell therapy,1
+Domain Knowledge,channel management,1
+Domain Knowledge,chiến thuật theo lượt,1
+Domain Knowledge,cho vay,1
+Domain Knowledge,chu kỳ thanh toán,1
+Domain Knowledge,chuyển dịch công nghệ,1
+Domain Knowledge,chuyển giao phần mềm,1
+Domain Knowledge,chuyển phát nhanh,1
+Domain Knowledge,chuyển đổi cloud/ai,1
+Domain Knowledge,chuyển đổi số cho ngân hàng,1
+Domain Knowledge,chuyển đổi số doanh nghiệp,1
+Domain Knowledge,chuyển đổi số dữ liệu,1
+Domain Knowledge,chuyển đổi số trong giáo dục,1
+Domain Knowledge,chuẩn dữ liệu tài chính,1
+Domain Knowledge,chuẩn hóa quy trình bán hàng,1
+Domain Knowledge,chuẩn mực kế toán vn,1
+Domain Knowledge,chuẩn tài chính ngân hàng,1
+Domain Knowledge,chuỗi cửa hàng – đa chi nhánh,1
+Domain Knowledge,chuỗi siêu thị,1
+Domain Knowledge,chăm sóc sức khỏe,1
+Domain Knowledge,chạy ads,1
+Domain Knowledge,chấm điểm tín dụng,1
+Domain Knowledge,chất lượng dữ liệu,1
+Domain Knowledge,chẩn đoán bệnh thú y,1
+Domain Knowledge,chẩn đoán hình ảnh,1
+Domain Knowledge,chế tạo máy cn,1
+Domain Knowledge,chỉ số vận hành game,1
+Domain Knowledge,chỉnh lý,1
+Domain Knowledge,chỉnh lý tài liệu,1
+Domain Knowledge,chữ ký số,1
+Domain Knowledge,cisco,1
+Domain Knowledge,citad,1
+Domain Knowledge,civil engineering software,1
+Domain Knowledge,claim automation,1
+Domain Knowledge,cleanroom,1
+Domain Knowledge,clinical data analytics,1
+Domain Knowledge,cloud partner/si/consulting,1
+Domain Knowledge,cloud/it services,1
+Domain Knowledge,cmms/eam,1
+Domain Knowledge,cnc machining,1
+Domain Knowledge,cntt/attt,1
+Domain Knowledge,cntt/hệ thống,1
+Domain Knowledge,coaching tools,1
+Domain Knowledge,coding cho crypto,1
+Domain Knowledge,combat design,1
+Domain Knowledge,command center,1
+Domain Knowledge,commerce,1
+Domain Knowledge,commercial planning,1
+Domain Knowledge,communication,1
+Domain Knowledge,communications and rf systems,1
+Domain Knowledge,competitive market sizing,1
+Domain Knowledge,compromise assessment,1
+Domain Knowledge,computational biology,1
+Domain Knowledge,computational platforms,1
+Domain Knowledge,computer science,1
+Domain Knowledge,computer system auditing,1
+Domain Knowledge,consensus,1
+Domain Knowledge,construction/infrastructure sector,1
+Domain Knowledge,construction/proptech,1
+Domain Knowledge,construction/proptech domains,1
+Domain Knowledge,consult sd processes,1
+Domain Knowledge,consumer applications,1
+Domain Knowledge,consumer electronic distributor/retailer,1
+Domain Knowledge,consumer finance,1
+Domain Knowledge,consumer loan,1
+Domain Knowledge,consumer products,1
+Domain Knowledge,consumer-facing digital products,1
+Domain Knowledge,contact center,1
+Domain Knowledge,contact centers,1
+Domain Knowledge,content,1
+Domain Knowledge,content admin,1
+Domain Knowledge,content pipelines,1
+Domain Knowledge,content platforms,1
+Domain Knowledge,content safety,1
+Domain Knowledge,content-related,1
+Domain Knowledge,continuous auditing,1
+Domain Knowledge,conversational ai,1
+Domain Knowledge,conversion rate,1
+Domain Knowledge,core bank,1
+Domain Knowledge,core banking integration,1
+Domain Knowledge,core banking platforms,1
+Domain Knowledge,core banking system,1
+Domain Knowledge,core banking t24,1
+Domain Knowledge,core bảo hiểm,1
+Domain Knowledge,core chứng khoán,1
+Domain Knowledge,core game loop,1
+Domain Knowledge,core securities,1
+Domain Knowledge,core systems in financial services,1
+Domain Knowledge,core t24,1
+Domain Knowledge,core trái phiếu,1
+Domain Knowledge,core tài chính,1
+Domain Knowledge,corebank,1
+Domain Knowledge,corporate banking,1
+Domain Knowledge,cosmetics,1
+Domain Knowledge,cost estimation,1
+Domain Knowledge,cpe device,1
+Domain Knowledge,cr,1
+Domain Knowledge,creative,1
+Domain Knowledge,credit scoring,1
+Domain Knowledge,critical infrastructure,1
+Domain Knowledge,crm (customer relationship management,1
+Domain Knowledge,crm platforms,1
+Domain Knowledge,crm software,1
+Domain Knowledge,crms,1
+Domain Knowledge,cross- web apps,1
+Domain Knowledge,cryptography,1
+Domain Knowledge,ctf,1
+Domain Knowledge,cung ứng thiết bị cho khối bệnh viện,1
+Domain Knowledge,cung ứng thiết bị cho khối khách sạn,1
+Domain Knowledge,customer 360,1
+Domain Knowledge,customer behavior,1
+Domain Knowledge,customer journey,1
+Domain Knowledge,customer platforms,1
+Domain Knowledge,customer-facing digital channel projects,1
+Domain Knowledge,customizing and developing odoo modules,1
+Domain Knowledge,cyber kill chain,1
+Domain Knowledge,cybersecurity frameworks,1
+Domain Knowledge,các biểu mẫu dự toán theo quy định,1
+Domain Knowledge,các chỉ số sản phẩm,1
+Domain Knowledge,"các thông tư, nghị định liên quan đến cntt",1
+Domain Knowledge,các định dạng quảng cáo,1
+Domain Knowledge,công nghiệp,1
+Domain Knowledge,công nghệ sinh học,1
+Domain Knowledge,công nghệ số,1
+Domain Knowledge,công nghệ web,1
+Domain Knowledge,công nghệ ô tô,1
+Domain Knowledge,công trường,1
+Domain Knowledge,công ty bán lẻ,1
+Domain Knowledge,công ty chứng khoán,1
+Domain Knowledge,công ty dịch vụ it,1
+Domain Knowledge,công ty outsourcing nhật,1
+Domain Knowledge,công ty điện tử,1
+Domain Knowledge,công/công ích,1
+Domain Knowledge,cđs,1
+Domain Knowledge,cơ chế game,1
+Domain Knowledge,cơ chế gameplay,1
+Domain Knowledge,cơ chế khớp lệnh,1
+Domain Knowledge,cơ chế margin,1
+Domain Knowledge,cơ cấu chấp hành,1
+Domain Knowledge,cơ học kết cấu,1
+Domain Knowledge,cơ khí,1
+Domain Knowledge,cơ khí lắp ráp,1
+Domain Knowledge,cơ sở pháp lý và các thủ tục tham gia đấu thầu,1
+Domain Knowledge,cải tiến trải nghiệm khách hàng,1
+Domain Knowledge,cảm quan thị trường mobile game,1
+Domain Knowledge,cấu hình thẻ alt,1
+Domain Knowledge,cấu trúc hệ thống cntt của doanh nghiệp,1
+Domain Knowledge,cấu trúc hệ thống erp,1
+Domain Knowledge,cốt truyện kim dung,1
+Domain Knowledge,cổ long,1
+Domain Knowledge,cổng dịch vụ công,1
+Domain Knowledge,cổng thanh toán,1
+Domain Knowledge,d365 f&o modules,1
+Domain Knowledge,dashcam,1
+Domain Knowledge,data analytics,1
+Domain Knowledge,data center,1
+Domain Knowledge,data center operations,1
+Domain Knowledge,data collection/standardization project management,1
+Domain Knowledge,data engineering,1
+Domain Knowledge,data governance,1
+Domain Knowledge,data hub,1
+Domain Knowledge,data privacy,1
+Domain Knowledge,data protection,1
+Domain Knowledge,data protection compliance,1
+Domain Knowledge,data security standards,1
+Domain Knowledge,data-intensive products,1
+Domain Knowledge,data-intensive systems,1
+Domain Knowledge,dell,1
+Domain Knowledge,dell-emc,1
+Domain Knowledge,dental,1
+Domain Knowledge,dental/medical imaging domain,1
+Domain Knowledge,designing ai-powered applications,1
+Domain Knowledge,designing and operating saas platforms,1
+Domain Knowledge,designing data-heavy applications,1
+Domain Knowledge,developer (web/backend,1
+Domain Knowledge,developer-facing products,1
+Domain Knowledge,device connection,1
+Domain Knowledge,device protocol,1
+Domain Knowledge,dex/amm,1
+Domain Knowledge,did,1
+Domain Knowledge,digital asset management (dam,1
+Domain Knowledge,digital banking products,1
+Domain Knowledge,digital banking systems,1
+Domain Knowledge,digital commerce,1
+Domain Knowledge,digital health,1
+Domain Knowledge,digital media/online marketing,1
+Domain Knowledge,digital onboarding,1
+Domain Knowledge,digital operations,1
+Domain Knowledge,digital payment mechanisms,1
+Domain Knowledge,digital product development,1
+Domain Knowledge,digital solutions,1
+Domain Knowledge,digital transformation projects,1
+Domain Knowledge,digital web projects,1
+Domain Knowledge,distributor management,1
+Domain Knowledge,doanh nghiệp,1
+Domain Knowledge,doanh nghiệp công nghệ,1
+Domain Knowledge,doanh nghiệp nhà nước,1
+Domain Knowledge,doanh nghiệp sản xuất,1
+Domain Knowledge,doanh nghiệp viễn thông,1
+Domain Knowledge,doanh nghiệp xây dựng,1
+Domain Knowledge,document automation,1
+Domain Knowledge,document management,1
+Domain Knowledge,document management technology,1
+Domain Knowledge,document workflows,1
+Domain Knowledge,domain camera,1
+Domain Knowledge,drm,1
+Domain Knowledge,drug-discovery,1
+Domain Knowledge,du lịch,1
+Domain Knowledge,dx,1
+Domain Knowledge,dược,1
+Domain Knowledge,dịch vụ gtgt,1
+Domain Knowledge,dịch vụ hạ tầng cntt,1
+Domain Knowledge,dịch vụ it,1
+Domain Knowledge,dịch vụ khách hàng,1
+Domain Knowledge,dịch vụ ngân hàng,1
+Domain Knowledge,dịch vụ ngân hàng số,1
+Domain Knowledge,dịch vụ nhắn tin,1
+Domain Knowledge,dịch vụ số,1
+Domain Knowledge,dịch vụ tài chính,1
+Domain Knowledge,dịch vụ tư vấn doanh nghiệp,1
+Domain Knowledge,dịch vụ vas,1
+Domain Knowledge,dữ liệu,1
+Domain Knowledge,dữ liệu chủ và dữ liệu tham chiếu,1
+Domain Knowledge,dữ liệu tài chính real-time,1
+Domain Knowledge,dữ liệu từ youtube,1
+Domain Knowledge,dự án ai,1
+Domain Knowledge,dự án attt,1
+Domain Knowledge,dự án booking,1
+Domain Knowledge,dự án cho khối cơ quan nhà nước,1
+Domain Knowledge,dự án cntt sử dụng ngân sách nhà nước,1
+Domain Knowledge,dự án cntt – viễn thông,1
+Domain Knowledge,dự án công nghệ,1
+Domain Knowledge,dự án của khối nhà nước,1
+Domain Knowledge,dự án hệ thống dùng chung,1
+Domain Knowledge,dự án iot,1
+Domain Knowledge,dự án it/phần mềm,1
+Domain Knowledge,dự án liên quan đến dữ liệu,1
+Domain Knowledge,dự án liên quan đến khối chính phủ,1
+Domain Knowledge,dự án ngân hàng,1
+Domain Knowledge,dự án offshore,1
+Domain Knowledge,dự án offshore với khách hàng nhật,1
+Domain Knowledge,dự án outsource phần mềm,1
+Domain Knowledge,dự án phát triển phần mềm,1
+Domain Knowledge,dự án quy mô lớn,1
+Domain Knowledge,dự án thị trường nhật bản,1
+Domain Knowledge,dự án tài chính – chứng khoán,1
+Domain Knowledge,dự án tích hợp,1
+Domain Knowledge,dự án vốn công,1
+Domain Knowledge,dự án đầu tư công nghệ,1
+Domain Knowledge,dựng webstore,1
+Domain Knowledge,e – commerce,1
+Domain Knowledge,e-commerce systems,1
+Domain Knowledge,e-invoice,1
+Domain Knowledge,e-learning,1
+Domain Knowledge,e-wallets,1
+Domain Knowledge,e/e (electrical/electronic) automotive architectures,1
+Domain Knowledge,eam,1
+Domain Knowledge,ecall,1
+Domain Knowledge,ecc integration,1
+Domain Knowledge,ecm/dms,1
+Domain Knowledge,ecom,1
+Domain Knowledge,ecommerce growth strategies,1
+Domain Knowledge,ecommerce kpis,1
+Domain Knowledge,economic trong game,1
+Domain Knowledge,edge/on-device,1
+Domain Knowledge,edtech ecosystem,1
+Domain Knowledge,education technology,1
+Domain Knowledge,egov,1
+Domain Knowledge,eif projects,1
+Domain Knowledge,ekyc platforms,1
+Domain Knowledge,ekyc/identity verification systems,1
+Domain Knowledge,electrical,1
+Domain Knowledge,electrical and electronics,1
+Domain Knowledge,electronics,1
+Domain Knowledge,electronics and tele communication,1
+Domain Knowledge,embedded banking,1
+Domain Knowledge,emerging technology,1
+Domain Knowledge,emr integration,1
+Domain Knowledge,emr/ehr,1
+Domain Knowledge,emv,1
+Domain Knowledge,encryption,1
+Domain Knowledge,endpoint engineering,1
+Domain Knowledge,engineering simulation,1
+Domain Knowledge,enterprise backup,1
+Domain Knowledge,enterprise backup products,1
+Domain Knowledge,enterprise business workflows,1
+Domain Knowledge,enterprise data systems,1
+Domain Knowledge,enterprise intelligent systems,1
+Domain Knowledge,enterprise iot,1
+Domain Knowledge,enterprise or large-scale systems,1
+Domain Knowledge,enterprise saas platforms,1
+Domain Knowledge,enterprise security integration,1
+Domain Knowledge,enterprise software platforms,1
+Domain Knowledge,enterprise tools,1
+Domain Knowledge,enterprise-level projects,1
+Domain Knowledge,enterprise-scale systems,1
+Domain Knowledge,enterprise/ngân hàng,1
+Domain Knowledge,entertainment,1
+Domain Knowledge,eoffice,1
+Domain Knowledge,equipment integration,1
+Domain Knowledge,erp (enterprise resource planning,1
+Domain Knowledge,erp and integration,1
+Domain Knowledge,erp functional areas,1
+Domain Knowledge,erp giáo dục,1
+Domain Knowledge,erp implementation,1
+Domain Knowledge,erp kế toán – kho,1
+Domain Knowledge,erp modules in manufacturing,1
+Domain Knowledge,erp nhà máy,1
+Domain Knowledge,erp project lifecycle,1
+Domain Knowledge,erp system,1
+Domain Knowledge,erp/eam,1
+Domain Knowledge,erps,1
+Domain Knowledge,esb,1
+Domain Knowledge,ethereum,1
+Domain Knowledge,f2p metrics,1
+Domain Knowledge,factory it environments,1
+Domain Knowledge,factory it systems,1
+Domain Knowledge,fea,1
+Domain Knowledge,fhir,1
+Domain Knowledge,field sales applications (sfa,1
+Domain Knowledge,finance and banking,1
+Domain Knowledge,finance domain,1
+Domain Knowledge,finance industry,1
+Domain Knowledge,finance sector,1
+Domain Knowledge,finance system,1
+Domain Knowledge,finance/banking,1
+Domain Knowledge,financial accounting,1
+Domain Knowledge,financial and payment products,1
+Domain Knowledge,financial crime,1
+Domain Knowledge,financial institution,1
+Domain Knowledge,financial instruments,1
+Domain Knowledge,financial it,1
+Domain Knowledge,financial market,1
+Domain Knowledge,financial or securities environments,1
+Domain Knowledge,financial products,1
+Domain Knowledge,financial sector,1
+Domain Knowledge,financial services domain,1
+Domain Knowledge,financial services industry,1
+Domain Knowledge,financial system security standards,1
+Domain Knowledge,financial technology,1
+Domain Knowledge,financial terms and instruments,1
+Domain Knowledge,financial transaction flows,1
+Domain Knowledge,finite element methods (fem,1
+Domain Knowledge,finops,1
+Domain Knowledge,fintech systems,1
+Domain Knowledge,fintech/banking,1
+Domain Knowledge,fintech/payment systems,1
+Domain Knowledge,fitness tech,1
+Domain Knowledge,fleet management,1
+Domain Knowledge,food industrial,1
+Domain Knowledge,forex,1
+Domain Knowledge,fortinet,1
+Domain Knowledge,founder,1
+Domain Knowledge,fps,1
+Domain Knowledge,fraud,1
+Domain Knowledge,fraud detection/fraud prevention,1
+Domain Knowledge,freelance work,1
+Domain Knowledge,front-end applications,1
+Domain Knowledge,front-end developer,1
+Domain Knowledge,front-end-focused software development,1
+Domain Knowledge,frontend developer,1
+Domain Knowledge,frontend engineering,1
+Domain Knowledge,frontend web,1
+Domain Knowledge,frontend web development,1
+Domain Knowledge,fsldm,1
+Domain Knowledge,full stack web developer,1
+Domain Knowledge,full-stack application development,1
+Domain Knowledge,full-stack developer,1
+Domain Knowledge,full-stack engineering,1
+Domain Knowledge,full-stack web applications,1
+Domain Knowledge,fwa detection,1
+Domain Knowledge,gacha and monetization,1
+Domain Knowledge,game balance,1
+Domain Knowledge,game design document (gdd,1
+Domain Knowledge,game development pipeline,1
+Domain Knowledge,game di động,1
+Domain Knowledge,game economy,1
+Domain Knowledge,game flow,1
+Domain Knowledge,game h5,1
+Domain Knowledge,game iaa,1
+Domain Knowledge,game market,1
+Domain Knowledge,game mid-core,1
+Domain Knowledge,game online,1
+Domain Knowledge,game operations,1
+Domain Knowledge,game physics,1
+Domain Knowledge,game publishing,1
+Domain Knowledge,game puzzle/hypercasual,1
+Domain Knowledge,game rpg,1
+Domain Knowledge,game server,1
+Domain Knowledge,game server engine,1
+Domain Knowledge,game studios,1
+Domain Knowledge,game systems,1
+Domain Knowledge,game terminology,1
+Domain Knowledge,game thuộc thể loại puzzle,1
+Domain Knowledge,game thẻ tướng,1
+Domain Knowledge,game-based learning,1
+Domain Knowledge,game/app,1
+Domain Knowledge,game/app mechanics,1
+Domain Knowledge,game/gamification,1
+Domain Knowledge,game/sản phẩm 3d,1
+Domain Knowledge,gameplay,1
+Domain Knowledge,gameplay intuition,1
+Domain Knowledge,gameplay programming,1
+Domain Knowledge,gameplay system,1
+Domain Knowledge,gameplay systems,1
+Domain Knowledge,gamification,1
+Domain Knowledge,gas fee,1
+Domain Knowledge,gatt,1
+Domain Knowledge,geo- location technologies,1
+Domain Knowledge,geo-location,1
+Domain Knowledge,geolocation features,1
+Domain Knowledge,geometry,1
+Domain Knowledge,geotechnical engineering software,1
+Domain Knowledge,getfly,1
+Domain Knowledge,giao dịch chứng khoán/trái phiếu,1
+Domain Knowledge,giao dịch ngân hàng,1
+Domain Knowledge,giao dịch on-chain,1
+Domain Knowledge,giao dịch thanh toán,1
+Domain Knowledge,giao hàng,1
+Domain Knowledge,giao nhận,1
+Domain Knowledge,giao thông,1
+Domain Knowledge,giao thông thông minh,1
+Domain Knowledge,giao thức iot,1
+Domain Knowledge,giftcard,1
+Domain Knowledge,gig-economy platforms,1
+Domain Knowledge,gis,1
+Domain Knowledge,gis systems,1
+Domain Knowledge,giám sát,1
+Domain Knowledge,giám sát an toàn thông tin,1
+Domain Knowledge,giám sát chất lượng sản phẩm and dịch vụ,1
+Domain Knowledge,giáo dục công nghệ,1
+Domain Knowledge,giáo dục k12,1
+Domain Knowledge,giáo dục/edtech,1
+Domain Knowledge,giải pháp cho cơ quan nhà nước,1
+Domain Knowledge,giải pháp công nghệ,1
+Domain Knowledge,giải pháp it,1
+Domain Knowledge,giải pháp phần mềm,1
+Domain Knowledge,giải pháp quản lý tập trung,1
+Domain Knowledge,giải pháp về cntt,1
+Domain Knowledge,giải đố vật lý,1
+Domain Knowledge,giảng dạy đại học,1
+Domain Knowledge,global go-to-market,1
+Domain Knowledge,global or multi-country products,1
+Domain Knowledge,global service operation and development,1
+Domain Knowledge,go-to-market,1
+Domain Knowledge,goft,1
+Domain Knowledge,google automotive services,1
+Domain Knowledge,governance,1
+Domain Knowledge,government,1
+Domain Knowledge,govtech,1
+Domain Knowledge,growth,1
+Domain Knowledge,growth hack features,1
+Domain Knowledge,growth hacking,1
+Domain Knowledge,gsm technology,1
+Domain Knowledge,headless commerce,1
+Domain Knowledge,health tech,1
+Domain Knowledge,healthcare data privacy regulations,1
+Domain Knowledge,healthcare domain,1
+Domain Knowledge,healthcare solutions,1
+Domain Knowledge,healthcare systems,1
+Domain Knowledge,healthcare/dental domain,1
+Domain Knowledge,healthtech,1
+Domain Knowledge,high-frequency transaction processing,1
+Domain Knowledge,"hiểu biết nhiều thể loại từ truyện tranh, phim hoạt hình, phim hoặc game",1
+Domain Knowledge,hiểu biết về nghiệp vụ,1
+Domain Knowledge,hiểu thị trường,1
+Domain Knowledge,hiểu tâm lý người chơi,1
+Domain Knowledge,hl7,1
+Domain Knowledge,hosting,1
+Domain Knowledge,hoạt động ngân hàng,1
+Domain Knowledge,hoạt động tài chính - ngân hàng,1
+Domain Knowledge,hp,1
+Domain Knowledge,hpe,1
+Domain Knowledge,hr systems,1
+Domain Knowledge,hr/enterprise saas domain,1
+Domain Knowledge,hrms,1
+Domain Knowledge,hrp,1
+Domain Knowledge,hsp,1
+Domain Knowledge,human capital management,1
+Domain Knowledge,hunting,1
+Domain Knowledge,hvac,1
+Domain Knowledge,hybrid development,1
+Domain Knowledge,hybrid monetization,1
+Domain Knowledge,hybrid puzzle,1
+Domain Knowledge,hybrid-casual,1
+Domain Knowledge,hybrid-casual games,1
+Domain Knowledge,hyper-casual,1
+Domain Knowledge,hypercasual,1
+Domain Knowledge,hành chính công,1
+Domain Knowledge,hành trình khách hàng bất động sản,1
+Domain Knowledge,hóa dược,1
+Domain Knowledge,hạ tầng cntt,1
+Domain Knowledge,hạ tầng công nghệ thông tin,1
+Domain Knowledge,"hạ tầng phục vụ hệ thống giao dịch, thanh toán, bù trừ",1
+Domain Knowledge,hệ sinh thái dịch vụ cư dân – đô thị,1
+Domain Knowledge,hệ thống affiliate,1
+Domain Knowledge,hệ thống booking,1
+Domain Knowledge,hệ thống bán hàng,1
+Domain Knowledge,hệ thống bán hàng b2b,1
+Domain Knowledge,hệ thống bảo hiểm,1
+Domain Knowledge,hệ thống camera,1
+Domain Knowledge,hệ thống camera giám sát,1
+Domain Knowledge,hệ thống chat,1
+Domain Knowledge,hệ thống chuỗi,1
+Domain Knowledge,hệ thống cntt bệnh viện,1
+Domain Knowledge,hệ thống cntt trong sản xuất,1
+Domain Knowledge,hệ thống core,1
+Domain Knowledge,hệ thống công nghệ thông tin tại ngân hàng/công ty tài chính,1
+Domain Knowledge,hệ thống công nghệ trong lĩnh vực tài chính – ngân hàng,1
+Domain Knowledge,hệ thống cảnh báo sớm,1
+Domain Knowledge,hệ thống ecommerce b2b/b2b2x,1
+Domain Knowledge,hệ thống email,1
+Domain Knowledge,hệ thống enterprise có tích hợp phần cứng/thiết bị,1
+Domain Knowledge,hệ thống giao dịch chứng khoán,1
+Domain Knowledge,hệ thống giám sát và điều khiển các thiết bị truyền hình,1
+Domain Knowledge,hệ thống học tập trực tuyến,1
+Domain Knowledge,hệ thống kiểm soát ra vào,1
+Domain Knowledge,hệ thống lưu trữ giám sát,1
+Domain Knowledge,hệ thống lớn (enterprise,1
+Domain Knowledge,hệ thống mạng,1
+Domain Knowledge,hệ thống nghiệp vụ ngân hàng,1
+Domain Knowledge,hệ thống ngân hàng lõi,1
+Domain Knowledge,hệ thống nhiều chi nhánh,1
+Domain Knowledge,hệ thống nội bộ doanh nghiệp,1
+Domain Knowledge,hệ thống phần mềm quản lý bệnh viện,1
+Domain Knowledge,hệ thống phục vụ mobile app,1
+Domain Knowledge,hệ thống pos cho ngành bán lẻ,1
+Domain Knowledge,hệ thống quản lý công,1
+Domain Knowledge,hệ thống quản lý dược và viện phí,1
+Domain Knowledge,hệ thống quản lý học tập (lms,1
+Domain Knowledge,hệ thống quản lý nội bộ,1
+Domain Knowledge,hệ thống quản lý tòa nhà,1
+Domain Knowledge,hệ thống quản lý văn bản điều hành,1
+Domain Knowledge,hệ thống quản lý vận tải (tms,1
+Domain Knowledge,hệ thống quản trị,1
+Domain Knowledge,hệ thống quản trị nội bộ,1
+Domain Knowledge,hệ thống quảng cáo,1
+Domain Knowledge,hệ thống realtime,1
+Domain Knowledge,hệ thống sản xuất,1
+Domain Knowledge,hệ thống sửa chữa/bảo hành thiết bị,1
+Domain Knowledge,hệ thống thanh toán,1
+Domain Knowledge,hệ thống thông tin nội bộ,1
+Domain Knowledge,hệ thống thẻ,1
+Domain Knowledge,hệ thống tracking sku,1
+Domain Knowledge,hệ thống truyền hình số mặt đất,1
+Domain Knowledge,hệ thống truyền động,1
+Domain Knowledge,hệ thống truyền động cơ khí,1
+Domain Knowledge,hệ thống tài chính – vận hành,1
+Domain Knowledge,hệ thống tích hợp t24,1
+Domain Knowledge,hệ thống tự động hoá nhà máy,1
+Domain Knowledge,hệ thống tự động hóa công nghiệp,1
+Domain Knowledge,hệ thống tự động hóa trong sản xuất,1
+Domain Knowledge,hệ thống viễn thông,1
+Domain Knowledge,hệ thống xác thực bảo mật,1
+Domain Knowledge,hệ thống xếp hạng tín dụng,1
+Domain Knowledge,hệ thống y tế,1
+Domain Knowledge,hệ thống y tế/his,1
+Domain Knowledge,hệ thống điều khiển trên uav,1
+Domain Knowledge,hệ thống điều khiển tự động,1
+Domain Knowledge,hệ thống điện,1
+Domain Knowledge,hệ thống điện của máy tự động,1
+Domain Knowledge,hệ thống điện năng lượng mặt trời,1
+Domain Knowledge,hệ thống đào tạo trực tuyến,1
+Domain Knowledge,hệ thống định giá,1
+Domain Knowledge,hệ thống ứng dụng,1
+Domain Knowledge,hồ sơ nghiệm thu,1
+Domain Knowledge,hội họp trực tuyến,1
+Domain Knowledge,hợp đồng hành chính công,1
+Domain Knowledge,hợp đồng điện tử,1
+Domain Knowledge,iaa,1
+Domain Knowledge,ict,1
+Domain Knowledge,identity and access management,1
+Domain Knowledge,idle/rpg,1
+Domain Knowledge,idor,1
+Domain Knowledge,ifc,1
+Domain Knowledge,ifrs,1
+Domain Knowledge,imaging,1
+Domain Knowledge,in-app purchase (iap,1
+Domain Knowledge,in-vehicle information development,1
+Domain Knowledge,in-vehicle infotainment,1
+Domain Knowledge,incident response,1
+Domain Knowledge,indexing,1
+Domain Knowledge,industrial iot,1
+Domain Knowledge,industrial network,1
+Domain Knowledge,information risk,1
+Domain Knowledge,information security management system (isms,1
+Domain Knowledge,infotainment,1
+Domain Knowledge,infrastructure,1
+Domain Knowledge,insecure deserialization,1
+Domain Knowledge,insurance apps,1
+Domain Knowledge,insurance domain,1
+Domain Knowledge,insurance domain fundamentals,1
+Domain Knowledge,insurance industry,1
+Domain Knowledge,integrated enterprise systems,1
+Domain Knowledge,intelligent transportation systems (its,1
+Domain Knowledge,interactive application,1
+Domain Knowledge,interactive content,1
+Domain Knowledge,interactive learning,1
+Domain Knowledge,internal controls,1
+Domain Knowledge,internal management systems,1
+Domain Knowledge,internal operations/process,1
+Domain Knowledge,internal platforms,1
+Domain Knowledge,internet,1
+Domain Knowledge,internet cafe,1
+Domain Knowledge,internet of things,1
+Domain Knowledge,inventory management,1
+Domain Knowledge,iocs,1
+Domain Knowledge,ios security,1
+Domain Knowledge,iot applications,1
+Domain Knowledge,iot architecture,1
+Domain Knowledge,iot công nghiệp,1
+Domain Knowledge,iot protocols,1
+Domain Knowledge,iot real-time applications,1
+Domain Knowledge,iot solutions architecture,1
+Domain Knowledge,iot system development,1
+Domain Knowledge,iso messaging,1
+Domain Knowledge,it - phần mềm,1
+Domain Knowledge,it application development,1
+Domain Knowledge,it audit,1
+Domain Knowledge,it backend,1
+Domain Knowledge,it background,1
+Domain Knowledge,it consulting,1
+Domain Knowledge,it data,1
+Domain Knowledge,it development,1
+Domain Knowledge,it environments,1
+Domain Knowledge,it governance,1
+Domain Knowledge,it infrastructure,1
+Domain Knowledge,it operations,1
+Domain Knowledge,it project,1
+Domain Knowledge,it projects,1
+Domain Knowledge,it sales,1
+Domain Knowledge,it service management,1
+Domain Knowledge,it services,1
+Domain Knowledge,it software development,1
+Domain Knowledge,it systems,1
+Domain Knowledge,it systems and technologies,1
+Domain Knowledge,it workflows,1
+Domain Knowledge,it/hệ thống thông tin,1
+Domain Knowledge,it/software company,1
+Domain Knowledge,itgc,1
+Domain Knowledge,itsm,1
+Domain Knowledge,ivi,1
+Domain Knowledge,japanese clients,1
+Domain Knowledge,japanese si projects,1
+Domain Knowledge,japanese software projects,1
+Domain Knowledge,java backend,1
+Domain Knowledge,java developer,1
+Domain Knowledge,java development,1
+Domain Knowledge,juniper,1
+Domain Knowledge,khai thác lỗ hổng,1
+Domain Knowledge,khai thác điểm yếu,1
+Domain Knowledge,kho vận – tồn kho,1
+Domain Knowledge,khoa học dữ liệu,1
+Domain Knowledge,khu vực công,1
+Domain Knowledge,khách hàng b2b,1
+Domain Knowledge,khách hàng chính phủ,1
+Domain Knowledge,khách hàng doanh nghiệp,1
+Domain Knowledge,khách hàng nhà máy/fdi,1
+Domain Knowledge,khách sạn – nghỉ dưỡng,1
+Domain Knowledge,khách sạn/nghỉ dưỡng,1
+Domain Knowledge,khí nén,1
+Domain Knowledge,khảo thí/giáo dục,1
+Domain Knowledge,khối nhà nước,1
+Domain Knowledge,kinh doanh b2b,1
+Domain Knowledge,kinh doanh phần mềm,1
+Domain Knowledge,kinh doanh ô tô,1
+Domain Knowledge,kinh dịch,1
+Domain Knowledge,kinh nghiệm giảng dạy,1
+Domain Knowledge,kinh nghiệm làm việc trong môi trường startup,1
+Domain Knowledge,kinh nghiệm thị trường nhật,1
+Domain Knowledge,kinh nghiệm đứng lớp,1
+Domain Knowledge,kiếm hiệp/tiên hiệp,1
+Domain Knowledge,kiến thức kế toán,1
+Domain Knowledge,kiến trúc,1
+Domain Knowledge,kiến trúc hệ thống erp,1
+Domain Knowledge,kiến trúc hệ thống ngân hàng,1
+Domain Knowledge,kiến trúc hệ thống thương mại điện tử,1
+Domain Knowledge,kiểm soát hàng tồn kho,1
+Domain Knowledge,kiểm soát nội bộ,1
+Domain Knowledge,kiểm soát tuân thủ,1
+Domain Knowledge,kiểm toán cntt,1
+Domain Knowledge,kol/koc,1
+Domain Knowledge,kpi về player engagement,1
+Domain Knowledge,kpis,1
+Domain Knowledge,kyc/aml processes,1
+Domain Knowledge,kyc/ekyc,1
+Domain Knowledge,kế toán tổng hợp,1
+Domain Knowledge,kế toán – tài chính,1
+Domain Knowledge,kết cấu thép,1
+Domain Knowledge,kết nối iot,1
+Domain Knowledge,kết nối xe,1
+Domain Knowledge,kỹ sư cầu nối,1
+Domain Knowledge,kỹ sư dữ liệu,1
+Domain Knowledge,kỹ sư giải pháp,1
+Domain Knowledge,kỹ sư triển khai,1
+Domain Knowledge,kỹ thuật,1
+Domain Knowledge,kỹ thuật cntt,1
+Domain Knowledge,kỹ thuật nuôi cấy tế bào,1
+Domain Knowledge,kỹ thuật truyền hình,1
+Domain Knowledge,kỹ thuật tấn công,1
+Domain Knowledge,lab integration,1
+Domain Knowledge,large-scale si projects,1
+Domain Knowledge,launch game global,1
+Domain Knowledge,lead and opportunity management,1
+Domain Knowledge,level design,1
+Domain Knowledge,life sciences,1
+Domain Knowledge,linh kiện điện tử,1
+Domain Knowledge,linux embedded system,1
+Domain Knowledge,liquidity pool,1
+Domain Knowledge,live operations,1
+Domain Knowledge,live ops,1
+Domain Knowledge,live streaming,1
+Domain Knowledge,live-ops/event system,1
+Domain Knowledge,livestream,1
+Domain Knowledge,livestream bán hàng,1
+Domain Knowledge,livestream commerce platforms,1
+Domain Knowledge,livestreaming,1
+Domain Knowledge,liệu pháp tế bào,1
+Domain Knowledge,lms (learning management system,1
+Domain Knowledge,loan original system,1
+Domain Knowledge,local banking technical standards,1
+Domain Knowledge,localization,1
+Domain Knowledge,locations,1
+Domain Knowledge,log processing,1
+Domain Knowledge,logistic,1
+Domain Knowledge,logistics and fulfillment,1
+Domain Knowledge,logistics vận tải,1
+Domain Knowledge,logistics/freight,1
+Domain Knowledge,lora/lorawan,1
+Domain Knowledge,lot,1
+Domain Knowledge,low-voltage,1
+Domain Knowledge,loyalty app,1
+Domain Knowledge,loyalty/egift,1
+Domain Knowledge,lte,1
+Domain Knowledge,luật kế toán việt nam,1
+Domain Knowledge,luật pháp liên quan đến cntt,1
+Domain Knowledge,luật pháp ngành ngân hàng,1
+Domain Knowledge,luật tín dụng,1
+Domain Knowledge,luật đầu tư,1
+Domain Knowledge,luật đầu tư công,1
+Domain Knowledge,luồng vận hành và cấu trúc chi phí của tmđt,1
+Domain Knowledge,làm sản phẩm nội bộ,1
+Domain Knowledge,làm trong môi trường product,1
+Domain Knowledge,làm việc cho thị trường nhật,1
+Domain Knowledge,làm việc thực chiến tại doanh nghiệp phần mềm,1
+Domain Knowledge,làm việc trong môi trường cửa hàng/chi nhánh,1
+Domain Knowledge,làm việc tại ngân hàng,1
+Domain Knowledge,làm việc với các khách hàng chính phủ,1
+Domain Knowledge,làm việc với cơ quan nhà nước,1
+Domain Knowledge,làm việc với dự án nhật,1
+Domain Knowledge,làm việc với hồ sơ pháp lý,1
+Domain Knowledge,làm việc với khách hàng doanh nghiệp,1
+Domain Knowledge,làm việc với khách hàng nhà nước,1
+Domain Knowledge,làm việc ở các trung tâm dữ liệu,1
+Domain Knowledge,làm với kh nhật bản,1
+Domain Knowledge,lên bom,1
+Domain Knowledge,lý số,1
+Domain Knowledge,lĩnh vực bán lẻ,1
+Domain Knowledge,lĩnh vực chính phủ/nhà nước,1
+Domain Knowledge,lĩnh vực cntt,1
+Domain Knowledge,lĩnh vực công nghiệp,1
+Domain Knowledge,lĩnh vực trò chơi,1
+Domain Knowledge,lưu trữ và vận hành,1
+Domain Knowledge,lập dự toán,1
+Domain Knowledge,lập dự toán giá gói thầu cntt,1
+Domain Knowledge,lập kế hoạch (planning,1
+Domain Knowledge,lập kế hoạch doanh thu – chi phí,1
+Domain Knowledge,lập trình android,1
+Domain Knowledge,lập trình bảo mật android,1
+Domain Knowledge,lập trình front end,1
+Domain Knowledge,lập trình game 3d,1
+Domain Knowledge,lập trình game di động,1
+Domain Knowledge,lập trình phần mềm,1
+Domain Knowledge,lập trình tools cho phần mềm revit,1
+Domain Knowledge,lập trình trong corebanking,1
+Domain Knowledge,lập trình website,1
+Domain Knowledge,lập trình ứng dụng,1
+Domain Knowledge,lập trình ứng dụng web/mobile,1
+Domain Knowledge,lập tổng mức đầu tư,1
+Domain Knowledge,lắp ráp,1
+Domain Knowledge,lệnh sản xuất,1
+Domain Knowledge,magento,1
+Domain Knowledge,maintenance,1
+Domain Knowledge,maketplace,1
+Domain Knowledge,malware,1
+Domain Knowledge,managed services,1
+Domain Knowledge,managed services environments,1
+Domain Knowledge,management accounting,1
+Domain Knowledge,management information system,1
+Domain Knowledge,managing web project or product development,1
+Domain Knowledge,manufacturing automation,1
+Domain Knowledge,manufacturing environments,1
+Domain Knowledge,manufacturing industry,1
+Domain Knowledge,map integrations,1
+Domain Knowledge,mar-tech,1
+Domain Knowledge,market data,1
+Domain Knowledge,market data systems,1
+Domain Knowledge,market intelligence,1
+Domain Knowledge,marketing analytics,1
+Domain Knowledge,marketing operation,1
+Domain Knowledge,marketing/ agency,1
+Domain Knowledge,martech,1
+Domain Knowledge,martech/crm systems,1
+Domain Knowledge,may mặc/ thời trang,1
+Domain Knowledge,mdm concepts,1
+Domain Knowledge,mechanical engineering software,1
+Domain Knowledge,mechanical/ manufacturing industry,1
+Domain Knowledge,mechatronics,1
+Domain Knowledge,media message,1
+Domain Knowledge,media streaming devices,1
+Domain Knowledge,media workflow trong lĩnh vực bđs,1
+Domain Knowledge,medical domain,1
+Domain Knowledge,medical imaging,1
+Domain Knowledge,medical imaging workflows,1
+Domain Knowledge,medtech,1
+Domain Knowledge,meet,1
+Domain Knowledge,meme-token,1
+Domain Knowledge,mep,1
+Domain Knowledge,merchandiser,1
+Domain Knowledge,merge,1
+Domain Knowledge,mes systems,1
+Domain Knowledge,meta loop,1
+Domain Knowledge,meta system,1
+Domain Knowledge,microsoft security ecosystem,1
+Domain Knowledge,midcore,1
+Domain Knowledge,miniapp,1
+Domain Knowledge,mis,1
+Domain Knowledge,mitre att&ck,1
+Domain Knowledge,miễn dịch,1
+Domain Knowledge,ml-driven products,1
+Domain Knowledge,ml/ai products,1
+Domain Knowledge,mm,1
+Domain Knowledge,mmo,1
+Domain Knowledge,mmorpg,1
+Domain Knowledge,mobile app analytics,1
+Domain Knowledge,mobile application projects,1
+Domain Knowledge,mobile b2b,1
+Domain Knowledge,mobile casual,1
+Domain Knowledge,mobile digital video recorder (mdvr,1
+Domain Knowledge,mobile engineering,1
+Domain Knowledge,mobile game development,1
+Domain Knowledge,mobile game/app kpis,1
+Domain Knowledge,mobile gaming/apping,1
+Domain Knowledge,mobile marketing,1
+Domain Knowledge,mobile money,1
+Domain Knowledge,mobile rpg,1
+Domain Knowledge,mobile/internet banking,1
+Domain Knowledge,mold design,1
+Domain Knowledge,monet,1
+Domain Knowledge,monetization mechanics,1
+Domain Knowledge,monetization optimization,1
+Domain Knowledge,monetize bằng iap,1
+Domain Knowledge,mqtt,1
+Domain Knowledge,mr,1
+Domain Knowledge,mssp,1
+Domain Knowledge,mua hàng – bán hàng,1
+Domain Knowledge,mua sắm dự án,1
+Domain Knowledge,mua sắm thiết bị,1
+Domain Knowledge,mua – bán – kho,1
+Domain Knowledge,multi- advertising,1
+Domain Knowledge,multi-company,1
+Domain Knowledge,multi-vendor,1
+Domain Knowledge,multiplayer features,1
+Domain Knowledge,multiplayer game programming,1
+Domain Knowledge,máy móc công nghiệp,1
+Domain Knowledge,máy tính,1
+Domain Knowledge,mô hình affiliate,1
+Domain Knowledge,mô hình dự án,1
+Domain Knowledge,mô hình hóa rủi ro,1
+Domain Knowledge,mô hình kinh doanh game,1
+Domain Knowledge,mô hình kinh doanh tmđt b2c/b2b,1
+Domain Knowledge,mô hình saas,1
+Domain Knowledge,mô hình tài chính,1
+Domain Knowledge,mô hình định giá,1
+Domain Knowledge,môi trường doanh nghiệp,1
+Domain Knowledge,môi trường startup,1
+Domain Knowledge,mạng di động,1
+Domain Knowledge,mạng isp,1
+Domain Knowledge,mạng xã hội,1
+Domain Knowledge,mảng chung cư,1
+Domain Knowledge,mảng nhà máy,1
+Domain Knowledge,mảng thể thao,1
+Domain Knowledge,mảng y tế,1
+Domain Knowledge,ndc,1
+Domain Knowledge,ndcx,1
+Domain Knowledge,net admin,1
+Domain Knowledge,network,1
+Domain Knowledge,network gateway development,1
+Domain Knowledge,nft,1
+Domain Knowledge,nghiên cứu game,1
+Domain Knowledge,nghiệp vụ ba,1
+Domain Knowledge,nghiệp vụ các sản phẩm ngân hàng,1
+Domain Knowledge,nghiệp vụ của ngân hàng,1
+Domain Knowledge,nghiệp vụ f&b,1
+Domain Knowledge,nghiệp vụ hệ thống,1
+Domain Knowledge,nghiệp vụ ngành ngân hàng,1
+Domain Knowledge,nghiệp vụ phức tạp,1
+Domain Knowledge,nghiệp vụ quản trị trong doanh nghiệp,1
+Domain Knowledge,nghiệp vụ retail,1
+Domain Knowledge,nghiệp vụ tài chính,1
+Domain Knowledge,nghiệp vụ tài chính bán hàng,1
+Domain Knowledge,nghiệp vụ và hệ thống trong ngân hàng,1
+Domain Knowledge,"nghiệp vụ, quy trình vận hành doanh nghiệp",1
+Domain Knowledge,nguyên lý cảm biến,1
+Domain Knowledge,ngành bán lẻ,1
+Domain Knowledge,ngành gia dụng,1
+Domain Knowledge,ngành làm đẹp/thẩm mỹ/dịch vụ cao cấp,1
+Domain Knowledge,ngành nội thất/kiến trúc,1
+Domain Knowledge,ngành pod,1
+Domain Knowledge,ngành sản xuất,1
+Domain Knowledge,ngành tài chính,1
+Domain Knowledge,ngành viễn thông,1
+Domain Knowledge,ngành xây dựng,1
+Domain Knowledge,ngân hàng hoặc tổ chức tài chính,1
+Domain Knowledge,ngân hàng điện tử,1
+Domain Knowledge,ngân hàng/công ty tài chính,1
+Domain Knowledge,ngân hàng/dịch vụ tài chính,1
+Domain Knowledge,ngân sách,1
+Domain Knowledge,nhiệt điện,1
+Domain Knowledge,nhà cung cấp dịch vụ mạng di động,1
+Domain Knowledge,nhà hàng,1
+Domain Knowledge,nhà máy sản xuất,1
+Domain Knowledge,nhà máy sản xuất liên tục,1
+Domain Knowledge,nhà mạng viễn thông,1
+Domain Knowledge,nhà tiền chế,1
+Domain Knowledge,nhân sự tiền lương,1
+Domain Knowledge,nhúng/iot,1
+Domain Knowledge,nhập liệu,1
+Domain Knowledge,numerical modeling,1
+Domain Knowledge,nutanix,1
+Domain Knowledge,nuôi cấy và phân tích tế bào-virus,1
+Domain Knowledge,nông nghiệp,1
+Domain Knowledge,nông nghiệp bền vững,1
+Domain Knowledge,nắm bắt qui trình kinh doanh,1
+Domain Knowledge,nắm bắt xu hướng người chơi,1
+Domain Knowledge,nắm bắt xu thế thị trường,1
+Domain Knowledge,nền tảng giáo dục/đào tạo trực tuyến,1
+Domain Knowledge,nền tảng livestream,1
+Domain Knowledge,nền tảng quảng cáo,1
+Domain Knowledge,nền tảng số hóa,1
+Domain Knowledge,nền tảng thiết bị di động khác,1
+Domain Knowledge,nền tảng trải nghiệm học tập (lxp,1
+Domain Knowledge,nền tảng tích hợp dữ liệu,1
+Domain Knowledge,o2o,1
+Domain Knowledge,observability,1
+Domain Knowledge,oem,1
+Domain Knowledge,offensive security,1
+Domain Knowledge,office,1
+Domain Knowledge,office/dms/hrm,1
+Domain Knowledge,oil and gas industry,1
+Domain Knowledge,olt device,1
+Domain Knowledge,omni-channel,1
+Domain Knowledge,on-demand services,1
+Domain Knowledge,onboarding khách hàng cá nhân,1
+Domain Knowledge,online banking,1
+Domain Knowledge,online educational or mobile games products,1
+Domain Knowledge,online payments,1
+Domain Knowledge,operational processes,1
+Domain Knowledge,operational risk,1
+Domain Knowledge,operations systems,1
+Domain Knowledge,osint,1
+Domain Knowledge,ot,1
+Domain Knowledge,otp/sms/email service,1
+Domain Knowledge,outsource,1
+Domain Knowledge,outsource thị trường nhật,1
+Domain Knowledge,outsourcing cho thị trường nhật,1
+Domain Knowledge,outsourcing projects,1
+Domain Knowledge,outsourcing thị trường nhật,1
+Domain Knowledge,outsourcing website/mobile app,1
+Domain Knowledge,owasp top 10,1
+Domain Knowledge,owasp top10,1
+Domain Knowledge,p&l,1
+Domain Knowledge,p2p,1
+Domain Knowledge,p2p streaming,1
+Domain Knowledge,pa,1
+Domain Knowledge,pac,1
+Domain Knowledge,packing,1
+Domain Knowledge,palo alto,1
+Domain Knowledge,pastry,1
+Domain Knowledge,payment applications,1
+Domain Knowledge,payment banking,1
+Domain Knowledge,payment domain,1
+Domain Knowledge,payment hub,1
+Domain Knowledge,payment hubs,1
+Domain Knowledge,payment industry,1
+Domain Knowledge,payment intermediaries,1
+Domain Knowledge,payment security standards,1
+Domain Knowledge,payroll,1
+Domain Knowledge,pbx,1
+Domain Knowledge,pci-dss compliance,1
+Domain Knowledge,pdpa,1
+Domain Knowledge,penetration testing,1
+Domain Knowledge,phát hành game,1
+Domain Knowledge,phát triển back-end,1
+Domain Knowledge,phát triển bộ điều khiển trên xe,1
+Domain Knowledge,phát triển chương trình đào tạo,1
+Domain Knowledge,phát triển chức năng an toàn trên xe,1
+Domain Knowledge,phát triển các dự án game mobile,1
+Domain Knowledge,phát triển các sản phẩm lớn,1
+Domain Knowledge,phát triển dự án game,1
+Domain Knowledge,phát triển game 2d hoặc 3d,1
+Domain Knowledge,phát triển game mobile đa nền tảng,1
+Domain Knowledge,phát triển hoặc maintain app có lượng người dùng thực tế,1
+Domain Knowledge,phát triển hệ thống phần mềm,1
+Domain Knowledge,phát triển hệ thống phần mềm web,1
+Domain Knowledge,phát triển hệ thống ứng dụng phần mềm thanh toán,1
+Domain Knowledge,phát triển kinh doanh,1
+Domain Knowledge,phát triển marketing đa kênh,1
+Domain Knowledge,phát triển mini app zalo,1
+Domain Knowledge,phát triển mobile,1
+Domain Knowledge,phát triển mobile app,1
+Domain Knowledge,phát triển nguồn nhân lực it,1
+Domain Knowledge,phát triển phần mềm android,1
+Domain Knowledge,phát triển phần mềm nhúng cho xe,1
+Domain Knowledge,phát triển plugin cho revit,1
+Domain Knowledge,phát triển product,1
+Domain Knowledge,phát triển sản phẩm công nghệ,1
+Domain Knowledge,phát triển sản phẩm phần mềm,1
+Domain Knowledge,phát triển sản phẩm phần mềm/nền tảng số,1
+Domain Knowledge,phát triển sản phẩm số,1
+Domain Knowledge,phát triển trình phát video/live streaming,1
+Domain Knowledge,phát triển web phía backend,1
+Domain Knowledge,phát triển web/app,1
+Domain Knowledge,phát triển ứng dụng android,1
+Domain Knowledge,phát triển ứng dụng desktop,1
+Domain Knowledge,phát triển ứng dụng di động,1
+Domain Knowledge,phát triển ứng dụng di động ios,1
+Domain Knowledge,phát triển ứng dụng fintech,1
+Domain Knowledge,"phát triển, vận hành ứng dụng web",1
+Domain Knowledge,phân biệt các thể loại game,1
+Domain Knowledge,phân phối lead,1
+Domain Knowledge,phân tích các bài toán nghiệp vụ ngành tài chính,1
+Domain Knowledge,phân tích dữ liệu tài chính,1
+Domain Knowledge,phân tích giá cả,1
+Domain Knowledge,phân tích hành vi người chơi,1
+Domain Knowledge,phân tích mã độc,1
+Domain Knowledge,phân tích nghiệp vụ dự án nhà nước,1
+Domain Knowledge,phân tích rủi ro,1
+Domain Knowledge,phân tích sản phẩm,1
+Domain Knowledge,phân tích và triển khai các dự án erp,1
+Domain Knowledge,phân tích xu hướng sản phẩm,1
+Domain Knowledge,phân tích yêu cầu nghiệp vụ ngân hàng,1
+Domain Knowledge,phân tích điểm mạnh yếu của game,1
+Domain Knowledge,phòng studio,1
+Domain Knowledge,phương pháp phòng thủ,1
+Domain Knowledge,phương pháp xác định giá phần mềm,1
+Domain Knowledge,phần mềm giáo dục,1
+Domain Knowledge,phần mềm giải pháp,1
+Domain Knowledge,phần mềm his,1
+Domain Knowledge,phần mềm kinh doanh,1
+Domain Knowledge,phần mềm kế toán/bán hàng việt nam,1
+Domain Knowledge,phần mềm marketing,1
+Domain Knowledge,phần mềm mes,1
+Domain Knowledge,phần mềm quản lý doanh nghiệp,1
+Domain Knowledge,phần mềm vận tải container,1
+Domain Knowledge,phần mềm xử lý nghiệp vụ,1
+Domain Knowledge,phần mềm điều khiển động cơ,1
+Domain Knowledge,phổ tín hiệu,1
+Domain Knowledge,phụ tùng ô tô,1
+Domain Knowledge,pii,1
+Domain Knowledge,pim,1
+Domain Knowledge,playable ad,1
+Domain Knowledge,player psychology,1
+Domain Knowledge,pm,1
+Domain Knowledge,pmo,1
+Domain Knowledge,pnr,1
+Domain Knowledge,pos bán hàng,1
+Domain Knowledge,pos systems,1
+Domain Knowledge,postsale,1
+Domain Knowledge,pp,1
+Domain Knowledge,pre-sale,1
+Domain Knowledge,presale engineer,1
+Domain Knowledge,presales engineer,1
+Domain Knowledge,privacy programs,1
+Domain Knowledge,procurement,1
+Domain Knowledge,product admin,1
+Domain Knowledge,product analysis,1
+Domain Knowledge,product analytics,1
+Domain Knowledge,product delivery,1
+Domain Knowledge,product design consulting,1
+Domain Knowledge,product executive,1
+Domain Knowledge,product lifecycle,1
+Domain Knowledge,product manager,1
+Domain Knowledge,product marketing,1
+Domain Knowledge,product metrics,1
+Domain Knowledge,product mobile app,1
+Domain Knowledge,product owner/manager,1
+Domain Knowledge,product ownership,1
+Domain Knowledge,product planning,1
+Domain Knowledge,product training,1
+Domain Knowledge,product transformation,1
+Domain Knowledge,product workflows,1
+Domain Knowledge,products,1
+Domain Knowledge,progression curves,1
+Domain Knowledge,progression design,1
+Domain Knowledge,project presales,1
+Domain Knowledge,public sector,1
+Domain Knowledge,pull pin,1
+Domain Knowledge,purchase,1
+Domain Knowledge,purple team,1
+Domain Knowledge,puzzle game,1
+Domain Knowledge,puzzle games,1
+Domain Knowledge,pve,1
+Domain Knowledge,pvp,1
+Domain Knowledge,pwa,1
+Domain Knowledge,qlda,1
+Domain Knowledge,quantitative platforms,1
+Domain Knowledge,quantitative research,1
+Domain Knowledge,quantitative systems,1
+Domain Knowledge,quiz,1
+Domain Knowledge,quy trình bán hàng,1
+Domain Knowledge,quy trình của chính phủ về đầu tư cntt,1
+Domain Knowledge,quy trình doanh nghiệp (business processes,1
+Domain Knowledge,quy trình giảng dạy,1
+Domain Knowledge,quy trình hoạt động trong bệnh viện,1
+Domain Knowledge,quy trình hr,1
+Domain Knowledge,quy trình kinh doanh,1
+Domain Knowledge,quy trình kinh doanh bđs,1
+Domain Knowledge,quy trình kế toán,1
+Domain Knowledge,quy trình logistics,1
+Domain Knowledge,quy trình lập kế hoạch sản xuất nhà máy,1
+Domain Knowledge,quy trình môi giới bđs,1
+Domain Knowledge,quy trình nghiệp vụ bảo trì bảo dưỡng,1
+Domain Knowledge,quy trình nghiệp vụ doanh nghiệp,1
+Domain Knowledge,quy trình nghiệp vụ đặc thù ngành xây dựng,1
+Domain Knowledge,quy trình ngân hàng số,1
+Domain Knowledge,quy trình phát triển trò chơi,1
+Domain Knowledge,quy trình quản lý chi phí đầu tư ứng dụng cntt,1
+Domain Knowledge,quy trình quản lý chất lượng,1
+Domain Knowledge,quy trình quản trị và tuân thủ,1
+Domain Knowledge,quy trình sản xuất trong nhà máy,1
+Domain Knowledge,quy trình thanh toán trên store (apple/google,1
+Domain Knowledge,quy trình tài chính kế toán,1
+Domain Knowledge,quy trình và phong cách làm việc tại công ty nhật,1
+Domain Knowledge,quy trình vận hành bệnh viện,1
+Domain Knowledge,quy trình vận hành logistics,1
+Domain Knowledge,"quy trình vận hành, quản lý trong các nhà máy sản xuất",1
+Domain Knowledge,"quy trình vận hành, quản lý trong nhà máy sản xuất",1
+Domain Knowledge,quy trình xử lý giao dịch,1
+Domain Knowledge,quy trình đầu tư cntt,1
+Domain Knowledge,"quy trình, chính sách nhà nước",1
+Domain Knowledge,quy định cơ quan nhà nước,1
+Domain Knowledge,quy định pháp lý về công nghệ thông tin,1
+Domain Knowledge,"quy định, quy chế đấu thầu",1
+Domain Knowledge,quản lý bán lẻ,1
+Domain Knowledge,quản lý chi phí đầu tư,1
+Domain Knowledge,quản lý chuỗi cung ứng,1
+Domain Knowledge,quản lý chuỗi dịch vụ/bảo trì/bảo hành,1
+Domain Knowledge,quản lý chất lượng,1
+Domain Knowledge,quản lý cntt,1
+Domain Knowledge,quản lý công nợ,1
+Domain Knowledge,quản lý dịch vụ cntt,1
+Domain Knowledge,quản lý dự án cntt,1
+Domain Knowledge,quản lý dự án công nghệ,1
+Domain Knowledge,quản lý dự án data,1
+Domain Knowledge,quản lý dự án phần mềm,1
+Domain Knowledge,quản lý dự án tài chính ngân hàng,1
+Domain Knowledge,quản lý dự án xây dựng,1
+Domain Knowledge,quản lý hoặc triển khai các dự án cntt,1
+Domain Knowledge,quản lý hệ thống phần mềm,1
+Domain Knowledge,quản lý hệ thống thông tin,1
+Domain Knowledge,quản lý học liệu,1
+Domain Knowledge,quản lý khách hàng,1
+Domain Knowledge,quản lý kinh doanh bất động sản,1
+Domain Knowledge,quản lý kế toán,1
+Domain Knowledge,quản lý mua hàng/bán hàng,1
+Domain Knowledge,quản lý năng lượng,1
+Domain Knowledge,quản lý pin,1
+Domain Knowledge,quản lý quy trình,1
+Domain Knowledge,quản lý rủi ro cntt,1
+Domain Knowledge,quản lý sản phẩm,1
+Domain Knowledge,quản lý tài chính,1
+Domain Knowledge,quản lý tài chính mua sắm,1
+Domain Knowledge,quản lý tài sản,1
+Domain Knowledge,quản lý tài sản kỹ thuật,1
+Domain Knowledge,quản lý tồn kho,1
+Domain Knowledge,quản lý tồn kho (inventory management,1
+Domain Knowledge,quản lý và vận hành hệ thống,1
+Domain Knowledge,quản lý vận hành e-commerce,1
+Domain Knowledge,quản lý vận tải,1
+Domain Knowledge,quản lý định mức chi phí,1
+Domain Knowledge,quản lý/trưởng dự án erp,1
+Domain Knowledge,quản trị của doanh nghiệp,1
+Domain Knowledge,quản trị dịch vụ it,1
+Domain Knowledge,quản trị dữ liệu doanh nghiệp,1
+Domain Knowledge,quản trị dự án khối chính phủ (gov,1
+Domain Knowledge,quản trị dự án phần mềm,1
+Domain Knowledge,quản trị hiệu suất vận hành,1
+Domain Knowledge,quản trị nguồn lực nội bộ,1
+Domain Knowledge,quản trị phòng dự án phần mềm,1
+Domain Knowledge,quản trị phần mềm doanh nghiệp,1
+Domain Knowledge,quản trị rủi ro thông tin,1
+Domain Knowledge,quản trị sản xuất,1
+Domain Knowledge,quản trị vận hành,1
+Domain Knowledge,"quảng cáo (google, facebook",1
+Domain Knowledge,quảng cáo digital,1
+Domain Knowledge,r&d workflows,1
+Domain Knowledge,radar,1
+Domain Knowledge,radio,1
+Domain Knowledge,rbac,1
+Domain Knowledge,rce,1
+Domain Knowledge,real estate,1
+Domain Knowledge,real-time,1
+Domain Knowledge,real-time applications,1
+Domain Knowledge,rebar,1
+Domain Knowledge,recruitment marketing,1
+Domain Knowledge,refunds,1
+Domain Knowledge,regtech,1
+Domain Knowledge,"regulated customers (pharma, clinical",1
+Domain Knowledge,regulated environments,1
+Domain Knowledge,regulated financial environments,1
+Domain Knowledge,regulatory requirement,1
+Domain Knowledge,regulatory risk,1
+Domain Knowledge,retail and fashion,1
+Domain Knowledge,retail banking,1
+Domain Knowledge,retail inventory,1
+Domain Knowledge,retention driver,1
+Domain Knowledge,retention loops,1
+Domain Knowledge,reward systems,1
+Domain Knowledge,rework/repair,1
+Domain Knowledge,rf,1
+Domain Knowledge,ride-hailing,1
+Domain Knowledge,risk,1
+Domain Knowledge,risk assessment,1
+Domain Knowledge,risk controls,1
+Domain Knowledge,risk mitigation,1
+Domain Knowledge,risk operations,1
+Domain Knowledge,risks,1
+Domain Knowledge,roi calculator,1
+Domain Knowledge,rtp,1
+Domain Knowledge,rule engines,1
+Domain Knowledge,rủi ro cntt,1
+Domain Knowledge,saas application,1
+Domain Knowledge,saas automation,1
+Domain Knowledge,saas b2b,1
+Domain Knowledge,saas multi-tenant,1
+Domain Knowledge,saas products,1
+Domain Knowledge,safety regulations,1
+Domain Knowledge,sale admin,1
+Domain Knowledge,sale cntt,1
+Domain Knowledge,sales and distribution processes,1
+Domain Knowledge,sales and marketing processes,1
+Domain Knowledge,sales automation,1
+Domain Knowledge,sales it/pre-sale,1
+Domain Knowledge,sales planning,1
+Domain Knowledge,"sales trong ngành công nghệ, phần mềm",1
+Domain Knowledge,sales/telesales,1
+Domain Knowledge,salesforce application development,1
+Domain Knowledge,sap basis concepts,1
+Domain Knowledge,sap eam/pm,1
+Domain Knowledge,sap fico,1
+Domain Knowledge,sap implementation,1
+Domain Knowledge,sap integrations,1
+Domain Knowledge,sap mm,1
+Domain Knowledge,sap sd,1
+Domain Knowledge,sap sd processes,1
+Domain Knowledge,sap security,1
+Domain Knowledge,sap technical consulting,1
+Domain Knowledge,sass,1
+Domain Knowledge,scheduling systems,1
+Domain Knowledge,science or technology product development,1
+Domain Knowledge,search engine,1
+Domain Knowledge,securities trading infrastructure,1
+Domain Knowledge,securities trading operations,1
+Domain Knowledge,securities trading systems,1
+Domain Knowledge,security governance,1
+Domain Knowledge,security principles,1
+Domain Knowledge,security technologies,1
+Domain Knowledge,seo on-page,1
+Domain Knowledge,seo technical,1
+Domain Knowledge,service environment,1
+Domain Knowledge,set-top boxes,1
+Domain Knowledge,sfa,1
+Domain Knowledge,shopify,1
+Domain Knowledge,shopify app architecture,1
+Domain Knowledge,shopify apps,1
+Domain Knowledge,si,1
+Domain Knowledge,si (system integrator,1
+Domain Knowledge,si/msi,1
+Domain Knowledge,si/utility projects,1
+Domain Knowledge,single-page applications,1
+Domain Knowledge,sinh dược,1
+Domain Knowledge,sinh học phân tử,1
+Domain Knowledge,sinh phẩm,1
+Domain Knowledge,site branding,1
+Domain Knowledge,siêu dữ liệu,1
+Domain Knowledge,sku lifecycle,1
+Domain Knowledge,slas,1
+Domain Knowledge,smart cities,1
+Domain Knowledge,smart device,1
+Domain Knowledge,smart home,1
+Domain Knowledge,smart home products,1
+Domain Knowledge,smart tv,1
+Domain Knowledge,smarthome,1
+Domain Knowledge,smartphone lte architectures,1
+Domain Knowledge,smes,1
+Domain Knowledge,smt,1
+Domain Knowledge,so/po,1
+Domain Knowledge,social commerce,1
+Domain Knowledge,social media trends,1
+Domain Knowledge,software,1
+Domain Knowledge,software ba,1
+Domain Knowledge,software engineer,1
+Domain Knowledge,software engineering,1
+Domain Knowledge,software outsourcing,1
+Domain Knowledge,software producer,1
+Domain Knowledge,solana,1
+Domain Knowledge,solar,1
+Domain Knowledge,solution,1
+Domain Knowledge,solution consultant,1
+Domain Knowledge,someip,1
+Domain Knowledge,sorting center,1
+Domain Knowledge,sourcing,1
+Domain Knowledge,sports domain,1
+Domain Knowledge,sqli,1
+Domain Knowledge,ssrf,1
+Domain Knowledge,stablecoin,1
+Domain Knowledge,staking,1
+Domain Knowledge,startup,1
+Domain Knowledge,startup công nghệ,1
+Domain Knowledge,state bank of vietnam (sbv) it regulations,1
+Domain Knowledge,streaming,1
+Domain Knowledge,structural engineering software,1
+Domain Knowledge,structured cabling,1
+Domain Knowledge,subscription app,1
+Domain Knowledge,supply chain planning,1
+Domain Knowledge,surveillance,1
+Domain Knowledge,surveying,1
+Domain Knowledge,swift payment systems,1
+Domain Knowledge,system engineer,1
+Domain Knowledge,system implementation support,1
+Domain Knowledge,sản phẩm bảo hiểm,1
+Domain Knowledge,sản phẩm cho vay tiêu dùng,1
+Domain Knowledge,sản phẩm cntt,1
+Domain Knowledge,sản phẩm có tính cá nhân hóa,1
+Domain Knowledge,sản phẩm công nghiệp,1
+Domain Knowledge,sản phẩm công nghệ trong ngành y tế,1
+Domain Knowledge,sản phẩm dịch vụ công nghệ phục vụ doanh nghiệp,1
+Domain Knowledge,sản phẩm dịch vụ ngân hàng,1
+Domain Knowledge,sản phẩm giáo dục trực tuyến,1
+Domain Knowledge,sản phẩm ngân hàng,1
+Domain Knowledge,sản phẩm phần cứng,1
+Domain Knowledge,sản phẩm phức tạp,1
+Domain Knowledge,sản phẩm social,1
+Domain Knowledge,sản phẩm trong ngành ô tô,1
+Domain Knowledge,sản phẩm trong ô tô,1
+Domain Knowledge,sản phẩm tài chính số,1
+Domain Knowledge,sản phẩm tích hợp bản đồ số,1
+Domain Knowledge,sản phẩm đầu tư,1
+Domain Knowledge,sản xuất phim,1
+Domain Knowledge,sản xuất smt,1
+Domain Knowledge,sản xuất thông minh,1
+Domain Knowledge,sản xuất vaccine,1
+Domain Knowledge,sản xuất điện tử,1
+Domain Knowledge,sản xuất/manufacturing,1
+Domain Knowledge,số hóa,1
+Domain Knowledge,số hóa công trường,1
+Domain Knowledge,số hóa ngân hàng,1
+Domain Knowledge,số hóa vận hành nhà máy,1
+Domain Knowledge,"số hóa, chuyển đổi số",1
+Domain Knowledge,t24,1
+Domain Knowledge,t24 core banking,1
+Domain Knowledge,talent program,1
+Domain Knowledge,task/process,1
+Domain Knowledge,tat,1
+Domain Knowledge,tax and labor laws,1
+Domain Knowledge,tcu,1
+Domain Knowledge,tcu business,1
+Domain Knowledge,tech industries,1
+Domain Knowledge,tech startup,1
+Domain Knowledge,technical,1
+Domain Knowledge,technical analysis,1
+Domain Knowledge,technical business analyst,1
+Domain Knowledge,technical sales,1
+Domain Knowledge,technology,1
+Domain Knowledge,technology consulting,1
+Domain Knowledge,technology domain,1
+Domain Knowledge,telecommunications,1
+Domain Knowledge,telematics,1
+Domain Knowledge,telesales,1
+Domain Knowledge,telesales b2b,1
+Domain Knowledge,temenos t24,1
+Domain Knowledge,temenos transact,1
+Domain Knowledge,tender market in vietnam,1
+Domain Knowledge,test các thể loại casual/puzzle/instant game,1
+Domain Knowledge,test hệ thống hóa đơn,1
+Domain Knowledge,testing gis/map-based systems,1
+Domain Knowledge,testing payments banking systems,1
+Domain Knowledge,thanh toán online,1
+Domain Knowledge,thanh toán số,1
+Domain Knowledge,thanh toán/tài chính số,1
+Domain Knowledge,thiết bị công nghiệp,1
+Domain Knowledge,thiết bị công nghệ cao,1
+Domain Knowledge,thiết bị di động,1
+Domain Knowledge,thiết bị iot,1
+Domain Knowledge,thiết bị nghiệp vụ,1
+Domain Knowledge,thiết bị số 3c,1
+Domain Knowledge,thiết bị thông minh,1
+Domain Knowledge,thiết bị truyền dẫn tín hiệu truyền hình,1
+Domain Knowledge,thiết bị trình chiếu và hội họp trực tuyến,1
+Domain Knowledge,thiết bị vr,1
+Domain Knowledge,thiết bị điện thoại,1
+Domain Knowledge,thiết kế chi tiết cơ khí,1
+Domain Knowledge,thiết kế chiến lược giá,1
+Domain Knowledge,thiết kế game di động,1
+Domain Knowledge,thiết kế jig/fixture,1
+Domain Knowledge,thiết kế nội thất,1
+Domain Knowledge,thiết kế sản phẩm cho lĩnh vực giáo dục,1
+Domain Knowledge,thiết kế sản phẩm cho ngành xây dựng,1
+Domain Knowledge,thiết kế và phát triển game trên di động,1
+Domain Knowledge,"thiết kế, sản xuất thiết bị đầu cuối di động",1
+Domain Knowledge,threat hunting,1
+Domain Knowledge,threat intelligence,1
+Domain Knowledge,threat landscape,1
+Domain Knowledge,through-hole,1
+Domain Knowledge,thu mua,1
+Domain Knowledge,thuế,1
+Domain Knowledge,thông tư - nghị định,1
+Domain Knowledge,thú y,1
+Domain Knowledge,thương mại dịch vụ,1
+Domain Knowledge,thương mại quốc tế,1
+Domain Knowledge,thương mại điện,1
+Domain Knowledge,thương mại điện tử (e-commerce,1
+Domain Knowledge,thương mại điện tử việt nam,1
+Domain Knowledge,thạo đường phố hà nội,1
+Domain Knowledge,thẻ,1
+Domain Knowledge,thẻ bài,1
+Domain Knowledge,thẻ tín dụng,1
+Domain Knowledge,thể loại game,1
+Domain Knowledge,thể thao,1
+Domain Knowledge,thị trường chứng khoán việt nam,1
+Domain Knowledge,thị trường game online,1
+Domain Knowledge,thị trường hàng tiêu dùng hoặc gia dụng,1
+Domain Knowledge,thị trường mobile app,1
+Domain Knowledge,thị trường nhật bản,1
+Domain Knowledge,thị trường việt nam,1
+Domain Knowledge,thủ tục đấu thầu,1
+Domain Knowledge,thủ tục đầu tư,1
+Domain Knowledge,ticketing,1
+Domain Knowledge,tiêu chuẩn bảo mật,1
+Domain Knowledge,tiêu chuẩn ngành,1
+Domain Knowledge,tiếp thị,1
+Domain Knowledge,tms,1
+Domain Knowledge,token standard,1
+Domain Knowledge,touch screen displays,1
+Domain Knowledge,toán - tin,1
+Domain Knowledge,tracking,1
+Domain Knowledge,trading systems,1
+Domain Knowledge,transaction banking,1
+Domain Knowledge,transaction flows,1
+Domain Knowledge,transaction lifecycle,1
+Domain Knowledge,transactional or financial data,1
+Domain Knowledge,transportation,1
+Domain Knowledge,travel,1
+Domain Knowledge,travel related product development,1
+Domain Knowledge,triết học phương đông,1
+Domain Knowledge,triển khai chiến lược dựa trên rủi ro,1
+Domain Knowledge,triển khai các dự án cntt,1
+Domain Knowledge,triển khai các giải pháp ứng dụng phần mềm cho ngân hàng,1
+Domain Knowledge,triển khai các hệ thống cntt giao thông,1
+Domain Knowledge,triển khai dự án cntt,1
+Domain Knowledge,triển khai dự án công nghệ,1
+Domain Knowledge,triển khai giải pháp công nghệ,1
+Domain Knowledge,triển khai hệ thống cntt,1
+Domain Knowledge,triển khai hệ thống eam/cmms,1
+Domain Knowledge,triển khai hệ thống wifi quy mô lớn,1
+Domain Knowledge,"triển khai hệ thống, giải pháp hệ thống ngân hàng",1
+Domain Knowledge,triển khai phần mềm bệnh viện,1
+Domain Knowledge,triển khai phần mềm lĩnh vực quản lý sản xuất,1
+Domain Knowledge,triển khai website,1
+Domain Knowledge,trung tâm dữ liệu,1
+Domain Knowledge,truyền dẫn,1
+Domain Knowledge,truyền hình số vệ tinh,1
+Domain Knowledge,truyền thông - giải trí and mạng xã hội,1
+Domain Knowledge,truyền thông thương hiệu,1
+Domain Knowledge,truyền thông vhf/uhf,1
+Domain Knowledge,trợ lý giọng nói,1
+Domain Knowledge,tuyển dụng ở lĩnh vực it,1
+Domain Knowledge,tuân thủ,1
+Domain Knowledge,tuân thủ cntt,1
+Domain Knowledge,tuân thủ pháp lý,1
+Domain Knowledge,tuân thủ trong fintech,1
+Domain Knowledge,"tài chính (trading, payment, banking",1
+Domain Knowledge,tài chính công,1
+Domain Knowledge,tài chính của nhật bản,1
+Domain Knowledge,tài chính doanh nghiệp,1
+Domain Knowledge,tài chính kế toán,1
+Domain Knowledge,tài chính tiêu dùng/ngân hàng,1
+Domain Knowledge,tài chính/chứng khoán,1
+Domain Knowledge,tài chính/ngân hàng/bảo hiểm/fintech,1
+Domain Knowledge,tài chính/ngân hàng/fintech,1
+Domain Knowledge,tài khoản,1
+Domain Knowledge,tài sản số,1
+Domain Knowledge,tâm lý người chơi,1
+Domain Knowledge,tâm lý người chơi hệ kiếm hiệp,1
+Domain Knowledge,tích hợp cổng thanh toán,1
+Domain Knowledge,tích hợp doanh nghiệp,1
+Domain Knowledge,tích hợp hệ thống,1
+Domain Knowledge,tích hợp ngân hàng/thanh toán,1
+Domain Knowledge,tích hợp sàn tmđt,1
+Domain Knowledge,tích hợp thu/chi hộ với ngân hàng,1
+Domain Knowledge,tích hợp vào dây chuyền,1
+Domain Knowledge,tín dụng kh sme/corp,1
+Domain Knowledge,tín dụng tiêu dùng,1
+Domain Knowledge,tín hiệu giao thông,1
+Domain Knowledge,tín hiệu số,1
+Domain Knowledge,tính giá thành,1
+Domain Knowledge,tính sức mua,1
+Domain Knowledge,tư vấn cntt,1
+Domain Knowledge,tư vấn dịch vụ,1
+Domain Knowledge,tư vấn giải pháp cntt,1
+Domain Knowledge,tư vấn giải pháp phần mềm,1
+Domain Knowledge,tư vấn hoặc triển khai sản phẩm/giải pháp cnnt,1
+Domain Knowledge,tư vấn triển khai crm,1
+Domain Knowledge,tư vấn triển khai phần mềm,1
+Domain Knowledge,tạo kịch bản event,1
+Domain Knowledge,tập đoàn đa ngành,1
+Domain Knowledge,tối ưu chi phí,1
+Domain Knowledge,tối ưu hiệu quả digital campaign,1
+Domain Knowledge,tối ưu monetization,1
+Domain Knowledge,tồn kho (fefo,1
+Domain Knowledge,tử vi,1
+Domain Knowledge,tự động hóa chỉnh sửa ảnh/video,1
+Domain Knowledge,tự động hóa dây chuyền sản xuất,1
+Domain Knowledge,tự động hóa iot,1
+Domain Knowledge,ua marketing app,1
+Domain Knowledge,unit economics,1
+Domain Knowledge,us stocks,1
+Domain Knowledge,usb,1
+Domain Knowledge,user engagement,1
+Domain Knowledge,user operations,1
+Domain Knowledge,vas,1
+Domain Knowledge,vendor risk management,1
+Domain Knowledge,vesting,1
+Domain Knowledge,video call/voice call,1
+Domain Knowledge,video codecs,1
+Domain Knowledge,video container,1
+Domain Knowledge,video processing,1
+Domain Knowledge,video wall,1
+Domain Knowledge,video/audio codecs,1
+Domain Knowledge,vietnam hr practices and compliance,1
+Domain Knowledge,vietnamese cybersecurity laws,1
+Domain Knowledge,vietqr,1
+Domain Knowledge,virtual spaces,1
+Domain Knowledge,virtual staging,1
+Domain Knowledge,visa/mastercard network,1
+Domain Knowledge,visual media,1
+Domain Knowledge,viết thuyết minh dự toán,1
+Domain Knowledge,"viết, biên tập nội dung tuyển dụng",1
+Domain Knowledge,viễn thông internet,1
+Domain Knowledge,voice,1
+Domain Knowledge,voip telephony systems,1
+Domain Knowledge,vr,1
+Domain Knowledge,vulnerability management,1
+Domain Knowledge,ví crypto,1
+Domain Knowledge,vòng đời sản phẩm mobile game,1
+Domain Knowledge,văn hoá làm việc của người nhật,1
+Domain Knowledge,văn hoá âu - mỹ,1
+Domain Knowledge,văn hóa nhật bản,1
+Domain Knowledge,vận chuyển,1
+Domain Knowledge,vận hành app mobile,1
+Domain Knowledge,vận hành app mobile/game/web livestream,1
+Domain Knowledge,vận hành bán lẻ,1
+Domain Knowledge,vận hành chuỗi bán lẻ,1
+Domain Knowledge,vận hành chuỗi f&b,1
+Domain Knowledge,vận hành doanh nghiệp,1
+Domain Knowledge,vận hành doanh nghiệp sme/mid-market,1
+Domain Knowledge,vận hành dự án,1
+Domain Knowledge,vận hành hạ tầng cntt,1
+Domain Knowledge,vận hành hệ thống corebanking,1
+Domain Knowledge,vận hành hệ thống phần mềm doanh nghiệp,1
+Domain Knowledge,vận hành kho,1
+Domain Knowledge,vận hành logistics,1
+Domain Knowledge,vận hành nhiều điểm kinh doanh,1
+Domain Knowledge,vận hành nhà máy,1
+Domain Knowledge,vận hành product saas,1
+Domain Knowledge,vận hành sàn tmđt,1
+Domain Knowledge,vận hành sản phẩm,1
+Domain Knowledge,vận hành sản xuất,1
+Domain Knowledge,vận hành web livestream,1
+Domain Knowledge,vận hành website bán hàng,1
+Domain Knowledge,"vận hành, hỗ trợ ứng dụng/ hệ thống bán hàng",1
+Domain Knowledge,vận tải hành khách,1
+Domain Knowledge,vật liệu,1
+Domain Knowledge,vệ tinh,1
+Domain Knowledge,warehouse operations,1
+Domain Knowledge,warehouse/sorting center,1
+Domain Knowledge,water utility,1
+Domain Knowledge,way4,1
+Domain Knowledge,wearables,1
+Domain Knowledge,web 3d platforms,1
+Domain Knowledge,web application security,1
+Domain Knowledge,web application technologies,1
+Domain Knowledge,web applications development,1
+Domain Knowledge,web apps,1
+Domain Knowledge,web attack,1
+Domain Knowledge,web back-end,1
+Domain Knowledge,web based,1
+Domain Knowledge,web dev,1
+Domain Knowledge,web developer backend,1
+Domain Knowledge,web development technologies,1
+Domain Knowledge,web ec,1
+Domain Knowledge,web front,1
+Domain Knowledge,web operation,1
+Domain Knowledge,web or application development,1
+Domain Knowledge,web or mobile applications,1
+Domain Knowledge,web programing with java ee 8,1
+Domain Knowledge,web-based,1
+Domain Knowledge,web-based application development,1
+Domain Knowledge,web/mobile app,1
+Domain Knowledge,webrtc,1
+Domain Knowledge,website development,1
+Domain Knowledge,website/app bán hàng,1
+Domain Knowledge,wellness,1
+Domain Knowledge,wi-fi technology,1
+Domain Knowledge,wifi,1
+Domain Knowledge,wifi 5/5ghz,1
+Domain Knowledge,wifi 6/6e,1
+Domain Knowledge,wifi standards,1
+Domain Knowledge,win application,1
+Domain Knowledge,window app,1
+Domain Knowledge,window application,1
+Domain Knowledge,windows desktop application,1
+Domain Knowledge,windows desktop software development,1
+Domain Knowledge,wlan software development,1
+Domain Knowledge,workflow phê duyệt,1
+Domain Knowledge,working with japanese clients,1
+Domain Knowledge,x-ray search,1
+Domain Knowledge,xe tự hành,1
+Domain Knowledge,xr,1
+Domain Knowledge,xss,1
+Domain Knowledge,xu hướng của thị trường,1
+Domain Knowledge,xu hướng thị trường,1
+Domain Knowledge,xu thế game,1
+Domain Knowledge,xuất nhập khẩu,1
+Domain Knowledge,xây dựng backend,1
+Domain Knowledge,xây dựng chiến dịch marketing,1
+Domain Knowledge,xây dựng frontend,1
+Domain Knowledge,xây dựng hồ sơ thầu,1
+Domain Knowledge,xây dựng và phát triển network ứng viên,1
+Domain Knowledge,xây dựng và phát triển sản phẩm,1
+Domain Knowledge,xây dựng và vận hành hệ thống quản lý dự án,1
+Domain Knowledge,xây dựng ứng dụng android,1
+Domain Knowledge,xây dựng ứng dụng nội bộ,1
+Domain Knowledge,xử lý force sell,1
+Domain Knowledge,xử lý xây dựng và triển khai các sản phẩm chuyển tiền/thanh toán/ thu chi hộ,1
+Domain Knowledge,y dược,1
+Domain Knowledge,y tế/bệnh viện,1
+Domain Knowledge,điều chỉnh gameplay,1
+Domain Knowledge,điều hành nghiệp vụ,1
+Domain Knowledge,điện chiếu sáng,1
+Domain Knowledge,điện nhẹ elv,1
+Domain Knowledge,điện thoại iot,1
+Domain Knowledge,điện trang trí đường phố,1
+Domain Knowledge,đtvt,1
+Domain Knowledge,đào tạo cntt,1
+Domain Knowledge,đánh giá attt,1
+Domain Knowledge,đánh giá sản phẩm game,1
+Domain Knowledge,đánh giá thị trường,1
+Domain Knowledge,đánh giá và quản lý rủi ro antt,1
+Domain Knowledge,"đánh giá, phân tích game",1
+Domain Knowledge,đạo đức và pháp lý liên quan đến việc sử dụng dữ liệu và ai,1
+Domain Knowledge,đấu tướng,1
+Domain Knowledge,đầu tư,1
+Domain Knowledge,đầu tư mua sắm công,1
+Domain Knowledge,"đầu tư, đấu thầu dự án cntt",1
+Domain Knowledge,định giá bất động sản/xe hơi,1
+Domain Knowledge,định mức chi phí phần mềm,1
+Domain Knowledge,định phí bảo hiểm (actuarial,1
+Domain Knowledge,"đọc, phân tích báo cáo tài chính",1
+Domain Knowledge,ảnh/video,1
+Domain Knowledge,ứng dụng cntt trong hoạt động ngân hàng,1
+Domain Knowledge,ứng dụng di động,1
+Domain Knowledge,ứng dụng nội bộ doanh nghiệp,1
+Domain Knowledge,ứng dụng quản trị,1
+Domain Knowledge,ứng dụng về mua sắm,1
+Domain Knowledge,ứng dụng/dịch vụ phục vụ cho người dùng trong môi trường doanh nghiệp,1

@@ -1,0 +1,702 @@
+category,normalized_skill,count
+Framework / Library,react,274
+Framework / Library,node.js,162
+Framework / Library,spring boot,127
+Framework / Library,net,123
+Framework / Library,vue,109
+Framework / Library,angular,107
+Framework / Library,next.js,73
+Framework / Library,spring,65
+Framework / Library,flutter,62
+Framework / Library,react native,59
+Framework / Library,laravel,51
+Framework / Library,nestjs,50
+Framework / Library,net core,48
+Framework / Library,fastapi,46
+Framework / Library,redux,43
+Framework / Library,jquery,39
+Framework / Library,hibernate,35
+Framework / Library,bootstrap,32
+Framework / Library,django,30
+Framework / Library,pandas,29
+Framework / Library,langchain,28
+Framework / Library,flask,27
+Framework / Library,spring mvc,25
+Framework / Library,numpy,21
+Framework / Library,spring security,20
+Framework / Library,asp.net core,18
+Framework / Library,entity,18
+Framework / Library,jetpack compose,18
+Framework / Library,jpa,18
+Framework / Library,angularjs,17
+Framework / Library,bloc,17
+Framework / Library,express.js,17
+Framework / Library,provider,17
+Framework / Library,langgraph,16
+Framework / Library,llamaindex,15
+Framework / Library,react js,15
+Framework / Library,riverpod,15
+Framework / Library,swiftui,15
+Framework / Library,asp.net,14
+Framework / Library,coroutines,14
+Framework / Library,rxjs,14
+Framework / Library,uikit,14
+Framework / Library,entity core,13
+Framework / Library,scikit-learn,13
+Framework / Library,flow,12
+Framework / Library,retrofit,12
+Framework / Library,tailwind css,12
+Framework / Library,hilt,11
+Framework / Library,ant design,10
+Framework / Library,coroutine,10
+Framework / Library,zustand,10
+Framework / Library,android sdk,9
+Framework / Library,java spring boot,9
+Framework / Library,linq,9
+Framework / Library,wpf,9
+Framework / Library,context api,8
+Framework / Library,express,8
+Framework / Library,qt,8
+Framework / Library,spring cloud,8
+Framework / Library,springboot,8
+Framework / Library,struts,8
+Framework / Library,ajax,7
+Framework / Library,asp.net mvc,7
+Framework / Library,dagger,7
+Framework / Library,graphql,7
+Framework / Library,navigation,7
+Framework / Library,okhttp,7
+Framework / Library,redux toolkit,7
+Framework / Library,ruby on rails,7
+Framework / Library,rxjava,7
+Framework / Library,socketio,7
+Framework / Library,tailwind,7
+Framework / Library,tensorflow,7
+Framework / Library,autogen,6
+Framework / Library,combine,6
+Framework / Library,crewai,6
+Framework / Library,getx,6
+Framework / Library,jetpack,6
+Framework / Library,jsp,6
+Framework / Library,mobx,6
+Framework / Library,pytorch,6
+Framework / Library,socket.io,6
+Framework / Library,spring data,6
+Framework / Library,tailwindcss,6
+Framework / Library,webrtc,6
+Framework / Library,angular material,5
+Framework / Library,codeigniter,5
+Framework / Library,compose,5
+Framework / Library,devexpress,5
+Framework / Library,hooks,5
+Framework / Library,ngrx,5
+Framework / Library,pinia,5
+Framework / Library,room,5
+Framework / Library,rxswift,5
+Framework / Library,spring data jpa,5
+Framework / Library,vuex,5
+Framework / Library,ado.net,4
+Framework / Library,android,4
+Framework / Library,axios,4
+Framework / Library,blazor,4
+Framework / Library,celery,4
+Framework / Library,core data,4
+Framework / Library,expo,4
+Framework / Library,front-end,4
+Framework / Library,frontend,4
+Framework / Library,gcd,4
+Framework / Library,grpc,4
+Framework / Library,ios sdk,4
+Framework / Library,java ee,4
+Framework / Library,jetpack components,4
+Framework / Library,less,4
+Framework / Library,livedata,4
+Framework / Library,mvc,4
+Framework / Library,native modules,4
+Framework / Library,net 8,4
+Framework / Library,node js,4
+Framework / Library,react hooks,4
+Framework / Library,react query,4
+Framework / Library,sass,4
+Framework / Library,stl,4
+Framework / Library,swift concurrency,4
+Framework / Library,tanstack query,4
+Framework / Library,three.js,4
+Framework / Library,viewmodel,4
+Framework / Library,vue 3,4
+Framework / Library,webgl,4
+Framework / Library,winforms,4
+Framework / Library,xgboost,4
+Framework / Library,activity,3
+Framework / Library,android jetpack,3
+Framework / Library,angular 2,3
+Framework / Library,auto layout,3
+Framework / Library,bootstrap 5,3
+Framework / Library,cakephp,3
+Framework / Library,core animation,3
+Framework / Library,dapper,3
+Framework / Library,dio,3
+Framework / Library,dotnet,3
+Framework / Library,ef core,3
+Framework / Library,electronjs,3
+Framework / Library,eloquent orm,3
+Framework / Library,fetch,3
+Framework / Library,fragment,3
+Framework / Library,highcharts,3
+Framework / Library,ionic,3
+Framework / Library,j2ee,3
+Framework / Library,java springboot,3
+Framework / Library,jdbc,3
+Framework / Library,jni,3
+Framework / Library,keras,3
+Framework / Library,material ui,3
+Framework / Library,matplotlib,3
+Framework / Library,mfc,3
+Framework / Library,mui,3
+Framework / Library,mybatis,3
+Framework / Library,nest.js,3
+Framework / Library,next js,3
+Framework / Library,nltk,3
+Framework / Library,node,3
+Framework / Library,nuxtjs,3
+Framework / Library,project reactor,3
+Framework / Library,pyspark,3
+Framework / Library,qweb,3
+Framework / Library,reactnative,3
+Framework / Library,redux-saga,3
+Framework / Library,service,3
+Framework / Library,spring webflux,3
+Framework / Library,svelte,3
+Framework / Library,typeorm,3
+Framework / Library,ui,3
+Framework / Library,vue router,3
+Framework / Library,vuetify,3
+Framework / Library,web api,3
+Framework / Library,activity/fragment,2
+Framework / Library,android frameworks,2
+Framework / Library,angular 8,2
+Framework / Library,angular universal,2
+Framework / Library,antdesignvue,2
+Framework / Library,apache,2
+Framework / Library,backbase,2
+Framework / Library,backend,2
+Framework / Library,bootstrapvue,2
+Framework / Library,broadcast receiver,2
+Framework / Library,caffeine,2
+Framework / Library,cocos creator,2
+Framework / Library,component libraries,2
+Framework / Library,core graphics,2
+Framework / Library,d3,2
+Framework / Library,datastore,2
+Framework / Library,devextreme,2
+Framework / Library,echo,2
+Framework / Library,ee,2
+Framework / Library,emotion,2
+Framework / Library,esp-idf,2
+Framework / Library,fiori,2
+Framework / Library,fiori elements,2
+Framework / Library,flutter internals,2
+Framework / Library,flutter_secure_storage,2
+Framework / Library,gin,2
+Framework / Library,go-zero,2
+Framework / Library,google maps sdk,2
+Framework / Library,haystack,2
+Framework / Library,hibernate/jpa,2
+Framework / Library,java nio,2
+Framework / Library,java spring,2
+Framework / Library,javascript frameworks,2
+Framework / Library,jsp/servlet,2
+Framework / Library,kmm,2
+Framework / Library,koa,2
+Framework / Library,koin,2
+Framework / Library,kotlin multiplatform,2
+Framework / Library,langchain api,2
+Framework / Library,lightning web components,2
+Framework / Library,lightweight charts,2
+Framework / Library,lwc,2
+Framework / Library,net 6/7,2
+Framework / Library,net 9,2
+Framework / Library,net development,2
+Framework / Library,net framwork,2
+Framework / Library,net mvc,2
+Framework / Library,odoo orm,2
+Framework / Library,openzeppelin,2
+Framework / Library,phaser,2
+Framework / Library,php laravel,2
+Framework / Library,qml,2
+Framework / Library,rails,2
+Framework / Library,razor,2
+Framework / Library,react-hook-form,2
+Framework / Library,reactor,2
+Framework / Library,reanimated,2
+Framework / Library,recharts,2
+Framework / Library,recoil,2
+Framework / Library,recyclerview,2
+Framework / Library,remix,2
+Framework / Library,retrofit2,2
+Framework / Library,sapui5,2
+Framework / Library,scipy,2
+Framework / Library,seasar2,2
+Framework / Library,server components,2
+Framework / Library,signalr,2
+Framework / Library,sklearn,2
+Framework / Library,spacy,2
+Framework / Library,sqlalchemy,2
+Framework / Library,stanford corenlp,2
+Framework / Library,style-component,2
+Framework / Library,styled component,2
+Framework / Library,swift ui,2
+Framework / Library,tauri,2
+Framework / Library,thymeleaf,2
+Framework / Library,tradingview charting,2
+Framework / Library,ugui,2
+Framework / Library,unity,2
+Framework / Library,viewbinding,2
+Framework / Library,vtk,2
+Framework / Library,webassembly,2
+Framework / Library,websocket,2
+Framework / Library,,1
+Framework / Library,3rd-party sdks,1
+Framework / Library,abap restful programming model,1
+Framework / Library,abp,1
+Framework / Library,activity/fragment lifecycle,1
+Framework / Library,adapter,1
+Framework / Library,addressables,1
+Framework / Library,adk,1
+Framework / Library,adonisjs,1
+Framework / Library,ai agent frameworks,1
+Framework / Library,ai frameworks,1
+Framework / Library,ai/ml,1
+Framework / Library,akka,1
+Framework / Library,alv,1
+Framework / Library,android material 3,1
+Framework / Library,android native,1
+Framework / Library,android services,1
+Framework / Library,androidx,1
+Framework / Library,angular 12,1
+Framework / Library,angular 19,1
+Framework / Library,angular 4,1
+Framework / Library,angular js,1
+Framework / Library,angular v10,1
+Framework / Library,animator,1
+Framework / Library,annotation frameworks,1
+Framework / Library,apache camel,1
+Framework / Library,apexcharts,1
+Framework / Library,api,1
+Framework / Library,api routes,1
+Framework / Library,apollo client,1
+Framework / Library,app router,1
+Framework / Library,architecture components,1
+Framework / Library,asp .net,1
+Framework / Library,asp.net core restful web api,1
+Framework / Library,asp.net core web api,1
+Framework / Library,asp.net mvc 5,1
+Framework / Library,asp.net web form,1
+Framework / Library,asp.net web forms,1
+Framework / Library,asyncio,1
+Framework / Library,asyncstorage,1
+Framework / Library,aura,1
+Framework / Library,aura components,1
+Framework / Library,auto-layout,1
+Framework / Library,avfoundation,1
+Framework / Library,avplayer,1
+Framework / Library,babylon.js,1
+Framework / Library,babylonjs,1
+Framework / Library,back-end,1
+Framework / Library,backend frameworks,1
+Framework / Library,backend nodejs,1
+Framework / Library,bapi,1
+Framework / Library,barcode scanner sdks,1
+Framework / Library,bdc,1
+Framework / Library,bean validation,1
+Framework / Library,beautifulsoup,1
+Framework / Library,behave,1
+Framework / Library,better-sqlite3,1
+Framework / Library,bluedroid,1
+Framework / Library,bluez,1
+Framework / Library,bootstrap responsive,1
+Framework / Library,bpm,1
+Framework / Library,broadcast,1
+Framework / Library,bun,1
+Framework / Library,c# asp.net,1
+Framework / Library,callkit,1
+Framework / Library,camerax,1
+Framework / Library,canvas,1
+Framework / Library,cap,1
+Framework / Library,car,1
+Framework / Library,carrierwave,1
+Framework / Library,casbin,1
+Framework / Library,cds,1
+Framework / Library,cds views,1
+Framework / Library,chakra ui,1
+Framework / Library,channels,1
+Framework / Library,chart.js,1
+Framework / Library,chopper,1
+Framework / Library,cloud application programming model,1
+Framework / Library,cloud sdk,1
+Framework / Library,cocoa,1
+Framework / Library,cocos2d-x,1
+Framework / Library,collection,1
+Framework / Library,collections,1
+Framework / Library,component,1
+Framework / Library,component ui,1
+Framework / Library,componentone,1
+Framework / Library,composition api,1
+Framework / Library,constraintlayout,1
+Framework / Library,contact,1
+Framework / Library,context,1
+Framework / Library,copilotkit,1
+Framework / Library,cordova,1
+Framework / Library,core .net,1
+Framework / Library,core data services (cds,1
+Framework / Library,core graphic,1
+Framework / Library,corelocation,1
+Framework / Library,coreml,1
+Framework / Library,corenlp,1
+Framework / Library,coroutines flow,1
+Framework / Library,cosmos sdk,1
+Framework / Library,cross- frameworks,1
+Framework / Library,css preprocessors,1
+Framework / Library,css-in-js,1
+Framework / Library,cubit,1
+Framework / Library,cublas,1
+Framework / Library,cucumber,1
+Framework / Library,cudnn,1
+Framework / Library,custom fiori apps,1
+Framework / Library,custom plugin development,1
+Framework / Library,custom view,1
+Framework / Library,custom widget,1
+Framework / Library,d3.js,1
+Framework / Library,dagger2,1
+Framework / Library,dart ffi,1
+Framework / Library,datareader,1
+Framework / Library,dataset,1
+Framework / Library,datatable,1
+Framework / Library,devise,1
+Framework / Library,dgs,1
+Framework / Library,diffable datasources,1
+Framework / Library,diffutil,1
+Framework / Library,django orm,1
+Framework / Library,dl,1
+Framework / Library,dotween,1
+Framework / Library,drizzle orm,1
+Framework / Library,dspy,1
+Framework / Library,ec-cube,1
+Framework / Library,ejb,1
+Framework / Library,electron.js,1
+Framework / Library,element,1
+Framework / Library,ember data,1
+Framework / Library,emberjs,1
+Framework / Library,enhancements,1
+Framework / Library,entity frameworks,1
+Framework / Library,entity framwork,1
+Framework / Library,ether.js,1
+Framework / Library,event system,1
+Framework / Library,events,1
+Framework / Library,expo web,1
+Framework / Library,expresjs,1
+Framework / Library,fast api,1
+Framework / Library,fast-polylines,1
+Framework / Library,fasttext,1
+Framework / Library,featherjs,1
+Framework / Library,ffmpeg,1
+Framework / Library,flexbox,1
+Framework / Library,fluent ui,1
+Framework / Library,fluoride,1
+Framework / Library,flutter 3.0,1
+Framework / Library,flutter sdk,1
+Framework / Library,fog-aws,1
+Framework / Library,foreground service,1
+Framework / Library,foundation,1
+Framework / Library,foundry,1
+Framework / Library,frappe,1
+Framework / Library,front-end frameworks,1
+Framework / Library,frontend component libraries,1
+Framework / Library,frontend/mobile frameworks,1
+Framework / Library,functional component,1
+Framework / Library,functional components,1
+Framework / Library,gecko,1
+Framework / Library,gensim,1
+Framework / Library,geocoder,1
+Framework / Library,gesture handler,1
+Framework / Library,gesture handling,1
+Framework / Library,glimmer components,1
+Framework / Library,go standard,1
+Framework / Library,google firebase,1
+Framework / Library,grand central dispatch (gcd,1
+Framework / Library,graphics libraries,1
+Framework / Library,grid,1
+Framework / Library,gsap,1
+Framework / Library,guava,1
+Framework / Library,hangfire,1
+Framework / Library,hardhat,1
+Framework / Library,hibernates,1
+Framework / Library,honojs,1
+Framework / Library,htmx,1
+Framework / Library,http,1
+Framework / Library,http package,1
+Framework / Library,hugging face,1
+Framework / Library,hệ sinh thái thư viện frontend,1
+Framework / Library,inertia.js,1
+Framework / Library,infragistics,1
+Framework / Library,intent,1
+Framework / Library,ios native,1
+Framework / Library,java,1
+Framework / Library,java applet,1
+Framework / Library,java core,1
+Framework / Library,java server faces (jsf,1
+Framework / Library,java servlet,1
+Framework / Library,java stream api,1
+Framework / Library,java web,1
+Framework / Library,java web and enterprise (ee) technologies,1
+Framework / Library,javaee(jakartaee,1
+Framework / Library,javascript,1
+Framework / Library,jax-rs,1
+Framework / Library,jee,1
+Framework / Library,jfs,1
+Framework / Library,jotai,1
+Framework / Library,jpa/hibernate,1
+Framework / Library,jpa2,1
+Framework / Library,jquery ui,1
+Framework / Library,js frameworks,1
+Framework / Library,jss,1
+Framework / Library,karafka,1
+Framework / Library,kmp (kotlin multiplatform,1
+Framework / Library,kotlin flow,1
+Framework / Library,ksplayer,1
+Framework / Library,libraries,1
+Framework / Library,lightgbm,1
+Framework / Library,linux,1
+Framework / Library,liquid,1
+Framework / Library,liquid templating,1
+Framework / Library,livewire,1
+Framework / Library,location,1
+Framework / Library,log4net,1
+Framework / Library,lottie,1
+Framework / Library,lovyangfx,1
+Framework / Library,lumen,1
+Framework / Library,lvgl,1
+Framework / Library,lập trình mạng,1
+Framework / Library,lập trình web,1
+Framework / Library,magento,1
+Framework / Library,map,1
+Framework / Library,material design,1
+Framework / Library,material ui (mui,1
+Framework / Library,material-ui,1
+Framework / Library,materialui,1
+Framework / Library,matplotlib/seaborn,1
+Framework / Library,maui,1
+Framework / Library,mavsdk,1
+Framework / Library,mdx,1
+Framework / Library,mern stack,1
+Framework / Library,meteorjs,1
+Framework / Library,micronaut,1
+Framework / Library,microsoft agent,1
+Framework / Library,microsoft autogen,1
+Framework / Library,microsoft mfc,1
+Framework / Library,middleware,1
+Framework / Library,modern frontend frameworks,1
+Framework / Library,module federation,1
+Framework / Library,monai,1
+Framework / Library,moti,1
+Framework / Library,motionlayout,1
+Framework / Library,ms .net,1
+Framework / Library,mui design,1
+Framework / Library,multi-agent,1
+Framework / Library,multimedia frameworks,1
+Framework / Library,mybatis/mybatis-plus,1
+Framework / Library,native addons (n-api,1
+Framework / Library,native module,1
+Framework / Library,native module integration,1
+Framework / Library,nest,1
+Framework / Library,net 10,1
+Framework / Library,net 4.7,1
+Framework / Library,net 4.8,1
+Framework / Library,net 4.x,1
+Framework / Library,net 5,1
+Framework / Library,net 6/7/8,1
+Framework / Library,net 8 web api,1
+Framework / Library,net 8.0,1
+Framework / Library,net core 8,1
+Framework / Library,net maui,1
+Framework / Library,net mvc 5,1
+Framework / Library,net server-side technologies,1
+Framework / Library,netty,1
+Framework / Library,neverthrow,1
+Framework / Library,next,1
+Framework / Library,next-auth,1
+Framework / Library,next.js app router,1
+Framework / Library,nextjs 15,1
+Framework / Library,nhibernate,1
+Framework / Library,node.j,1
+Framework / Library,node.js frameworks,1
+Framework / Library,nodejs express,1
+Framework / Library,nuxt,1
+Framework / Library,nuxt.js,1
+Framework / Library,odata,1
+Framework / Library,okhttp3,1
+Framework / Library,opengl es,1
+Framework / Library,operations,1
+Framework / Library,orm frameworks,1
+Framework / Library,page factory,1
+Framework / Library,paging 3,1
+Framework / Library,pandas udf,1
+Framework / Library,photon,1
+Framework / Library,php curl,1
+Framework / Library,physx,1
+Framework / Library,pillow,1
+Framework / Library,pixijs,1
+Framework / Library,pjproject,1
+Framework / Library,play,1
+Framework / Library,plugin flutter,1
+Framework / Library,polars,1
+Framework / Library,postcss,1
+Framework / Library,primefaces,1
+Framework / Library,primereact,1
+Framework / Library,prisma,1
+Framework / Library,prisma orm,1
+Framework / Library,pundit,1
+Framework / Library,pydantic,1
+Framework / Library,pymupdf,1
+Framework / Library,pyspark ml,1
+Framework / Library,python automation frameworks,1
+Framework / Library,quartz job,1
+Framework / Library,query builder,1
+Framework / Library,queue,1
+Framework / Library,radix ui,1
+Framework / Library,rap,1
+Framework / Library,rapid,1
+Framework / Library,razor pages,1
+Framework / Library,react context api,1
+Framework / Library,react hook,1
+Framework / Library,react hook form,1
+Framework / Library,react native cli,1
+Framework / Library,react navigation,1
+Framework / Library,react redux,1
+Framework / Library,react three fiber,1
+Framework / Library,react- native,1
+Framework / Library,react-i18next,1
+Framework / Library,react-intl,1
+Framework / Library,reanimated 2,1
+Framework / Library,recttransform,1
+Framework / Library,relayjs,1
+Framework / Library,requests,1
+Framework / Library,reusable ui components/libraries,1
+Framework / Library,revit api,1
+Framework / Library,rfc,1
+Framework / Library,rgeo,1
+Framework / Library,robot,1
+Framework / Library,ror,1
+Framework / Library,rpush,1
+Framework / Library,rx,1
+Framework / Library,rxcocoa,1
+Framework / Library,rxjava3,1
+Framework / Library,sap fiori,1
+Framework / Library,sap fiori development,1
+Framework / Library,sap ui5,1
+Framework / Library,scriptableobject,1
+Framework / Library,scss,1
+Framework / Library,sdk,1
+Framework / Library,seaborn,1
+Framework / Library,semantic kernel,1
+Framework / Library,sequelize orm,1
+Framework / Library,service provider,1
+Framework / Library,servicestack,1
+Framework / Library,shadcn/ui,1
+Framework / Library,shader,1
+Framework / Library,shared_preferences,1
+Framework / Library,shopify theme development,1
+Framework / Library,sidekiq,1
+Framework / Library,snapkit,1
+Framework / Library,social,1
+Framework / Library,solidjs,1
+Framework / Library,spa,1
+Framework / Library,sping,1
+Framework / Library,sping boot,1
+Framework / Library,spring 5,1
+Framework / Library,spring batch,1
+Framework / Library,spring boot 2.x,1
+Framework / Library,spring boots,1
+Framework / Library,spring cloud config server,1
+Framework / Library,spring cloud gateway,1
+Framework / Library,spring cloud/alibaba,1
+Framework / Library,spring core,1
+Framework / Library,spring integration,1
+Framework / Library,spring jpa,1
+Framework / Library,spring-boot,1
+Framework / Library,spring-core,1
+Framework / Library,springmvc,1
+Framework / Library,statsmodels,1
+Framework / Library,storekit,1
+Framework / Library,stream api,1
+Framework / Library,streamlit,1
+Framework / Library,strust,1
+Framework / Library,struts1,1
+Framework / Library,swr,1
+Framework / Library,templating,1
+Framework / Library,textbold,1
+Framework / Library,third-party libraries,1
+Framework / Library,third-party open-source libraries,1
+Framework / Library,threejs,1
+Framework / Library,thư viện lập trình cho ai,1
+Framework / Library,thư viện state management,1
+Framework / Library,tokio,1
+Framework / Library,tornado,1
+Framework / Library,transform,1
+Framework / Library,trpc,1
+Framework / Library,truffle,1
+Framework / Library,ui canvas,1
+Framework / Library,ui component libraries,1
+Framework / Library,ui frameworks,1
+Framework / Library,ui kit,1
+Framework / Library,ui libraries/frameworks,1
+Framework / Library,ui toolkit,1
+Framework / Library,ui5,1
+Framework / Library,uniapp,1
+Framework / Library,unitask/async,1
+Framework / Library,unity ui,1
+Framework / Library,vaadin,1
+Framework / Library,valtio,1
+Framework / Library,vega,1
+Framework / Library,vega-lite,1
+Framework / Library,velocity,1
+Framework / Library,vert.x,1
+Framework / Library,vertx,1
+Framework / Library,victory,1
+Framework / Library,view-based ui systems,1
+Framework / Library,vision,1
+Framework / Library,vlclibrary,1
+Framework / Library,vue 2,1
+Framework / Library,vue 3 composition api,1
+Framework / Library,vue cli,1
+Framework / Library,vue js,1
+Framework / Library,vue-router,1
+Framework / Library,vuejs (vue 3,1
+Framework / Library,wacs,1
+Framework / Library,waterdrop,1
+Framework / Library,wcf,1
+Framework / Library,web,1
+Framework / Library,web frontend,1
+Framework / Library,web-form,1
+Framework / Library,web3,1
+Framework / Library,web3 libraries,1
+Framework / Library,webapi,1
+Framework / Library,webflux,1
+Framework / Library,webframework,1
+Framework / Library,websockets,1
+Framework / Library,win32 api,1
+Framework / Library,windows api,1
+Framework / Library,windows form,1
+Framework / Library,windows forms,1
+Framework / Library,winui3,1
+Framework / Library,wordpress rest api,1
+Framework / Library,workmanager,1
+Framework / Library,xml layouts,1
+Framework / Library,xml views,1
+Framework / Library,yii,1
+Framework / Library,yii2,1
+Framework / Library,youtube api,1
+Framework / Library,zend,1
+Framework / Library,zod,1
+Framework / Library,zod/zvalidator,1
+Framework / Library,zurb foundation,1

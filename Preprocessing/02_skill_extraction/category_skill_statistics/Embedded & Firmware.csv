@@ -1,0 +1,407 @@
+category,normalized_skill,count
+Embedded & Firmware,can,29
+Embedded & Firmware,spi,15
+Embedded & Firmware,esp32,12
+Embedded & Firmware,lin,12
+Embedded & Firmware,stm32,12
+Embedded & Firmware,i2c,11
+Embedded & Firmware,uart,10
+Embedded & Firmware,mcu,9
+Embedded & Firmware,plc,9
+Embedded & Firmware,rtos,9
+Embedded & Firmware,hệ thống nhúng,8
+Embedded & Firmware,cảm biến,7
+Embedded & Firmware,embedded software development,7
+Embedded & Firmware,freertos,7
+Embedded & Firmware,canoe,6
+Embedded & Firmware,microcontrollers,6
+Embedded & Firmware,modbus,6
+Embedded & Firmware,vi điều khiển,6
+Embedded & Firmware,embedded systems,5
+Embedded & Firmware,ethernet,5
+Embedded & Firmware,flexray,5
+Embedded & Firmware,lập trình plc,5
+Embedded & Firmware,pic,5
+Embedded & Firmware,arm,4
+Embedded & Firmware,canalyzer,4
+Embedded & Firmware,driver development,4
+Embedded & Firmware,embedded linux,4
+Embedded & Firmware,hmi,4
+Embedded & Firmware,điện tử,4
+Embedded & Firmware,avr,3
+Embedded & Firmware,bsp,3
+Embedded & Firmware,dsp,3
+Embedded & Firmware,firmware,3
+Embedded & Firmware,lập trình nhúng,3
+Embedded & Firmware,mqtt,3
+Embedded & Firmware,scada,3
+Embedded & Firmware,schematic,3
+Embedded & Firmware,sensor,3
+Embedded & Firmware,servo,3
+Embedded & Firmware,soc,3
+Embedded & Firmware,some/ip,3
+Embedded & Firmware,usb,3
+Embedded & Firmware,wi-fi,3
+Embedded & Firmware,điện tử công suất,3
+Embedded & Firmware,arduino,2
+Embedded & Firmware,arm cortex-m,2
+Embedded & Firmware,automotive microcontrollers,2
+Embedded & Firmware,biến tần,2
+Embedded & Firmware,diagnostic,2
+Embedded & Firmware,doip,2
+Embedded & Firmware,driver,2
+Embedded & Firmware,ecu hardware modification,2
+Embedded & Firmware,ecu test,2
+Embedded & Firmware,eeprom,2
+Embedded & Firmware,embedded c,2
+Embedded & Firmware,embedded c/c,2
+Embedded & Firmware,embedded software,2
+Embedded & Firmware,embedded system development,2
+Embedded & Firmware,etas isolar,2
+Embedded & Firmware,eth,2
+Embedded & Firmware,fee,2
+Embedded & Firmware,flash,2
+Embedded & Firmware,hardware,2
+Embedded & Firmware,i2s,2
+Embedded & Firmware,io,2
+Embedded & Firmware,jetson,2
+Embedded & Firmware,kỹ thuật vi xử lý,2
+Embedded & Firmware,kỹ thuật điện tử,2
+Embedded & Firmware,labcar,2
+Embedded & Firmware,lcd,2
+Embedded & Firmware,linux kernel,2
+Embedded & Firmware,lora,2
+Embedded & Firmware,microcontroller,2
+Embedded & Firmware,mitsubishi,2
+Embedded & Firmware,mpc,2
+Embedded & Firmware,npu,2
+Embedded & Firmware,nrf,2
+Embedded & Firmware,nvm,2
+Embedded & Firmware,nxp,2
+Embedded & Firmware,opc ua,2
+Embedded & Firmware,phần cứng,2
+Embedded & Firmware,pid,2
+Embedded & Firmware,profinet,2
+Embedded & Firmware,real-time operating system (rtos,2
+Embedded & Firmware,relay,2
+Embedded & Firmware,renesas,2
+Embedded & Firmware,robot,2
+Embedded & Firmware,rs232,2
+Embedded & Firmware,rs485,2
+Embedded & Firmware,rte/bsw configuration,2
+Embedded & Firmware,sai,2
+Embedded & Firmware,secure boot,2
+Embedded & Firmware,siemens,2
+Embedded & Firmware,thiết kế mạch điều khiển,2
+Embedded & Firmware,thiết kế pcb,2
+Embedded & Firmware,uds,2
+Embedded & Firmware,vector davinci,2
+Embedded & Firmware,vi xử lý,2
+Embedded & Firmware,yocto,2
+Embedded & Firmware,zephyr,2
+Embedded & Firmware,-hal interactions,1
+Embedded & Firmware,8051,1
+Embedded & Firmware,accelerometers,1
+Embedded & Firmware,active/passive components,1
+Embedded & Firmware,adaptive autosar,1
+Embedded & Firmware,ahb,1
+Embedded & Firmware,amba protocol,1
+Embedded & Firmware,android hal,1
+Embedded & Firmware,android hal sw development,1
+Embedded & Firmware,android kernel development,1
+Embedded & Firmware,antenna design,1
+Embedded & Firmware,apb,1
+Embedded & Firmware,arm cortex,1
+Embedded & Firmware,arm microcontrollers,1
+Embedded & Firmware,asic,1
+Embedded & Firmware,asw,1
+Embedded & Firmware,atsam,1
+Embedded & Firmware,atsamd,1
+Embedded & Firmware,audio dsp,1
+Embedded & Firmware,audio pipeline,1
+Embedded & Firmware,automation,1
+Embedded & Firmware,automation programming,1
+Embedded & Firmware,automotive embedded,1
+Embedded & Firmware,automotive embedded systems and applications,1
+Embedded & Firmware,automotive hardware development,1
+Embedded & Firmware,autosar,1
+Embedded & Firmware,autosar configuration tools,1
+Embedded & Firmware,autosar sw development,1
+Embedded & Firmware,autosar tooling,1
+Embedded & Firmware,autosar tools,1
+Embedded & Firmware,axi,1
+Embedded & Firmware,beam forming,1
+Embedded & Firmware,binder,1
+Embedded & Firmware,bldc,1
+Embedded & Firmware,ble,1
+Embedded & Firmware,bluetooth,1
+Embedded & Firmware,bluetooth le,1
+Embedded & Firmware,board bring-up,1
+Embedded & Firmware,board-level hardware design,1
+Embedded & Firmware,boot loader,1
+Embedded & Firmware,bootloaders,1
+Embedded & Firmware,broadcom,1
+Embedded & Firmware,bsp concepts,1
+Embedded & Firmware,bsw,1
+Embedded & Firmware,bsw development,1
+Embedded & Firmware,buck/boost,1
+Embedded & Firmware,buildroot,1
+Embedded & Firmware,bus arbitration,1
+Embedded & Firmware,bảo mật firmware,1
+Embedded & Firmware,cache coherency,1
+Embedded & Firmware,cameras,1
+Embedded & Firmware,can bus,1
+Embedded & Firmware,can protocol,1
+Embedded & Firmware,canalyser,1
+Embedded & Firmware,canape,1
+Embedded & Firmware,canfd,1
+Embedded & Firmware,canprotocol,1
+Embedded & Firmware,capl programming,1
+Embedded & Firmware,circuit design,1
+Embedded & Firmware,classic autosar,1
+Embedded & Firmware,classic autosar swc development,1
+Embedded & Firmware,com,1
+Embedded & Firmware,compiler,1
+Embedded & Firmware,cortina,1
+Embedded & Firmware,các hệ thống điều khiển,1
+Embedded & Firmware,các thiết bị tự động hóa,1
+Embedded & Firmware,công cụ debug cho embedded,1
+Embedded & Firmware,công cụ lập trình nhúng,1
+Embedded & Firmware,công suất gia nhiệt/làm lạnh,1
+Embedded & Firmware,cảm biến công nghiệp,1
+Embedded & Firmware,cảm biến nhiệt độ,1
+Embedded & Firmware,cảm biến đo,1
+Embedded & Firmware,cấu trúc hệ thống nhúng,1
+Embedded & Firmware,d-bus,1
+Embedded & Firmware,data sheet,1
+Embedded & Firmware,davinci,1
+Embedded & Firmware,dcm,1
+Embedded & Firmware,dcm/dem,1
+Embedded & Firmware,debugging and troubleshooting embedded systems,1
+Embedded & Firmware,delta,1
+Embedded & Firmware,dem,1
+Embedded & Firmware,device drivers,1
+Embedded & Firmware,diagnostic development,1
+Embedded & Firmware,diagnostics,1
+Embedded & Firmware,digital and analog signals,1
+Embedded & Firmware,dpu,1
+Embedded & Firmware,driver programming,1
+Embedded & Firmware,eavb,1
+Embedded & Firmware,echo cancellation,1
+Embedded & Firmware,econet,1
+Embedded & Firmware,ecu,1
+Embedded & Firmware,ecu integration,1
+Embedded & Firmware,ecu power management,1
+Embedded & Firmware,ecu spectrum,1
+Embedded & Firmware,edge/embedded platforms,1
+Embedded & Firmware,electronics,1
+Embedded & Firmware,embedded,1
+Embedded & Firmware,embedded android sw development,1
+Embedded & Firmware,embedded development,1
+Embedded & Firmware,embedded development tools,1
+Embedded & Firmware,embedded linux driver,1
+Embedded & Firmware,embedded operating systems,1
+Embedded & Firmware,embedded software analysis,1
+Embedded & Firmware,embedded software developer,1
+Embedded & Firmware,embedded system,1
+Embedded & Firmware,embedded systems programming,1
+Embedded & Firmware,embedded testing,1
+Embedded & Firmware,embedded/system software development,1
+Embedded & Firmware,emc,1
+Embedded & Firmware,emi,1
+Embedded & Firmware,emi/emc,1
+Embedded & Firmware,equipment control,1
+Embedded & Firmware,esd,1
+Embedded & Firmware,fbl (flash bootloader,1
+Embedded & Firmware,firmware development,1
+Embedded & Firmware,firmware programming,1
+Embedded & Firmware,firmware–hardware integration,1
+Embedded & Firmware,flasheeprom,1
+Embedded & Firmware,flexnoc,1
+Embedded & Firmware,fr,1
+Embedded & Firmware,gaio winams,1
+Embedded & Firmware,gan,1
+Embedded & Firmware,giao thức truyền thông iot,1
+Embedded & Firmware,giao tiếp bộ nhớ,1
+Embedded & Firmware,gpio,1
+Embedded & Firmware,gps,1
+Embedded & Firmware,gpu,1
+Embedded & Firmware,graphic driver,1
+Embedded & Firmware,gsm,1
+Embedded & Firmware,gyroscopes,1
+Embedded & Firmware,hardware abstraction layers (hals,1
+Embedded & Firmware,hardware bring-up,1
+Embedded & Firmware,hardware drivers,1
+Embedded & Firmware,hardware manual,1
+Embedded & Firmware,hardware-in-the-loop (hil,1
+Embedded & Firmware,hil,1
+Embedded & Firmware,hmi pro-face,1
+Embedded & Firmware,hw driver,1
+Embedded & Firmware,hàn mạch,1
+Embedded & Firmware,hệ thống điều khiển,1
+Embedded & Firmware,hệ điều hành nhúng,1
+Embedded & Firmware,imu,1
+Embedded & Firmware,inca,1
+Embedded & Firmware,infineon tricore,1
+Embedded & Firmware,instruction set architecture,1
+Embedded & Firmware,integrated circuits,1
+Embedded & Firmware,ios bluetooth development,1
+Embedded & Firmware,ipc,1
+Embedded & Firmware,i²c,1
+Embedded & Firmware,jetson nano,1
+Embedded & Firmware,jetson nvidia,1
+Embedded & Firmware,jtag,1
+Embedded & Firmware,khởi động phần cứng,1
+Embedded & Firmware,kiến trúc mcu,1
+Embedded & Firmware,lauterbach,1
+Embedded & Firmware,lautherbach,1
+Embedded & Firmware,ldra,1
+Embedded & Firmware,led matrix,1
+Embedded & Firmware,lidar,1
+Embedded & Firmware,linux embedded,1
+Embedded & Firmware,lorawan,1
+Embedded & Firmware,low level device driver dev,1
+Embedded & Firmware,low-level programming,1
+Embedded & Firmware,lqr,1
+Embedded & Firmware,lte,1
+Embedded & Firmware,lập trình bare-metal,1
+Embedded & Firmware,"lập trình các dòng vi điều khiển, vi xử lý",1
+Embedded & Firmware,lập trình device driver,1
+Embedded & Firmware,lập trình giao tiếp ngoại vi,1
+Embedded & Firmware,lập trình hmi,1
+Embedded & Firmware,lập trình hệ thống nhúng,1
+Embedded & Firmware,lập trình ngoại vi,1
+Embedded & Firmware,lập trình nhúng (embedded firmware,1
+Embedded & Firmware,mcal,1
+Embedded & Firmware,mcu peripheral devices,1
+Embedded & Firmware,mcus,1
+Embedded & Firmware,mediatek,1
+Embedded & Firmware,memory,1
+Embedded & Firmware,memory controllers,1
+Embedded & Firmware,memory layout,1
+Embedded & Firmware,memory stack,1
+Embedded & Firmware,microcontroller platforms,1
+Embedded & Firmware,microcontroller programming,1
+Embedded & Firmware,microcontroller unit (mcu,1
+Embedded & Firmware,microprocessor,1
+Embedded & Firmware,mixed-signal,1
+Embedded & Firmware,modbus rtu,1
+Embedded & Firmware,modbus rtu/tcp,1
+Embedded & Firmware,modbus tcp/ip,1
+Embedded & Firmware,mosfet,1
+Embedded & Firmware,most,1
+Embedded & Firmware,mpu,1
+Embedded & Firmware,mu-mimo,1
+Embedded & Firmware,multi-core configuration,1
+Embedded & Firmware,mạch cầu h,1
+Embedded & Firmware,mạch điều khiển động cơ dc,1
+Embedded & Firmware,mạng truyền thông,1
+Embedded & Firmware,native module,1
+Embedded & Firmware,nfc,1
+Embedded & Firmware,nghiên cứu và đề xuất giải pháp phần cứng,1
+Embedded & Firmware,nhúng,1
+Embedded & Firmware,noc buses,1
+Embedded & Firmware,noise reduction,1
+Embedded & Firmware,nuc,1
+Embedded & Firmware,nvidia jetson,1
+Embedded & Firmware,obd-ii,1
+Embedded & Firmware,ofdma,1
+Embedded & Firmware,omron,1
+Embedded & Firmware,os porting,1
+Embedded & Firmware,osram,1
+Embedded & Firmware,ota,1
+Embedded & Firmware,ota (over-the-air) update,1
+Embedded & Firmware,ota firmware,1
+Embedded & Firmware,ota update,1
+Embedded & Firmware,pc-lint,1
+Embedded & Firmware,pcan,1
+Embedded & Firmware,pcb design,1
+Embedded & Firmware,pcb layout,1
+Embedded & Firmware,pcb soldering,1
+Embedded & Firmware,pcie,1
+Embedded & Firmware,phát triển firmware,1
+Embedded & Firmware,phát triển hệ thống nhúng,1
+Embedded & Firmware,phần cứng điện tử,1
+Embedded & Firmware,phần mềm nhúng,1
+Embedded & Firmware,plc i/o,1
+Embedded & Firmware,plc mitsubishi,1
+Embedded & Firmware,plc siemens,1
+Embedded & Firmware,power electronics,1
+Embedded & Firmware,prototyping,1
+Embedded & Firmware,prqa,1
+Embedded & Firmware,pwm,1
+Embedded & Firmware,qam,1
+Embedded & Firmware,qnx,1
+Embedded & Firmware,qualcom,1
+Embedded & Firmware,quản lý tài nguyên hệ thống nhúng,1
+Embedded & Firmware,r-car,1
+Embedded & Firmware,rasp pi,1
+Embedded & Firmware,raspberry pi,1
+Embedded & Firmware,read general circuit diagrams,1
+Embedded & Firmware,read schematics,1
+Embedded & Firmware,real-time embedded software development,1
+Embedded & Firmware,real-time os,1
+Embedded & Firmware,real-time system,1
+Embedded & Firmware,realtek,1
+Embedded & Firmware,realtek sdk,1
+Embedded & Firmware,renesas soc,1
+Embedded & Firmware,rf circuitry,1
+Embedded & Firmware,rf principles,1
+Embedded & Firmware,rh850,1
+Embedded & Firmware,rockchip,1
+Embedded & Firmware,rtl design,1
+Embedded & Firmware,rtrt,1
+Embedded & Firmware,schematics reading,1
+Embedded & Firmware,secs/gem,1
+Embedded & Firmware,secure storage,1
+Embedded & Firmware,security trên thiết bị,1
+Embedded & Firmware,sensor/scanner devices,1
+Embedded & Firmware,serial,1
+Embedded & Firmware,sic,1
+Embedded & Firmware,signal integrity,1
+Embedded & Firmware,sil testing,1
+Embedded & Firmware,simulation,1
+Embedded & Firmware,soc architectures,1
+Embedded & Firmware,som,1
+Embedded & Firmware,some/ip service design,1
+Embedded & Firmware,someip,1
+Embedded & Firmware,sony,1
+Embedded & Firmware,spatial reuse,1
+Embedded & Firmware,stm,1
+Embedded & Firmware,sva,1
+Embedded & Firmware,swd,1
+Embedded & Firmware,tessy,1
+Embedded & Firmware,thiết bị iot,1
+Embedded & Firmware,thiết bị ngoại vi,1
+Embedded & Firmware,thiết bị nhúng,1
+Embedded & Firmware,thiết kế mạch,1
+Embedded & Firmware,thiết kế mạch analog,1
+Embedded & Firmware,thiết kế mạch chống nhiễu,1
+Embedded & Firmware,thiết kế mạch digital,1
+Embedded & Firmware,thiết kế mạch pcb,1
+Embedded & Firmware,thiết kế mạch điện tử,1
+Embedded & Firmware,thiết kế tủ điện,1
+Embedded & Firmware,thiết kế và đặt gia công mạch,1
+Embedded & Firmware,tpt,1
+Embedded & Firmware,truyền động,1
+Embedded & Firmware,tích hợp cảm biến,1
+Embedded & Firmware,tích hợp firmware-phần cứng,1
+Embedded & Firmware,u-boot bootloader,1
+Embedded & Firmware,uboot,1
+Embedded & Firmware,ui lcd,1
+Embedded & Firmware,ups,1
+Embedded & Firmware,vector can,1
+Embedded & Firmware,vectorcast,1
+Embedded & Firmware,wifi,1
+Embedded & Firmware,wireless chipsets,1
+Embedded & Firmware,zigbee,1
+Embedded & Firmware,điều chỉnh cảm biến,1
+Embedded & Firmware,điều khiển nhúng,1
+Embedded & Firmware,điều khiển pwm,1
+Embedded & Firmware,điều khiển động cơ,1
+Embedded & Firmware,điện nhẹ,1
+Embedded & Firmware,điện tử tương tự và số,1
+Embedded & Firmware,điện – điều khiển,1
+Embedded & Firmware,đọc hiểu datasheet,1
+Embedded & Firmware,đồ họa 2d/3d trên hệ thống nhúng,1
+Embedded & Firmware,động cơ step,1

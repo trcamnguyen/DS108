@@ -1,0 +1,1933 @@
+category,normalized_skill,count
+Infrastructure & DevOps,docker,383
+Infrastructure & DevOps,aws,339
+Infrastructure & DevOps,ci/cd,304
+Infrastructure & DevOps,kubernetes,231
+Infrastructure & DevOps,azure,197
+Infrastructure & DevOps,devops,156
+Infrastructure & DevOps,gcp,153
+Infrastructure & DevOps,jenkins,128
+Infrastructure & DevOps,cloud,116
+Infrastructure & DevOps,tcp/ip,92
+Infrastructure & DevOps,rabbitmq,87
+Infrastructure & DevOps,ci/cd pipelines,83
+Infrastructure & DevOps,terraform,80
+Infrastructure & DevOps,grafana,76
+Infrastructure & DevOps,firewall,71
+Infrastructure & DevOps,gitlab ci,69
+Infrastructure & DevOps,prometheus,68
+Infrastructure & DevOps,github actions,64
+Infrastructure & DevOps,dns,60
+Infrastructure & DevOps,ansible,58
+Infrastructure & DevOps,vmware,54
+Infrastructure & DevOps,networking,50
+Infrastructure & DevOps,firebase,48
+Infrastructure & DevOps,security,48
+Infrastructure & DevOps,network,46
+Infrastructure & DevOps,bảo mật,45
+Infrastructure & DevOps,k8s,43
+Infrastructure & DevOps,monitoring,42
+Infrastructure & DevOps,mlops,41
+Infrastructure & DevOps,containerization,40
+Infrastructure & DevOps,dhcp,39
+Infrastructure & DevOps,vpn,38
+Infrastructure & DevOps,routing,36
+Infrastructure & DevOps,elk,32
+Infrastructure & DevOps,nginx,32
+Infrastructure & DevOps,cloud platforms,31
+Infrastructure & DevOps,hệ thống mạng,31
+Infrastructure & DevOps,mạng,30
+Infrastructure & DevOps,message queue,29
+Infrastructure & DevOps,container,28
+Infrastructure & DevOps,mạng máy tính,28
+Infrastructure & DevOps,vlan,28
+Infrastructure & DevOps,devsecops,26
+Infrastructure & DevOps,windows server,26
+Infrastructure & DevOps,active directory,25
+Infrastructure & DevOps,infrastructure as code,25
+Infrastructure & DevOps,google cloud,24
+Infrastructure & DevOps,waf,24
+Infrastructure & DevOps,azure devops,23
+Infrastructure & DevOps,s3,23
+Infrastructure & DevOps,zabbix,23
+Infrastructure & DevOps,cisco,22
+Infrastructure & DevOps,load balancing,22
+Infrastructure & DevOps,ảo hóa,22
+Infrastructure & DevOps,argocd,21
+Infrastructure & DevOps,server,21
+Infrastructure & DevOps,backup,20
+Infrastructure & DevOps,mlflow,20
+Infrastructure & DevOps,hyper-v,19
+Infrastructure & DevOps,logging,19
+Infrastructure & DevOps,sre,19
+Infrastructure & DevOps,switching,19
+Infrastructure & DevOps,iam,18
+Infrastructure & DevOps,jwt,18
+Infrastructure & DevOps,ospf,18
+Infrastructure & DevOps,vpc,18
+Infrastructure & DevOps,bgp,17
+Infrastructure & DevOps,eks,17
+Infrastructure & DevOps,lan,17
+Infrastructure & DevOps,microsoft azure,17
+Infrastructure & DevOps,storage,17
+Infrastructure & DevOps,wan,17
+Infrastructure & DevOps,ci/cd pipeline,16
+Infrastructure & DevOps,cloud computing,16
+Infrastructure & DevOps,cloud security,16
+Infrastructure & DevOps,ec2,16
+Infrastructure & DevOps,quản trị hệ thống,16
+Infrastructure & DevOps,siem,16
+Infrastructure & DevOps,wifi,16
+Infrastructure & DevOps,apache,15
+Infrastructure & DevOps,bảo mật hệ thống,15
+Infrastructure & DevOps,cloud infrastructure,15
+Infrastructure & DevOps,datadog,15
+Infrastructure & DevOps,elk stack,15
+Infrastructure & DevOps,iac,15
+Infrastructure & DevOps,oauth2,15
+Infrastructure & DevOps,router,15
+Infrastructure & DevOps,switch,15
+Infrastructure & DevOps,an toàn thông tin,14
+Infrastructure & DevOps,automation,14
+Infrastructure & DevOps,cloudformation,14
+Infrastructure & DevOps,fortinet,14
+Infrastructure & DevOps,helm,14
+Infrastructure & DevOps,lambda,14
+Infrastructure & DevOps,openstack,14
+Infrastructure & DevOps,san,14
+Infrastructure & DevOps,splunk,14
+Infrastructure & DevOps,virtualization,14
+Infrastructure & DevOps,api gateway,13
+Infrastructure & DevOps,bảo mật thông tin,13
+Infrastructure & DevOps,containers,13
+Infrastructure & DevOps,dlp,13
+Infrastructure & DevOps,infrastructure,13
+Infrastructure & DevOps,load balancer,13
+Infrastructure & DevOps,mqtt,13
+Infrastructure & DevOps,máy chủ,13
+Infrastructure & DevOps,mạng lan,13
+Infrastructure & DevOps,observability,13
+Infrastructure & DevOps,system,13
+Infrastructure & DevOps,ecs,12
+Infrastructure & DevOps,firewalls,12
+Infrastructure & DevOps,serverless,12
+Infrastructure & DevOps,cybersecurity,11
+Infrastructure & DevOps,gitops,11
+Infrastructure & DevOps,hybrid cloud,11
+Infrastructure & DevOps,ips,11
+Infrastructure & DevOps,juniper,11
+Infrastructure & DevOps,nas,11
+Infrastructure & DevOps,network security,11
+Infrastructure & DevOps,openshift,11
+Infrastructure & DevOps,phân tích log,11
+Infrastructure & DevOps,system administration,11
+Infrastructure & DevOps,ad,10
+Infrastructure & DevOps,application security,10
+Infrastructure & DevOps,continuous integration,10
+Infrastructure & DevOps,disaster recovery,10
+Infrastructure & DevOps,endpoint security,10
+Infrastructure & DevOps,information security,10
+Infrastructure & DevOps,prtg,10
+Infrastructure & DevOps,rds,10
+Infrastructure & DevOps,an ninh mạng,9
+Infrastructure & DevOps,container orchestration,9
+Infrastructure & DevOps,domain,9
+Infrastructure & DevOps,dr,9
+Infrastructure & DevOps,ethernet,9
+Infrastructure & DevOps,gitlab ci/cd,9
+Infrastructure & DevOps,ha,9
+Infrastructure & DevOps,haproxy,9
+Infrastructure & DevOps,ids/ips,9
+Infrastructure & DevOps,lan/wan,9
+Infrastructure & DevOps,linux server,9
+Infrastructure & DevOps,message broker,9
+Infrastructure & DevOps,palo alto,9
+Infrastructure & DevOps,private cloud,9
+Infrastructure & DevOps,quản trị mạng,9
+Infrastructure & DevOps,security best practices,9
+Infrastructure & DevOps,sentry,9
+Infrastructure & DevOps,system admin,9
+Infrastructure & DevOps,system engineer,9
+Infrastructure & DevOps,vmware vsphere,9
+Infrastructure & DevOps,authentication,8
+Infrastructure & DevOps,cloudwatch,8
+Infrastructure & DevOps,giao thức mạng,8
+Infrastructure & DevOps,hệ thống,8
+Infrastructure & DevOps,it infrastructure,8
+Infrastructure & DevOps,kvm,8
+Infrastructure & DevOps,lưu trữ,8
+Infrastructure & DevOps,queue,8
+Infrastructure & DevOps,sdn,8
+Infrastructure & DevOps,stp,8
+Infrastructure & DevOps,vcenter,8
+Infrastructure & DevOps,vận hành hệ thống,8
+Infrastructure & DevOps,wi-fi,8
+Infrastructure & DevOps,an toàn dữ liệu,7
+Infrastructure & DevOps,circleci,7
+Infrastructure & DevOps,cloud deployment,7
+Infrastructure & DevOps,cloud services,7
+Infrastructure & DevOps,gitlab,7
+Infrastructure & DevOps,hệ thống máy chủ,7
+Infrastructure & DevOps,iis,7
+Infrastructure & DevOps,message queues,7
+Infrastructure & DevOps,mpls,7
+Infrastructure & DevOps,nat,7
+Infrastructure & DevOps,proxmox,7
+Infrastructure & DevOps,public cloud,7
+Infrastructure & DevOps,quản trị hệ thống mạng,7
+Infrastructure & DevOps,soc,7
+Infrastructure & DevOps,solarwinds,7
+Infrastructure & DevOps,ssl/tls,7
+Infrastructure & DevOps,sso,7
+Infrastructure & DevOps,tls,7
+Infrastructure & DevOps,azure cloud,6
+Infrastructure & DevOps,azure functions,6
+Infrastructure & DevOps,ceph,6
+Infrastructure & DevOps,checkpoint,6
+Infrastructure & DevOps,continuous delivery,6
+Infrastructure & DevOps,data center,6
+Infrastructure & DevOps,file server,6
+Infrastructure & DevOps,high availability,6
+Infrastructure & DevOps,hạ tầng,6
+Infrastructure & DevOps,hạ tầng mạng,6
+Infrastructure & DevOps,incident response,6
+Infrastructure & DevOps,jenkin,6
+Infrastructure & DevOps,kubeflow,6
+Infrastructure & DevOps,linux,6
+Infrastructure & DevOps,linux system administration,6
+Infrastructure & DevOps,multi-cloud,6
+Infrastructure & DevOps,oauth,6
+Infrastructure & DevOps,opentelemetry,6
+Infrastructure & DevOps,system security,6
+Infrastructure & DevOps,api security,5
+Infrastructure & DevOps,aws lambda,5
+Infrastructure & DevOps,bitrise,5
+Infrastructure & DevOps,bảo mật dữ liệu,5
+Infrastructure & DevOps,bảo mật ứng dụng,5
+Infrastructure & DevOps,ci/cd tools,5
+Infrastructure & DevOps,cloud environments,5
+Infrastructure & DevOps,cluster,5
+Infrastructure & DevOps,cân bằng tải,5
+Infrastructure & DevOps,data protection,5
+Infrastructure & DevOps,data security,5
+Infrastructure & DevOps,deployment,5
+Infrastructure & DevOps,devops engineer,5
+Infrastructure & DevOps,dynatrace,5
+Infrastructure & DevOps,encryption,5
+Infrastructure & DevOps,esb,5
+Infrastructure & DevOps,google cloud (gcp,5
+Infrastructure & DevOps,ibm mq,5
+Infrastructure & DevOps,infrastructure-as-code,5
+Infrastructure & DevOps,ip,5
+Infrastructure & DevOps,jaeger,5
+Infrastructure & DevOps,kubernete,5
+Infrastructure & DevOps,ldap,5
+Infrastructure & DevOps,load balancers,5
+Infrastructure & DevOps,log analysis,5
+Infrastructure & DevOps,mail server,5
+Infrastructure & DevOps,message brokers,5
+Infrastructure & DevOps,mfa,5
+Infrastructure & DevOps,nagios,5
+Infrastructure & DevOps,nats,5
+Infrastructure & DevOps,networks,5
+Infrastructure & DevOps,puppet,5
+Infrastructure & DevOps,servers,5
+Infrastructure & DevOps,system engineering,5
+Infrastructure & DevOps,tensorflow serving,5
+Infrastructure & DevOps,vxlan,5
+Infrastructure & DevOps,web security,5
+Infrastructure & DevOps,wireless,5
+Infrastructure & DevOps,xdr,5
+Infrastructure & DevOps,activemq,4
+Infrastructure & DevOps,argo cd,4
+Infrastructure & DevOps,attt,4
+Infrastructure & DevOps,aws codepipeline,4
+Infrastructure & DevOps,backup/restore,4
+Infrastructure & DevOps,cdn,4
+Infrastructure & DevOps,cicd,4
+Infrastructure & DevOps,cloud engineering,4
+Infrastructure & DevOps,cloud technologies,4
+Infrastructure & DevOps,cloudflare,4
+Infrastructure & DevOps,container security,4
+Infrastructure & DevOps,csrf,4
+Infrastructure & DevOps,datacenter,4
+Infrastructure & DevOps,docker compose,4
+Infrastructure & DevOps,email security,4
+Infrastructure & DevOps,f5,4
+Infrastructure & DevOps,fastlane,4
+Infrastructure & DevOps,fortigate,4
+Infrastructure & DevOps,gpo,4
+Infrastructure & DevOps,ha/dr,4
+Infrastructure & DevOps,ids,4
+Infrastructure & DevOps,infrastructure as code (iac,4
+Infrastructure & DevOps,ips/ids,4
+Infrastructure & DevOps,key vault,4
+Infrastructure & DevOps,kibana,4
+Infrastructure & DevOps,llmops,4
+Infrastructure & DevOps,logstash,4
+Infrastructure & DevOps,messaging systems,4
+Infrastructure & DevOps,middleware,4
+Infrastructure & DevOps,mikrotik,4
+Infrastructure & DevOps,model serving,4
+Infrastructure & DevOps,mô hình osi,4
+Infrastructure & DevOps,mạng cơ bản,4
+Infrastructure & DevOps,mạng nội bộ,4
+Infrastructure & DevOps,nac,4
+Infrastructure & DevOps,object storage,4
+Infrastructure & DevOps,on-premise,4
+Infrastructure & DevOps,orchestration,4
+Infrastructure & DevOps,osi,4
+Infrastructure & DevOps,paas,4
+Infrastructure & DevOps,phân quyền,4
+Infrastructure & DevOps,pki,4
+Infrastructure & DevOps,printer server,4
+Infrastructure & DevOps,qos,4
+Infrastructure & DevOps,reliability engineering,4
+Infrastructure & DevOps,reverse proxy,4
+Infrastructure & DevOps,routing and switching,4
+Infrastructure & DevOps,sdwan,4
+Infrastructure & DevOps,security engineering,4
+Infrastructure & DevOps,site reliability engineering,4
+Infrastructure & DevOps,teamcity,4
+Infrastructure & DevOps,thiết bị mạng,4
+Infrastructure & DevOps,tritonserver,4
+Infrastructure & DevOps,triển khai hệ thống,4
+Infrastructure & DevOps,tường lửa,4
+Infrastructure & DevOps,vsan,4
+Infrastructure & DevOps,vận hành,4
+Infrastructure & DevOps,web server,4
+Infrastructure & DevOps,window server,4
+Infrastructure & DevOps,wireless controller,4
+Infrastructure & DevOps,xss,4
+Infrastructure & DevOps,xử lý sự cố mạng,4
+Infrastructure & DevOps,access control,3
+Infrastructure & DevOps,apache tomcat,3
+Infrastructure & DevOps,apm,3
+Infrastructure & DevOps,aruba,3
+Infrastructure & DevOps,authorization,3
+Infrastructure & DevOps,aws cloudformation,3
+Infrastructure & DevOps,aws ec2,3
+Infrastructure & DevOps,aws s3,3
+Infrastructure & DevOps,aws services,3
+Infrastructure & DevOps,azure ad,3
+Infrastructure & DevOps,azure networking,3
+Infrastructure & DevOps,azure pipelines,3
+Infrastructure & DevOps,azure service bus,3
+Infrastructure & DevOps,bảo mật hạ tầng,3
+Infrastructure & DevOps,bảo mật máy tính,3
+Infrastructure & DevOps,bảo mật mạng,3
+Infrastructure & DevOps,checkmk,3
+Infrastructure & DevOps,cloud azure,3
+Infrastructure & DevOps,cloud storage,3
+Infrastructure & DevOps,cloud technology,3
+Infrastructure & DevOps,cloud-native,3
+Infrastructure & DevOps,cloudflare workers,3
+Infrastructure & DevOps,clustering,3
+Infrastructure & DevOps,configuration management,3
+Infrastructure & DevOps,containerized applications,3
+Infrastructure & DevOps,cost optimization,3
+Infrastructure & DevOps,cyber security,3
+Infrastructure & DevOps,công cụ giám sát hệ thống,3
+Infrastructure & DevOps,dataops,3
+Infrastructure & DevOps,ddos,3
+Infrastructure & DevOps,dell,3
+Infrastructure & DevOps,deployment pipelines,3
+Infrastructure & DevOps,docker swarm,3
+Infrastructure & DevOps,dwdm,3
+Infrastructure & DevOps,elastic stack,3
+Infrastructure & DevOps,email server,3
+Infrastructure & DevOps,endpoint protection,3
+Infrastructure & DevOps,engineering,3
+Infrastructure & DevOps,entra id,3
+Infrastructure & DevOps,esxi,3
+Infrastructure & DevOps,extreme,3
+Infrastructure & DevOps,ftp,3
+Infrastructure & DevOps,github action,3
+Infrastructure & DevOps,gitlab-ci,3
+Infrastructure & DevOps,harness,3
+Infrastructure & DevOps,hpe,3
+Infrastructure & DevOps,http/https,3
+Infrastructure & DevOps,hệ thống bảo mật,3
+Infrastructure & DevOps,hệ thống lưu trữ,3
+Infrastructure & DevOps,infrastructure engineer,3
+Infrastructure & DevOps,infrastructure engineering,3
+Infrastructure & DevOps,kong,3
+Infrastructure & DevOps,kubernetes (k8s,3
+Infrastructure & DevOps,langops,3
+Infrastructure & DevOps,loki,3
+Infrastructure & DevOps,microsoft entra id,3
+Infrastructure & DevOps,minio,3
+Infrastructure & DevOps,monitor,3
+Infrastructure & DevOps,mq,3
+Infrastructure & DevOps,mạng lan/wan,3
+Infrastructure & DevOps,network engineer,3
+Infrastructure & DevOps,network infrastructure,3
+Infrastructure & DevOps,network monitoring tools,3
+Infrastructure & DevOps,network programming,3
+Infrastructure & DevOps,new relic,3
+Infrastructure & DevOps,nfs,3
+Infrastructure & DevOps,ngfw,3
+Infrastructure & DevOps,ntp,3
+Infrastructure & DevOps,nutanix,3
+Infrastructure & DevOps,observability tools,3
+Infrastructure & DevOps,oci,3
+Infrastructure & DevOps,on-prem,3
+Infrastructure & DevOps,operations,3
+Infrastructure & DevOps,paloalto,3
+Infrastructure & DevOps,pam,3
+Infrastructure & DevOps,production systems,3
+Infrastructure & DevOps,proxy,3
+Infrastructure & DevOps,pulumi,3
+Infrastructure & DevOps,quản lý hệ thống,3
+Infrastructure & DevOps,quản trị hệ thống linux,3
+Infrastructure & DevOps,quản trị server,3
+Infrastructure & DevOps,raid,3
+Infrastructure & DevOps,rancher,3
+Infrastructure & DevOps,rbac,3
+Infrastructure & DevOps,routers,3
+Infrastructure & DevOps,sao lưu dữ liệu,3
+Infrastructure & DevOps,scaling,3
+Infrastructure & DevOps,sd-wan,3
+Infrastructure & DevOps,secure storage,3
+Infrastructure & DevOps,security vulnerabilities,3
+Infrastructure & DevOps,service mesh,3
+Infrastructure & DevOps,smtp,3
+Infrastructure & DevOps,soar,3
+Infrastructure & DevOps,ssl,3
+Infrastructure & DevOps,ssl pinning,3
+Infrastructure & DevOps,static routing,3
+Infrastructure & DevOps,switches,3
+Infrastructure & DevOps,syslog,3
+Infrastructure & DevOps,sysops,3
+Infrastructure & DevOps,system operations,3
+Infrastructure & DevOps,torchserve,3
+Infrastructure & DevOps,triton,3
+Infrastructure & DevOps,triển khai,3
+Infrastructure & DevOps,troubleshooting,3
+Infrastructure & DevOps,trunking,3
+Infrastructure & DevOps,vận hành hệ thống production,3
+Infrastructure & DevOps,web application security,3
+Infrastructure & DevOps,wireguard,3
+Infrastructure & DevOps,xử lý sự cố hệ thống,3
+Infrastructure & DevOps,access point,2
+Infrastructure & DevOps,aks,2
+Infrastructure & DevOps,alb,2
+Infrastructure & DevOps,amqp,2
+Infrastructure & DevOps,apt,2
+Infrastructure & DevOps,arm templates,2
+Infrastructure & DevOps,arp,2
+Infrastructure & DevOps,autoscaling,2
+Infrastructure & DevOps,aws cdk,2
+Infrastructure & DevOps,aws cloudwatch,2
+Infrastructure & DevOps,aws code pipeline,2
+Infrastructure & DevOps,aws networking,2
+Infrastructure & DevOps,aws security,2
+Infrastructure & DevOps,aws sqs,2
+Infrastructure & DevOps,azure ai,2
+Infrastructure & DevOps,azure api management,2
+Infrastructure & DevOps,azure ml,2
+Infrastructure & DevOps,azure monitor,2
+Infrastructure & DevOps,azure openai,2
+Infrastructure & DevOps,azure storage,2
+Infrastructure & DevOps,backup and recovery,2
+Infrastructure & DevOps,backup and replication,2
+Infrastructure & DevOps,backup solutions,2
+Infrastructure & DevOps,bgp evpn,2
+Infrastructure & DevOps,bảo mật backend,2
+Infrastructure & DevOps,bảo mật cơ bản,2
+Infrastructure & DevOps,bảo mật trên môi trường cloud,2
+Infrastructure & DevOps,bảo mật đám mây,2
+Infrastructure & DevOps,bảo mật ứng dụng web,2
+Infrastructure & DevOps,certificate pinning,2
+Infrastructure & DevOps,chatops,2
+Infrastructure & DevOps,chef,2
+Infrastructure & DevOps,chống ddos,2
+Infrastructure & DevOps,ci,2
+Infrastructure & DevOps,ci-cd,2
+Infrastructure & DevOps,cisco aci,2
+Infrastructure & DevOps,cisco firepower,2
+Infrastructure & DevOps,cisco ucs,2
+Infrastructure & DevOps,citrix,2
+Infrastructure & DevOps,cloud (azure,2
+Infrastructure & DevOps,cloud architecture/infrastructure,2
+Infrastructure & DevOps,cloud architectures,2
+Infrastructure & DevOps,cloud foundry,2
+Infrastructure & DevOps,cloud native,2
+Infrastructure & DevOps,cloud security ecosystem,2
+Infrastructure & DevOps,cloud security tools,2
+Infrastructure & DevOps,cloud server,2
+Infrastructure & DevOps,cloud-based,2
+Infrastructure & DevOps,cmc cloud,2
+Infrastructure & DevOps,codemagic,2
+Infrastructure & DevOps,consul,2
+Infrastructure & DevOps,containerd,2
+Infrastructure & DevOps,continuous deployment,2
+Infrastructure & DevOps,continuous integration (ci,2
+Infrastructure & DevOps,cors,2
+Infrastructure & DevOps,cryptography,2
+Infrastructure & DevOps,cấu hình mạng,2
+Infrastructure & DevOps,cấu hình switch layer 3,2
+Infrastructure & DevOps,dashboards,2
+Infrastructure & DevOps,data privacy,2
+Infrastructure & DevOps,dc–dr infrastructure,2
+Infrastructure & DevOps,deploy,2
+Infrastructure & DevOps,devops tools,2
+Infrastructure & DevOps,distributed tracing,2
+Infrastructure & DevOps,domain controller,2
+Infrastructure & DevOps,eigrp,2
+Infrastructure & DevOps,elasticsearch,2
+Infrastructure & DevOps,elk/efk stack,2
+Infrastructure & DevOps,endpoint and identity threats,2
+Infrastructure & DevOps,engineer,2
+Infrastructure & DevOps,ethernet tcp/ip,2
+Infrastructure & DevOps,faas,2
+Infrastructure & DevOps,failover cluster,2
+Infrastructure & DevOps,fargate,2
+Infrastructure & DevOps,finops,2
+Infrastructure & DevOps,firebase auth,2
+Infrastructure & DevOps,firebase cloud messaging,2
+Infrastructure & DevOps,giao tiếp mạng,2
+Infrastructure & DevOps,gke,2
+Infrastructure & DevOps,google,2
+Infrastructure & DevOps,gpu,2
+Infrastructure & DevOps,graylog,2
+Infrastructure & DevOps,hci,2
+Infrastructure & DevOps,helm chart,2
+Infrastructure & DevOps,hosting,2
+Infrastructure & DevOps,hsrp,2
+Infrastructure & DevOps,https,2
+Infrastructure & DevOps,huawei,2
+Infrastructure & DevOps,huawei cloud,2
+Infrastructure & DevOps,hybrid infrastructure security,2
+Infrastructure & DevOps,hyperv,2
+Infrastructure & DevOps,hạ tầng cloud,2
+Infrastructure & DevOps,hạ tầng cntt,2
+Infrastructure & DevOps,hạ tầng dưới dạng mã,2
+Infrastructure & DevOps,hệ thống mạng doanh nghiệp,2
+Infrastructure & DevOps,hệ thống mạng máy tính,2
+Infrastructure & DevOps,hệ thống ảo hóa,2
+Infrastructure & DevOps,iaas,2
+Infrastructure & DevOps,ibm integration bus,2
+Infrastructure & DevOps,ibm websphere,2
+Infrastructure & DevOps,image scanning,2
+Infrastructure & DevOps,imperva,2
+Infrastructure & DevOps,incident handling,2
+Infrastructure & DevOps,infrastructure automation,2
+Infrastructure & DevOps,ipv4,2
+Infrastructure & DevOps,it operations,2
+Infrastructure & DevOps,it system,2
+Infrastructure & DevOps,jboss,2
+Infrastructure & DevOps,keepalived,2
+Infrastructure & DevOps,kiến trúc hệ thống mạng,2
+Infrastructure & DevOps,kiến trúc máy chủ,2
+Infrastructure & DevOps,lag,2
+Infrastructure & DevOps,lamp,2
+Infrastructure & DevOps,linux administration,2
+Infrastructure & DevOps,linux kernel,2
+Infrastructure & DevOps,linux systems,2
+Infrastructure & DevOps,linux systems administration,2
+Infrastructure & DevOps,log,2
+Infrastructure & DevOps,logging/monitoring,2
+Infrastructure & DevOps,mac,2
+Infrastructure & DevOps,messaging queues,2
+Infrastructure & DevOps,messaging system,2
+Infrastructure & DevOps,mobile application security,2
+Infrastructure & DevOps,monitoring tools,2
+Infrastructure & DevOps,ms azure,2
+Infrastructure & DevOps,máy chủ ảo hóa,2
+Infrastructure & DevOps,mã hóa,2
+Infrastructure & DevOps,mạng và bảo mật,2
+Infrastructure & DevOps,namespaces,2
+Infrastructure & DevOps,ndr,2
+Infrastructure & DevOps,network administration,2
+Infrastructure & DevOps,network dc,2
+Infrastructure & DevOps,network implementation,2
+Infrastructure & DevOps,network operations,2
+Infrastructure & DevOps,network service provider,2
+Infrastructure & DevOps,networking concepts,2
+Infrastructure & DevOps,networking fundamentals,2
+Infrastructure & DevOps,networking infrastructure,2
+Infrastructure & DevOps,newrelic,2
+Infrastructure & DevOps,nlb,2
+Infrastructure & DevOps,observability tooling,2
+Infrastructure & DevOps,on premises security ecosystem,2
+Infrastructure & DevOps,openid connect,2
+Infrastructure & DevOps,oracle cloud,2
+Infrastructure & DevOps,oracle service bus,2
+Infrastructure & DevOps,owasp top 10,2
+Infrastructure & DevOps,phân tích logs,2
+Infrastructure & DevOps,quy hoạch mạng,2
+Infrastructure & DevOps,quản lý và bảo trì hệ thống server,2
+Infrastructure & DevOps,quản trị hệ thống mạng lan,2
+Infrastructure & DevOps,rate limiting,2
+Infrastructure & DevOps,rayserve,2
+Infrastructure & DevOps,redhat openshift,2
+Infrastructure & DevOps,release management,2
+Infrastructure & DevOps,s3 storage,2
+Infrastructure & DevOps,sagemaker,2
+Infrastructure & DevOps,sao lưu,2
+Infrastructure & DevOps,sap btp,2
+Infrastructure & DevOps,security architecture,2
+Infrastructure & DevOps,security fundamentals,2
+Infrastructure & DevOps,security groups,2
+Infrastructure & DevOps,security hardening,2
+Infrastructure & DevOps,server ibm,2
+Infrastructure & DevOps,server infrastructure,2
+Infrastructure & DevOps,serverless architecture,2
+Infrastructure & DevOps,service integration and deployment,2
+Infrastructure & DevOps,sip trunk,2
+Infrastructure & DevOps,spanning tree,2
+Infrastructure & DevOps,sqs,2
+Infrastructure & DevOps,ssh,2
+Infrastructure & DevOps,statefull/next-gen firewall,2
+Infrastructure & DevOps,step function,2
+Infrastructure & DevOps,subnet,2
+Infrastructure & DevOps,subnets,2
+Infrastructure & DevOps,sumologic,2
+Infrastructure & DevOps,switch cisco,2
+Infrastructure & DevOps,system administrator,2
+Infrastructure & DevOps,systemd,2
+Infrastructure & DevOps,tcp/udp,2
+Infrastructure & DevOps,tomcat,2
+Infrastructure & DevOps,tracing,2
+Infrastructure & DevOps,traefik,2
+Infrastructure & DevOps,triển khai hệ thống mạng,2
+Infrastructure & DevOps,triển khai hệ thống trên môi trường production,2
+Infrastructure & DevOps,triển khai và vận hành hệ thống cntt,2
+Infrastructure & DevOps,trung tâm dữ liệu,2
+Infrastructure & DevOps,tự động hóa,2
+Infrastructure & DevOps,ui security,2
+Infrastructure & DevOps,unifi,2
+Infrastructure & DevOps,vault,2
+Infrastructure & DevOps,vertex ai,2
+Infrastructure & DevOps,virtualization technologies,2
+Infrastructure & DevOps,vm,2
+Infrastructure & DevOps,vmware esxi,2
+Infrastructure & DevOps,voice,2
+Infrastructure & DevOps,vsphere,2
+Infrastructure & DevOps,vulnerability management,2
+Infrastructure & DevOps,vận hành hệ thống cntt,2
+Infrastructure & DevOps,vận hành hệ thống mạng,2
+Infrastructure & DevOps,vận hành hệ thống trong môi trường sản xuất,2
+Infrastructure & DevOps,vận hành server windows,2
+Infrastructure & DevOps,vận hành và giám sát hệ thống,2
+Infrastructure & DevOps,weblogic,2
+Infrastructure & DevOps,windows server administration,2
+Infrastructure & DevOps,xây dựng hệ thống vận hành,2
+Infrastructure & DevOps,xử lý sự cố an ninh mạng,2
+Infrastructure & DevOps,zero trust,2
+Infrastructure & DevOps,ztna,2
+Infrastructure & DevOps,đọc hiểu log hệ thống,2
+Infrastructure & DevOps,đọc log,2
+Infrastructure & DevOps,4g,1
+Infrastructure & DevOps,802.1x,1
+Infrastructure & DevOps,access and authentication,1
+Infrastructure & DevOps,access controls,1
+Infrastructure & DevOps,access management,1
+Infrastructure & DevOps,aci,1
+Infrastructure & DevOps,active directories,1
+Infrastructure & DevOps,active mq,1
+Infrastructure & DevOps,ad server,1
+Infrastructure & DevOps,administering enterprise network infrastructure,1
+Infrastructure & DevOps,admission webhooks,1
+Infrastructure & DevOps,advpn,1
+Infrastructure & DevOps,agocd,1
+Infrastructure & DevOps,ai api backend,1
+Infrastructure & DevOps,ai deployment,1
+Infrastructure & DevOps,ai-ready infrastructure,1
+Infrastructure & DevOps,aiops,1
+Infrastructure & DevOps,akamai,1
+Infrastructure & DevOps,alerting and monitoring tools,1
+Infrastructure & DevOps,alertmanager,1
+Infrastructure & DevOps,alibaba,1
+Infrastructure & DevOps,aliyun,1
+Infrastructure & DevOps,amazon s3,1
+Infrastructure & DevOps,amazon web service,1
+Infrastructure & DevOps,amazon web service (aws,1
+Infrastructure & DevOps,amazon web services (aws,1
+Infrastructure & DevOps,amazone,1
+Infrastructure & DevOps,ampq,1
+Infrastructure & DevOps,an ninh bảo mật,1
+Infrastructure & DevOps,an ninh dữ liệu,1
+Infrastructure & DevOps,an ninh thông tin,1
+Infrastructure & DevOps,"an ninh, bảo mật",1
+Infrastructure & DevOps,an toàn bảo mật thông tin,1
+Infrastructure & DevOps,an toàn hệ thống,1
+Infrastructure & DevOps,an toàn thông tin hạ tầng cntt,1
+Infrastructure & DevOps,analyzing os logs,1
+Infrastructure & DevOps,anti-ddos,1
+Infrastructure & DevOps,anti-spam,1
+Infrastructure & DevOps,antimalware,1
+Infrastructure & DevOps,antt,1
+Infrastructure & DevOps,ap,1
+Infrastructure & DevOps,apache server,1
+Infrastructure & DevOps,api gateways,1
+Infrastructure & DevOps,api management,1
+Infrastructure & DevOps,apigee,1
+Infrastructure & DevOps,apisix,1
+Infrastructure & DevOps,app insights,1
+Infrastructure & DevOps,app routers,1
+Infrastructure & DevOps,app service,1
+Infrastructure & DevOps,app services,1
+Infrastructure & DevOps,appd,1
+Infrastructure & DevOps,appdynamics,1
+Infrastructure & DevOps,application and infrastructure security,1
+Infrastructure & DevOps,application control,1
+Infrastructure & DevOps,application operation,1
+Infrastructure & DevOps,application operations,1
+Infrastructure & DevOps,appsync,1
+Infrastructure & DevOps,archiving,1
+Infrastructure & DevOps,arista,1
+Infrastructure & DevOps,arize phoenix,1
+Infrastructure & DevOps,arm,1
+Infrastructure & DevOps,artifactory,1
+Infrastructure & DevOps,aruba wireless,1
+Infrastructure & DevOps,as/400,1
+Infrastructure & DevOps,asa,1
+Infrastructure & DevOps,asymmetric/symmetric encryption,1
+Infrastructure & DevOps,audit,1
+Infrastructure & DevOps,auditd,1
+Infrastructure & DevOps,audits and reporting,1
+Infrastructure & DevOps,aurora,1
+Infrastructure & DevOps,auth0,1
+Infrastructure & DevOps,authentication systems,1
+Infrastructure & DevOps,auto scaling,1
+Infrastructure & DevOps,automated provisioning,1
+Infrastructure & DevOps,automated retraining,1
+Infrastructure & DevOps,automated scanning,1
+Infrastructure & DevOps,automated workflows,1
+Infrastructure & DevOps,automation and monitoring tools,1
+Infrastructure & DevOps,automation initiatives,1
+Infrastructure & DevOps,automation pipelines,1
+Infrastructure & DevOps,av,1
+Infrastructure & DevOps,aws ai,1
+Infrastructure & DevOps,aws ai services,1
+Infrastructure & DevOps,aws api gateway,1
+Infrastructure & DevOps,aws cloud formation template,1
+Infrastructure & DevOps,aws cloud services,1
+Infrastructure & DevOps,aws cloud technology,1
+Infrastructure & DevOps,aws dashboards,1
+Infrastructure & DevOps,aws data ecosystem,1
+Infrastructure & DevOps,aws dms,1
+Infrastructure & DevOps,aws eventbridge,1
+Infrastructure & DevOps,aws foundation,1
+Infrastructure & DevOps,aws iot core,1
+Infrastructure & DevOps,aws queuing,1
+Infrastructure & DevOps,aws rds,1
+Infrastructure & DevOps,aws security design,1
+Infrastructure & DevOps,aws sns,1
+Infrastructure & DevOps,aws sns/sqs,1
+Infrastructure & DevOps,aws step functions,1
+Infrastructure & DevOps,aws-managed services,1
+Infrastructure & DevOps,azure ad authentication,1
+Infrastructure & DevOps,azure ai search,1
+Infrastructure & DevOps,azure ai services,1
+Infrastructure & DevOps,azure application insights,1
+Infrastructure & DevOps,azure blob storage,1
+Infrastructure & DevOps,azure cloud services,1
+Infrastructure & DevOps,azure cloud-native stack,1
+Infrastructure & DevOps,azure data services,1
+Infrastructure & DevOps,azure function,1
+Infrastructure & DevOps,azure function app,1
+Infrastructure & DevOps,azure iot hub,1
+Infrastructure & DevOps,azure key vault,1
+Infrastructure & DevOps,azure kubernetes service (aks,1
+Infrastructure & DevOps,azure load balancer,1
+Infrastructure & DevOps,azure paas,1
+Infrastructure & DevOps,azure queues,1
+Infrastructure & DevOps,azure resource manager,1
+Infrastructure & DevOps,azure services,1
+Infrastructure & DevOps,azure sso,1
+Infrastructure & DevOps,azure storage account,1
+Infrastructure & DevOps,azure storage blobs,1
+Infrastructure & DevOps,azure virtual machines,1
+Infrastructure & DevOps,azure vm,1
+Infrastructure & DevOps,backend ai systems,1
+Infrastructure & DevOps,backend security,1
+Infrastructure & DevOps,backend/serverless architecture,1
+Infrastructure & DevOps,backup and archiving systems,1
+Infrastructure & DevOps,backup and disaster recovery,1
+Infrastructure & DevOps,backup and recovery strategies,1
+Infrastructure & DevOps,backup and storage solutions,1
+Infrastructure & DevOps,backup architecture,1
+Infrastructure & DevOps,backup infrastructure operations,1
+Infrastructure & DevOps,backup strategies,1
+Infrastructure & DevOps,backup systems,1
+Infrastructure & DevOps,backup và disaster recovery,1
+Infrastructure & DevOps,backup/dr patterns,1
+Infrastructure & DevOps,backup/recovery,1
+Infrastructure & DevOps,backup/restore strategies,1
+Infrastructure & DevOps,bamboo,1
+Infrastructure & DevOps,bare-metal,1
+Infrastructure & DevOps,batch,1
+Infrastructure & DevOps,beats,1
+Infrastructure & DevOps,bedrock,1
+Infrastructure & DevOps,beyondtrust,1
+Infrastructure & DevOps,bicep,1
+Infrastructure & DevOps,bitbucket pipelines/runners,1
+Infrastructure & DevOps,blacklist/whitelist domains,1
+Infrastructure & DevOps,blob storage,1
+Infrastructure & DevOps,blue team,1
+Infrastructure & DevOps,blue/green,1
+Infrastructure & DevOps,blue/green deploys,1
+Infrastructure & DevOps,bonding,1
+Infrastructure & DevOps,btrfs,1
+Infrastructure & DevOps,build and deploy app,1
+Infrastructure & DevOps,build and deploy production,1
+Infrastructure & DevOps,build and maintain hệ thống production,1
+Infrastructure & DevOps,build and release ứng dụng,1
+Infrastructure & DevOps,build automation,1
+Infrastructure & DevOps,build custom os,1
+Infrastructure & DevOps,build environments,1
+Infrastructure & DevOps,build pipeline,1
+Infrastructure & DevOps,build processes,1
+Infrastructure & DevOps,build tools,1
+Infrastructure & DevOps,bullmq,1
+Infrastructure & DevOps,bảo mật - mạng,1
+Infrastructure & DevOps,bảo mật api,1
+Infrastructure & DevOps,bảo mật cho ai system,1
+Infrastructure & DevOps,bảo mật cntt,1
+Infrastructure & DevOps,bảo mật csdl,1
+Infrastructure & DevOps,bảo mật database,1
+Infrastructure & DevOps,bảo mật endpoint,1
+Infrastructure & DevOps,bảo mật hệ thống mạng,1
+Infrastructure & DevOps,bảo mật phần mềm,1
+Infrastructure & DevOps,bảo mật thông tin hệ thống,1
+Infrastructure & DevOps,bảo mật và an ninh mạng,1
+Infrastructure & DevOps,bảo mật web,1
+Infrastructure & DevOps,bảo mật ứng dụng frontend,1
+Infrastructure & DevOps,caching server,1
+Infrastructure & DevOps,cacti,1
+Infrastructure & DevOps,calico,1
+Infrastructure & DevOps,canary,1
+Infrastructure & DevOps,capacity planning,1
+Infrastructure & DevOps,capistrano,1
+Infrastructure & DevOps,cd,1
+Infrastructure & DevOps,cd/ci,1
+Infrastructure & DevOps,cdk,1
+Infrastructure & DevOps,cdk constructs,1
+Infrastructure & DevOps,cdns,1
+Infrastructure & DevOps,ceph storage,1
+Infrastructure & DevOps,cgroups,1
+Infrastructure & DevOps,chassis,1
+Infrastructure & DevOps,chassis blade,1
+Infrastructure & DevOps,check point,1
+Infrastructure & DevOps,checkpoint maestro,1
+Infrastructure & DevOps,chronyd,1
+Infrastructure & DevOps,chuyển đổi cloud,1
+Infrastructure & DevOps,chuyển đổi hệ thống mạng,1
+Infrastructure & DevOps,chính sách bảo mật dữ liệu,1
+Infrastructure & DevOps,chứng chỉ số,1
+Infrastructure & DevOps,ci build pipelines,1
+Infrastructure & DevOps,ci cd,1
+Infrastructure & DevOps,ci tools,1
+Infrastructure & DevOps,ci/cd cho ml,1
+Infrastructure & DevOps,ci/cd cho mobile,1
+Infrastructure & DevOps,ci/cd for ai,1
+Infrastructure & DevOps,ci/cd for database deployment,1
+Infrastructure & DevOps,ci/cd for ml,1
+Infrastructure & DevOps,ci/cd for mobile apps,1
+Infrastructure & DevOps,ci/cd integration,1
+Infrastructure & DevOps,ci/cd mobile,1
+Infrastructure & DevOps,ci/cd platforms,1
+Infrastructure & DevOps,ci/cd quality gate,1
+Infrastructure & DevOps,ci/cd system,1
+Infrastructure & DevOps,ci/cd workflows,1
+Infrastructure & DevOps,ci/d pipeline,1
+Infrastructure & DevOps,cilium,1
+Infrastructure & DevOps,circle ci,1
+Infrastructure & DevOps,cisco asa,1
+Infrastructure & DevOps,cisco catalyst switching,1
+Infrastructure & DevOps,cisco firewall,1
+Infrastructure & DevOps,cisco meraki,1
+Infrastructure & DevOps,cisco networking technologies,1
+Infrastructure & DevOps,cisco switches,1
+Infrastructure & DevOps,cisco vpn,1
+Infrastructure & DevOps,clearml,1
+Infrastructure & DevOps,client proxy,1
+Infrastructure & DevOps,cloud (gcp,1
+Infrastructure & DevOps,cloud ai,1
+Infrastructure & DevOps,cloud architecture,1
+Infrastructure & DevOps,cloud aws,1
+Infrastructure & DevOps,cloud aws/azure,1
+Infrastructure & DevOps,cloud best practices,1
+Infrastructure & DevOps,cloud compute,1
+Infrastructure & DevOps,cloud concepts,1
+Infrastructure & DevOps,cloud connector,1
+Infrastructure & DevOps,cloud data,1
+Infrastructure & DevOps,cloud development,1
+Infrastructure & DevOps,cloud devops,1
+Infrastructure & DevOps,cloud functions,1
+Infrastructure & DevOps,cloud governance frameworks,1
+Infrastructure & DevOps,cloud hosting,1
+Infrastructure & DevOps,cloud infrastructure (aws,1
+Infrastructure & DevOps,cloud infrastructure deployment,1
+Infrastructure & DevOps,cloud infrastructure security,1
+Infrastructure & DevOps,cloud infrastructures,1
+Infrastructure & DevOps,cloud messaging,1
+Infrastructure & DevOps,cloud migration,1
+Infrastructure & DevOps,cloud monitoring,1
+Infrastructure & DevOps,cloud monitoring and observability,1
+Infrastructure & DevOps,cloud native computing,1
+Infrastructure & DevOps,cloud networking,1
+Infrastructure & DevOps,cloud operations,1
+Infrastructure & DevOps,cloud run,1
+Infrastructure & DevOps,cloud scheduler,1
+Infrastructure & DevOps,cloud services provider,1
+Infrastructure & DevOps,cloud systems administration,1
+Infrastructure & DevOps,cloud transformation,1
+Infrastructure & DevOps,cloud-based deployment,1
+Infrastructure & DevOps,cloud-based ml deployment,1
+Infrastructure & DevOps,cloud-based platforms,1
+Infrastructure & DevOps,cloud-native application development,1
+Infrastructure & DevOps,cloud-native architecture,1
+Infrastructure & DevOps,cloud-native deployment,1
+Infrastructure & DevOps,cloud-native development,1
+Infrastructure & DevOps,cloud-native environments,1
+Infrastructure & DevOps,cloud-native security,1
+Infrastructure & DevOps,cloud-native services,1
+Infrastructure & DevOps,cloud-native technologies,1
+Infrastructure & DevOps,cloud/it infrastructure,1
+Infrastructure & DevOps,cloudfront,1
+Infrastructure & DevOps,cloudops optimization,1
+Infrastructure & DevOps,clouds computing,1
+Infrastructure & DevOps,cloudtrail,1
+Infrastructure & DevOps,cloud‑based architectures,1
+Infrastructure & DevOps,cluster networking,1
+Infrastructure & DevOps,cni plugins,1
+Infrastructure & DevOps,coap,1
+Infrastructure & DevOps,codedeploy,1
+Infrastructure & DevOps,codeship,1
+Infrastructure & DevOps,compliance as code,1
+Infrastructure & DevOps,compose,1
+Infrastructure & DevOps,compression,1
+Infrastructure & DevOps,compute infrastructure,1
+Infrastructure & DevOps,computer networking,1
+Infrastructure & DevOps,conditional access,1
+Infrastructure & DevOps,container hóa,1
+Infrastructure & DevOps,container registries,1
+Infrastructure & DevOps,container registry,1
+Infrastructure & DevOps,container technologies,1
+Infrastructure & DevOps,containerisation,1
+Infrastructure & DevOps,containerised workloads,1
+Infrastructure & DevOps,containerized,1
+Infrastructure & DevOps,containerized deployment,1
+Infrastructure & DevOps,containerized environments,1
+Infrastructure & DevOps,continuous integration tools,1
+Infrastructure & DevOps,"continuous integration, continuous delivery (ci/cd",1
+Infrastructure & DevOps,control implementation,1
+Infrastructure & DevOps,controller,1
+Infrastructure & DevOps,crash monitoring,1
+Infrastructure & DevOps,crash reporting,1
+Infrastructure & DevOps,crashlytics,1
+Infrastructure & DevOps,crossplane,1
+Infrastructure & DevOps,csp,1
+Infrastructure & DevOps,custom resources (crds,1
+Infrastructure & DevOps,cve management,1
+Infrastructure & DevOps,cwmp,1
+Infrastructure & DevOps,cyberark,1
+Infrastructure & DevOps,cybersecurity best practices,1
+Infrastructure & DevOps,cybersecurity incident response,1
+Infrastructure & DevOps,cybersecurity principles,1
+Infrastructure & DevOps,"cài đặt, cấu hình hệ thống phần mềm trên server",1
+Infrastructure & DevOps,công cụ giám sát,1
+Infrastructure & DevOps,công cụ giám sát dịch vụ cntt,1
+Infrastructure & DevOps,công cụ giám sát mạng,1
+Infrastructure & DevOps,công nghệ cloud,1
+Infrastructure & DevOps,công nghệ máy chủ,1
+Infrastructure & DevOps,công nghệ máy chủ trong ttdl,1
+Infrastructure & DevOps,cơ sở hạ tầng,1
+Infrastructure & DevOps,cơ sở hạ tầng cntt,1
+Infrastructure & DevOps,cơ sở hạ tầng mạng an toàn,1
+Infrastructure & DevOps,cơ sở hạ tầng ảo hóa kvm,1
+Infrastructure & DevOps,cấu hình các thiết bị mạng,1
+Infrastructure & DevOps,cấu hình môi trường windows server,1
+Infrastructure & DevOps,cấu hình phần cứng mạng,1
+Infrastructure & DevOps,cấu hình remote access,1
+Infrastructure & DevOps,cấu hình router,1
+Infrastructure & DevOps,cấu hình switch,1
+Infrastructure & DevOps,cấu hình thiết bị mạng,1
+Infrastructure & DevOps,cấu hình tường lửa,1
+Infrastructure & DevOps,cấu hình và giao thức mạng,1
+Infrastructure & DevOps,cấu hình và quản lý thiết bị mạng,1
+Infrastructure & DevOps,cấu trúc mạng,1
+Infrastructure & DevOps,das,1
+Infrastructure & DevOps,data center model,1
+Infrastructure & DevOps,data center operations,1
+Infrastructure & DevOps,data masking,1
+Infrastructure & DevOps,data privacy principles,1
+Infrastructure & DevOps,data synchronization,1
+Infrastructure & DevOps,database backup,1
+Infrastructure & DevOps,database high availability architecture,1
+Infrastructure & DevOps,database migration,1
+Infrastructure & DevOps,database replication,1
+Infrastructure & DevOps,database security,1
+Infrastructure & DevOps,database server,1
+Infrastructure & DevOps,dbfw,1
+Infrastructure & DevOps,dc,1
+Infrastructure & DevOps,dc/dr,1
+Infrastructure & DevOps,de-duplication,1
+Infrastructure & DevOps,deep learning deployment,1
+Infrastructure & DevOps,deploy ai models,1
+Infrastructure & DevOps,deploy and optimize ml systems,1
+Infrastructure & DevOps,deploy dự án,1
+Infrastructure & DevOps,deploy llm,1
+Infrastructure & DevOps,deploy ml models,1
+Infrastructure & DevOps,deploy mô hình,1
+Infrastructure & DevOps,deploy sản phẩm,1
+Infrastructure & DevOps,deploy ứng dụng trên prod,1
+Infrastructure & DevOps,deploying ai agents,1
+Infrastructure & DevOps,deploying ai models,1
+Infrastructure & DevOps,deploying ai models in production,1
+Infrastructure & DevOps,deploying ai/ml models,1
+Infrastructure & DevOps,deploying applications to production,1
+Infrastructure & DevOps,deploying backend services,1
+Infrastructure & DevOps,deploying flutter apps,1
+Infrastructure & DevOps,deploying machine learning models,1
+Infrastructure & DevOps,deploying ml models,1
+Infrastructure & DevOps,deploying models,1
+Infrastructure & DevOps,deployment automation,1
+Infrastructure & DevOps,deployment orchestration,1
+Infrastructure & DevOps,deployment process,1
+Infrastructure & DevOps,deployment processes,1
+Infrastructure & DevOps,detection and response,1
+Infrastructure & DevOps,detection engineering,1
+Infrastructure & DevOps,di chuyển datacenter,1
+Infrastructure & DevOps,di chuyển đám mây,1
+Infrastructure & DevOps,directory services,1
+Infrastructure & DevOps,disaster recovery planning,1
+Infrastructure & DevOps,disaster recovery solutions,1
+Infrastructure & DevOps,disaster recovery systems,1
+Infrastructure & DevOps,distributed deployment,1
+Infrastructure & DevOps,distributed messaging systems,1
+Infrastructure & DevOps,dlp/ddp,1
+Infrastructure & DevOps,dms,1
+Infrastructure & DevOps,dmvpn,1
+Infrastructure & DevOps,dns (bind,1
+Infrastructure & DevOps,dns management,1
+Infrastructure & DevOps,dns/dhcp,1
+Infrastructure & DevOps,do,1
+Infrastructure & DevOps,docker compos,1
+Infrastructure & DevOps,docker container,1
+Infrastructure & DevOps,docker containerization,1
+Infrastructure & DevOps,docker-compose,1
+Infrastructure & DevOps,domain name system (dns,1
+Infrastructure & DevOps,draytek,1
+Infrastructure & DevOps,drs,1
+Infrastructure & DevOps,duy trì sự ổn định của hệ thống,1
+Infrastructure & DevOps,dynamic link,1
+Infrastructure & DevOps,dynamic routing,1
+Infrastructure & DevOps,dịch chuyển cloud,1
+Infrastructure & DevOps,dịch vụ mạng,1
+Infrastructure & DevOps,dịch vụ trên cloud,1
+Infrastructure & DevOps,dữ liệu log,1
+Infrastructure & DevOps,dựng server,1
+Infrastructure & DevOps,ebpf,1
+Infrastructure & DevOps,ebs,1
+Infrastructure & DevOps,ecmp,1
+Infrastructure & DevOps,ecr,1
+Infrastructure & DevOps,edge computing,1
+Infrastructure & DevOps,edge functions,1
+Infrastructure & DevOps,edr,1
+Infrastructure & DevOps,edr/ndr,1
+Infrastructure & DevOps,efk/elk stack,1
+Infrastructure & DevOps,elasticache,1
+Infrastructure & DevOps,elb,1
+Infrastructure & DevOps,elb/alb,1
+Infrastructure & DevOps,elk/efk,1
+Infrastructure & DevOps,email relays,1
+Infrastructure & DevOps,emr,1
+Infrastructure & DevOps,end-to-end ai pipeline,1
+Infrastructure & DevOps,endpoint,1
+Infrastructure & DevOps,endpoint deployment,1
+Infrastructure & DevOps,endpoint firewall,1
+Infrastructure & DevOps,endpoint sercurity,1
+Infrastructure & DevOps,enterprise backup and recovery procedures,1
+Infrastructure & DevOps,enterprise monitoring,1
+Infrastructure & DevOps,enterprise network architectures,1
+Infrastructure & DevOps,enterprise networks,1
+Infrastructure & DevOps,enterprise service bus (esb,1
+Infrastructure & DevOps,enterprise terraform architectures,1
+Infrastructure & DevOps,enterprise-grade security,1
+Infrastructure & DevOps,enterprise-grade security devices,1
+Infrastructure & DevOps,entra,1
+Infrastructure & DevOps,envoy,1
+Infrastructure & DevOps,epp,1
+Infrastructure & DevOps,escalation,1
+Infrastructure & DevOps,escalation management,1
+Infrastructure & DevOps,event bridge,1
+Infrastructure & DevOps,event mesh,1
+Infrastructure & DevOps,event viewer,1
+Infrastructure & DevOps,evpn,1
+Infrastructure & DevOps,exchange,1
+Infrastructure & DevOps,exchange administration,1
+Infrastructure & DevOps,exploit development,1
+Infrastructure & DevOps,exporters,1
+Infrastructure & DevOps,express gateway,1
+Infrastructure & DevOps,expressroute,1
+Infrastructure & DevOps,ext4,1
+Infrastructure & DevOps,failover,1
+Infrastructure & DevOps,falco,1
+Infrastructure & DevOps,fcm,1
+Infrastructure & DevOps,feature flags,1
+Infrastructure & DevOps,firebase messaging,1
+Infrastructure & DevOps,firepower,1
+Infrastructure & DevOps,firepower (ftd/fmc,1
+Infrastructure & DevOps,firewall analyzer,1
+Infrastructure & DevOps,firewall fortigate,1
+Infrastructure & DevOps,flux,1
+Infrastructure & DevOps,fotinet,1
+Infrastructure & DevOps,fpt cloud,1
+Infrastructure & DevOps,frontdoor,1
+Infrastructure & DevOps,gcp cloud function,1
+Infrastructure & DevOps,gcp cloud run,1
+Infrastructure & DevOps,gg cloud,1
+Infrastructure & DevOps,ghi log,1
+Infrastructure & DevOps,giao thức truyền tải log,1
+Infrastructure & DevOps,git ci/cd,1
+Infrastructure & DevOps,gitlab runner,1
+Infrastructure & DevOps,giám sát,1
+Infrastructure & DevOps,giám sát an ninh mạng,1
+Infrastructure & DevOps,giám sát attt,1
+Infrastructure & DevOps,giám sát của os/db,1
+Infrastructure & DevOps,giám sát hiệu suất,1
+Infrastructure & DevOps,giám sát hệ thống,1
+Infrastructure & DevOps,giám sát hệ thống mysql production,1
+Infrastructure & DevOps,giám sát mô hình,1
+Infrastructure & DevOps,glue,1
+Infrastructure & DevOps,glusterfs,1
+Infrastructure & DevOps,google ai,1
+Infrastructure & DevOps,google cloud ai,1
+Infrastructure & DevOps,google cloud iot,1
+Infrastructure & DevOps,google cloud platofrm (gcp,1
+Infrastructure & DevOps,google clould service,1
+Infrastructure & DevOps,google gcp,1
+Infrastructure & DevOps,gpon,1
+Infrastructure & DevOps,gprs,1
+Infrastructure & DevOps,gps,1
+Infrastructure & DevOps,gpu environment,1
+Infrastructure & DevOps,gpu on-demand,1
+Infrastructure & DevOps,gpu operators,1
+Infrastructure & DevOps,grafana lgtm stack,1
+Infrastructure & DevOps,grafana stack,1
+Infrastructure & DevOps,group policies,1
+Infrastructure & DevOps,group policy,1
+Infrastructure & DevOps,gslb,1
+Infrastructure & DevOps,gunicorn,1
+Infrastructure & DevOps,ha cluster,1
+Infrastructure & DevOps,ha-proxy,1
+Infrastructure & DevOps,ha/dr concepts,1
+Infrastructure & DevOps,ha/load balancing,1
+Infrastructure & DevOps,habor,1
+Infrastructure & DevOps,harbor,1
+Infrastructure & DevOps,hard drive encryption,1
+Infrastructure & DevOps,hardening,1
+Infrastructure & DevOps,helm charts,1
+Infrastructure & DevOps,helmchart,1
+Infrastructure & DevOps,high availability/dr architecture,1
+Infrastructure & DevOps,high performance computer,1
+Infrastructure & DevOps,high-availability solutions,1
+Infrastructure & DevOps,high-performance computing (hpc,1
+Infrastructure & DevOps,high-performance storage,1
+Infrastructure & DevOps,high-performance workloads,1
+Infrastructure & DevOps,hp,1
+Infrastructure & DevOps,hp aruba,1
+Infrastructure & DevOps,hpc,1
+Infrastructure & DevOps,hsm,1
+Infrastructure & DevOps,http,1
+Infrastructure & DevOps,hybrid,1
+Infrastructure & DevOps,hybrid architecture,1
+Infrastructure & DevOps,hybrid environments,1
+Infrastructure & DevOps,hybrid setups,1
+Infrastructure & DevOps,hybrid-cloud,1
+Infrastructure & DevOps,hypervisor,1
+Infrastructure & DevOps,hypervisor/virtualization,1
+Infrastructure & DevOps,hypervisors,1
+Infrastructure & DevOps,hạ tầng công nghệ thông tin,1
+Infrastructure & DevOps,hạ tầng hệ thống,1
+Infrastructure & DevOps,hạ tầng máy chủ,1
+Infrastructure & DevOps,hạ tầng mạng bảo mật,1
+Infrastructure & DevOps,hạ tầng điện toán đám mây,1
+Infrastructure & DevOps,hạ tầng điện toán đám mây (cloud,1
+Infrastructure & DevOps,hạ tầng ảo hóa,1
+Infrastructure & DevOps,hệ thống an toàn thông tin,1
+Infrastructure & DevOps,hệ thống cáp cấu trúc,1
+Infrastructure & DevOps,hệ thống cáp mạng,1
+Infrastructure & DevOps,hệ thống email,1
+Infrastructure & DevOps,hệ thống giám sát,1
+Infrastructure & DevOps,hệ thống hạ tầng cntt,1
+Infrastructure & DevOps,hệ thống linux,1
+Infrastructure & DevOps,hệ thống lưu trữ dữ liệu,1
+Infrastructure & DevOps,hệ thống lớn,1
+Infrastructure & DevOps,hệ thống máy chủ dell/hp,1
+Infrastructure & DevOps,hệ thống máy chủ và lưu trữ,1
+Infrastructure & DevOps,hệ thống mạng cáp quang,1
+Infrastructure & DevOps,hệ thống mạng lan/wan,1
+Infrastructure & DevOps,hệ thống mạng nội bộ,1
+Infrastructure & DevOps,hệ thống mạng ttdl,1
+Infrastructure & DevOps,hệ thống observability,1
+Infrastructure & DevOps,hệ thống quản lý an toàn thông tin theo iso27001,1
+Infrastructure & DevOps,hệ thống server,1
+Infrastructure & DevOps,hệ thống yêu cầu bảo mật cao,1
+Infrastructure & DevOps,hệ thống ảo hoá,1
+Infrastructure & DevOps,hệ thống ảo hóa vmw,1
+Infrastructure & DevOps,iac scanning,1
+Infrastructure & DevOps,iac tools,1
+Infrastructure & DevOps,iam/pim/pam,1
+Infrastructure & DevOps,ibm,1
+Infrastructure & DevOps,ibm cloud pak,1
+Infrastructure & DevOps,ibm hypervisor,1
+Infrastructure & DevOps,ibm mainframe z/os,1
+Infrastructure & DevOps,ibm powervm,1
+Infrastructure & DevOps,ibm – websphere application server,1
+Infrastructure & DevOps,ibmi,1
+Infrastructure & DevOps,identity and access management,1
+Infrastructure & DevOps,identity management,1
+Infrastructure & DevOps,identity security,1
+Infrastructure & DevOps,identity server,1
+Infrastructure & DevOps,incident response lifecycle,1
+Infrastructure & DevOps,incident review,1
+Infrastructure & DevOps,inference services,1
+Infrastructure & DevOps,infiniband,1
+Infrastructure & DevOps,information system security,1
+Infrastructure & DevOps,infra,1
+Infrastructure & DevOps,infra ai,1
+Infrastructure & DevOps,infrastructure administrator,1
+Infrastructure & DevOps,infrastructure architect,1
+Infrastructure & DevOps,infrastructure as code security,1
+Infrastructure & DevOps,infrastructure for ai and machine learning workloads,1
+Infrastructure & DevOps,infrastructure management,1
+Infrastructure & DevOps,infrastructure monitoring tools,1
+Infrastructure & DevOps,infrastructure optimization,1
+Infrastructure & DevOps,infrastructure-as-code (iac,1
+Infrastructure & DevOps,ingress,1
+Infrastructure & DevOps,ingress controllers,1
+Infrastructure & DevOps,ingress nginx,1
+Infrastructure & DevOps,integrating security tools into ci/cd pipelines,1
+Infrastructure & DevOps,inter-vlan routing,1
+Infrastructure & DevOps,internal developer platforms,1
+Infrastructure & DevOps,internet,1
+Infrastructure & DevOps,internet routing,1
+Infrastructure & DevOps,internet security,1
+Infrastructure & DevOps,ip addressing,1
+Infrastructure & DevOps,ip networking,1
+Infrastructure & DevOps,ip ranges,1
+Infrastructure & DevOps,ip subnetting,1
+Infrastructure & DevOps,ipsec,1
+Infrastructure & DevOps,iptables,1
+Infrastructure & DevOps,iptables/nftables,1
+Infrastructure & DevOps,ipv6,1
+Infrastructure & DevOps,is-is,1
+Infrastructure & DevOps,isis,1
+Infrastructure & DevOps,istio,1
+Infrastructure & DevOps,it hạ tầng,1
+Infrastructure & DevOps,it hệ thống mạng,1
+Infrastructure & DevOps,it infrastructure management,1
+Infrastructure & DevOps,it infrastructure operations,1
+Infrastructure & DevOps,it network,1
+Infrastructure & DevOps,it security,1
+Infrastructure & DevOps,it security management,1
+Infrastructure & DevOps,it systems management,1
+Infrastructure & DevOps,it/network,1
+Infrastructure & DevOps,java application servers,1
+Infrastructure & DevOps,jms queue,1
+Infrastructure & DevOps,join domain,1
+Infrastructure & DevOps,journalctl,1
+Infrastructure & DevOps,juniper srx,1
+Infrastructure & DevOps,k3s,1
+Infrastructure & DevOps,keepalive,1
+Infrastructure & DevOps,kerberos,1
+Infrastructure & DevOps,kernel modules,1
+Infrastructure & DevOps,key management,1
+Infrastructure & DevOps,keycloak,1
+Infrastructure & DevOps,khắc phục sau thảm họa,1
+Infrastructure & DevOps,kiến trúc hạ tầng,1
+Infrastructure & DevOps,kiến trúc lưu trữ,1
+Infrastructure & DevOps,kiểm soát an ninh hạ tầng,1
+Infrastructure & DevOps,kiểm soát an ninh ứng dụng,1
+Infrastructure & DevOps,kiểm tra và phân tích log hệ thống,1
+Infrastructure & DevOps,kms,1
+Infrastructure & DevOps,kong api gateway,1
+Infrastructure & DevOps,kong gw,1
+Infrastructure & DevOps,kops,1
+Infrastructure & DevOps,krakend,1
+Infrastructure & DevOps,kube manifest,1
+Infrastructure & DevOps,kuberneter,1
+Infrastructure & DevOps,kubernetes (aks,1
+Infrastructure & DevOps,kubernetes cluster,1
+Infrastructure & DevOps,kubernetes ha multi-master,1
+Infrastructure & DevOps,kubernetes hardening,1
+Infrastructure & DevOps,kubernetes networking,1
+Infrastructure & DevOps,kubernetes operators,1
+Infrastructure & DevOps,kubernetes đa cụm,1
+Infrastructure & DevOps,kéo dây mạng,1
+Infrastructure & DevOps,kỹ thuật tấn công xâm nhập hệ thống,1
+Infrastructure & DevOps,l2/l3vpn,1
+Infrastructure & DevOps,lacp,1
+Infrastructure & DevOps,lake formation,1
+Infrastructure & DevOps,lan/wan connectivity,1
+Infrastructure & DevOps,langsmith,1
+Infrastructure & DevOps,layer,1
+Infrastructure & DevOps,layer 2,1
+Infrastructure & DevOps,lb,1
+Infrastructure & DevOps,leaf-spine,1
+Infrastructure & DevOps,lgmt,1
+Infrastructure & DevOps,lightsail,1
+Infrastructure & DevOps,link aggregation,1
+Infrastructure & DevOps,linux cluster,1
+Infrastructure & DevOps,linux deployments,1
+Infrastructure & DevOps,linux networking,1
+Infrastructure & DevOps,linux server administration,1
+Infrastructure & DevOps,linux/unix system management,1
+Infrastructure & DevOps,linux/windows server administration,1
+Infrastructure & DevOps,llm monitoring and evaluation,1
+Infrastructure & DevOps,llm observability,1
+Infrastructure & DevOps,llm/ml ops,1
+Infrastructure & DevOps,log analytics,1
+Infrastructure & DevOps,log management,1
+Infrastructure & DevOps,log management tools,1
+Infrastructure & DevOps,logging and monitoring,1
+Infrastructure & DevOps,logic apps,1
+Infrastructure & DevOps,loging,1
+Infrastructure & DevOps,logrhythm,1
+Infrastructure & DevOps,logs,1
+Infrastructure & DevOps,lvm,1
+Infrastructure & DevOps,lưu trữ phân tán,1
+Infrastructure & DevOps,lập kế hoạch và quản lý hệ thống phần cứng và phần mềm mạng,1
+Infrastructure & DevOps,major incident,1
+Infrastructure & DevOps,malignant/devops,1
+Infrastructure & DevOps,malware,1
+Infrastructure & DevOps,man,1
+Infrastructure & DevOps,managed identity,1
+Infrastructure & DevOps,managing model inference costs,1
+Infrastructure & DevOps,managing network devices,1
+Infrastructure & DevOps,manufacturing network segmentation,1
+Infrastructure & DevOps,masking/encryption,1
+Infrastructure & DevOps,meraki switching,1
+Infrastructure & DevOps,message,1
+Infrastructure & DevOps,message queue (mq,1
+Infrastructure & DevOps,message queuing,1
+Infrastructure & DevOps,message queuing systems,1
+Infrastructure & DevOps,messaging,1
+Infrastructure & DevOps,metro ethernet,1
+Infrastructure & DevOps,microk8s,1
+Infrastructure & DevOps,microservices orchestration,1
+Infrastructure & DevOps,microsoft failover cluster,1
+Infrastructure & DevOps,microsoft hyper-v,1
+Infrastructure & DevOps,microsoft sentinel,1
+Infrastructure & DevOps,microsoft server operating systems,1
+Infrastructure & DevOps,migration to m365,1
+Infrastructure & DevOps,mino,1
+Infrastructure & DevOps,mitre att&ck,1
+Infrastructure & DevOps,ml ops,1
+Infrastructure & DevOps,mlops tools,1
+Infrastructure & DevOps,mobile ci/cd integration,1
+Infrastructure & DevOps,mobile security,1
+Infrastructure & DevOps,model lifecycle,1
+Infrastructure & DevOps,model registry,1
+Infrastructure & DevOps,model serving systems,1
+Infrastructure & DevOps,model serving tools,1
+Infrastructure & DevOps,model versioning,1
+Infrastructure & DevOps,modem,1
+Infrastructure & DevOps,monitoring and logging tools,1
+Infrastructure & DevOps,monitoring and observability tools,1
+Infrastructure & DevOps,monitoring model,1
+Infrastructure & DevOps,monitoring system,1
+Infrastructure & DevOps,monitoring/logging,1
+Infrastructure & DevOps,monitoring/logging tools,1
+Infrastructure & DevOps,monitoring/observability,1
+Infrastructure & DevOps,morpheus,1
+Infrastructure & DevOps,mpio,1
+Infrastructure & DevOps,mqtt brokers,1
+Infrastructure & DevOps,msk,1
+Infrastructure & DevOps,mta an toàn,1
+Infrastructure & DevOps,muilti apn,1
+Infrastructure & DevOps,multi home bgp,1
+Infrastructure & DevOps,multi-az,1
+Infrastructure & DevOps,multi-cloud deployment,1
+Infrastructure & DevOps,multi-cloud strategy,1
+Infrastructure & DevOps,multi-target application (mta) deployment,1
+Infrastructure & DevOps,máy chủ dell,1
+Infrastructure & DevOps,máy chủ lưu trữ,1
+Infrastructure & DevOps,máy chủ mainframe,1
+Infrastructure & DevOps,máy chủ server,1
+Infrastructure & DevOps,máy chủ tính tóan hiệu năng cao,1
+Infrastructure & DevOps,máy chủ và hệ thống lưu trữ,1
+Infrastructure & DevOps,máy chủ vật lý,1
+Infrastructure & DevOps,máy chủ windows,1
+Infrastructure & DevOps,mã hóa dữ liệu,1
+Infrastructure & DevOps,mã hóa end-to-end,1
+Infrastructure & DevOps,mô hình mạng,1
+Infrastructure & DevOps,mô hình mạng 3 lớp,1
+Infrastructure & DevOps,mô hình mạng lan,1
+Infrastructure & DevOps,mô hình mạng máy tính server – client,1
+Infrastructure & DevOps,mô hình tcp/ip,1
+Infrastructure & DevOps,mô hình triển khai,1
+Infrastructure & DevOps,mạng and bảo mật,1
+Infrastructure & DevOps,mạng cloud,1
+Infrastructure & DevOps,mạng cntt,1
+Infrastructure & DevOps,mạng it,1
+Infrastructure & DevOps,mạng lưới,1
+Infrastructure & DevOps,mạng san,1
+Infrastructure & DevOps,nacls,1
+Infrastructure & DevOps,nat gateway,1
+Infrastructure & DevOps,naver cloud,1
+Infrastructure & DevOps,netapp,1
+Infrastructure & DevOps,netapp cloud services,1
+Infrastructure & DevOps,netapp hybrid cloud,1
+Infrastructure & DevOps,network access control,1
+Infrastructure & DevOps,network administrator,1
+Infrastructure & DevOps,network and infrastructure project management,1
+Infrastructure & DevOps,network and security operations,1
+Infrastructure & DevOps,network architecture,1
+Infrastructure & DevOps,network attached storage (nas,1
+Infrastructure & DevOps,network attack methods,1
+Infrastructure & DevOps,network automation,1
+Infrastructure & DevOps,network cabling,1
+Infrastructure & DevOps,network configuration,1
+Infrastructure & DevOps,network cơ bản,1
+Infrastructure & DevOps,network design,1
+Infrastructure & DevOps,network devices,1
+Infrastructure & DevOps,network diagnostics,1
+Infrastructure & DevOps,network engine,1
+Infrastructure & DevOps,network engineering,1
+Infrastructure & DevOps,network infrastructure and operations,1
+Infrastructure & DevOps,network management,1
+Infrastructure & DevOps,network monitoring solutions,1
+Infrastructure & DevOps,network protocols,1
+Infrastructure & DevOps,network rules,1
+Infrastructure & DevOps,network security architecture,1
+Infrastructure & DevOps,network security infrastructure,1
+Infrastructure & DevOps,network support,1
+Infrastructure & DevOps,network technologies,1
+Infrastructure & DevOps,network topology,1
+Infrastructure & DevOps,network virtualization,1
+Infrastructure & DevOps,network wired/wireless,1
+Infrastructure & DevOps,networking and routing,1
+Infrastructure & DevOps,networking and security,1
+Infrastructure & DevOps,networking trong kubernetes,1
+Infrastructure & DevOps,networkpolicy,1
+Infrastructure & DevOps,next-generation firewall,1
+Infrastructure & DevOps,nextgen firewall,1
+Infrastructure & DevOps,nftables,1
+Infrastructure & DevOps,nginx reverse proxy caching,1
+Infrastructure & DevOps,nguyên tắc bảo mật,1
+Infrastructure & DevOps,ngăn ngừa rò rỉ thất thoát thông tin,1
+Infrastructure & DevOps,nhóm bảo mật,1
+Infrastructure & DevOps,nlb cluster,1
+Infrastructure & DevOps,noc,1
+Infrastructure & DevOps,noc engineer,1
+Infrastructure & DevOps,nomad,1
+Infrastructure & DevOps,npu,1
+Infrastructure & DevOps,nsg,1
+Infrastructure & DevOps,nsx,1
+Infrastructure & DevOps,oauth2.1/oidc,1
+Infrastructure & DevOps,object storage (s3,1
+Infrastructure & DevOps,object storage architectures,1
+Infrastructure & DevOps,object storages,1
+Infrastructure & DevOps,observability and monitoring tools,1
+Infrastructure & DevOps,observability stack,1
+Infrastructure & DevOps,ocelot,1
+Infrastructure & DevOps,odata gateway,1
+Infrastructure & DevOps,oem,1
+Infrastructure & DevOps,oidc,1
+Infrastructure & DevOps,on premises,1
+Infrastructure & DevOps,on-call operations,1
+Infrastructure & DevOps,on-prem deployment,1
+Infrastructure & DevOps,on-prem infrastructure,1
+Infrastructure & DevOps,on-premise deployment,1
+Infrastructure & DevOps,on-premise infrastructure,1
+Infrastructure & DevOps,on-premise server,1
+Infrastructure & DevOps,on-premise system,1
+Infrastructure & DevOps,on-premises ad,1
+Infrastructure & DevOps,on-premises administration,1
+Infrastructure & DevOps,onnx,1
+Infrastructure & DevOps,onprem environments,1
+Infrastructure & DevOps,onprems,1
+Infrastructure & DevOps,open directory,1
+Infrastructure & DevOps,opensearch,1
+Infrastructure & DevOps,openshift dedicated,1
+Infrastructure & DevOps,openshift(ocp,1
+Infrastructure & DevOps,operating production systems,1
+Infrastructure & DevOps,operating real-time production systems,1
+Infrastructure & DevOps,operators,1
+Infrastructure & DevOps,ops governance,1
+Infrastructure & DevOps,oracle,1
+Infrastructure & DevOps,oracle application server,1
+Infrastructure & DevOps,oracle exadata,1
+Infrastructure & DevOps,oracle weblogic server,1
+Infrastructure & DevOps,orchestration tools,1
+Infrastructure & DevOps,osi model,1
+Infrastructure & DevOps,overlay networks,1
+Infrastructure & DevOps,ovn,1
+Infrastructure & DevOps,owasp,1
+Infrastructure & DevOps,pabx,1
+Infrastructure & DevOps,pacemaker,1
+Infrastructure & DevOps,palo alto networks,1
+Infrastructure & DevOps,pam/vpn,1
+Infrastructure & DevOps,patch and vulnerability management,1
+Infrastructure & DevOps,peplink,1
+Infrastructure & DevOps,percona monitoring,1
+Infrastructure & DevOps,performance,1
+Infrastructure & DevOps,performance monitoring,1
+Infrastructure & DevOps,performance tracking,1
+Infrastructure & DevOps,pfsense,1
+Infrastructure & DevOps,phishing,1
+Infrastructure & DevOps,phát hiện hành vi bất thường,1
+Infrastructure & DevOps,phát hiện và xử lý sự cố an ninh thông tin,1
+Infrastructure & DevOps,phát hành và tối ưu ứng dụng trên app store/google play,1
+Infrastructure & DevOps,phân quyền quản trị domain,1
+Infrastructure & DevOps,phân tích log hệ thống,1
+Infrastructure & DevOps,phân tích và khắc phục sự cố mạng,1
+Infrastructure & DevOps,phân tích và phản ứng lỗ hổng bảo mật,1
+Infrastructure & DevOps,phòng chống thất thoát dữ liệu,1
+Infrastructure & DevOps,phòng chống tấn công,1
+Infrastructure & DevOps,phòng chống virus,1
+Infrastructure & DevOps,phương thức tấn công mạng,1
+Infrastructure & DevOps,phần mềm bảo mật,1
+Infrastructure & DevOps,phần mềm giám sát hệ thống,1
+Infrastructure & DevOps,phục hồi,1
+Infrastructure & DevOps,pim,1
+Infrastructure & DevOps,pim/pam,1
+Infrastructure & DevOps,pipeline,1
+Infrastructure & DevOps,pipeline build/deploy,1
+Infrastructure & DevOps,pod,1
+Infrastructure & DevOps,pod security admission,1
+Infrastructure & DevOps,pods,1
+Infrastructure & DevOps,poe,1
+Infrastructure & DevOps,policy-based routing,1
+Infrastructure & DevOps,pop3,1
+Infrastructure & DevOps,port-channel,1
+Infrastructure & DevOps,postfix,1
+Infrastructure & DevOps,pppoe,1
+Infrastructure & DevOps,privacy and security best practices,1
+Infrastructure & DevOps,private link,1
+Infrastructure & DevOps,privileged access,1
+Infrastructure & DevOps,procfs,1
+Infrastructure & DevOps,production environment,1
+Infrastructure & DevOps,production incidents,1
+Infrastructure & DevOps,production ml systems,1
+Infrastructure & DevOps,production monitoring tools,1
+Infrastructure & DevOps,production reliability,1
+Infrastructure & DevOps,production support,1
+Infrastructure & DevOps,production-grade monitoring solutions,1
+Infrastructure & DevOps,promethues,1
+Infrastructure & DevOps,promox,1
+Infrastructure & DevOps,proxmox virtual environment,1
+Infrastructure & DevOps,prtg network monitor,1
+Infrastructure & DevOps,pub/sub,1
+Infrastructure & DevOps,public cloud platforms,1
+Infrastructure & DevOps,publish app lên app store,1
+Infrastructure & DevOps,publish app lên google play,1
+Infrastructure & DevOps,qradar,1
+Infrastructure & DevOps,quorum,1
+Infrastructure & DevOps,quy trình quản lý truy cập,1
+Infrastructure & DevOps,"quy trình sao lưu, khôi phục dữ liệu",1
+Infrastructure & DevOps,quy trình triển khai,1
+Infrastructure & DevOps,quy trình tự động hóa,1
+Infrastructure & DevOps,quét lỗ hổng bảo mật,1
+Infrastructure & DevOps,quản lý bí mật,1
+Infrastructure & DevOps,quản lý cấu hình,1
+Infrastructure & DevOps,quản lý domain,1
+Infrastructure & DevOps,quản lý hệ thống mạng,1
+Infrastructure & DevOps,quản lý log tập trung,1
+Infrastructure & DevOps,quản lý máy chủ on-premise,1
+Infrastructure & DevOps,quản lý server,1
+Infrastructure & DevOps,quản lý truy cập,1
+Infrastructure & DevOps,quản trị,1
+Infrastructure & DevOps,quản trị các hệ thống quản lý hạ tầng cloud,1
+Infrastructure & DevOps,quản trị giải pháp mạng,1
+Infrastructure & DevOps,quản trị hosting,1
+Infrastructure & DevOps,quản trị hệ thống bảo mật,1
+Infrastructure & DevOps,quản trị hệ thống máy chủ,1
+Infrastructure & DevOps,quản trị hệ thống mạng wan/lan,1
+Infrastructure & DevOps,quản trị hệ thống server,1
+Infrastructure & DevOps,quản trị hệ thống server window,1
+Infrastructure & DevOps,quản trị hệ thống windows,1
+Infrastructure & DevOps,quản trị hệ điều hành,1
+Infrastructure & DevOps,quản trị hệ điều hành unix,1
+Infrastructure & DevOps,quản trị linux,1
+Infrastructure & DevOps,quản trị mạng cntt,1
+Infrastructure & DevOps,quản trị mạng doanh nghiệp,1
+Infrastructure & DevOps,quản trị mạng lan/wan,1
+Infrastructure & DevOps,quản trị mạng máy tính,1
+Infrastructure & DevOps,quản trị server linux,1
+Infrastructure & DevOps,quản trị viên hệ thống,1
+Infrastructure & DevOps,"quản trị và vận hành các hệ thống máy chủ, lưu trữ",1
+Infrastructure & DevOps,quản trị và vận hành hệ thống giải pháp kỹ thuật attt,1
+Infrastructure & DevOps,quản trị vận hành hệ thống,1
+Infrastructure & DevOps,quản trị windows,1
+Infrastructure & DevOps,quản trị/hỗ trợ hệ thống máy chủ,1
+Infrastructure & DevOps,rabbit mq,1
+Infrastructure & DevOps,radius,1
+Infrastructure & DevOps,recovery,1
+Infrastructure & DevOps,red hat openshift,1
+Infrastructure & DevOps,red hat openshift container (ocp,1
+Infrastructure & DevOps,red hat openstack,1
+Infrastructure & DevOps,redis queue,1
+Infrastructure & DevOps,release app,1
+Infrastructure & DevOps,release planning,1
+Infrastructure & DevOps,remote access vpn,1
+Infrastructure & DevOps,replication,1
+Infrastructure & DevOps,restore,1
+Infrastructure & DevOps,rip,1
+Infrastructure & DevOps,rke,1
+Infrastructure & DevOps,roce,1
+Infrastructure & DevOps,root detection,1
+Infrastructure & DevOps,rosa (red hat openshift on aws,1
+Infrastructure & DevOps,route53,1
+Infrastructure & DevOps,routing ospf,1
+Infrastructure & DevOps,routing protocol,1
+Infrastructure & DevOps,routing protocols,1
+Infrastructure & DevOps,routing rip,1
+Infrastructure & DevOps,routing/switching,1
+Infrastructure & DevOps,runbook,1
+Infrastructure & DevOps,runpod,1
+Infrastructure & DevOps,runtime threat detection,1
+Infrastructure & DevOps,s4 public cloud,1
+Infrastructure & DevOps,sam,1
+Infrastructure & DevOps,same-origin policy,1
+Infrastructure & DevOps,saml,1
+Infrastructure & DevOps,saml 2.0,1
+Infrastructure & DevOps,san switch,1
+Infrastructure & DevOps,san/nas,1
+Infrastructure & DevOps,sao lưu hệ thống,1
+Infrastructure & DevOps,sao lưu và phục hồi dữ liệu,1
+Infrastructure & DevOps,"sao lưu, khôi phục dữ liệu",1
+Infrastructure & DevOps,sap basis concepts,1
+Infrastructure & DevOps,sap cloud,1
+Infrastructure & DevOps,sap gateway,1
+Infrastructure & DevOps,sap on cloud,1
+Infrastructure & DevOps,sase,1
+Infrastructure & DevOps,sbom management,1
+Infrastructure & DevOps,scale-out,1
+Infrastructure & DevOps,sd access,1
+Infrastructure & DevOps,sd wan,1
+Infrastructure & DevOps,sd-access,1
+Infrastructure & DevOps,sdh,1
+Infrastructure & DevOps,sds,1
+Infrastructure & DevOps,se linux,1
+Infrastructure & DevOps,secops,1
+Infrastructure & DevOps,secret manager,1
+Infrastructure & DevOps,secure networking,1
+Infrastructure & DevOps,secure remote access,1
+Infrastructure & DevOps,security (authentication/authorization,1
+Infrastructure & DevOps,security analyst,1
+Infrastructure & DevOps,security appliances,1
+Infrastructure & DevOps,security automation frameworks,1
+Infrastructure & DevOps,security awareness,1
+Infrastructure & DevOps,security concepts,1
+Infrastructure & DevOps,security controls,1
+Infrastructure & DevOps,security engineer,1
+Infrastructure & DevOps,security governance,1
+Infrastructure & DevOps,security group,1
+Infrastructure & DevOps,security infrastructure,1
+Infrastructure & DevOps,security integration,1
+Infrastructure & DevOps,security model,1
+Infrastructure & DevOps,security operations,1
+Infrastructure & DevOps,security patch management,1
+Infrastructure & DevOps,security policies,1
+Infrastructure & DevOps,security principles,1
+Infrastructure & DevOps,security review,1
+Infrastructure & DevOps,security risk assessments,1
+Infrastructure & DevOps,security solution design,1
+Infrastructure & DevOps,security tools,1
+Infrastructure & DevOps,segment routing,1
+Infrastructure & DevOps,segmentation,1
+Infrastructure & DevOps,selinux,1
+Infrastructure & DevOps,server administrator,1
+Infrastructure & DevOps,server and storage administration,1
+Infrastructure & DevOps,server dell,1
+Infrastructure & DevOps,server hardening,1
+Infrastructure & DevOps,server hpe,1
+Infrastructure & DevOps,server infrastructure operations,1
+Infrastructure & DevOps,server infrastructure standardization,1
+Infrastructure & DevOps,server linux,1
+Infrastructure & DevOps,server management,1
+Infrastructure & DevOps,server nội bộ,1
+Infrastructure & DevOps,server provisioning,1
+Infrastructure & DevOps,server setup,1
+Infrastructure & DevOps,server virtualization,1
+Infrastructure & DevOps,server x86,1
+Infrastructure & DevOps,server/system/infrastructure operations,1
+Infrastructure & DevOps,serverless architectures,1
+Infrastructure & DevOps,serverless computing,1
+Infrastructure & DevOps,serverless deployment,1
+Infrastructure & DevOps,serverless development,1
+Infrastructure & DevOps,serverless platforms,1
+Infrastructure & DevOps,service bus,1
+Infrastructure & DevOps,service discovery,1
+Infrastructure & DevOps,service management,1
+Infrastructure & DevOps,service security,1
+Infrastructure & DevOps,services,1
+Infrastructure & DevOps,setting up secure networks,1
+Infrastructure & DevOps,site-to-site vpn,1
+Infrastructure & DevOps,sizing server and storage,1
+Infrastructure & DevOps,slo/sli,1
+Infrastructure & DevOps,sns,1
+Infrastructure & DevOps,soc (security operations center,1
+Infrastructure & DevOps,soc monitoring,1
+Infrastructure & DevOps,soc operations,1
+Infrastructure & DevOps,socket programming,1
+Infrastructure & DevOps,socket protocols,1
+Infrastructure & DevOps,software defined data center (sddc,1
+Infrastructure & DevOps,software defined storage (sds,1
+Infrastructure & DevOps,software deployment,1
+Infrastructure & DevOps,software-defined technology,1
+Infrastructure & DevOps,solution engineering,1
+Infrastructure & DevOps,sonicwall,1
+Infrastructure & DevOps,sql injection,1
+Infrastructure & DevOps,sre concepts,1
+Infrastructure & DevOps,srv6,1
+Infrastructure & DevOps,ssl management,1
+Infrastructure & DevOps,ssl/mtls,1
+Infrastructure & DevOps,statefulset,1
+Infrastructure & DevOps,static,1
+Infrastructure & DevOps,step functions,1
+Infrastructure & DevOps,stepfunction,1
+Infrastructure & DevOps,storage area networks (san,1
+Infrastructure & DevOps,storage systems,1
+Infrastructure & DevOps,stp/mstp,1
+Infrastructure & DevOps,structured logging,1
+Infrastructure & DevOps,subnet mask,1
+Infrastructure & DevOps,supabase,1
+Infrastructure & DevOps,support hệ thống live,1
+Infrastructure & DevOps,supporting production systems,1
+Infrastructure & DevOps,switch poe,1
+Infrastructure & DevOps,switching layer,1
+Infrastructure & DevOps,synchronization technologies,1
+Infrastructure & DevOps,sysadmin,1
+Infrastructure & DevOps,syscalls,1
+Infrastructure & DevOps,sysctl tuning,1
+Infrastructure & DevOps,system administration (linux,1
+Infrastructure & DevOps,system infrastructure,1
+Infrastructure & DevOps,system management,1
+Infrastructure & DevOps,system observability,1
+Infrastructure & DevOps,system performance monitoring,1
+Infrastructure & DevOps,system reliability,1
+Infrastructure & DevOps,system – network,1
+Infrastructure & DevOps,systems performance-monitoring tools,1
+Infrastructure & DevOps,tape libraries,1
+Infrastructure & DevOps,tcp,1
+Infrastructure & DevOps,tcp ip,1
+Infrastructure & DevOps,tcp ip networking,1
+Infrastructure & DevOps,tcp/p,1
+Infrastructure & DevOps,technical security policies,1
+Infrastructure & DevOps,tekton,1
+Infrastructure & DevOps,tekton pipelines,1
+Infrastructure & DevOps,terragrunt,1
+Infrastructure & DevOps,tf serving,1
+Infrastructure & DevOps,theo dõi hệ thống,1
+Infrastructure & DevOps,thi công lắp đặt hệ thống mạng,1
+Infrastructure & DevOps,thi công mạng lan,1
+Infrastructure & DevOps,thiết bị lưu trữ,1
+Infrastructure & DevOps,thiết bị network,1
+Infrastructure & DevOps,thiết kế các dịch vụ/tính năng cho hệ thống cloud,1
+Infrastructure & DevOps,thiết kế giải pháp bảo mật,1
+Infrastructure & DevOps,thiết kế giải pháp mạng,1
+Infrastructure & DevOps,thiết kế hệ thống mạng,1
+Infrastructure & DevOps,thiết kế và triển khai mạng,1
+Infrastructure & DevOps,"thiết kế, triển khai hạ tầng cntt",1
+Infrastructure & DevOps,"thiết kế, triển khai mạng doanh nghiệp",1
+Infrastructure & DevOps,"thiết kế, triển khai và vận hành hệ thống",1
+Infrastructure & DevOps,"thiết kế, tư vấn, triển khai giải pháp bảo mật",1
+Infrastructure & DevOps,"thiết kế, xây dựng hệ thống mạng",1
+Infrastructure & DevOps,"thiết kế, xây dựng server đám mây",1
+Infrastructure & DevOps,thoại,1
+Infrastructure & DevOps,threat detection,1
+Infrastructure & DevOps,threat hunting,1
+Infrastructure & DevOps,threat intelligence,1
+Infrastructure & DevOps,throttling,1
+Infrastructure & DevOps,tls/mtls,1
+Infrastructure & DevOps,token handling,1
+Infrastructure & DevOps,trace,1
+Infrastructure & DevOps,trace lỗi,1
+Infrastructure & DevOps,traffic shaping,1
+Infrastructure & DevOps,transceiver,1
+Infrastructure & DevOps,triển khai cloud,1
+Infrastructure & DevOps,triển khai cài đặt hệ thống,1
+Infrastructure & DevOps,triển khai các giải pháp mảng bảo mật,1
+Infrastructure & DevOps,triển khai các giải pháp mảng mạng,1
+Infrastructure & DevOps,triển khai các giải pháp về bảo mật,1
+Infrastructure & DevOps,triển khai các sản phẩm lên môi trường production,1
+Infrastructure & DevOps,triển khai giải pháp hạ tầng cntt,1
+Infrastructure & DevOps,triển khai hạ tầng cntt,1
+Infrastructure & DevOps,triển khai hạ tầng it,1
+Infrastructure & DevOps,triển khai hạ tầng kỹ thuật,1
+Infrastructure & DevOps,triển khai hạ tầng kỹ thuật ngân hàng,1
+Infrastructure & DevOps,triển khai hạ tầng mạng,1
+Infrastructure & DevOps,triển khai hệ thống ai production,1
+Infrastructure & DevOps,triển khai hệ thống trên kiến trúc microservices,1
+Infrastructure & DevOps,triển khai liên tục,1
+Infrastructure & DevOps,triển khai lên hệ thống server,1
+Infrastructure & DevOps,triển khai mô hình,1
+Infrastructure & DevOps,triển khai mô hình ai/ml,1
+Infrastructure & DevOps,triển khai mô hình ml,1
+Infrastructure & DevOps,triển khai mô hình vào môi trường production,1
+Infrastructure & DevOps,triển khai mô hình ở môi trường production,1
+Infrastructure & DevOps,triển khai mạng,1
+Infrastructure & DevOps,triển khai server,1
+Infrastructure & DevOps,triển khai và vận hành các mô hình llm mã nguồn mở,1
+Infrastructure & DevOps,triển khai và vận hành mô hình machine learning,1
+Infrastructure & DevOps,triển khai ứng dụng trên cloud,1
+Infrastructure & DevOps,"triển khai, vận hành các sản phẩm bảo mật",1
+Infrastructure & DevOps,"triển khai, vận hành hệ thống mạng",1
+Infrastructure & DevOps,"triển khai, vận hành và bảo trì hệ thống mạng viễn thông",1
+Infrastructure & DevOps,"triển khai, vận hành và tối ưu hóa các mô hình trên gpu",1
+Infrastructure & DevOps,troubleshoot,1
+Infrastructure & DevOps,troubleshoot complex network issues,1
+Infrastructure & DevOps,troubleshooting network issues,1
+Infrastructure & DevOps,troubleshooting on production environment,1
+Infrastructure & DevOps,true nas,1
+Infrastructure & DevOps,trỏ domain,1
+Infrastructure & DevOps,tyk,1
+Infrastructure & DevOps,tích hợp ai model vào hệ thống production,1
+Infrastructure & DevOps,tích hợp hệ thống network,1
+Infrastructure & DevOps,tích hợp hệ thống system,1
+Infrastructure & DevOps,tích hợp liên tục,1
+Infrastructure & DevOps,tấn công mạng,1
+Infrastructure & DevOps,tấn công ứng dụng/web,1
+Infrastructure & DevOps,tối ưu chi phí gpu training,1
+Infrastructure & DevOps,tối ưu hiệu suất mạng,1
+Infrastructure & DevOps,tối ưu hệ thống production,1
+Infrastructure & DevOps,tối ưu quy trình vận hành hệ thống,1
+Infrastructure & DevOps,tối ưu server,1
+Infrastructure & DevOps,tổng đài ip,1
+Infrastructure & DevOps,tủ đĩa,1
+Infrastructure & DevOps,udev,1
+Infrastructure & DevOps,undertow,1
+Infrastructure & DevOps,unified storage,1
+Infrastructure & DevOps,upgrade and patch management,1
+Infrastructure & DevOps,vdi,1
+Infrastructure & DevOps,vercel,1
+Infrastructure & DevOps,viettel cloud,1
+Infrastructure & DevOps,virtual ecu (vecu,1
+Infrastructure & DevOps,virtual machines,1
+Infrastructure & DevOps,virtual san,1
+Infrastructure & DevOps,virtual server,1
+Infrastructure & DevOps,vlan (802.1q,1
+Infrastructure & DevOps,vlans,1
+Infrastructure & DevOps,vmware cloud foundation,1
+Infrastructure & DevOps,vmware cloud foundation (vcf,1
+Infrastructure & DevOps,vmware vsphere 6.5,1
+Infrastructure & DevOps,vmware vsphere 7.0,1
+Infrastructure & DevOps,vnet,1
+Infrastructure & DevOps,vnpt cloud,1
+Infrastructure & DevOps,voip,1
+Infrastructure & DevOps,voip systems,1
+Infrastructure & DevOps,vpn configuration,1
+Infrastructure & DevOps,vpns,1
+Infrastructure & DevOps,vps,1
+Infrastructure & DevOps,vrf,1
+Infrastructure & DevOps,vrrp,1
+Infrastructure & DevOps,vt cloud,1
+Infrastructure & DevOps,vulnerability assessment,1
+Infrastructure & DevOps,vulnerability management and scanning tools,1
+Infrastructure & DevOps,vulnerability research,1
+Infrastructure & DevOps,vultr,1
+Infrastructure & DevOps,vận hành attt,1
+Infrastructure & DevOps,vận hành cntt,1
+Infrastructure & DevOps,vận hành các giải pháp,1
+Infrastructure & DevOps,vận hành các hệ thống,1
+Infrastructure & DevOps,vận hành các hệ thống công nghệ,1
+Infrastructure & DevOps,vận hành các hệ thống lớn,1
+Infrastructure & DevOps,vận hành các phần mềm,1
+Infrastructure & DevOps,vận hành database,1
+Infrastructure & DevOps,vận hành hạ tầng cntt,1
+Infrastructure & DevOps,vận hành hạ tầng mạng and bảo mật,1
+Infrastructure & DevOps,vận hành hệ thống an toàn thông tin,1
+Infrastructure & DevOps,vận hành hệ thống cần tính sẵn sàng cao,1
+Infrastructure & DevOps,vận hành hệ thống it,1
+Infrastructure & DevOps,vận hành hệ thống linux,1
+Infrastructure & DevOps,vận hành hệ thống máy chủ,1
+Infrastructure & DevOps,vận hành hệ thống phân tích logs bảo mật,1
+Infrastructure & DevOps,vận hành hệ thống phần mềm,1
+Infrastructure & DevOps,vận hành hệ thống thiết bị hạ tầng cntt,1
+Infrastructure & DevOps,vận hành production,1
+Infrastructure & DevOps,vận hành quản trị các hệ thống hạ tầng liên quan đến trung tâm dữ liệu,1
+Infrastructure & DevOps,vận hành system,1
+Infrastructure & DevOps,vận hành sản phẩm phần mềm,1
+Infrastructure & DevOps,vận hành thiết bị hệ thống,1
+Infrastructure & DevOps,vận hành tối ưu hệ thống production,1
+Infrastructure & DevOps,vận hành và bảo trì,1
+Infrastructure & DevOps,vận hành và nâng cấp hệ thống cntt,1
+Infrastructure & DevOps,vận hành và quản lý máy chủ,1
+Infrastructure & DevOps,vận hành và quản trị các hệ thống ứng dụng,1
+Infrastructure & DevOps,vận hành website,1
+Infrastructure & DevOps,vận hành ứng dụng,1
+Infrastructure & DevOps,"vận hành, bảo dưỡng dịch vụ đám mây",1
+Infrastructure & DevOps,"vận hành, bảo dưỡng, giám sát, bảo mật đối với network",1
+Infrastructure & DevOps,"vận hành, bảo dưỡng, giám sát, bảo mật đối với server",1
+Infrastructure & DevOps,"vận hành, thiết kế triển khai các giải pháp về bảo mật and mạng",1
+Infrastructure & DevOps,"vận hành, triển khai hạ tầng mạng viễn thông",1
+Infrastructure & DevOps,wan-lan,1
+Infrastructure & DevOps,wazuh,1
+Infrastructure & DevOps,web application firewall,1
+Infrastructure & DevOps,web application/data base firewall,1
+Infrastructure & DevOps,web gateway,1
+Infrastructure & DevOps,web logic,1
+Infrastructure & DevOps,web proxy,1
+Infrastructure & DevOps,web servers,1
+Infrastructure & DevOps,web/application deployment,1
+Infrastructure & DevOps,web/application server,1
+Infrastructure & DevOps,websphere,1
+Infrastructure & DevOps,weights and biases,1
+Infrastructure & DevOps,wi-fi 11b/g/n/ac/ax,1
+Infrastructure & DevOps,wi-fi access point,1
+Infrastructure & DevOps,wi-fi router,1
+Infrastructure & DevOps,window server 2012,1
+Infrastructure & DevOps,windows,1
+Infrastructure & DevOps,windows clustering,1
+Infrastructure & DevOps,windows server 2016,1
+Infrastructure & DevOps,windows server 2019,1
+Infrastructure & DevOps,windows server 2022,1
+Infrastructure & DevOps,windows server administratior,1
+Infrastructure & DevOps,windows system administration,1
+Infrastructure & DevOps,winserver,1
+Infrastructure & DevOps,wireless controller/ap,1
+Infrastructure & DevOps,wpa2,1
+Infrastructure & DevOps,wpa3,1
+Infrastructure & DevOps,x.509- certificates,1
+Infrastructure & DevOps,xen,1
+Infrastructure & DevOps,xen citrix,1
+Infrastructure & DevOps,xfs,1
+Infrastructure & DevOps,xpon,1
+Infrastructure & DevOps,xsuaa,1
+Infrastructure & DevOps,xác thực,1
+Infrastructure & DevOps,xác thực phân quyền,1
+Infrastructure & DevOps,xác định rủi ro tiềm ẩn hệ thống,1
+Infrastructure & DevOps,xây dựng cấu hình,1
+Infrastructure & DevOps,xây dựng datacenter,1
+Infrastructure & DevOps,xây dựng và triển khai hệ thống ml/ai,1
+Infrastructure & DevOps,xử lý log hệ thống,1
+Infrastructure & DevOps,xử lý mail flow,1
+Infrastructure & DevOps,xử lý sự cố,1
+Infrastructure & DevOps,xử lý sự cố an toàn thông tin,1
+Infrastructure & DevOps,xử lý sự cố attt,1
+Infrastructure & DevOps,xử lý sự cố bảo mật,1
+Infrastructure & DevOps,xử lý sự cố hệ thống mạng,1
+Infrastructure & DevOps,xử lý sự cố hệ thống production,1
+Infrastructure & DevOps,xử lý sự cố kỹ thuật,1
+Infrastructure & DevOps,xử lý sự cố mạng nội bộ,1
+Infrastructure & DevOps,xử lý sự cố production,1
+Infrastructure & DevOps,xử lý sự cố server,1
+Infrastructure & DevOps,xử lý vấn đề với mạng,1
+Infrastructure & DevOps,xử lý xung đột mạng,1
+Infrastructure & DevOps,zero trust architecture,1
+Infrastructure & DevOps,zero trust architecture (ztna,1
+Infrastructure & DevOps,zero trust platforms,1
+Infrastructure & DevOps,zero trust security,1
+Infrastructure & DevOps,zero-trust architecture,1
+Infrastructure & DevOps,zfs,1
+Infrastructure & DevOps,zookeeper,1
+Infrastructure & DevOps,điều phối xử lý sự cố,1
+Infrastructure & DevOps,điều tra sự cố bảo mật,1
+Infrastructure & DevOps,điện toán đám mây,1
+Infrastructure & DevOps,đánh giá rủi ro bảo mật,1
+Infrastructure & DevOps,"đóng gói, triển khai, tích hợp ai model",1
+Infrastructure & DevOps,đẩy app lên store,1
+Infrastructure & DevOps,địa chỉ ip,1
+Infrastructure & DevOps,đọc and phân tích log hệ thống,1
+Infrastructure & DevOps,độ tin cậy hệ thống (sre,1
+Infrastructure & DevOps,ảo hóa hệ thống lưu trữ,1
+Infrastructure & DevOps,ảo hóa vmware,1

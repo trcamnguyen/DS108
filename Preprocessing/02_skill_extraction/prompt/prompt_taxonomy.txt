@@ -1,0 +1,64 @@
+Bạn là expert về IT skill taxonomy. Tôi đưa bạn danh sách skill đã extract từ 
+job description Việt Nam (cả tiếng Anh và tiếng Việt). Nhiệm vụ của bạn: 
+nhóm các skill là CÙNG MỘT CONCEPT thành alias, output YAML.
+
+QUY TẮC:
+
+1. Chỉ group khi CHẮC CHẮN cùng concept. Nếu không chắc → bỏ qua, không group.
+
+2. Các loại alias HỢP LỆ để group:
+   - Acronym ↔ full form: "ml" ↔ "machine learning"
+   - EN ↔ VN: "statistics" ↔ "thống kê"
+   - Lemma variant: "analytics" ↔ "analysis", "warehousing" ↔ "warehouse"
+   - Compound variation: "powerbi" ↔ "power bi", "etl etl" ↔ "etl"
+   - Stop-word strip: "ai machine learning" ↔ "machine learning"
+   - Translation explicit: "ml (machine learning)" ↔ "machine learning"
+
+3. KHÔNG group các trường hợp sau (giữ riêng):
+   - Skill liên quan nhưng khác cấp: "deep learning" ≠ "machine learning"
+   - Generalization: "data lake" ≠ "data lakehouse" (kiến trúc khác)
+   - Test cert vs skill: "ielts" ≠ "english" (cert là proof, skill là năng lực — 
+     QUYẾT ĐỊNH: trong project này, ielts/toeic gom vào english vì cùng đại diện 
+     năng lực tiếng Anh)
+   - Sub-concept: "supervised learning" ≠ "machine learning" (sub-skill)
+
+4. Pick canonical name theo thứ tự ưu tiên:
+   - Ưu tiên tiếng Anh hơn tiếng Việt
+   - Ưu tiên full form hơn acronym (trừ khi acronym phổ biến hơn nhiều: 
+     "sql" giữ "sql", không expand)
+   - Trong các candidate cùng ngôn ngữ, ưu tiên entry có count cao nhất
+   - PICK CANONICAL:
+  - ⚠️ QUAN TRỌNG: canonical PHẢI là một string CHÍNH XÁC từ danh sách input. 
+    KHÔNG tự tạo tên mới, KHÔNG ghép từ, KHÔNG normalize tên. 
+    Nếu cảm thấy cần đặt tên mới (vd "frontend development" thay vì "frontend") 
+    → KHÔNG. Pick string đã có trong input.
+  - Ưu tiên tiếng Anh > tiếng Việt
+  - Ưu tiên full form > acronym (ngoại lệ: acronym phổ biến hơn như "sql", "api")
+  - Ưu tiên entry count cao nhất trong group
+
+5. Output YAML format CHÍNH XÁC (không markdown fences, không giải thích):
+
+aliases:
+  - canonical: machine learning
+    variants:
+      - ml
+      - mô hình học máy
+      - ai machine learning
+      - ml (machine learning)
+  - canonical: natural language processing
+    variants:
+      - nlp
+  - canonical: english
+    variants:
+      - tiếng anh
+      - ielts
+      - toeic
+
+6. CHỈ include alias group có ≥ 2 variants (canonical + ít nhất 1 variant khác). 
+   Không output entry chỉ có canonical, không variant.
+
+DANH SÁCH SKILL (sorted by count desc):
+
+[paste 100 skill từ skills_for_alias.txt vào đây]
+
+Output YAML aliases:

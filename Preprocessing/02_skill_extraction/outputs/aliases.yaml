@@ -1,0 +1,2256 @@
+metadata:
+  generated_at: '2026-05-27T10:36:33'
+  model: gemini-2.5-pro
+  input_file: C:\Users\tncn2\Documents\HK2-2026_2027\DS108\DS108\Preprocessing\02_skill_extraction\outputs\skill_distribution_after.csv
+  filter_rule: total_count >= 5 (including <Category> Other)
+  n_input_skills: 1747
+  n_batches: 9
+  batch_size: 200
+  n_alias_groups: 168
+  n_variants_total: 270
+
+aliases:
+- canonical: access control
+  variants:
+  - phân quyền
+- canonical: adobe xd
+  variants:
+  - xd
+- canonical: agile
+  variants:
+  - agile scrum
+- canonical: ai
+  variants:
+  - trí tuệ nhân tạo
+- canonical: airflow
+  variants:
+  - apache airflow
+- canonical: analytical
+  variants:
+  - analytical skills
+  - analytical thinking
+  - phân tích thông tin
+  - tư duy phân tích
+- canonical: api
+  variants:
+  - apis
+- canonical: api integration
+  variants:
+  - api integrations
+- canonical: app store
+  variants:
+  - apple app store
+- canonical: application security
+  variants:
+  - bảo mật ứng dụng
+- canonical: asp net core
+  variants:
+  - asp net
+  - asp net mvc
+- canonical: asynchronous programming
+  variants:
+  - async await
+  - asynchronous processing
+- canonical: automation testing
+  variants:
+  - automated testing
+  - kiểm thử tự động
+- canonical: azure
+  variants:
+  - azure cloud
+  - microsoft azure
+- canonical: backend development
+  variants:
+  - back end development
+  - backend developer
+  - back end
+  - backend development
+  - backend programming
+- canonical: banking financial services
+  variants:
+  - financial services
+- canonical: business intelligence
+  variants:
+  - bi
+- canonical: big data
+  variants:
+  - bigdata
+- canonical: bigquery
+  variants:
+  - google bigquery
+- canonical: black box testing
+  variants:
+  - black box
+- canonical: budget control
+  variants:
+  - cost management
+- canonical: business process
+  variants:
+  - bpm
+- canonical: chinese
+  variants:
+  - tiếng trung
+- canonical: ci cd
+  variants:
+  - ci cd pipelines
+- canonical: cloud
+  variants:
+  - cloud platforms
+- canonical: code refactoring
+  variants:
+  - refactoring
+- canonical: communication
+  variants:
+  - communication skills
+- canonical: computer vision
+  variants:
+  - image processing
+  - xử lý hình ảnh
+- canonical: css
+  variants:
+  - css3
+- canonical: customer service
+  variants:
+  - cskh
+- canonical: data analysis
+  variants:
+  - analytics
+  - phân tích số liệu
+- canonical: data center
+  variants:
+  - datacenter
+- canonical: data engineering
+  variants:
+  - data engieering
+- canonical: data lakehouse
+  variants:
+  - lakehouse
+- canonical: data security
+  variants:
+  - an toàn dữ liệu
+  - bảo mật dữ liệu
+- canonical: data visualization
+  variants:
+  - trực quan hóa dữ liệu
+  - visualization
+- canonical: data warehouse
+  variants:
+  - data warehousing
+  - dwh
+- canonical: database
+  variants:
+  - csdl
+  - db
+- canonical: database management
+  variants:
+  - dbms
+  - quản trị csdl
+- canonical: db design
+  variants:
+  - thiết kế csdl
+- canonical: debugging
+  variants:
+  - debug
+- canonical: decision making
+  variants:
+  - phân tích và ra quyết định
+- canonical: digital transformation
+  variants:
+  - giải pháp chuyển đổi số doanh nghiệp
+- canonical: disaster recovery
+  variants:
+  - dr
+- canonical: domain driven design
+  variants:
+  - ddd
+- canonical: e commerce
+  variants:
+  - ecommerce
+  - thương mại điện tử
+- canonical: elasticsearch
+  variants:
+  - elastic search
+- canonical: email server
+  variants:
+  - mail server
+- canonical: embedded software development
+  variants:
+  - embedded systems
+  - hệ thống nhúng
+- canonical: embeddings
+  variants:
+  - vector embeddings
+- canonical: english
+  variants:
+  - english communication
+  - giao tiếp tiếng anh
+  - ielts
+  - tiếng anh
+  - toefl
+  - đọc hiểu tài liệu kỹ thuật tiếng anh
+  - đọc hiểu tài liệu tiếng anh
+- canonical: erp
+  variants:
+  - erp systems
+- canonical: etl
+  variants:
+  - etl pipelines
+  - etl processes
+- canonical: event driven
+  variants:
+  - event driven systems
+- canonical: expressjs
+  variants:
+  - express
+  - express js
+- canonical: fine tuning
+  variants:
+  - fine tuning llm
+- canonical: fullstack
+  variants:
+  - full stack
+  - full stack development
+- canonical: function calling
+  variants:
+  - tool calling
+- canonical: gcp
+  variants:
+  - google cloud
+- canonical: generative ai
+  variants:
+  - genai
+- canonical: git flow
+  variants:
+  - git workflow
+- canonical: github copilot
+  variants:
+  - ai assisted development tools
+  - ai coding assistants
+  - ai coding tools
+  - copilot
+- canonical: google analytics
+  variants:
+  - ga4
+- canonical: google play
+  variants:
+  - play store
+- canonical: hardware
+  variants:
+  - phần cứng
+  - phần cứng máy tính
+- canonical: html
+  variants:
+  - html5
+- canonical: indexing
+  variants:
+  - index
+- canonical: information security
+  variants:
+  - an ninh mạng
+  - attt
+- canonical: information technology
+  variants:
+  - cntt
+  - it
+- canonical: it infrastructure
+  variants:
+  - hạ tầng cntt
+- canonical: it support
+  variants:
+  - helpdesk
+  - hỗ trợ người dùng
+  - it helpdesk
+  - technical support
+- canonical: it system
+  variants:
+  - hệ thống thông tin
+- canonical: japanese
+  variants:
+  - jlpt n2
+  - jlpt n3
+- canonical: java
+  variants:
+  - java 11
+  - java 8+
+  - java core
+- canonical: java spring boot
+  variants:
+  - springboot
+- canonical: javascript
+  variants:
+  - javascript (es6+)
+  - js
+- canonical: kubernetes
+  variants:
+  - k8s
+- canonical: lan
+  variants:
+  - mạng lan
+- canonical: lead
+  variants:
+  - dẫn dắt
+- canonical: leadership
+  variants:
+  - lead team
+  - lãnh đạo nhóm
+- canonical: linux unix
+  variants:
+  - unix
+- canonical: llm
+  variants:
+  - large language models (llms)
+  - llms
+- canonical: logic thinking
+  variants:
+  - logic
+  - logical thinking
+- canonical: looker studio
+  variants:
+  - google data studio
+- canonical: low code
+  variants:
+  - low code no code platforms
+- canonical: machine learning
+  variants:
+  - ai machine learning
+  - ai ml
+  - học máy
+  - ml
+  - ml models
+  - mô hình học máy
+- canonical: manufacturing
+  variants:
+  - sản xuất
+- canonical: mentoring
+  variants:
+  - coaching
+- canonical: microcontrollers
+  variants:
+  - mcu
+  - vi điều khiển
+- canonical: mitre att&ck framework
+  variants:
+  - mitre att&ck
+- canonical: mobile
+  variants:
+  - mobile development
+- canonical: monitor
+  variants:
+  - giám sát
+- canonical: ms office
+  variants:
+  - microsoft 365
+  - microsoft office
+  - office 365
+  - office software
+- canonical: ms project
+  variants:
+  - microsoft project
+- canonical: multithreading
+  variants:
+  - multi threading
+  - threading
+  - xử lý đa luồng
+- canonical: n8n
+  variants:
+  - n8n workflow
+- canonical: network security
+  variants:
+  - bảo mật mạng
+- canonical: networking
+  variants:
+  - hệ thống mạng
+  - mạng
+  - mạng máy tính
+  - network
+- canonical: nosql
+  variants:
+  - no sql
+  - nosql databases
+- canonical: object oriented programming
+  variants:
+  - lập trình hướng đối tượng
+  - lập trình hướng đối tượng (oop)
+  - object oriented programming (oop)
+- canonical: operating systems
+  variants:
+  - hệ điều hành
+- canonical: operations
+  variants:
+  - vận hành
+- canonical: optimize performance
+  variants:
+  - improving application performance
+  - tối ưu hiệu năng
+  - tối ưu hiệu năng hệ thống
+  - tối ưu hiệu năng ứng dụng
+- canonical: payment
+  variants:
+  - thanh toán
+- canonical: people management
+  variants:
+  - quản lý nhân sự
+- canonical: performance optimization
+  variants:
+  - performance tuning
+- canonical: performance testing
+  variants:
+  - kiểm thử hiệu năng
+- canonical: business analysis
+  variants:
+  - ba
+  - phân tích nghiệp vụ
+- canonical: incident handling
+  variants:
+  - phân tích và xử lý sự cố
+  - giải quyết sự cố
+- canonical: plc
+  variants:
+  - lập trình plc
+- canonical: power bi
+  variants:
+  - powerbi
+- canonical: presenting
+  variants:
+  - presentation
+- canonical: problem solving
+  variants:
+  - phân tích và giải quyết vấn đề
+- canonical: process modeling
+  variants:
+  - business process modeling
+  - quy trình nghiệp vụ
+  - vẽ quy trình
+- canonical: professional certifications
+  variants:
+  - chứng chỉ chuyên môn
+  - chứng chỉ quốc tế
+- canonical: programming
+  variants:
+  - coding
+  - programming language
+- canonical: project coordination
+  variants:
+  - coordination
+- canonical: prototype
+  variants:
+  - prototyping
+- canonical: qa tester
+  variants:
+  - tester qa
+- canonical: quality assurance
+  variants:
+  - qa
+  - software quality assurance
+- canonical: query optimization
+  variants:
+  - query tuning
+  - tối ưu query
+  - tối ưu truy vấn
+- canonical: quản lý công việc
+  variants:
+  - tổ chức công việc
+- canonical: relational databases
+  variants:
+  - csdl quan hệ
+  - rdbms
+- canonical: responsive design
+  variants:
+  - responsive
+  - responsive web
+- canonical: rest assured
+  variants:
+  - restassured
+- canonical: restful api
+  variants:
+  - rest api
+  - restful
+  - restful apis
+- canonical: robotics
+  variants:
+  - robot
+- canonical: scrum master
+  variants:
+  - certified scrum master
+  - csm
+  - psm
+- canonical: sdlc
+  variants:
+  - software development lifecycle
+- canonical: security
+  variants:
+  - an toàn thông tin
+  - bảo mật
+  - bảo mật hệ thống
+  - cybersecurity
+- canonical: selenium
+  variants:
+  - selenium webdriver
+- canonical: shell script
+  variants:
+  - shell
+- canonical: software development
+  variants:
+  - software development processes
+  - software engineering
+- canonical: spark
+  variants:
+  - apache spark
+- canonical: sql server
+  variants:
+  - ms sql
+  - mssql
+- canonical: swiftui
+  variants:
+  - swift ui
+- canonical: system architecture
+  variants:
+  - application architecture
+  - architecture of software solutions
+  - kiến trúc hệ thống
+  - software architecture
+- canonical: system thinking
+  variants:
+  - tư duy hệ thống
+- canonical: tailwind
+  variants:
+  - tailwind css
+- canonical: teaching
+  variants:
+  - training
+- canonical: team management
+  variants:
+  - quản lý nhóm
+- canonical: teamwork
+  variants:
+  - collaboration
+  - làm việc nhóm
+  - team oriented
+  - team player
+- canonical: technical lead
+  variants:
+  - tech lead
+- canonical: technical reporting
+  variants:
+  - viết báo cáo kỹ thuật
+- canonical: test case
+  variants:
+  - design testcase
+  - testcase
+  - viết testcase
+  - write test cases
+- canonical: test driven development
+  variants:
+  - tdd
+- canonical: test plan
+  variants:
+  - kế hoạch kiểm thử
+- canonical: testing
+  variants:
+  - kiểm thử
+  - software testing
+  - test
+- canonical: online payments
+  variants:
+  - thanh toán điện tử
+  - payment systems
+- canonical: troubleshooting
+  variants:
+  - xử lý sự cố
+  - xử lý vấn đề
+- canonical: tích hợp hệ thống
+  variants:
+  - si projects
+  - system integration
+- canonical: user interface
+  variants:
+  - thiết kế giao diện
+  - ui
+- canonical: ui ux
+  variants:
+  - ui ux design
+  - ux ui
+- canonical: user experience
+  variants:
+  - ux
+- canonical: user experiences research
+  variants:
+  - nghiên cứu người dùng
+  - user research
+  - ux research
+- canonical: vector database
+  variants:
+  - vector db
+- canonical: version control
+  variants:
+  - source control
+- canonical: documentation
+  variants:
+  - viết tài liệu
+  - viết tài liệu kỹ thuật
+- canonical: vmware vcp
+  variants:
+  - vcp
+- canonical: vue js
+  variants:
+  - vue
+- canonical: web development
+  variants:
+  - web application development
+- canonical: web testing
+  variants:
+  - kiểm thử web
+  - web application testing
+- canonical: wifi
+  variants:
+  - wi fi
+- canonical: work independently
+  variants:
+  - làm việc độc lập
+- canonical: natural language processing
+  variants:
+    - nlp
+    - nlp - xử lý ngôn ngữ tự nhiên
+    - natural language processing (nlp)
+- canonical: reactjs
+  variants:
+  - react
+# Backend family
+- canonical: backend development
+  variants:
+    - backend
+    - backend systems
+    - backend framework
+    - api backend
+    - backend software development
+    - backend services
+    - web backend systems
+    - java backend
+    - web developer backend
+    - lập trình backend
+- canonical: frontend development
+  variants:
+    - lập trình front end
+    - lập trình frontend
+    - frontend
+    - frontend development
+    - front end development
+    - framework frontend
+    - web front
+    - frontend developer
+    - frontend architecture
+# Fullstack family
+- canonical: fullstack development
+  variants:
+    - fullstack
+    - full stack developer
+    - fullstack developer
+    - full stack engineering
+# Data analysis family
+- canonical: data analysis
+  variants:
+    - data analytics
+# ============================================================
+# ALIASES BỔ SUNG — append vào cuối file aliases.yaml
+# Scan từ skill_distribution_after.csv (post re-cluster)
+# Chỉ include các case có evidence rõ ràng là cùng concept
+# ============================================================
+
+# ── DATABASE ────────────────────────────────────────────────
+- canonical: postgresql
+  variants:
+  - postgres
+
+- canonical: oracle
+  variants:
+  - oracle database
+
+- canonical: mongodb
+  variants:
+  - mongo db
+
+- canonical: nosql
+  variants:
+  - nosql database
+
+- canonical: vector database
+  variants:
+  - vectordb
+
+- canonical: pl sql
+  variants:
+  - plsql
+
+- canonical: sql server
+  variants:
+  - t sql
+
+# ── INFRASTRUCTURE & DEVOPS ─────────────────────────────────
+- canonical: aws
+  variants:
+  - amazon web services
+  - aws cloud
+  - aws services
+
+- canonical: gcp
+  variants:
+  - google cloud platform
+  - google cloud platform (gcp)
+
+- canonical: ci cd
+  variants:
+  - ci cd pipeline
+  - gitlab ci cd
+  - ci cd tools
+
+- canonical: elk
+  variants:
+  - elk stack
+
+- canonical: infrastructure as code
+  variants:
+  - iac
+
+# ── FRAMEWORK / LIBRARY ─────────────────────────────────────
+- canonical: reactjs
+  variants:
+  - react js
+
+- canonical: next js
+  variants:
+  - nextjs
+
+- canonical: vue js
+  variants:
+  - nuxtjs                    # nuxtjs là framework trên Vue, chấp nhận gom
+
+- canonical: net
+  variants:
+  - net core
+  - net framework
+
+# ── SOFT SKILL ──────────────────────────────────────────────
+- canonical: teamwork
+  variants:
+  - làm việc theo nhóm
+
+- canonical: english
+  variants:
+  - tiếng anh giao tiếp
+  - đọc hiểu tài liệu bằng tiếng anh
+  - communication skills in english
+  - đọc hiểu tài liệu kỹ thuật bằng tiếng anh
+  - đọc hiểu tiếng anh
+  - tiếng anh chuyên ngành
+  - toeic  
+  - ielts                   # cert → skill
+
+- canonical: time management
+  variants:
+  - lập kế hoạch
+
+- canonical: logic thinking
+  variants:
+  - logical reasoning
+
+- canonical: team lead
+  variants:
+  - trưởng nhóm
+
+- canonical: project management
+  variants:
+  - pm
+
+- canonical: problem solving
+  variants:
+  - phân tích vấn đề
+  - problem solving skills
+
+# ── AI/ML/DATA ──────────────────────────────────────────────
+- canonical: prompt engineering
+  variants:
+  - prompting
+
+- canonical: rag
+  variants:
+  - rag pipelines
+
+- canonical: ai agent
+  variants:
+  - agent frameworks
+  - agent workflows
+  - coding agents
+
+- canonical: mathematics
+  variants:
+  - đại số tuyến tính         # linear algebra là sub-field của toán
+
+- canonical: hugging face
+  variants:
+  - hugging face transformers
+
+- canonical: llm application development
+  variants:
+  - llm apis
+  - llm api
+  - llm integration
+  - llm application
+
+# ── DATA ENGINEERING ────────────────────────────────────────
+- canonical: etl
+  variants:
+  - etl elt
+  - etl tools
+  - etl elt pipelines
+
+# ── ENGINEERING CONCEPTS ────────────────────────────────────
+- canonical: solid
+  variants:
+  - solid principles
+
+- canonical: oop
+  variants:
+  - object oriented design (ood)
+
+- canonical: restful api
+  variants:
+  - api restful
+  - rest apis
+
+- canonical: optimize performance
+  variants:
+  - tối ưu hệ thống
+  - tối ưu hóa
+  - tối ưu hóa ứng dụng
+
+- canonical: query optimization
+  variants:
+  - tối ưu csdl
+  - tối ưu database
+  - tối ưu truy vấn sql
+
+- canonical: multithreading
+  variants:
+  - multi thread
+
+- canonical: agile
+  variants:
+  - agile methodologies
+  - agile scrum methodology
+
+- canonical: sdlc
+  variants:
+  - software development lifecycle (sdlc)
+
+# ── TOOL & PLATFORM ─────────────────────────────────────────
+- canonical: word
+  variants:
+  - ms word
+
+# ── PROGRAMMING LANGUAGE ────────────────────────────────────
+- canonical: javascript
+  variants:
+  - javascript(es6+)
+
+- canonical: c++
+  variants:
+  - c c++
+
+- canonical: c#
+  variants:
+  - c# net
+# ============================================================
+# ALIASES BỔ SUNG BATCH 2 — append vào cuối aliases.yaml
+# Scan toàn bộ clusters_review.csv (post re-cluster v3)
+# Chỉ include case có evidence rõ ràng là cùng concept
+# ============================================================
+
+# ── SOFT SKILL — EN↔VN bị tách ──────────────────────────────
+
+- canonical: teamwork
+  variants:
+  - phối hợp nhóm
+  - phối hợp theo nhóm
+  - cộng tác nhóm
+  - làm việc phối hợp nhóm
+  - team collaboration
+  - phối hợp tốt với các nhóm
+  - phối hợp với đồng nghiệp
+  - cross team collaboration
+  - collaborate
+  - work collaboratively
+  - work effectively in a team
+  # KHÔNG include: phối hợp đội nhóm (= team building/development, khác concept)
+  # KHÔNG include: dẫn dắt nhóm (= leadership)
+
+- canonical: time management
+  variants:
+  - quản lý thời gian
+  - lên kế hoạch
+  - lập kế hoạch và tổ chức công việc
+  - tự quản lý công việc
+  - quản lý deadline
+  - task process                      # task management context
+  - timeline management
+  - schedule
+
+- canonical: analysis
+  variants:
+  - phân tích
+  - analytical and problem solving
+  - analytical & logical thinking
+
+- canonical: negotiation
+  variants:
+  - đàm phán
+  - thương lượng
+
+- canonical: creativity
+  variants:
+  - tư duy sáng tạo
+  - sáng tạo
+
+- canonical: critical thinking
+  variants:
+  - tư duy phản biện
+  - phản biện
+
+- canonical: strategic thinking
+  variants:
+  - tư duy chiến lược
+
+- canonical: presentation skills
+  variants:
+  - kỹ năng thuyết trình
+
+- canonical: stakeholder management
+  variants:
+  - quản lý stakeholder
+
+- canonical: conflict resolution
+  variants:
+  - giải quyết xung đột
+  - xử lý conflict
+
+- canonical: change management
+  variants:
+  - quản lý thay đổi
+  - quản trị thay đổi
+
+- canonical: research
+  variants:
+  - nghiên cứu
+  - nghiên cứu chuyên sâu
+
+- canonical: risk management
+  variants:
+  - quản trị rủi ro
+  - quản lý rủi ro
+
+- canonical: report writing
+  variants:
+  - viết báo cáo
+  - lập báo cáo
+  - báo cáo
+
+- canonical: technical leadership
+  variants:
+  - technical leader
+  - lãnh đạo kỹ thuật
+  - dẫn dắt kỹ thuật
+
+- canonical: product management
+  variants:
+  - quản lý sản phẩm
+
+- canonical: organizational
+  variants:
+  - tổ chức
+  - organizational skills
+  - sắp xếp công việc
+
+- canonical: interpersonal skills
+  variants:
+  - giao tiếp bằng tiếng anh        # giao tiếp EN là sub-skill của interpersonal — cân nhắc
+  - communicate effectively
+
+- canonical: managing
+  variants:
+  - quản lý
+
+- canonical: self learn
+  variants:
+  - tự học
+
+- canonical: vietnamese
+  variants:
+  - tiếng việt
+
+- canonical: korean
+  variants:
+  - tiếng hàn
+
+- canonical: german
+  variants:
+  - tiếng đức
+
+- canonical: english
+  variants:
+  - giao tiếp bằng tiếng anh
+  - tiếng anh đọc hiểu
+  - tiếng anh đọc hiểu tài liệu kỹ thuật
+  - đọc hiểu tài liệu tiếng anh chuyên ngành
+  - english communication skills
+  - anh văn
+
+# ── DATABASE — variant/typo ──────────────────────────────────
+
+- canonical: postgresql
+  variants:
+  - postgre                           # typo cluster: postgree, postgress
+
+- canonical: mariadb
+  variants:
+  - maria db
+
+- canonical: memcached
+  variants:
+  - memcache
+
+- canonical: pl sql
+  variants:
+  - t sql                             # T-SQL là SQL Server variant, không phải PL/SQL
+  # NOTE: t sql → sql server đúng hơn về kỹ thuật, nhưng context JD VN thường dùng chung
+
+- canonical: nosql
+  variants:
+  - nosql db
+  - no sql db
+  - cơ sở dữ liệu phi quan hệ
+  - cơ sở dữ liệu không quan hệ
+
+- canonical: redis
+  variants:
+  - cache redis                       # redis được dùng làm cache
+
+- canonical: cosmosdb
+  variants:
+  - cosmos db
+
+- canonical: database oracle
+  variants:
+  - oracle 12c
+
+# ── DATA ENGINEERING ─────────────────────────────────────────
+
+- canonical: data pipelines
+  variants:
+  - pipeline xử lý dữ liệu lớn
+  - data pipeline
+  - big data pipelines
+
+- canonical: data management
+  variants:
+  - quản trị dữ liệu
+
+- canonical: xử lý dữ liệu
+  variants:
+  - dữ liệu                           # quá vague — chỉ alias nếu bạn muốn gom
+
+- canonical: etl
+  variants:
+  - quy trình etl                     # quy trình etl elt đã cover ở batch 1
+
+- canonical: real time data processing
+  variants:
+  - dữ liệu realtime
+  - xử lý dữ liệu real time
+
+- canonical: streaming data
+  variants:
+  - stream implementation
+  - stream procesing                  # typo
+
+- canonical: data integration
+  variants:
+  - dữ liệu tích hợp
+  - tích hợp dữ liệu
+
+- canonical: tableau
+  variants:
+  - bi tableau
+
+- canonical: looker studio
+  variants:
+  - google looker studio
+  - google looker
+
+- canonical: databricks
+  variants:
+  - databrick                         # typo
+
+- canonical: redshift
+  variants:
+  - aws redshift
+
+- canonical: quicksight
+  variants:
+  - quick sight
+
+# ── AI/ML/DATA ───────────────────────────────────────────────
+
+- canonical: ai agent
+  variants:
+  - ai agent framework
+  - agent workflow
+  - agent systems
+  - agentic ai
+
+- canonical: llm
+  variants:
+  - large language models (llm)
+  - large language models
+  - llm models
+  - llm integrations
+  - llm fine tuning
+  - gen ai                            # genai đã có, gen ai chưa
+
+- canonical: machine learning
+  variants:
+  - ai ml products                    # product context
+
+- canonical: rag
+  variants:
+  - retrieval augmented generation (rag)
+
+- canonical: fine tuning
+  variants:
+  - fine tune                         # fine tune và fine tuning cùng concept
+
+- canonical: model evaluation
+  variants:
+  - đánh giá model
+  - llm evaluation
+
+- canonical: model optimization
+  variants:
+  - tối ưu model
+  - inference                         # inference optimization
+
+- canonical: recommendation systems
+  variants:
+  - recommender systems
+  - recommendation system
+
+- canonical: statistics
+  variants:
+  - statistical analysis
+  - statistical methods
+  - statistical modeling
+  - thống kê ứng dụng
+
+- canonical: probability
+  variants:
+  - xác suất thống kê
+  - xác suất
+
+- canonical: data science
+  variants:
+  - khoa học dữ liệu
+
+- canonical: computer vision
+  variants:
+  - xử lý ảnh                         # xử lý ảnh ≈ image processing ≈ computer vision trong context JD VN
+  - video processing                  # video processing là sub-domain của CV
+
+- canonical: neural networks
+  variants:
+  - neural network architectures
+
+- canonical: chatbot
+  variants:
+  - ai chatbot
+  - chatbots
+
+- canonical: openai
+  variants:
+  - openai apis
+
+- canonical: transformer
+  variants:
+  - transformers
+
+- canonical: hugging face
+  variants:
+  - huggingface
+
+- canonical: diffusion models
+  variants:
+  - stable diffusion
+
+- canonical: model monitoring
+  variants:
+  - monitoring model
+
+- canonical: data mining
+  variants:
+  - khai thác dữ liệu
+
+- canonical: forecasting
+  variants:
+  - dự báo
+
+- canonical: multi agent orchestration
+  variants:
+  - multi agent systems
+  - multi agent
+
+- canonical: face detection
+  variants:
+  - face recognition                  # recognition và detection khác kỹ thuật, nhưng JD VN dùng lẫn
+
+# ── ENGINEERING CONCEPTS ────────────────────────────────────
+
+- canonical: microservices
+  variants:
+  - kiến trúc microservices
+  - microservices architecture
+  - micro services
+
+- canonical: scrum
+  variants:
+  - agile scum                        # typo
+  - agile development
+  - agile methodologies               # đã có nhưng chưa cover agile development
+
+- canonical: data structures
+  variants:
+  - cấu trúc dữ liệu
+  - cấu trúc dữ liệu và giải thuật
+
+- canonical: algorithms
+  variants:
+  - thuật toán
+
+- canonical: system design
+  variants:
+  - thiết kế hệ thống
+
+- canonical: clean code
+  variants:
+  - code sạch
+  - viết mã sạch
+  - clean code principles
+
+- canonical: waterfall
+  variants:
+  - waterfall model
+
+- canonical: websocket
+  variants:
+  - websockets
+  - web socket
+
+- canonical: distributed systems
+  variants:
+  - distributed system
+  - hệ thống phân tán
+  - kiến trúc hệ thống phân tán
+
+- canonical: scalability
+  variants:
+  - scalable
+
+- canonical: caching
+  variants:
+  - caching strategies
+
+- canonical: concurrent programming
+  variants:
+  - concurrency
+  - concurrency patterns
+  - high concurrency
+
+- canonical: memory management
+  variants:
+  - memory leak                       # memory leak là sub-topic của memory management
+
+- canonical: software design
+  variants:
+  - phân tích thiết kế hệ thống phần mềm
+
+- canonical: requirement analysis
+  variants:
+  - phân tích yêu cầu
+  - analyze requirements
+  - requirements gathering
+  - requirement gathering
+  - quản lý yêu cầu
+  - phân tích yêu cầu phần mềm
+
+- canonical: user story
+  variants:
+  - user stories
+
+- canonical: kanban
+  variants:
+  - kanban                            # đã có nhưng check
+
+- canonical: authentication
+  variants:
+  - authentication protocols
+  - authentication & authorization    # gom cả auth+authz vào authentication — cân nhắc
+
+- canonical: api design
+  variants:
+  - phân tích và thiết kế api
+  - thiết kế api
+  - restful api design
+
+- canonical: oauth2
+  variants:
+  - oauth 2 0
+  - oauth2 1 oidc
+
+- canonical: database design
+  variants:
+  - phân tích thiết kế hệ thống cơ sở dữ liệu
+  - thiết kế database schema
+
+- canonical: event driven architecture
+  variants:
+  - event driven architectures
+
+- canonical: mvvm
+  variants:
+  - mvvm                              # singleton, chưa có variant cần alias
+
+- canonical: software development lifecycle (sdlc)
+  variants:
+  - vòng đời phát triển sản phẩm phần mềm
+  - quy trình phát triển phần mềm (sdlc)
+
+- canonical: solution architecture
+  variants:
+  - thiết kế giải pháp
+  - kiến trúc giải pháp
+  - solution design
+
+- canonical: system analysis
+  variants:
+  - phân tích hệ thống
+
+- canonical: làm tài liệu
+  variants:
+  - viết tài liệu nghiệp vụ
+  - viết tài liệu yêu cầu
+  - viết tài liệu giải pháp kỹ thuật
+  - xây dựng tài liệu kỹ thuật
+  - viết document
+
+- canonical: functional programming
+  variants:
+  - functional specification          # chú ý: "functional specification" ≠ functional programming — cân nhắc lại
+
+- canonical: service oriented
+  variants:
+  - service oriented architectures
+  - soa
+
+- canonical: code review
+  variants:
+  - review code
+  - review mã nguồn
+  - review code source code
+
+- canonical: clean architecture
+  variants:
+  - clean architecture                # singleton OK
+
+- canonical: real time systems
+  variants:
+  - real time system
+  - hệ thống real time
+
+- canonical: high availability
+  variants:
+  - high availability (ha)
+
+- canonical: dependency injection
+  variants:
+  - dependency injection (di)
+
+- canonical: programming principles
+  variants:
+  - programming fundamentals
+  - programming concepts
+
+- canonical: agile development
+  variants:
+  - agile ba
+  - agile process
+  - agile development processes
+
+- canonical: secure coding
+  variants:
+  - secure coding practices
+  - lập trình an toàn
+
+- canonical: multi thread
+  variants:
+  - multi thread programming
+  - multi threaded application
+
+- canonical: performance
+  variants:
+  - hiệu năng
+  - hiệu năng cao
+  - hiệu năng hệ thống
+
+# ── FRAMEWORK / LIBRARY ─────────────────────────────────────
+
+- canonical: vuejs
+  variants:
+  - vuetify                           # vuetify là UI framework trên Vue — gom nếu muốn, không gom nếu cần phân biệt
+
+- canonical: spring boot
+  variants:
+  - spring boot 2 x+
+
+- canonical: spring
+  variants:
+  - spring mvc
+  - spring jpa
+  - spring framework
+  - spring framework 5+
+  - spring cloud
+  - spring security
+  - spring data
+  - spring data jpa
+
+- canonical: angular
+  variants:
+  - angular 2+
+  - angular 12+
+  - angular 8+
+  - angular cli
+  - angular material
+
+- canonical: socketio
+  variants:
+  - socket
+  - socket io
+
+- canonical: coroutines
+  variants:
+  - coroutine
+
+- canonical: net
+  variants:
+  - net 4 8 framework
+  - net 6 7+
+  - net framework 4 x
+
+- canonical: entity framework
+  variants:
+  - entity framework core
+
+- canonical: java spring boot
+  variants:
+  - java springboot
+  - java spring
+
+- canonical: langchain
+  variants:
+  - langgraph                         # LangGraph là extension của LangChain — gom hợp lý
+
+- canonical: reactjs
+  variants:
+  - react hooks                       # hooks là feature của React
+  - react hook form
+
+- canonical: node js
+  variants:
+  - node j                            # typo
+
+- canonical: react native
+  variants:
+  - react native cli
+  - reactnative
+
+- canonical: flutter
+  variants:
+  - flutter sdk
+  - flutter 3 0
+
+- canonical: django
+  variants:
+  - django orm
+
+- canonical: hibernate
+  variants:
+  - hibernate framework
+  - hibernate jpa
+  - jpa hibernate
+
+# ── INFRASTRUCTURE & DEVOPS ─────────────────────────────────
+
+- canonical: docker
+  variants:
+  - docker compos                     # typo (docker compose)
+
+- canonical: jenkins
+  variants:
+  - jenkin                            # typo
+
+- canonical: rabbitmq
+  variants:
+  - rabbit mq
+
+- canonical: terraform
+  variants:
+  - terragrunt
+
+- canonical: containerization
+  variants:
+  - containers
+  - container
+  - containerd
+
+- canonical: infrastructure as code
+  variants:
+  - infrastructure as code (iac)
+  - hạ tầng dưới dạng mã
+
+- canonical: aws
+  variants:
+  - aws cloud
+  - amazon web service
+  - amazon web services (aws)
+
+- canonical: load balancing
+  variants:
+  - load balancers
+  - load balancer
+  - ha load balancing
+  - cân bằng tải
+
+- canonical: backup
+  variants:
+  - backup solutions
+  - backup restore
+  - sao lưu dữ liệu
+
+- canonical: system administration
+  variants:
+  - quản trị hệ thống
+  - quản lý hệ thống
+
+- canonical: linux server
+  variants:
+  - server linux
+  - unix server
+
+- canonical: linux system administration
+  variants:
+  - linux administration
+  - quản trị hệ thống linux
+
+- canonical: monitoring
+  variants:
+  - monitoring system
+
+- canonical: cloud computing
+  variants:
+  - cloud data platform
+  - cloud engineering
+  - công nghệ cloud
+  - điện toán đám mây
+  - hạ tầng điện toán đám mây
+  - clouds computing
+
+- canonical: cloud security
+  variants:
+  - cloud security tools
+  - cloud security ecosystem
+
+- canonical: serverless
+  variants:
+  - serverless platforms
+  - serverless computing
+
+- canonical: routing
+  variants:
+  - routing protocol
+
+- canonical: switching
+  variants:
+  - switch
+  - cấu hình switch
+
+- canonical: continuous integration
+  variants:
+  - continuous integration tools
+
+- canonical: vpn
+  variants:
+  - vpn
+
+- canonical: virtualization
+  variants:
+  - virtualization technologies
+  - ảo hóa
+  - hệ thống ảo hóa
+
+- canonical: openshift
+  variants:
+  - openshift (ocp)
+  - red hat openshift
+  - redhat openshift
+
+- canonical: elk
+  variants:
+  - elk efk stack
+  - efk elk stack
+
+- canonical: prometheus
+  variants:
+  - promethues                        # typo
+
+- canonical: bảo mật thông tin
+  variants:
+  - an toàn bảo mật thông tin
+
+- canonical: window server
+  variants:
+  - windows server 2016               # version variant → gom về canonical chung
+
+- canonical: hybrid cloud
+  variants:
+  - netapp hybrid cloud
+
+- canonical: deployment
+  variants:
+  - deploy
+  - on prem deployment
+  - cloud deployment
+
+- canonical: orchestration
+  variants:
+  - orchestration tools
+  - container orchestration
+
+- canonical: vulnerability management
+  variants:
+  - vulnerability assessment
+  - vulnerability remediation
+
+- canonical: firewall
+  variants:
+  - firewalls
+  - firewall fortigate
+  - cisco firewall
+
+- canonical: cloud services
+  variants:
+  - dịch vụ trên cloud
+  - cloud server
+
+- canonical: system security
+  variants:
+  - hệ thống yêu cầu bảo mật cao
+
+- canonical: palo alto
+  variants:
+  - palo alto networks
+  - palo alto network
+
+- canonical: log analysis
+  variants:
+  - phân tích log
+  - phân tích logs
+
+- canonical: encryption
+  variants:
+  - data encryption
+
+- canonical: mlflow
+  variants:
+  - mlflow
+
+- canonical: github actions
+  variants:
+  - github action
+
+- canonical: cloudformation
+  variants:
+  - aws cloudformation
+  - cloud aws
+
+- canonical: api gateway
+  variants:
+  - api gateways
+
+- canonical: observability
+  variants:
+  - observability tools
+  - monitoring observability
+
+# ── TOOL & PLATFORM ─────────────────────────────────────────
+
+- canonical: excel
+  variants:
+  - ms excel
+
+- canonical: office
+  variants:
+  - tin học văn phòng
+  - công cụ office
+
+- canonical: github
+  variants:
+  - gitflow                           # gitflow là workflow trên git/github
+
+- canonical: svn
+  variants:
+  - svn
+
+- canonical: windows server
+  variants:
+  - window server                     # typo
+  - windows server 2016
+  - windows server administration
+
+- canonical: chatgpt
+  variants:
+  - chatops                           # ChatOps ≠ ChatGPT — KHÔNG alias này
+  - chatgpt apis
+
+- canonical: google sheets
+  variants:
+  - google sheet
+
+- canonical: linux
+  variants:
+  - linux command
+  - linux command line
+
+- canonical: android
+  variants:
+  - android sdk
+  - androidx
+
+- canonical: ios
+  variants:
+  - ios                               # singleton
+
+- canonical: sap s 4hana
+  variants:
+  - s 4 hana
+  - s 4hana
+  - bw 4hana
+
+- canonical: ms office
+  variants:
+  - microsoft office 365
+
+- canonical: microsoft dynamics
+  variants:
+  - microsoft dynamic
+
+- canonical: power platform
+  variants:
+  - microsoft power platform
+  - power platforms
+
+- canonical: sonarqube
+  variants:
+  - sonarcloud
+
+- canonical: ai tools
+  variants:
+  - ai ml tools
+  - tool ai
+
+- canonical: powerpoint
+  variants:
+  - power point
+
+- canonical: bug tracking
+  variants:
+  - bug tracking tools
+
+- canonical: rpa
+  variants:
+  - rpa
+
+# ── PROGRAMMING LANGUAGE ────────────────────────────────────
+
+- canonical: typescript
+  variants:
+  - typescripts                       # typo
+
+- canonical: bash
+  variants:
+  - bash shell
+  - bash script
+
+- canonical: scripting
+  variants:
+  - scripting language
+  - scripting automation
+  - scripts
+  - viết script
+  - os script
+
+- canonical: scss
+  variants:
+  - sass scss
+  - scss sass css
+
+- canonical: javascript
+  variants:
+  - javascript (es6)
+  - javascript es6
+  - javascript es6+
+  - javascrip                         # typo
+
+- canonical: html
+  variants:
+  - html css                          # html css = 2 skill, nhưng thường extract cùng nhau
+
+- canonical: programming languages
+  variants:
+  - ngôn ngữ lập trình
+
+# ── DOMAIN KNOWLEDGE ────────────────────────────────────────
+
+- canonical: banking
+  variants:
+  - ngân hàng
+  - ngân hàng số
+  - banking domain
+  - banking systems
+  - bank
+
+- canonical: finance
+  variants:
+  - tài chính
+  - sản phẩm tài chính
+
+- canonical: banking financial services
+  variants:
+  - tài chính ngân hàng fintech
+  - banking fintech
+
+- canonical: insurance
+  variants:
+  - bảo hiểm
+  - hệ thống bảo hiểm
+
+- canonical: logistics
+  variants:
+  - logistics vận tải
+  - kho vận
+
+- canonical: retail
+  variants:
+  - bán lẻ
+  - chuỗi bán lẻ
+
+- canonical: healthcare
+  variants:
+  - lĩnh vực y tế
+  - y tế
+  - healthcare it
+
+- canonical: telecom
+  variants:
+  - telecommunication
+  - viễn thông
+
+- canonical: e commerce
+  variants:
+  - tmđt
+  - sàn tmđt
+
+- canonical: digital banking
+  variants:
+  - digital banking systems
+  - digital banking products
+
+- canonical: core banking
+  variants:
+  - core banking systems
+  - core banking system
+
+- canonical: chuyển đổi số
+  variants:
+  - số hóa
+  - triển khai số hoá
+
+- canonical: erp system
+  variants:
+  - hệ thống erp
+  - kiến trúc hệ thống erp
+
+- canonical: supply chain
+  variants:
+  - chuỗi cung ứng
+
+- canonical: web applications
+  variants:
+  - web application
+  - web application concepts
+
+- canonical: web technologies
+  variants:
+  - lập trình web
+  - kiến trúc web
+
+- canonical: android development
+  variants:
+  - android application development
+  - phát triển ứng dụng android
+
+- canonical: game development
+  variants:
+  - quy trình phát triển game
+  - phát triển game
+
+- canonical: game mobile
+  variants:
+  - vòng đời sản phẩm mobile game
+  - phát triển game mobile
+
+- canonical: game design
+  variants:
+  - thiết kế game
+  - thiết kế giao diện game
+
+- canonical: enterprise
+  variants:
+  - enterprise it
+  - enterprise systems
+  - enterprise tools
+  - enterprise software
+  - enterprise platforms
+
+- canonical: compliance
+  variants:
+  - compliance requirements
+  - compliance controls
+  - regulatory compliance
+
+- canonical: accounting
+  variants:
+  - financial accounting
+  - kế toán
+
+- canonical: presales
+  variants:
+  - pre sale
+  - pre sales
+
+- canonical: payment gateway
+  variants:
+  - payment gateways
+
+- canonical: mobile banking
+  variants:
+  - mobile internet banking
+
+- canonical: streaming
+  variants:
+  - media streaming devices
+
+- canonical: advertising
+  variants:
+  - quảng cáo digital
+  - chạy ads
+
+# ── TESTING & QA ────────────────────────────────────────────
+
+- canonical: software testing methodologies
+  variants:
+  - kỹ thuật kiểm thử phần mềm
+  - kiểm thử phần mềm
+  - kiến thức kiểm thử
+  - quy trình kiểm thử phần mềm
+
+- canonical: unit test
+  variants:
+  - unit testing
+  - unit tests
+  - unit testing frameworks
+
+- canonical: api testing
+  variants:
+  - api testing tools
+  - test api
+  - kiểm thử api
+  - kiểm thử tích hợp api
+
+- canonical: test strategy
+  variants:
+  - testing process
+  - testing strategy
+  - quy trình test
+
+- canonical: manual testing
+  variants:
+  - manual test
+  - tester manual
+
+- canonical: integration testing
+  variants:
+  - integration test
+  - integration tests
+
+- canonical: functional testing
+  variants:
+  - functional test
+  - manual functional testing
+
+- canonical: regression testing
+  variants:
+  - regression test
+  - regression test suites
+
+- canonical: bug report
+  variants:
+  - bug reports
+  - bug reporting
+  - quy trình báo cáo lỗi
+
+- canonical: system test
+  variants:
+  - kiểm thử hệ thống
+  - system testing
+
+- canonical: test data
+  variants:
+  - data testing
+  - tạo test data
+  - dữ liệu test
+
+- canonical: test scenario
+  variants:
+  - test scenarios
+
+- canonical: quality control
+  variants:
+  - kiểm soát chất lượng
+  - đảm bảo chất lượng
+
+- canonical: quality management
+  variants:
+  - quality management tools
+  - quy trình quản lý chất lượng
+
+- canonical: test case writing
+  variants:
+  - viết test case
+  - write professional test cases
+
+- canonical: load testing
+  variants:
+  - load test
+
+- canonical: stlc
+  variants:
+  - stlc
+
+- canonical: security testing
+  variants:
+  - security review
+  - security test
+  - security assessment
+
+- canonical: test app
+  variants:
+  - kiểm thử app
+
+- canonical: test app web
+  variants:
+  - testing web applications
+  - quy trình kiểm thử phần mềm web
+
+- canonical: automation frameworks
+  variants:
+  - automation framework
+  - automation framework design
+
+- canonical: pentest
+  variants:
+  - pentester
+
+- canonical: e2e test
+  variants:
+  - e2e testing
+  - e2e testing tools
+  - e2e test suites
+
+- canonical: qa qc
+  variants:
+  - software qc qa
+
+- canonical: issue tracking
+  variants:
+  - tracking lỗi
+
+- canonical: defect management
+  variants:
+  - defect management processes
+  - defect management tools
+
+- canonical: test execution
+  variants:
+  - test execution processes
+
+- canonical: kịch bản kiểm thử
+  variants:
+  - xây dựng kịch bản kiểm thử
+  - thiết kế kịch bản kiểm thử
+
+# ── EMBEDDED & FIRMWARE ────────────────────────────────────
+
+- canonical: electronics
+  variants:
+  - mạch điện tử
+  - điện tử
+  - thiết bị điện tử
+
+- canonical: firmware
+  variants:
+  - phát triển firmware
+  - firmware development
+
+- canonical: embedded linux
+  variants:
+  - linux embedded
+  - linux embedded systems
+
+- canonical: modbus
+  variants:
+  - modbus rtu
+
+- canonical: embedded c c++
+  variants:
+  - embedded c
+  - embedded c++
+
+- canonical: embedded system development
+  variants:
+  - embedded systems programming
+  - embedded system development
+
+- canonical: pcb design
+  variants:
+  - thiết kế mạch pcb
+  - thiết kế pcb
+
+# ── DESIGN & UX ────────────────────────────────────────────
+
+- canonical: basic design
+  variants:
+  - thiết kế cơ bản
+
+- canonical: wireframe
+  variants:
+  - wireframes
+  - thiết kế wireframe
+  - wireframe mockup
+  - wireframing
+  - wireframing tools
+
+- canonical: design system
+  variants:
+  - design systems
+  - design process
+  - hệ thống thiết kế
+
+- canonical: mockup
+  variants:
+  - mockups
+  - vẽ mockup
+
+- canonical: user flow
+  variants:
+  - user flows
+  - thiết kế user flow
+  - user flow design
+
+- canonical: product design
+  variants:
+  - quy trình thiết kế sản phẩm
+  - thiết kế sản phẩm
+
+- canonical: web design
+  variants:
+  - thiết kế giao diện web
+  - thiết kế ui ux web
+
+- canonical: graphic design
+  variants:
+  - thiết kế đồ họa
+
+- canonical: tư duy thẩm mỹ
+  variants:
+  - thẩm mỹ
+  - khiếu thẩm mỹ
+
+- canonical: ui ux principles
+  variants:
+  - ux ui principles
+  - ux principles
+  - nguyên tắc thiết kế ux ui
+
+- canonical: design principles
+  variants:
+  - nguyên tắc thiết kế
+
+- canonical: accessibility
+  variants:
+  - accessibility compliance
+  - accessibility standards
+
+- canonical: design thinking
+  variants:
+  - tư duy thiết kế
+
+- canonical: hành vi người dùng
+  variants:
+  - phân tích hành vi người dùng
+
+- canonical: usability
+  variants:
+  - usability best practices
+  - usability principles
+
+- canonical: customer journey
+  variants:
+  - trải nghiệm khách hàng
+  - đánh giá trải nghiệm khách hàng
+
+- canonical: cross browser compatibility
+  variants:
+  - cross browser
+  - cross platform browser
+
+- canonical: interaction design
+  variants:
+  - thiết kế interaction
+  - thiết kế tương tác
+
+- canonical: responsive design
+  variants:
+  - web responsiveness
+  - website responsive
+  - web responsive
+
+- canonical: ui ux mobile
+  variants:
+  - ui ux trên mobile
+  - ux mobile
+  - mobile ui ux design

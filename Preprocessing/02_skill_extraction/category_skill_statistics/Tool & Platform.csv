@@ -1,0 +1,1523 @@
+category,normalized_skill,count
+Tool & Platform,git,425
+Tool & Platform,jira,274
+Tool & Platform,linux,221
+Tool & Platform,figma,180
+Tool & Platform,excel,157
+Tool & Platform,confluence,104
+Tool & Platform,windows,80
+Tool & Platform,github,63
+Tool & Platform,word,59
+Tool & Platform,powerpoint,57
+Tool & Platform,unity,53
+Tool & Platform,android,44
+Tool & Platform,trello,44
+Tool & Platform,visio,42
+Tool & Platform,gitlab,41
+Tool & Platform,photoshop,40
+Tool & Platform,tin học văn phòng,40
+Tool & Platform,draw.io,39
+Tool & Platform,svn,38
+Tool & Platform,illustrator,35
+Tool & Platform,windows server,34
+Tool & Platform,chatgpt,33
+Tool & Platform,odoo,33
+Tool & Platform,ai tools,28
+Tool & Platform,github copilot,27
+Tool & Platform,ubuntu,27
+Tool & Platform,ios,26
+Tool & Platform,cursor,25
+Tool & Platform,ms office,25
+Tool & Platform,notion,24
+Tool & Platform,microsoft office,23
+Tool & Platform,n8n,23
+Tool & Platform,redmine,23
+Tool & Platform,wordpress,23
+Tool & Platform,balsamiq,22
+Tool & Platform,maven,22
+Tool & Platform,sap,22
+Tool & Platform,sketch,22
+Tool & Platform,claude code,21
+Tool & Platform,gradle,21
+Tool & Platform,microsoft 365,21
+Tool & Platform,google sheets,20
+Tool & Platform,unix,20
+Tool & Platform,centos,19
+Tool & Platform,copilot,19
+Tool & Platform,miro,19
+Tool & Platform,ms project,19
+Tool & Platform,uml,19
+Tool & Platform,adobe xd,18
+Tool & Platform,postman,18
+Tool & Platform,siem,18
+Tool & Platform,ai,17
+Tool & Platform,app store,17
+Tool & Platform,salesforce,17
+Tool & Platform,swagger,17
+Tool & Platform,version control,17
+Tool & Platform,adobe photoshop,16
+Tool & Platform,firebase,16
+Tool & Platform,xcode,16
+Tool & Platform,crm,15
+Tool & Platform,google analytics,15
+Tool & Platform,axure,14
+Tool & Platform,claude,14
+Tool & Platform,lucidchart,14
+Tool & Platform,google play,13
+Tool & Platform,make,13
+Tool & Platform,sharepoint,13
+Tool & Platform,shopify,13
+Tool & Platform,sonarqube,13
+Tool & Platform,vite,13
+Tool & Platform,webpack,13
+Tool & Platform,asana,12
+Tool & Platform,autocad,12
+Tool & Platform,cisco,12
+Tool & Platform,slack,12
+Tool & Platform,after effects,11
+Tool & Platform,ai coding tools,11
+Tool & Platform,ai-assisted development tools,11
+Tool & Platform,clickup,11
+Tool & Platform,google sheet,11
+Tool & Platform,oracle,11
+Tool & Platform,automation tools,10
+Tool & Platform,bpmn,10
+Tool & Platform,công cụ ai,10
+Tool & Platform,fortinet,10
+Tool & Platform,google workspace,10
+Tool & Platform,hệ điều hành,10
+Tool & Platform,macos,10
+Tool & Platform,microsoft project,10
+Tool & Platform,admob,9
+Tool & Platform,appsflyer,9
+Tool & Platform,azure devops,9
+Tool & Platform,bitbucket,9
+Tool & Platform,git flow,9
+Tool & Platform,gitflow,9
+Tool & Platform,lark,9
+Tool & Platform,linux/unix,9
+Tool & Platform,microsoft dynamics,9
+Tool & Platform,t24,9
+Tool & Platform,zapier,9
+Tool & Platform,android sdk,8
+Tool & Platform,android studio,8
+Tool & Platform,automation,8
+Tool & Platform,edr,8
+Tool & Platform,gemini,8
+Tool & Platform,intune,8
+Tool & Platform,mixpanel,8
+Tool & Platform,power,8
+Tool & Platform,premiere,8
+Tool & Platform,testrail,8
+Tool & Platform,adjust,7
+Tool & Platform,antivirus,7
+Tool & Platform,canva,7
+Tool & Platform,hotjar,7
+Tool & Platform,ide,7
+Tool & Platform,magento,7
+Tool & Platform,npm,7
+Tool & Platform,office,7
+Tool & Platform,redhat,7
+Tool & Platform,ai coding assistants,6
+Tool & Platform,aix,6
+Tool & Platform,aosp,6
+Tool & Platform,backlog,6
+Tool & Platform,cms,6
+Tool & Platform,crashlytics,6
+Tool & Platform,dlp,6
+Tool & Platform,hpe,6
+Tool & Platform,hubspot,6
+Tool & Platform,hệ điều hành windows,6
+Tool & Platform,ibm,6
+Tool & Platform,juniper,6
+Tool & Platform,matlab,6
+Tool & Platform,microsoft,6
+Tool & Platform,office 365,6
+Tool & Platform,palo alto,6
+Tool & Platform,play store,6
+Tool & Platform,sap btp,6
+Tool & Platform,veeam,6
+Tool & Platform,version control systems,6
+Tool & Platform,amplitude,5
+Tool & Platform,bravo,5
+Tool & Platform,cocos creator,5
+Tool & Platform,email,5
+Tool & Platform,fastlane,5
+Tool & Platform,instruments,5
+Tool & Platform,kicad,5
+Tool & Platform,midjourney,5
+Tool & Platform,ms word,5
+Tool & Platform,n8n workflow,5
+Tool & Platform,outsystems,5
+Tool & Platform,power point,5
+Tool & Platform,proguard,5
+Tool & Platform,red hat,5
+Tool & Platform,sap s/4hana,5
+Tool & Platform,sdk,5
+Tool & Platform,solidworks,5
+Tool & Platform,source control,5
+Tool & Platform,supabase,5
+Tool & Platform,unity engine,5
+Tool & Platform,visual studio,5
+Tool & Platform,xd,5
+Tool & Platform,aconex,4
+Tool & Platform,adobe creative suite,4
+Tool & Platform,adobe illustrator,4
+Tool & Platform,airtable,4
+Tool & Platform,altium designer,4
+Tool & Platform,apple app store,4
+Tool & Platform,aruba,4
+Tool & Platform,autodesk construction cloud,4
+Tool & Platform,backbase,4
+Tool & Platform,blender,4
+Tool & Platform,bugzilla,4
+Tool & Platform,cad,4
+Tool & Platform,cmake,4
+Tool & Platform,cocoapods,4
+Tool & Platform,cpanel,4
+Tool & Platform,dell,4
+Tool & Platform,elementor,4
+Tool & Platform,erp,4
+Tool & Platform,ga4,4
+Tool & Platform,gerrit,4
+Tool & Platform,git workflow,4
+Tool & Platform,indesign,4
+Tool & Platform,internet,4
+Tool & Platform,invision,4
+Tool & Platform,keychain,4
+Tool & Platform,keycloak,4
+Tool & Platform,linux administration,4
+Tool & Platform,lms,4
+Tool & Platform,ms. word,4
+Tool & Platform,ollama,4
+Tool & Platform,openapi,4
+Tool & Platform,phần mềm quản lý dự án,4
+Tool & Platform,primavera p6,4
+Tool & Platform,procore,4
+Tool & Platform,project management tools,4
+Tool & Platform,qnx,4
+Tool & Platform,sap ecc,4
+Tool & Platform,servicenow,4
+Tool & Platform,sharepoint online,4
+Tool & Platform,simulink,4
+Tool & Platform,snyk,4
+Tool & Platform,soar,4
+Tool & Platform,splunk,4
+Tool & Platform,symantec,4
+Tool & Platform,teams,4
+Tool & Platform,uipath,4
+Tool & Platform,vllm,4
+Tool & Platform,đọc hiểu bản vẽ kỹ thuật,4
+Tool & Platform,1office,3
+Tool & Platform,ai code assistant,3
+Tool & Platform,antigravity,3
+Tool & Platform,applovin,3
+Tool & Platform,base,3
+Tool & Platform,blue prism,3
+Tool & Platform,branch.io,3
+Tool & Platform,camunda,3
+Tool & Platform,capcut,3
+Tool & Platform,chatbot,3
+Tool & Platform,check point,3
+Tool & Platform,checkpoint,3
+Tool & Platform,clevertap,3
+Tool & Platform,cloud connector,3
+Tool & Platform,codex,3
+Tool & Platform,cron jobs,3
+Tool & Platform,công cụ quản lý dự án,3
+Tool & Platform,công cụ văn phòng,3
+Tool & Platform,debian,3
+Tool & Platform,debugging tools,3
+Tool & Platform,devtools,3
+Tool & Platform,eclipse,3
+Tool & Platform,enterprise linux,3
+Tool & Platform,excel nâng cao,3
+Tool & Platform,fast,3
+Tool & Platform,figjam,3
+Tool & Platform,gdb,3
+Tool & Platform,hp,3
+Tool & Platform,ios native,3
+Tool & Platform,itsm,3
+Tool & Platform,jupyter notebook,3
+Tool & Platform,keystore,3
+Tool & Platform,kỹ năng văn phòng,3
+Tool & Platform,lark suite,3
+Tool & Platform,linux os,3
+Tool & Platform,liquibase,3
+Tool & Platform,logcat,3
+Tool & Platform,low-code,3
+Tool & Platform,makefile,3
+Tool & Platform,mes,3
+Tool & Platform,microsoft dynamics 365 business central,3
+Tool & Platform,microsoft excel,3
+Tool & Platform,microsoft office 365,3
+Tool & Platform,microsoft visio,3
+Tool & Platform,mind map,3
+Tool & Platform,mm,3
+Tool & Platform,nessus,3
+Tool & Platform,openai,3
+Tool & Platform,operating systems,3
+Tool & Platform,orcad,3
+Tool & Platform,oscilloscope,3
+Tool & Platform,oscilloscopes,3
+Tool & Platform,phần mềm văn phòng,3
+Tool & Platform,pm2,3
+Tool & Platform,pos,3
+Tool & Platform,power apps,3
+Tool & Platform,principle,3
+Tool & Platform,pts,3
+Tool & Platform,push notification,3
+Tool & Platform,qradar,3
+Tool & Platform,revit,3
+Tool & Platform,rpa,3
+Tool & Platform,ruckus,3
+Tool & Platform,s/4hana,3
+Tool & Platform,sap bw,3
+Tool & Platform,sap fiori,3
+Tool & Platform,sccm,3
+Tool & Platform,sd,3
+Tool & Platform,sdks,3
+Tool & Platform,sentry,3
+Tool & Platform,sheets,3
+Tool & Platform,storybook,3
+Tool & Platform,swift package manager,3
+Tool & Platform,tfs,3
+Tool & Platform,tiktok,3
+Tool & Platform,trellix,3
+Tool & Platform,unix/linux,3
+Tool & Platform,unreal engine,3
+Tool & Platform,vi tính văn phòng,3
+Tool & Platform,vscode,3
+Tool & Platform,way4,3
+Tool & Platform,windows 10,3
+Tool & Platform,windows 11,3
+Tool & Platform,windows os,3
+Tool & Platform,wireshark,3
+Tool & Platform,yarn,3
+Tool & Platform,zoom,3
+Tool & Platform,,2
+Tool & Platform,3cx,2
+Tool & Platform,3ds max,2
+Tool & Platform,acronis,2
+Tool & Platform,admob mediation,2
+Tool & Platform,ads sdk,2
+Tool & Platform,ae,2
+Tool & Platform,after effect,2
+Tool & Platform,ai agents,2
+Tool & Platform,ai coding,2
+Tool & Platform,ai coding assistant,2
+Tool & Platform,ai copilots,2
+Tool & Platform,android native,2
+Tool & Platform,android profiler,2
+Tool & Platform,apple store,2
+Tool & Platform,application life cycle management,2
+Tool & Platform,archimate,2
+Tool & Platform,arcsight,2
+Tool & Platform,artifactory,2
+Tool & Platform,atlassian tools,2
+Tool & Platform,auto cad,2
+Tool & Platform,autocad electrical,2
+Tool & Platform,av,2
+Tool & Platform,base.vn,2
+Tool & Platform,bim,2
+Tool & Platform,bitrix24,2
+Tool & Platform,bizagi,2
+Tool & Platform,bpm,2
+Tool & Platform,bug tracking tools,2
+Tool & Platform,capistrano,2
+Tool & Platform,cdp,2
+Tool & Platform,clarity,2
+Tool & Platform,cli,2
+Tool & Platform,cloud security tools,2
+Tool & Platform,cmdb,2
+Tool & Platform,cocos creator engine,2
+Tool & Platform,collaboration tools,2
+Tool & Platform,commvault,2
+Tool & Platform,composer,2
+Tool & Platform,computer literacy,2
+Tool & Platform,cursor ide,2
+Tool & Platform,cài đặt windows,2
+Tool & Platform,công cụ ai hỗ trợ lập trình,2
+Tool & Platform,công cụ automation,2
+Tool & Platform,công cụ quản lý công việc,2
+Tool & Platform,công cụ tự động hóa,2
+Tool & Platform,data masking,2
+Tool & Platform,data.ai,2
+Tool & Platform,defect tracking,2
+Tool & Platform,design and modeling tools,2
+Tool & Platform,dexguard,2
+Tool & Platform,dexprotector,2
+Tool & Platform,draw,2
+Tool & Platform,drawio,2
+Tool & Platform,ecosales,2
+Tool & Platform,elementor pro,2
+Tool & Platform,embedded linux,2
+Tool & Platform,enterprise architect,2
+Tool & Platform,eplan,2
+Tool & Platform,erd,2
+Tool & Platform,erwin,2
+Tool & Platform,evm,2
+Tool & Platform,exchange,2
+Tool & Platform,exchange online,2
+Tool & Platform,facebook,2
+Tool & Platform,fcm,2
+Tool & Platform,fieldmax,2
+Tool & Platform,firebase cloud messaging,2
+Tool & Platform,flowchart,2
+Tool & Platform,fluke,2
+Tool & Platform,flyway,2
+Tool & Platform,fortigate,2
+Tool & Platform,framer,2
+Tool & Platform,ga,2
+Tool & Platform,gis,2
+Tool & Platform,google,2
+Tool & Platform,google ads,2
+Tool & Platform,google docs,2
+Tool & Platform,google optimize,2
+Tool & Platform,google play console,2
+Tool & Platform,google play store,2
+Tool & Platform,haravan,2
+Tool & Platform,hệ thống antivirus,2
+Tool & Platform,iam,2
+Tool & Platform,iap,2
+Tool & Platform,integration studio,2
+Tool & Platform,intellij idea,2
+Tool & Platform,internet explorer,2
+Tool & Platform,ironsource,2
+Tool & Platform,issue tracking,2
+Tool & Platform,kaggle,2
+Tool & Platform,keil,2
+Tool & Platform,kernel upgrades,2
+Tool & Platform,langfuse,2
+Tool & Platform,launchdarkly,2
+Tool & Platform,linear,2
+Tool & Platform,linux systems,2
+Tool & Platform,logic analyzers,2
+Tool & Platform,lottie,2
+Tool & Platform,m365,2
+Tool & Platform,mail exchange,2
+Tool & Platform,make.com,2
+Tool & Platform,maya,2
+Tool & Platform,maze,2
+Tool & Platform,mcp,2
+Tool & Platform,mdm,2
+Tool & Platform,mecm,2
+Tool & Platform,mendix,2
+Tool & Platform,metasploit,2
+Tool & Platform,microsoft access,2
+Tool & Platform,microsoft defender suite,2
+Tool & Platform,microsoft intune,2
+Tool & Platform,microsoft office suite,2
+Tool & Platform,microsoft power,2
+Tool & Platform,microsoft teams,2
+Tool & Platform,microsoft word,2
+Tool & Platform,mikrotik,2
+Tool & Platform,misa,2
+Tool & Platform,misa amis,2
+Tool & Platform,ms excel,2
+Tool & Platform,ms team,2
+Tool & Platform,mạng xã hội,2
+Tool & Platform,nexus,2
+Tool & Platform,no-code,2
+Tool & Platform,no-code/low-code,2
+Tool & Platform,no-code/low-code platforms,2
+Tool & Platform,ntt intra-mart,2
+Tool & Platform,nvidia,2
+Tool & Platform,o365,2
+Tool & Platform,odoo erp,2
+Tool & Platform,oms,2
+Tool & Platform,onedrive,2
+Tool & Platform,openai api,2
+Tool & Platform,openclaw,2
+Tool & Platform,optimizely,2
+Tool & Platform,oracle netsuite,2
+Tool & Platform,os,2
+Tool & Platform,os windows,2
+Tool & Platform,otdr,2
+Tool & Platform,outlook,2
+Tool & Platform,pam,2
+Tool & Platform,phần mềm dựng 3d,2
+Tool & Platform,phần mềm quản lý,2
+Tool & Platform,planner,2
+Tool & Platform,plesk,2
+Tool & Platform,pod,2
+Tool & Platform,portfolio/github,2
+Tool & Platform,power designer,2
+Tool & Platform,powershell,2
+Tool & Platform,pp,2
+Tool & Platform,profiling tools,2
+Tool & Platform,project management software,2
+Tool & Platform,project management software tools,2
+Tool & Platform,protobuf,2
+Tool & Platform,protopie,2
+Tool & Platform,qualcomm,2
+Tool & Platform,quản lý source code,2
+Tool & Platform,quản trị linux,2
+Tool & Platform,quản trị website,2
+Tool & Platform,quảng cáo facebook,2
+Tool & Platform,r8,2
+Tool & Platform,redmind,2
+Tool & Platform,remote config,2
+Tool & Platform,repo,2
+Tool & Platform,revit api,2
+Tool & Platform,rhel,2
+Tool & Platform,rollup,2
+Tool & Platform,sap b1,2
+Tool & Platform,sap bas,2
+Tool & Platform,sap basis,2
+Tool & Platform,sap cloud,2
+Tool & Platform,sap erp,2
+Tool & Platform,sap monitoring,2
+Tool & Platform,sap pce,2
+Tool & Platform,sap pm,2
+Tool & Platform,sap sd,2
+Tool & Platform,sap workflow,2
+Tool & Platform,sapo,2
+Tool & Platform,sass,2
+Tool & Platform,scan tools,2
+Tool & Platform,scm tools,2
+Tool & Platform,search console,2
+Tool & Platform,shopify app,2
+Tool & Platform,sketchup,2
+Tool & Platform,solaris,2
+Tool & Platform,sonar,2
+Tool & Platform,spine,2
+Tool & Platform,sps updates,2
+Tool & Platform,stripe,2
+Tool & Platform,sum operations,2
+Tool & Platform,system copies,2
+Tool & Platform,tgi,2
+Tool & Platform,tiktok shop,2
+Tool & Platform,tracking,2
+Tool & Platform,tranzaxis,2
+Tool & Platform,trend micro,2
+Tool & Platform,trunk-based,2
+Tool & Platform,ui theme designer,2
+Tool & Platform,unity profiler,2
+Tool & Platform,versioning,2
+Tool & Platform,visual c++ (vc,2
+Tool & Platform,visual paradigm,2
+Tool & Platform,visual studio code,2
+Tool & Platform,web dispatcher,2
+Tool & Platform,web ide,2
+Tool & Platform,woocommerce,2
+Tool & Platform,workflow automation tools,2
+Tool & Platform,wso2,2
+Tool & Platform,wsus,2
+Tool & Platform,xdr,2
+Tool & Platform,yocto,2
+Tool & Platform,youtube,2
+Tool & Platform,zalo,2
+Tool & Platform,zephyr,2
+Tool & Platform,zeplin,2
+Tool & Platform,1c,1
+Tool & Platform,3d cad,1
+Tool & Platform,aa,1
+Tool & Platform,abap dictionary,1
+Tool & Platform,abap editor,1
+Tool & Platform,abap workbench tools,1
+Tool & Platform,abend-aid,1
+Tool & Platform,access,1
+Tool & Platform,acf,1
+Tool & Platform,acronic,1
+Tool & Platform,active directory,1
+Tool & Platform,acumatica,1
+Tool & Platform,acunetix,1
+Tool & Platform,ad,1
+Tool & Platform,adb,1
+Tool & Platform,adb tools,1
+Tool & Platform,addressables asset management,1
+Tool & Platform,addressables/asset bundle,1
+Tool & Platform,adk (agent develop kit,1
+Tool & Platform,adobe ai/photoshop,1
+Tool & Platform,adobe animate cc,1
+Tool & Platform,adobe flash,1
+Tool & Platform,ads api,1
+Tool & Platform,ads network,1
+Tool & Platform,agora,1
+Tool & Platform,ahrefs,1
+Tool & Platform,ai box,1
+Tool & Platform,ai chat tools,1
+Tool & Platform,ai coding agent,1
+Tool & Platform,ai coding assistant tools,1
+Tool & Platform,ai coding/productivity tools,1
+Tool & Platform,ai copilot,1
+Tool & Platform,ai mentor,1
+Tool & Platform,ai testing,1
+Tool & Platform,ai-assisted coding,1
+Tool & Platform,ai-assisted dev tools,1
+Tool & Platform,ai-assisted development tooling,1
+Tool & Platform,ai-assisted programming tools,1
+Tool & Platform,ai-assisted tools,1
+Tool & Platform,ai-gen tools,1
+Tool & Platform,ai-powered coding assistance tools,1
+Tool & Platform,ai-powered ides,1
+Tool & Platform,ai-powered ui generation tools,1
+Tool & Platform,ai‑assisted tools,1
+Tool & Platform,akabot,1
+Tool & Platform,algolia docsearch,1
+Tool & Platform,allen-bradley,1
+Tool & Platform,alm,1
+Tool & Platform,altium,1
+Tool & Platform,amazon,1
+Tool & Platform,amazon api,1
+Tool & Platform,ambarella,1
+Tool & Platform,analytics,1
+Tool & Platform,"android (apk, aab",1
+Tool & Platform,android auto,1
+Tool & Platform,android automotive,1
+Tool & Platform,android box,1
+Tool & Platform,android debug bridge (adb,1
+Tool & Platform,android development,1
+Tool & Platform,android system,1
+Tool & Platform,android tv,1
+Tool & Platform,angular cli,1
+Tool & Platform,animator,1
+Tool & Platform,anr traces,1
+Tool & Platform,ansys,1
+Tool & Platform,ant,1
+Tool & Platform,anthropic,1
+Tool & Platform,anycross,1
+Tool & Platform,aosp build system,1
+Tool & Platform,apache maven,1
+Tool & Platform,api của misa,1
+Tool & Platform,apm tools,1
+Tool & Platform,apns,1
+Tool & Platform,app distribution,1
+Tool & Platform,app page builder,1
+Tool & Platform,app store optimization (aso,1
+Tool & Platform,app store release management,1
+Tool & Platform,apple store connect,1
+Tool & Platform,apple vision pro,1
+Tool & Platform,appstore,1
+Tool & Platform,appstore spy,1
+Tool & Platform,apptweak,1
+Tool & Platform,apt,1
+Tool & Platform,aqua security,1
+Tool & Platform,ardupilot,1
+Tool & Platform,aris,1
+Tool & Platform,arista,1
+Tool & Platform,arito,1
+Tool & Platform,artisan,1
+Tool & Platform,aruba planner,1
+Tool & Platform,atlassian cloud,1
+Tool & Platform,augment,1
+Tool & Platform,autocad 2d,1
+Tool & Platform,autocad 3d,1
+Tool & Platform,autocard,1
+Tool & Platform,autodesk aps,1
+Tool & Platform,autodesk services,1
+Tool & Platform,automation anywhere,1
+Tool & Platform,automation technologies,1
+Tool & Platform,aveva batch management,1
+Tool & Platform,aveva intouch,1
+Tool & Platform,avro,1
+Tool & Platform,azure openai,1
+Tool & Platform,babel,1
+Tool & Platform,balzamiq,1
+Tool & Platform,bapi,1
+Tool & Platform,basamid,1
+Tool & Platform,bash shell,1
+Tool & Platform,beauty app,1
+Tool & Platform,behance,1
+Tool & Platform,bigcommerce,1
+Tool & Platform,bim tooling,1
+Tool & Platform,bit bucket,1
+Tool & Platform,bizactor development,1
+Tool & Platform,black,1
+Tool & Platform,blockman go,1
+Tool & Platform,blueprint,1
+Tool & Platform,bom,1
+Tool & Platform,boomi integrations,1
+Tool & Platform,bpmn tools,1
+Tool & Platform,bpt,1
+Tool & Platform,braze,1
+Tool & Platform,browser devtools,1
+Tool & Platform,browser inspector tools,1
+Tool & Platform,bsp linux,1
+Tool & Platform,bubble,1
+Tool & Platform,bug tracking,1
+Tool & Platform,build android,1
+Tool & Platform,build tools,1
+Tool & Platform,buildroot,1
+Tool & Platform,burpsuite,1
+Tool & Platform,bw on hana,1
+Tool & Platform,bw/4hana,1
+Tool & Platform,bảng vẽ,1
+Tool & Platform,ca-7,1
+Tool & Platform,cam,1
+Tool & Platform,camera,1
+Tool & Platform,camera ip,1
+Tool & Platform,canvas apps,1
+Tool & Platform,canvas drawing,1
+Tool & Platform,carplay,1
+Tool & Platform,carthage,1
+Tool & Platform,charles proxy,1
+Tool & Platform,chat gpt,1
+Tool & Platform,checkmarx,1
+Tool & Platform,chrome devtools,1
+Tool & Platform,chương trình virus,1
+Tool & Platform,chạy quảng cáo facebook,1
+Tool & Platform,cisco collaboration (webex) solutions,1
+Tool & Platform,citrix,1
+Tool & Platform,civil3d,1
+Tool & Platform,claude pro,1
+Tool & Platform,claude’s cli,1
+Tool & Platform,cli tools,1
+Tool & Platform,cloudera manager,1
+Tool & Platform,cloudrity,1
+Tool & Platform,cmc,1
+Tool & Platform,cmms maximo,1
+Tool & Platform,cms integrations,1
+Tool & Platform,cms wordpress,1
+Tool & Platform,code composer,1
+Tool & Platform,code management,1
+Tool & Platform,code studio,1
+Tool & Platform,codebeamer,1
+Tool & Platform,codeium,1
+Tool & Platform,codemirror,1
+Tool & Platform,codepush,1
+Tool & Platform,codeql,1
+Tool & Platform,codility,1
+Tool & Platform,collibra,1
+Tool & Platform,colmap,1
+Tool & Platform,comfyui,1
+Tool & Platform,command line,1
+Tool & Platform,command-line tools,1
+Tool & Platform,commercetools,1
+Tool & Platform,compiler,1
+Tool & Platform,computer,1
+Tool & Platform,configuration and requirement management tools,1
+Tool & Platform,configuration in sap,1
+Tool & Platform,configuration management tools,1
+Tool & Platform,content management systems,1
+Tool & Platform,contentful,1
+Tool & Platform,control-m,1
+Tool & Platform,copilot chat,1
+Tool & Platform,copilot studio,1
+Tool & Platform,core fss,1
+Tool & Platform,coreos,1
+Tool & Platform,crashanalytics,1
+Tool & Platform,crazy egg,1
+Tool & Platform,creative software tools,1
+Tool & Platform,crm admin/support,1
+Tool & Platform,crm bđs,1
+Tool & Platform,crm systems,1
+Tool & Platform,cron,1
+Tool & Platform,cron job,1
+Tool & Platform,crystal report,1
+Tool & Platform,csm,1
+Tool & Platform,csv,1
+Tool & Platform,cursor agent,1
+Tool & Platform,cursorai,1
+Tool & Platform,cwp,1
+Tool & Platform,cybellum,1
+Tool & Platform,cyclonedx,1
+Tool & Platform,cài đặt cấu hình hệ điều hành windows,1
+Tool & Platform,cài đặt office,1
+Tool & Platform,"cài đặt, cấu hình phần mềm",1
+Tool & Platform,các công cụ phát triển game,1
+Tool & Platform,các nền tảng mạng xã hội,1
+Tool & Platform,công cụ ai phục vụ cho sáng tạo nội dung,1
+Tool & Platform,công cụ ai quản lý tác vụ,1
+Tool & Platform,công cụ bắt gói tin (packet capture,1
+Tool & Platform,công cụ bắt log,1
+Tool & Platform,công cụ giám sát hệ thống và database,1
+Tool & Platform,công cụ hỗ trợ phân tích,1
+Tool & Platform,công cụ hỗ trợ phân tích nghiệp vụ,1
+Tool & Platform,công cụ hỗ trợ phân tích thiết kế,1
+Tool & Platform,công cụ hỗ trợ quản lý tác vụ ba,1
+Tool & Platform,công cụ mô hình hóa,1
+Tool & Platform,công cụ mô phỏng,1
+Tool & Platform,công cụ mô phỏng ý tưởng game,1
+Tool & Platform,công cụ office,1
+Tool & Platform,công cụ phân tích code,1
+Tool & Platform,công cụ phân tích logic,1
+Tool & Platform,công cụ phân tích thiết kế,1
+Tool & Platform,công cụ quản lý mã nguồn,1
+Tool & Platform,công cụ quản lý sản phẩm,1
+Tool & Platform,công cụ quản lý test/bug,1
+Tool & Platform,công cụ rà quét,1
+Tool & Platform,công cụ thiết kế,1
+Tool & Platform,công cụ thiết kế sản phẩm,1
+Tool & Platform,công cụ vẽ workflow,1
+Tool & Platform,cấu hình/quản trị jira,1
+Tool & Platform,d365 f&o developer,1
+Tool & Platform,dam systems,1
+Tool & Platform,data loader,1
+Tool & Platform,data modeling tools,1
+Tool & Platform,data pump,1
+Tool & Platform,databricks,1
+Tool & Platform,davinci resolve,1
+Tool & Platform,dcim,1
+Tool & Platform,debian-based linux,1
+Tool & Platform,decision-making tools,1
+Tool & Platform,deepeval,1
+Tool & Platform,deepstream,1
+Tool & Platform,defender,1
+Tool & Platform,defender for endpoint,1
+Tool & Platform,dell boomi,1
+Tool & Platform,dell ecs,1
+Tool & Platform,dell powerscale,1
+Tool & Platform,dell powerstore,1
+Tool & Platform,dellemc,1
+Tool & Platform,dependabot,1
+Tool & Platform,desktop publishing tools,1
+Tool & Platform,develop internal tools,1
+Tool & Platform,developer console,1
+Tool & Platform,di chuyển lên outsystems,1
+Tool & Platform,diginet,1
+Tool & Platform,digital asset management,1
+Tool & Platform,direct admin,1
+Tool & Platform,directadmin,1
+Tool & Platform,divi,1
+Tool & Platform,dms,1
+Tool & Platform,dnf,1
+Tool & Platform,docker desktop,1
+Tool & Platform,documentation platforms,1
+Tool & Platform,drupal,1
+Tool & Platform,dumpsys,1
+Tool & Platform,dvc,1
+Tool & Platform,dynamics 365,1
+Tool & Platform,e-signature,1
+Tool & Platform,eagle,1
+Tool & Platform,eas build,1
+Tool & Platform,easyeda,1
+Tool & Platform,ebpf,1
+Tool & Platform,ecc 6.0,1
+Tool & Platform,editor tools,1
+Tool & Platform,edr/xdr,1
+Tool & Platform,edraw,1
+Tool & Platform,ekahau,1
+Tool & Platform,elastic,1
+Tool & Platform,element 3d,1
+Tool & Platform,eln,1
+Tool & Platform,email doanh nghiệp,1
+Tool & Platform,email hệ thống,1
+Tool & Platform,email marketing tools,1
+Tool & Platform,email service,1
+Tool & Platform,ems,1
+Tool & Platform,emulators,1
+Tool & Platform,encryption,1
+Tool & Platform,endevor,1
+Tool & Platform,endpoint management platforms,1
+Tool & Platform,endpoint protection,1
+Tool & Platform,enpoint security,1
+Tool & Platform,eric zimmerman's tools,1
+Tool & Platform,erp bán hàng,1
+Tool & Platform,erp odoo,1
+Tool & Platform,erpnext,1
+Tool & Platform,erpviet,1
+Tool & Platform,eslint,1
+Tool & Platform,etrust/ca directory,1
+Tool & Platform,etsy,1
+Tool & Platform,etw,1
+Tool & Platform,excel advanced features,1
+Tool & Platform,excel/sheet,1
+Tool & Platform,exchange email,1
+Tool & Platform,expo cli,1
+Tool & Platform,extreme,1
+Tool & Platform,f5,1
+Tool & Platform,facebook ads manager,1
+Tool & Platform,facebook api,1
+Tool & Platform,faceid,1
+Tool & Platform,faceworks,1
+Tool & Platform,fastworks,1
+Tool & Platform,fedora linux,1
+Tool & Platform,fi/co,1
+Tool & Platform,fico,1
+Tool & Platform,fiddler,1
+Tool & Platform,figma ai,1
+Tool & Platform,fileaid,1
+Tool & Platform,filmora,1
+Tool & Platform,finacle,1
+Tool & Platform,final cut,1
+Tool & Platform,financial service cloud,1
+Tool & Platform,fineract,1
+Tool & Platform,fingerprint,1
+Tool & Platform,firebase sdk,1
+Tool & Platform,firebase services,1
+Tool & Platform,firefox,1
+Tool & Platform,fiware,1
+Tool & Platform,flake8,1
+Tool & Platform,flashback,1
+Tool & Platform,flexcube,1
+Tool & Platform,flinto,1
+Tool & Platform,flow,1
+Tool & Platform,flowcharting tools,1
+Tool & Platform,flowise,1
+Tool & Platform,flows,1
+Tool & Platform,flutter devtools,1
+Tool & Platform,forgerock opendj,1
+Tool & Platform,fortiaiops,1
+Tool & Platform,fortianalyzer,1
+Tool & Platform,fortimanager,1
+Tool & Platform,fortinac,1
+Tool & Platform,fortipam,1
+Tool & Platform,fortiswitch,1
+Tool & Platform,freeswitch,1
+Tool & Platform,frida,1
+Tool & Platform,fullstory,1
+Tool & Platform,function builder,1
+Tool & Platform,g-suite,1
+Tool & Platform,game analytics,1
+Tool & Platform,game engine,1
+Tool & Platform,game engines,1
+Tool & Platform,gcc,1
+Tool & Platform,genesys,1
+Tool & Platform,getresponse,1
+Tool & Platform,gg calendar,1
+Tool & Platform,git bash,1
+Tool & Platform,git workflows,1
+Tool & Platform,git-based workflow,1
+Tool & Platform,git-flow,1
+Tool & Platform,github copilot cli,1
+Tool & Platform,github copilot enterprise,1
+Tool & Platform,gitlab api,1
+Tool & Platform,gohighlevel,1
+Tool & Platform,goland,1
+Tool & Platform,google adk,1
+Tool & Platform,google api,1
+Tool & Platform,google app apis,1
+Tool & Platform,google app script,1
+Tool & Platform,google apps script,1
+Tool & Platform,google appsheet,1
+Tool & Platform,google document,1
+Tool & Platform,google dorks,1
+Tool & Platform,google gemini,1
+Tool & Platform,google map api,1
+Tool & Platform,google search console,1
+Tool & Platform,google services,1
+Tool & Platform,google spreadsheet,1
+Tool & Platform,goolge,1
+Tool & Platform,gpt,1
+Tool & Platform,gradio,1
+Tool & Platform,grunt,1
+Tool & Platform,gstreamer,1
+Tool & Platform,gtm,1
+Tool & Platform,gulp,1
+Tool & Platform,gutenberg,1
+Tool & Platform,gw pc,1
+Tool & Platform,h3c,1
+Tool & Platform,hardhat,1
+Tool & Platform,headless cms,1
+Tool & Platform,helpdesk,1
+Tool & Platform,hitachi vantara,1
+Tool & Platform,hmi,1
+Tool & Platform,hmi custom,1
+Tool & Platform,hopper,1
+Tool & Platform,hoppscotch,1
+Tool & Platform,hp-ux,1
+Tool & Platform,hp_ux,1
+Tool & Platform,hrm,1
+Tool & Platform,http client,1
+Tool & Platform,hxgn eam,1
+Tool & Platform,hệ thống camera,1
+Tool & Platform,hệ thống pos,1
+Tool & Platform,hệ thống quản lý phiên bản,1
+Tool & Platform,hệ thống quản lý source code,1
+Tool & Platform,hệ thống quản lý văn bản điều hành,1
+Tool & Platform,hệ thống thông tin nội bộ,1
+Tool & Platform,hệ thống ticket,1
+Tool & Platform,hệ điều hành máy tính hoặc mobile,1
+Tool & Platform,ias,1
+Tool & Platform,ibiza,1
+Tool & Platform,ibm i access - client solutions,1
+Tool & Platform,ibm qradar,1
+Tool & Platform,ibm websphere,1
+Tool & Platform,idecision,1
+Tool & Platform,idef0,1
+Tool & Platform,ides,1
+Tool & Platform,idoc,1
+Tool & Platform,ilo,1
+Tool & Platform,in 3d,1
+Tool & Platform,index/match,1
+Tool & Platform,infor eam,1
+Tool & Platform,informatica,1
+Tool & Platform,installshield,1
+Tool & Platform,instrument,1
+Tool & Platform,integration suites,1
+Tool & Platform,integration tools,1
+Tool & Platform,interface builder,1
+Tool & Platform,internal audit software,1
+Tool & Platform,internal operational dashboards/tools,1
+Tool & Platform,internal tools,1
+Tool & Platform,inventor,1
+Tool & Platform,ios (ipa,1
+Tool & Platform,ios sdk,1
+Tool & Platform,ips,1
+Tool & Platform,ironsource mediation,1
+Tool & Platform,it service management,1
+Tool & Platform,it ticketing systems,1
+Tool & Platform,ivanti,1
+Tool & Platform,jamf pro,1
+Tool & Platform,jdk 8,1
+Tool & Platform,jira plugin,1
+Tool & Platform,jql,1
+Tool & Platform,json,1
+Tool & Platform,jtag,1
+Tool & Platform,jvm,1
+Tool & Platform,kali linux,1
+Tool & Platform,kamailio,1
+Tool & Platform,keilc,1
+Tool & Platform,key vault,1
+Tool & Platform,khai thác internet,1
+Tool & Platform,kiotviet,1
+Tool & Platform,kondor,1
+Tool & Platform,kong,1
+Tool & Platform,labview,1
+Tool & Platform,ladipage,1
+Tool & Platform,lamp,1
+Tool & Platform,langsmith,1
+Tool & Platform,laravel artisan,1
+Tool & Platform,lark base,1
+Tool & Platform,lark sheet,1
+Tool & Platform,lark/feishu api,1
+Tool & Platform,larkbase automation,1
+Tool & Platform,lauterbach,1
+Tool & Platform,lazada,1
+Tool & Platform,lazada seller center,1
+Tool & Platform,lcms,1
+Tool & Platform,less,1
+Tool & Platform,level editor,1
+Tool & Platform,level editors,1
+Tool & Platform,license management,1
+Tool & Platform,lifetime analytics/apm,1
+Tool & Platform,lighthouse,1
+Tool & Platform,lightroom,1
+Tool & Platform,lims,1
+Tool & Platform,linkedin,1
+Tool & Platform,linux (rhel,1
+Tool & Platform,linux bash,1
+Tool & Platform,linux cli,1
+Tool & Platform,linux command,1
+Tool & Platform,linux command line,1
+Tool & Platform,linux shell,1
+Tool & Platform,linux system,1
+Tool & Platform,linux/unix administration,1
+Tool & Platform,lm studio,1
+Tool & Platform,logic analyzer,1
+Tool & Platform,looker studio,1
+Tool & Platform,lovable,1
+Tool & Platform,love2d,1
+Tool & Platform,low code – no code platforms,1
+Tool & Platform,low code/no code platforms,1
+Tool & Platform,low-code automation,1
+Tool & Platform,low-code platforms,1
+Tool & Platform,low-code tooling,1
+Tool & Platform,low-code/automation platforms,1
+Tool & Platform,low-code/no-code,1
+Tool & Platform,low-code/no-code (nclc,1
+Tool & Platform,low-code/no-code platforms,1
+Tool & Platform,low-level tools,1
+Tool & Platform,ls central,1
+Tool & Platform,ltmc,1
+Tool & Platform,luna create,1
+Tool & Platform,lập trình labview,1
+Tool & Platform,lập trình trong unity,1
+Tool & Platform,m365 services,1
+Tool & Platform,mac operating system,1
+Tool & Platform,mac operating systems,1
+Tool & Platform,macro,1
+Tool & Platform,magento 2,1
+Tool & Platform,mailchimp,1
+Tool & Platform,mainframe,1
+Tool & Platform,make (integromat,1
+Tool & Platform,malware analysis tools,1
+Tool & Platform,manager engine,1
+Tool & Platform,managing backlog,1
+Tool & Platform,mantis,1
+Tool & Platform,mapbox,1
+Tool & Platform,maps,1
+Tool & Platform,markdown,1
+Tool & Platform,mastercam,1
+Tool & Platform,maven/gradle,1
+Tool & Platform,max mediation,1
+Tool & Platform,maximo,1
+Tool & Platform,mdm/mam,1
+Tool & Platform,mediapipe,1
+Tool & Platform,mega,1
+Tool & Platform,meraki,1
+Tool & Platform,meta quest,1
+Tool & Platform,metamask,1
+Tool & Platform,metro,1
+Tool & Platform,microchip studio,1
+Tool & Platform,microsoft 365 administration,1
+Tool & Platform,microsoft configuration manager,1
+Tool & Platform,microsoft defender,1
+Tool & Platform,microsoft dynamic,1
+Tool & Platform,microsoft dynamics 365 bc/fo,1
+Tool & Platform,microsoft dynamics 365 finance and operations development tools,1
+Tool & Platform,microsoft dynamics ax,1
+Tool & Platform,microsoft endpoint management,1
+Tool & Platform,microsoft power apps,1
+Tool & Platform,microsoft powerpoint,1
+Tool & Platform,microsoft security ecosystem,1
+Tool & Platform,microsoft sentinel,1
+Tool & Platform,microsoft system solution,1
+Tool & Platform,microsoft windows server,1
+Tool & Platform,microsoft windows server 2012,1
+Tool & Platform,mifosx,1
+Tool & Platform,migration cockpit,1
+Tool & Platform,mindmanager,1
+Tool & Platform,mini app,1
+Tool & Platform,mini app zalo,1
+Tool & Platform,mini world,1
+Tool & Platform,minikube,1
+Tool & Platform,mission planner,1
+Tool & Platform,mm - pp - fi - sd,1
+Tool & Platform,mm của sap,1
+Tool & Platform,mmp,1
+Tool & Platform,model-driven apps,1
+Tool & Platform,modeling tools,1
+Tool & Platform,modern web tools,1
+Tool & Platform,monaco editor,1
+Tool & Platform,monday,1
+Tool & Platform,monday.com,1
+Tool & Platform,monstache,1
+Tool & Platform,monte carlo,1
+Tool & Platform,ms outlook,1
+Tool & Platform,ms power point,1
+Tool & Platform,ms team 365,1
+Tool & Platform,ms teams,1
+Tool & Platform,ms visio,1
+Tool & Platform,ms.office,1
+Tool & Platform,ms365,1
+Tool & Platform,mulesoft,1
+Tool & Platform,mulesoft anypoint,1
+Tool & Platform,máy chấm công,1
+Tool & Platform,máy khoan,1
+Tool & Platform,máy thổi dây,1
+Tool & Platform,máy tính,1
+Tool & Platform,máy tính tiền (pos,1
+Tool & Platform,máy đo mạng (cable tester,1
+Tool & Platform,navis work,1
+Tool & Platform,naviswork,1
+Tool & Platform,ndk,1
+Tool & Platform,netapp,1
+Tool & Platform,netapp ontap,1
+Tool & Platform,netbackup,1
+Tool & Platform,netbean,1
+Tool & Platform,netbird,1
+Tool & Platform,netspot,1
+Tool & Platform,netsuite,1
+Tool & Platform,network monitoring tools,1
+Tool & Platform,nexus artifact repo,1
+Tool & Platform,nhanh,1
+Tool & Platform,ninjaone,1
+Tool & Platform,nmap,1
+Tool & Platform,nmp,1
+Tool & Platform,nms,1
+Tool & Platform,nocodb,1
+Tool & Platform,nodemon,1
+Tool & Platform,notebook,1
+Tool & Platform,notebooks,1
+Tool & Platform,notion ai,1
+Tool & Platform,nsight systems,1
+Tool & Platform,nsm,1
+Tool & Platform,numerai,1
+Tool & Platform,nvm,1
+Tool & Platform,nvr,1
+Tool & Platform,nx monorepo,1
+Tool & Platform,obfuscation (proguard/r8,1
+Tool & Platform,objects,1
+Tool & Platform,obs,1
+Tool & Platform,obsidian,1
+Tool & Platform,obyc,1
+Tool & Platform,odc,1
+Tool & Platform,odoo community,1
+Tool & Platform,odoo enterprise,1
+Tool & Platform,odoo standard modules,1
+Tool & Platform,odoo.sh,1
+Tool & Platform,office applications,1
+Tool & Platform,office software,1
+Tool & Platform,office solutions,1
+Tool & Platform,office suite,1
+Tool & Platform,okrs,1
+Tool & Platform,open claw,1
+Tool & Platform,open project,1
+Tool & Platform,openoffice,1
+Tool & Platform,opensips,1
+Tool & Platform,openvas,1
+Tool & Platform,openwrt,1
+Tool & Platform,openziti,1
+Tool & Platform,operating pc machines,1
+Tool & Platform,operating system,1
+Tool & Platform,operating system fundamentals,1
+Tool & Platform,operational tooling,1
+Tool & Platform,opsgenie,1
+Tool & Platform,optimization profiler,1
+Tool & Platform,optimizely cms,1
+Tool & Platform,oracle cloud em,1
+Tool & Platform,oracle form/report,1
+Tool & Platform,oracle ofsaa,1
+Tool & Platform,oracle psft,1
+Tool & Platform,oracle sql delevoper data modeler,1
+Tool & Platform,oracle unified directory,1
+Tool & Platform,oralce,1
+Tool & Platform,orbweb,1
+Tool & Platform,os linux,1
+Tool & Platform,os scripting,1
+Tool & Platform,osb,1
+Tool & Platform,oss,1
+Tool & Platform,page builder,1
+Tool & Platform,pagerduty,1
+Tool & Platform,palo alto networks,1
+Tool & Platform,paloalto,1
+Tool & Platform,payment hub,1
+Tool & Platform,paypal,1
+Tool & Platform,pbx voip,1
+Tool & Platform,pc tools,1
+Tool & Platform,pega,1
+Tool & Platform,pencil,1
+Tool & Platform,perf,1
+Tool & Platform,perfetto,1
+Tool & Platform,permission sets,1
+Tool & Platform,permissions,1
+Tool & Platform,perplexity,1
+Tool & Platform,photoshop ai,1
+Tool & Platform,php ide,1
+Tool & Platform,phát triển hoặc tích hợp sdk,1
+Tool & Platform,phân quyền,1
+Tool & Platform,phương tiện giảng dạy hiện đại,1
+Tool & Platform,phần mềm ba,1
+Tool & Platform,phần mềm cae,1
+Tool & Platform,phần mềm crm,1
+Tool & Platform,phần mềm fm,1
+Tool & Platform,phần mềm giám sát cctv,1
+Tool & Platform,phần mềm kế toán,1
+Tool & Platform,phần mềm mô phỏng hệ thống/chuỗi cung ứng,1
+Tool & Platform,phần mềm quản lý công việc,1
+Tool & Platform,phần mềm quản lý công việc/ticket,1
+Tool & Platform,phần mềm soạn thảo,1
+Tool & Platform,phần mềm số hóa,1
+Tool & Platform,phần mềm thiết kế 3d,1
+Tool & Platform,pi/po,1
+Tool & Platform,ping directory services,1
+Tool & Platform,pingpongx,1
+Tool & Platform,pivot,1
+Tool & Platform,pivot table,1
+Tool & Platform,planning systems,1
+Tool & Platform,playfab,1
+Tool & Platform,pms,1
+Tool & Platform,pnpm,1
+Tool & Platform,poetry,1
+Tool & Platform,pos systems,1
+Tool & Platform,post processor,1
+Tool & Platform,power analyzers,1
+Tool & Platform,power platforms,1
+Tool & Platform,pr,1
+Tool & Platform,premier,1
+Tool & Platform,prettier,1
+Tool & Platform,process modelling software,1
+Tool & Platform,product roadmap tools,1
+Tool & Platform,production platforms,1
+Tool & Platform,profiles,1
+Tool & Platform,project,1
+Tool & Platform,proteus,1
+Tool & Platform,protocol analyzers,1
+Tool & Platform,prototype tools,1
+Tool & Platform,prototyping,1
+Tool & Platform,prplos,1
+Tool & Platform,ps,1
+Tool & Platform,psake,1
+Tool & Platform,psd,1
+Tool & Platform,publish app,1
+Tool & Platform,publishing apps on app store or google play,1
+Tool & Platform,publishing apps to google play,1
+Tool & Platform,publishing apps to the app store,1
+Tool & Platform,push notification services,1
+Tool & Platform,px4,1
+Tool & Platform,qgroundcontrol,1
+Tool & Platform,qnap,1
+Tool & Platform,quality management tools,1
+Tool & Platform,qualys,1
+Tool & Platform,quickbook,1
+Tool & Platform,quản lý backlog,1
+Tool & Platform,quản lý code,1
+Tool & Platform,quản lý dự án,1
+Tool & Platform,quản lý kho,1
+Tool & Platform,quản lý user,1
+Tool & Platform,quản lý user/service,1
+Tool & Platform,ragas,1
+Tool & Platform,raid log,1
+Tool & Platform,rapid7,1
+Tool & Platform,rasp,1
+Tool & Platform,rdi debugger,1
+Tool & Platform,rdp,1
+Tool & Platform,react native cli,1
+Tool & Platform,red hat linux,1
+Tool & Platform,red hat satellite,1
+Tool & Platform,red hat/rhel,1
+Tool & Platform,redhat enterprise linux,1
+Tool & Platform,remine,1
+Tool & Platform,remote and hybrid collaboration platforms,1
+Tool & Platform,remote monitoring tools,1
+Tool & Platform,reports,1
+Tool & Platform,requirement management tools,1
+Tool & Platform,revenue cat,1
+Tool & Platform,rf tools,1
+Tool & Platform,rhapsody design modeling,1
+Tool & Platform,risk matrix,1
+Tool & Platform,rive,1
+Tool & Platform,rman,1
+Tool & Platform,roadmap sản phẩm,1
+Tool & Platform,roadmunk,1
+Tool & Platform,roblox,1
+Tool & Platform,roblox studio,1
+Tool & Platform,robot operating system (ros,1
+Tool & Platform,rollbar,1
+Tool & Platform,ros2,1
+Tool & Platform,rose enterprise,1
+Tool & Platform,rsa netwitness,1
+Tool & Platform,s/4 hana,1
+Tool & Platform,s/4hana integration,1
+Tool & Platform,saber,1
+Tool & Platform,safety management tools,1
+Tool & Platform,sage,1
+Tool & Platform,salesforce administrator,1
+Tool & Platform,salesforce cloud,1
+Tool & Platform,salesforce crm,1
+Tool & Platform,salesforce developer,1
+Tool & Platform,salesforce.com,1
+Tool & Platform,sap analytics cloud,1
+Tool & Platform,sap analytics cloud (sac,1
+Tool & Platform,sap ariba,1
+Tool & Platform,sap bods,1
+Tool & Platform,sap btp cap,1
+Tool & Platform,sap bw transaction codes,1
+Tool & Platform,sap cloud connector,1
+Tool & Platform,sap commerce cloud,1
+Tool & Platform,sap cpi,1
+Tool & Platform,sap customer service (cs,1
+Tool & Platform,sap data migration tools,1
+Tool & Platform,sap data services,1
+Tool & Platform,sap eam,1
+Tool & Platform,sap fico,1
+Tool & Platform,sap gateway,1
+Tool & Platform,sap integration suite,1
+Tool & Platform,sap maintenance,1
+Tool & Platform,sap mobile services,1
+Tool & Platform,sap modules,1
+Tool & Platform,sap transportation management (tm,1
+Tool & Platform,sas,1
+Tool & Platform,scada,1
+Tool & Platform,schema management tools,1
+Tool & Platform,schema registry,1
+Tool & Platform,scom,1
+Tool & Platform,script tự động hoá,1
+Tool & Platform,search engine,1
+Tool & Platform,secure enclave,1
+Tool & Platform,security scanning tools,1
+Tool & Platform,security tooling,1
+Tool & Platform,security/code quality tools,1
+Tool & Platform,semgrep,1
+Tool & Platform,semrush,1
+Tool & Platform,sendgrid,1
+Tool & Platform,sensor tower,1
+Tool & Platform,sensortower,1
+Tool & Platform,seo on-page,1
+Tool & Platform,service center,1
+Tool & Platform,shell,1
+Tool & Platform,shell command,1
+Tool & Platform,shodan,1
+Tool & Platform,shopee,1
+Tool & Platform,shopee seller center,1
+Tool & Platform,shopify analytics,1
+Tool & Platform,shopify apps,1
+Tool & Platform,shopify themes,1
+Tool & Platform,siem/soar,1
+Tool & Platform,siemens,1
+Tool & Platform,sigma,1
+Tool & Platform,simulator,1
+Tool & Platform,simulators,1
+Tool & Platform,sis,1
+Tool & Platform,slack sdk,1
+Tool & Platform,smartvista,1
+Tool & Platform,sms/zns,1
+Tool & Platform,sniffer log,1
+Tool & Platform,snoop log,1
+Tool & Platform,soap ui,1
+Tool & Platform,social peta,1
+Tool & Platform,software configuration management tools,1
+Tool & Platform,solana,1
+Tool & Platform,solar2d,1
+Tool & Platform,solarwinds,1
+Tool & Platform,sonaqube,1
+Tool & Platform,sonarcloud,1
+Tool & Platform,source control management,1
+Tool & Platform,spark ui,1
+Tool & Platform,spectrum analyzers,1
+Tool & Platform,spm,1
+Tool & Platform,spreadsheets,1
+Tool & Platform,spy,1
+Tool & Platform,sql developer,1
+Tool & Platform,sql developer data modeler,1
+Tool & Platform,sql tools,1
+Tool & Platform,sqlmap,1
+Tool & Platform,ssh,1
+Tool & Platform,stable diffusion,1
+Tool & Platform,storyline,1
+Tool & Platform,strapi,1
+Tool & Platform,streamlit,1
+Tool & Platform,style dictionary,1
+Tool & Platform,stylecop,1
+Tool & Platform,sublime text,1
+Tool & Platform,submit app lên store,1
+Tool & Platform,supabase auth,1
+Tool & Platform,supabase realtime,1
+Tool & Platform,suse,1
+Tool & Platform,svg,1
+Tool & Platform,swagger apis,1
+Tool & Platform,swift,1
+Tool & Platform,swift package,1
+Tool & Platform,synology,1
+Tool & Platform,sysmon,1
+Tool & Platform,system profilers,1
+Tool & Platform,systemd,1
+Tool & Platform,systrace,1
+Tool & Platform,sơ đồ mạch điện,1
+Tool & Platform,sơ đồ điện,1
+Tool & Platform,sử dụng công nghệ thông tin,1
+Tool & Platform,t24 core banking,1
+Tool & Platform,tabnine,1
+Tool & Platform,talend,1
+Tool & Platform,tanium,1
+Tool & Platform,task management tools,1
+Tool & Platform,task scheduler,1
+Tool & Platform,teams-based conferencing,1
+Tool & Platform,tekla,1
+Tool & Platform,telegram bot api,1
+Tool & Platform,telnet,1
+Tool & Platform,temenos,1
+Tool & Platform,temenos data lake,1
+Tool & Platform,temporal,1
+Tool & Platform,tenable,1
+Tool & Platform,tenable nessus,1
+Tool & Platform,terminal,1
+Tool & Platform,terminal bench,1
+Tool & Platform,test cáp,1
+Tool & Platform,testlink,1
+Tool & Platform,tfvc,1
+Tool & Platform,themes shopify,1
+Tool & Platform,theo dõi ticket,1
+Tool & Platform,thingsboard,1
+Tool & Platform,tibco,1
+Tool & Platform,ticketing platforms,1
+Tool & Platform,ticketing systems,1
+Tool & Platform,tiki seller center,1
+Tool & Platform,tiled,1
+Tool & Platform,tms,1
+Tool & Platform,togaf,1
+Tool & Platform,ton network,1
+Tool & Platform,touchid,1
+Tool & Platform,trapcode,1
+Tool & Platform,trivy,1
+Tool & Platform,triển khai phần mềm,1
+Tool & Platform,troux,1
+Tool & Platform,tso/ispf,1
+Tool & Platform,turbo,1
+Tool & Platform,turborepo,1
+Tool & Platform,twilio,1
+Tool & Platform,tws,1
+Tool & Platform,tốc ký/đánh máy,1
+Tool & Platform,ui-ux,1
+Tool & Platform,ultimo,1
+Tool & Platform,unifi,1
+Tool & Platform,unity (3d,1
+Tool & Platform,"unity 2d, 3d",1
+Tool & Platform,unity ads,1
+Tool & Platform,unity development,1
+Tool & Platform,unity editor,1
+Tool & Platform,unity editor tools,1
+Tool & Platform,unity game development,1
+Tool & Platform,unity luna,1
+Tool & Platform,unix scripting,1
+Tool & Platform,unix server,1
+Tool & Platform,unix/linux commands,1
+Tool & Platform,unreal,1
+Tool & Platform,unreal engine 4,1
+Tool & Platform,unreal engine 5,1
+Tool & Platform,upsource,1
+Tool & Platform,upv,1
+Tool & Platform,usertesting.com,1
+Tool & Platform,uxpin,1
+Tool & Platform,v0,1
+Tool & Platform,v0.dev,1
+Tool & Platform,veritas,1
+Tool & Platform,version control system,1
+Tool & Platform,version control tools,1
+Tool & Platform,video conferencing,1
+Tool & Platform,virtualenv,1
+Tool & Platform,virus total,1
+Tool & Platform,visual c++ mfc,1
+Tool & Platform,visual studio 2019,1
+Tool & Platform,visual studio 2022,1
+Tool & Platform,vlookup,1
+Tool & Platform,vmix,1
+Tool & Platform,vnas,1
+Tool & Platform,voip push,1
+Tool & Platform,vom,1
+Tool & Platform,vs code,1
+Tool & Platform,vs studio,1
+Tool & Platform,vulnerability management tools,1
+Tool & Platform,vulnerability scanner,1
+Tool & Platform,vwo,1
+Tool & Platform,vẽ mô hình hệ thống,1
+Tool & Platform,w&b,1
+Tool & Platform,wacom,1
+Tool & Platform,waf,1
+Tool & Platform,walletconnect,1
+Tool & Platform,way4 core card system,1
+Tool & Platform,wazuh,1
+Tool & Platform,wbs,1
+Tool & Platform,web admin,1
+Tool & Platform,webflow,1
+Tool & Platform,webhook-based alert,1
+Tool & Platform,website,1
+Tool & Platform,website admin,1
+Tool & Platform,wifimanager,1
+Tool & Platform,windmill,1
+Tool & Platform,window,1
+Tool & Platform,window 10/11,1
+Tool & Platform,window servers,1
+Tool & Platform,windows 2012,1
+Tool & Platform,windows 2016,1
+Tool & Platform,windows authenticator,1
+Tool & Platform,windows client os,1
+Tool & Platform,windows iot enterprise ltsc,1
+Tool & Platform,windows operating system,1
+Tool & Platform,windows operating systems,1
+Tool & Platform,windows servers,1
+Tool & Platform,windows service,1
+Tool & Platform,windows services,1
+Tool & Platform,windows xp/7/8,1
+Tool & Platform,windsurf,1
+Tool & Platform,winserver,1
+Tool & Platform,wireframing tools,1
+Tool & Platform,wix,1
+Tool & Platform,wms,1
+Tool & Platform,wordpress plugin,1
+Tool & Platform,workato,1
+Tool & Platform,workday configuration,1
+Tool & Platform,workflow/approval,1
+Tool & Platform,worldfirst,1
+Tool & Platform,wpbakery,1
+Tool & Platform,xcode instruments,1
+Tool & Platform,xlookup,1
+Tool & Platform,xpeditor,1
+Tool & Platform,xsuaa,1
+Tool & Platform,xây dựng android sdk/,1
+Tool & Platform,xử lý mã nguồn,1
+Tool & Platform,yara,1
+Tool & Platform,yed graph editor,1
+Tool & Platform,yum,1
+Tool & Platform,zalo mini app,1
+Tool & Platform,zap,1
+Tool & Platform,zendesk,1
+Tool & Platform,zimbra,1
+Tool & Platform,đọc bản vẽ,1
+Tool & Platform,đọc bản vẽ kỹ thuật,1
+Tool & Platform,đọc và vẽ bản vẽ điện,1
+Tool & Platform,ứng dụng công nghệ thông tin,1
+Tool & Platform,ứng dụng văn phòng,1
