@@ -1,0 +1,914 @@
+category,normalized_skill,count
+Testing & QA,postman,68
+Testing & QA,selenium,59
+Testing & QA,kiểm thử phần mềm,56
+Testing & QA,testing,49
+Testing & QA,api testing,40
+Testing & QA,playwright,38
+Testing & QA,unit test,38
+Testing & QA,automation testing,34
+Testing & QA,jmeter,32
+Testing & QA,performance testing,31
+Testing & QA,software testing,31
+Testing & QA,test case,31
+Testing & QA,cypress,30
+Testing & QA,unit testing,29
+Testing & QA,viết test case,28
+Testing & QA,automation test,27
+Testing & QA,manual testing,27
+Testing & QA,test plan,27
+Testing & QA,quy trình kiểm thử phần mềm,24
+Testing & QA,tester,24
+Testing & QA,junit,21
+Testing & QA,kiểm thử,21
+Testing & QA,appium,20
+Testing & QA,qa,20
+Testing & QA,integration testing,19
+Testing & QA,jest,18
+Testing & QA,kiểm thử api,18
+Testing & QA,functional testing,17
+Testing & QA,integration test,17
+Testing & QA,test api,17
+Testing & QA,test automation,17
+Testing & QA,uat,17
+Testing & QA,regression testing,15
+Testing & QA,kiểm thử tự động,14
+Testing & QA,quy trình kiểm thử,14
+Testing & QA,security testing,14
+Testing & QA,unit tests,13
+Testing & QA,automation,12
+Testing & QA,cucumber,12
+Testing & QA,kiểm thử web,12
+Testing & QA,test report,12
+Testing & QA,api,11
+Testing & QA,test cases,11
+Testing & QA,công cụ test,10
+Testing & QA,pentest,10
+Testing & QA,performance test,10
+Testing & QA,stlc,10
+Testing & QA,test design,10
+Testing & QA,testng,10
+Testing & QA,automated testing,9
+Testing & QA,burp suite,9
+Testing & QA,soapui,9
+Testing & QA,katalon,8
+Testing & QA,kỹ thuật test,8
+Testing & QA,load testing,8
+Testing & QA,log bug,8
+Testing & QA,mockito,8
+Testing & QA,qa/qc,8
+Testing & QA,quality assurance,8
+Testing & QA,testrail,8
+Testing & QA,automation frameworks,7
+Testing & QA,k6,7
+Testing & QA,quy trình test,7
+Testing & QA,test,7
+Testing & QA,test case design,7
+Testing & QA,test data,7
+Testing & QA,test plans,7
+Testing & QA,test scenario,7
+Testing & QA,tester/qa,7
+Testing & QA,viết testcase,7
+Testing & QA,black box,6
+Testing & QA,checklist,6
+Testing & QA,data testing,6
+Testing & QA,kiểm thử hiệu năng,6
+Testing & QA,qa/tester,6
+Testing & QA,rest assured,6
+Testing & QA,robot,6
+Testing & QA,test strategy,6
+Testing & QA,web testing,6
+Testing & QA,detox,5
+Testing & QA,kiểm soát chất lượng,5
+Testing & QA,kiểm thử hệ thống,5
+Testing & QA,kiểm thử mobile app,5
+Testing & QA,kỹ thuật kiểm thử,5
+Testing & QA,manual test,5
+Testing & QA,mobile testing,5
+Testing & QA,nghiệm thu sản phẩm,5
+Testing & QA,non-functional testing,5
+Testing & QA,nunit,5
+Testing & QA,pqa,5
+Testing & QA,pytest,5
+Testing & QA,qc,5
+Testing & QA,regression,5
+Testing & QA,restassured,5
+Testing & QA,software testing methodologies,5
+Testing & QA,swagger,5
+Testing & QA,test automation frameworks,5
+Testing & QA,test manual,5
+Testing & QA,test performance,5
+Testing & QA,test planning,5
+Testing & QA,test scripts,5
+Testing & QA,test tự động,5
+Testing & QA,web,5
+Testing & QA,xray,5
+Testing & QA,zephyr,5
+Testing & QA,acceptance criteria,4
+Testing & QA,automation tools,4
+Testing & QA,bug report,4
+Testing & QA,công cụ kiểm thử tự động,4
+Testing & QA,database,4
+Testing & QA,database testing,4
+Testing & QA,debugging,4
+Testing & QA,integration tests,4
+Testing & QA,karate,4
+Testing & QA,kiểm thử dữ liệu,4
+Testing & QA,kiểm thử mobile,4
+Testing & QA,kiểm thử thủ công,4
+Testing & QA,kế hoạch kiểm thử,4
+Testing & QA,kịch bản kiểm thử,4
+Testing & QA,mobile,4
+Testing & QA,nmap,4
+Testing & QA,owasp zap,4
+Testing & QA,phương pháp kiểm thử,4
+Testing & QA,quality control,4
+Testing & QA,risk-based testing,4
+Testing & QA,sast,4
+Testing & QA,selenium webdriver,4
+Testing & QA,sit,4
+Testing & QA,software quality assurance,4
+Testing & QA,system test,4
+Testing & QA,test execution,4
+Testing & QA,test lead,4
+Testing & QA,test management,4
+Testing & QA,testing concepts,4
+Testing & QA,testing process,4
+Testing & QA,ui testing,4
+Testing & QA,xunit,4
+Testing & QA,backend testing,3
+Testing & QA,black-box testing,3
+Testing & QA,báo cáo lỗi,3
+Testing & QA,cross-browser testing,3
+Testing & QA,các giai đoạn kiểm thử,3
+Testing & QA,công cụ kiểm thủ,3
+Testing & QA,dast,3
+Testing & QA,defect management,3
+Testing & QA,design testcase,3
+Testing & QA,jmetter,3
+Testing & QA,kiểm thử app,3
+Testing & QA,kiểm thử bảo mật,3
+Testing & QA,kiểm thử sản phẩm phần mềm,3
+Testing & QA,kiểm thử tích hợp,3
+Testing & QA,kỹ thuật kiểm thử phần mềm,3
+Testing & QA,manual tester,3
+Testing & QA,metasploit,3
+Testing & QA,mocha,3
+Testing & QA,moq,3
+Testing & QA,nessus,3
+Testing & QA,performance,3
+Testing & QA,qa automation,3
+Testing & QA,qa lead,3
+Testing & QA,qa methodologies,3
+Testing & QA,quản lý chất lượng,3
+Testing & QA,react testing,3
+Testing & QA,regression test,3
+Testing & QA,sca,3
+Testing & QA,smoke testing,3
+Testing & QA,system testing,3
+Testing & QA,test app,3
+Testing & QA,test automation tools,3
+Testing & QA,test be,3
+Testing & QA,test cho người dùng cuối,3
+Testing & QA,test fe,3
+Testing & QA,test mobile,3
+Testing & QA,test scenarios,3
+Testing & QA,test script,3
+Testing & QA,test tích hợp,3
+Testing & QA,test web,3
+Testing & QA,testcase,3
+Testing & QA,testing methodologies,3
+Testing & QA,thiết kế test case,3
+Testing & QA,thiết kế testcase,3
+Testing & QA,tự động hóa kiểm thử,3
+Testing & QA,ui test,3
+Testing & QA,unit testing frameworks,3
+Testing & QA,white box,3
+Testing & QA,widget test,3
+Testing & QA,xây dựng test case,3
+Testing & QA,ai testing,2
+Testing & QA,allure,2
+Testing & QA,api automation,2
+Testing & QA,api testing tools,2
+Testing & QA,automated test scripts,2
+Testing & QA,automation regression test,2
+Testing & QA,automation test script,2
+Testing & QA,automation testing frameworks,2
+Testing & QA,automation testing tools,2
+Testing & QA,automation tests,2
+Testing & QA,bdd,2
+Testing & QA,bloodhound,2
+Testing & QA,bug,2
+Testing & QA,bug lifecycle,2
+Testing & QA,bug reporting,2
+Testing & QA,bug reports,2
+Testing & QA,bug tracking,2
+Testing & QA,báo cáo kiểm thử,2
+Testing & QA,cobalt strike,2
+Testing & QA,code coverage,2
+Testing & QA,context driven testing,2
+Testing & QA,cross- testing,2
+Testing & QA,cts,2
+Testing & QA,các loại test,2
+Testing & QA,data quality,2
+Testing & QA,data validation,2
+Testing & QA,debug,2
+Testing & QA,defect analysis,2
+Testing & QA,e2e test,2
+Testing & QA,espresso,2
+Testing & QA,frida,2
+Testing & QA,functional test,2
+Testing & QA,game tester,2
+Testing & QA,gtest,2
+Testing & QA,integration,2
+Testing & QA,katalon studio,2
+Testing & QA,kiểm thử chấp nhận,2
+Testing & QA,kiểm thử chức năng,2
+Testing & QA,kiểm thử hiệu suất,2
+Testing & QA,kiểm thử hồi quy,2
+Testing & QA,kiểm thử phi chức năng,2
+Testing & QA,kiểm thử tự động api,2
+Testing & QA,kiểm thử tự động hóa,2
+Testing & QA,kiểm thử tự động web,2
+Testing & QA,kiểm thử ui,2
+Testing & QA,kiểm thử xâm nhập,2
+Testing & QA,level test,2
+Testing & QA,linting,2
+Testing & QA,mobile app,2
+Testing & QA,mock,2
+Testing & QA,mocking,2
+Testing & QA,mockk,2
+Testing & QA,newman,2
+Testing & QA,nghiệm thu ux ui,2
+Testing & QA,penetration testing,2
+Testing & QA,performance testing tools,2
+Testing & QA,phpunit,2
+Testing & QA,quality assessment,2
+Testing & QA,quality engineering,2
+Testing & QA,quality improvement,2
+Testing & QA,quản lý bug,2
+Testing & QA,react-testing-,2
+Testing & QA,report bug,2
+Testing & QA,review testcase,2
+Testing & QA,rspec,2
+Testing & QA,security test,2
+Testing & QA,serenity,2
+Testing & QA,soap ui,2
+Testing & QA,software qa,2
+Testing & QA,software quality engineering,2
+Testing & QA,software testing automation,2
+Testing & QA,software testing methodology,2
+Testing & QA,software testing processes,2
+Testing & QA,specflow,2
+Testing & QA,test coverage,2
+Testing & QA,test data management,2
+Testing & QA,test game,2
+Testing & QA,test management tools,2
+Testing & QA,test mobile app (manual,2
+Testing & QA,test reports,2
+Testing & QA,test techniques,2
+Testing & QA,test ứng dụng web/app,2
+Testing & QA,testing ai systems,2
+Testing & QA,testing automation,2
+Testing & QA,testing mindset,2
+Testing & QA,testing processes,2
+Testing & QA,testing web,2
+Testing & QA,testplan,2
+Testing & QA,thực thi test,2
+Testing & QA,tracking lỗi,2
+Testing & QA,user acceptance test,2
+Testing & QA,vitest,2
+Testing & QA,viết bug,2
+Testing & QA,viết test,2
+Testing & QA,web application testing,2
+Testing & QA,web applications,2
+Testing & QA,webdriverio,2
+Testing & QA,white-box testing,2
+Testing & QA,wiremock,2
+Testing & QA,wireshark,2
+Testing & QA,writing test code,2
+Testing & QA,xây dựng kịch bản kiểm thử,2
+Testing & QA,7qc,1
+Testing & QA,8d,1
+Testing & QA,a/b test,1
+Testing & QA,a/b testing platforms,1
+Testing & QA,accessibility testing,1
+Testing & QA,agile tester,1
+Testing & QA,agile testing,1
+Testing & QA,ai evaluation,1
+Testing & QA,ai trong testing,1
+Testing & QA,ai-assisted testing,1
+Testing & QA,ai-assisted testing tools,1
+Testing & QA,ai-automation testing,1
+Testing & QA,ai-supported testing,1
+Testing & QA,air-cap,1
+Testing & QA,ai‑assisted testing,1
+Testing & QA,analyze existing scripts,1
+Testing & QA,anritsu md8475,1
+Testing & QA,api automation testing,1
+Testing & QA,api mocks/stubs,1
+Testing & QA,api restfull,1
+Testing & QA,api testing frameworks,1
+Testing & QA,api testing with postman,1
+Testing & QA,api-based integration,1
+Testing & QA,api/ backend automation,1
+Testing & QA,api/rest,1
+Testing & QA,apis,1
+Testing & QA,app testing,1
+Testing & QA,application penetration testing,1
+Testing & QA,architecting test frameworks,1
+Testing & QA,artillery,1
+Testing & QA,assertions,1
+Testing & QA,astrée,1
+Testing & QA,audit,1
+Testing & QA,audit dự án,1
+Testing & QA,audit về hệ thống quản lý chất lượng theo iso 9001,1
+Testing & QA,auto tester,1
+Testing & QA,auto-test cho web/mobile,1
+Testing & QA,autoit,1
+Testing & QA,automate manual testing,1
+Testing & QA,automated api testing,1
+Testing & QA,automated scripts,1
+Testing & QA,automated test,1
+Testing & QA,automated test cases,1
+Testing & QA,automated test coverage,1
+Testing & QA,automated tests,1
+Testing & QA,automated tools for security testing,1
+Testing & QA,automated ui testing,1
+Testing & QA,automated ui tests,1
+Testing & QA,automated unit testing,1
+Testing & QA,automated unit testing (aut,1
+Testing & QA,automated validation,1
+Testing & QA,automating android mobile apps,1
+Testing & QA,automating ios mobile apps,1
+Testing & QA,automating web applications,1
+Testing & QA,automation basics,1
+Testing & QA,automation design,1
+Testing & QA,automation qa,1
+Testing & QA,automation scripts,1
+Testing & QA,automation test engineer,1
+Testing & QA,aws device farm,1
+Testing & QA,axe-core,1
+Testing & QA,batch,1
+Testing & QA,batch testing,1
+Testing & QA,batch/reconciliation testing,1
+Testing & QA,behave,1
+Testing & QA,benchmarking,1
+Testing & QA,black box testing,1
+Testing & QA,bloc_test,1
+Testing & QA,boundary testing,1
+Testing & QA,browser test automation,1
+Testing & QA,browserstack,1
+Testing & QA,bug life cycle,1
+Testing & QA,bug-hunting,1
+Testing & QA,build,1
+Testing & QA,building test plan,1
+Testing & QA,báo cáo test,1
+Testing & QA,bảo mật ai,1
+Testing & QA,capybara,1
+Testing & QA,cdrouter,1
+Testing & QA,chai,1
+Testing & QA,chaos testing,1
+Testing & QA,check-list,1
+Testing & QA,checklist release,1
+Testing & QA,chiến lược kiểm thử,1
+Testing & QA,chromatic,1
+Testing & QA,chu trình kiểm thử,1
+Testing & QA,chuẩn bị audit,1
+Testing & QA,chuẩn bị báo cáo test,1
+Testing & QA,cloud-based testing platforms,1
+Testing & QA,code-level audits,1
+Testing & QA,codeui,1
+Testing & QA,compliance test,1
+Testing & QA,contract testing,1
+Testing & QA,contract-based testing,1
+Testing & QA,core testing concepts,1
+Testing & QA,cpp test,1
+Testing & QA,creating and executing test cases,1
+Testing & QA,cross browser testing,1
+Testing & QA,cross testing,1
+Testing & QA,các loại hình kiểm thử,1
+Testing & QA,công cụ fuzzing,1
+Testing & QA,công cụ hỗ trợ testing,1
+Testing & QA,công cụ kiểm thử,1
+Testing & QA,công cụ kiểm thử hiệu năng,1
+Testing & QA,công cụ kiểm thử mô hình ai,1
+Testing & QA,công cụ quản lý kiểm thử,1
+Testing & QA,công cụ quản lý lỗi,1
+Testing & QA,data pipeline/dataset quality validation,1
+Testing & QA,data tester,1
+Testing & QA,data validation techniques,1
+Testing & QA,data warehouse testing,1
+Testing & QA,data-driven testing,1
+Testing & QA,database validation,1
+Testing & QA,debug contract,1
+Testing & QA,debug trình duyệt,1
+Testing & QA,defect investigation,1
+Testing & QA,defect leakage,1
+Testing & QA,defect life cycle,1
+Testing & QA,defect management processes,1
+Testing & QA,defect management tools,1
+Testing & QA,defect reporting,1
+Testing & QA,defect tracking,1
+Testing & QA,defect tracking tools,1
+Testing & QA,delivery quality,1
+Testing & QA,dependency scanning,1
+Testing & QA,desktop application testing,1
+Testing & QA,device testing,1
+Testing & QA,devtest,1
+Testing & QA,dynamic analysis,1
+Testing & QA,dữ liệu test,1
+Testing & QA,e2e mobile automation,1
+Testing & QA,e2e test suites,1
+Testing & QA,e2e testing,1
+Testing & QA,e2e testing tools,1
+Testing & QA,embedded software test,1
+Testing & QA,embedded software verification and validation,1
+Testing & QA,end to end testing,1
+Testing & QA,end-to-end testing,1
+Testing & QA,endurance testing,1
+Testing & QA,enterprise testing practices,1
+Testing & QA,etl tesing,1
+Testing & QA,etl testing,1
+Testing & QA,exploratory,1
+Testing & QA,exploratory testing,1
+Testing & QA,feature testing,1
+Testing & QA,firebase test lab,1
+Testing & QA,flaui,1
+Testing & QA,flutter_test,1
+Testing & QA,fmea,1
+Testing & QA,formal verification,1
+Testing & QA,front-end testing,1
+Testing & QA,frv,1
+Testing & QA,full-stack testing,1
+Testing & QA,function testing,1
+Testing & QA,functional test suites,1
+Testing & QA,fundamental of software testing,1
+Testing & QA,funtional,1
+Testing & QA,fuzz testing,1
+Testing & QA,fuzzing,1
+Testing & QA,game testing,1
+Testing & QA,gatling,1
+Testing & QA,gherkin,1
+Testing & QA,ghi nhận lỗi,1
+Testing & QA,giai đoạn kiểm thử,1
+Testing & QA,giao diện (gui,1
+Testing & QA,golden datasets,1
+Testing & QA,google mobile services (gms) test suite,1
+Testing & QA,google test frameworks,1
+Testing & QA,great expectations,1
+Testing & QA,gts,1
+Testing & QA,gỡ lỗi và kiểm thử hệ thống nhúng,1
+Testing & QA,hồi quy,1
+Testing & QA,incident reports,1
+Testing & QA,intergration test,1
+Testing & QA,ios,1
+Testing & QA,iperf,1
+Testing & QA,ipqc,1
+Testing & QA,iqc,1
+Testing & QA,iso quality assurance,1
+Testing & QA,issue,1
+Testing & QA,issue tracking,1
+Testing & QA,it,1
+Testing & QA,it/testing,1
+Testing & QA,jmc,1
+Testing & QA,jupiter,1
+Testing & QA,kataion,1
+Testing & QA,keyword-driven,1
+Testing & QA,kiểm soát chất lượng quy trình,1
+Testing & QA,kiểm soát chất lượng sản phẩm,1
+Testing & QA,kiểm soát đảm bảo chất lượng,1
+Testing & QA,kiểm thử ai,1
+Testing & QA,kiểm thử attt ứng dụng,1
+Testing & QA,kiểm thử cho các dự án website/mobile,1
+Testing & QA,kiểm thử các dự án phần mềm,1
+Testing & QA,kiểm thử data pipeline,1
+Testing & QA,kiểm thử data warehouse,1
+Testing & QA,kiểm thử database,1
+Testing & QA,kiểm thử db,1
+Testing & QA,kiểm thử desktop app,1
+Testing & QA,kiểm thử dựa trên kinh nghiệm,1
+Testing & QA,kiểm thử etl,1
+Testing & QA,kiểm thử game,1
+Testing & QA,kiểm thử hiệu năng (performance testing,1
+Testing & QA,kiểm thử hiệu năng web,1
+Testing & QA,kiểm thử hệ thống video/audio real-time,1
+Testing & QA,kiểm thử hộp đen,1
+Testing & QA,kiểm thử mobileapp,1
+Testing & QA,kiểm thử mô hình,1
+Testing & QA,kiểm thử người dùng,1
+Testing & QA,kiểm thử phần cứng,1
+Testing & QA,kiểm thử phần mềm tự động,1
+Testing & QA,kiểm thử phần mềm với android,1
+Testing & QA,kiểm thử restful apis,1
+Testing & QA,kiểm thử sản phẩm,1
+Testing & QA,kiểm thử theo testcase,1
+Testing & QA,kiểm thử thành phần,1
+Testing & QA,kiểm thử thăm dò,1
+Testing & QA,kiểm thử trên app,1
+Testing & QA,kiểm thử trên các nền tảng mobile,1
+Testing & QA,kiểm thử trên các nền tảng web,1
+Testing & QA,kiểm thử trên các nền tảng windows,1
+Testing & QA,kiểm thử trên web,1
+Testing & QA,kiểm thử tích hợp api,1
+Testing & QA,kiểm thử tính năng,1
+Testing & QA,kiểm thử tự động mobile,1
+Testing & QA,kiểm thử tự động mobile app,1
+Testing & QA,kiểm thử tự động sql,1
+Testing & QA,kiểm thử tự động web ui,1
+Testing & QA,kiểm thử ut,1
+Testing & QA,kiểm thử website,1
+Testing & QA,kiểm thử đa nền tảng,1
+Testing & QA,kiểm thử đa trình duyệt,1
+Testing & QA,kiểm thử đoán lỗi,1
+Testing & QA,kiểm thử ứng dụng web,1
+Testing & QA,kiểm tra,1
+Testing & QA,kiểm tra an ninh an toàn cntt,1
+Testing & QA,kiểm tra các ứng dụng web,1
+Testing & QA,kiểm tra dữ liệu,1
+Testing & QA,kiểm tra lỗ hổng hệ thống,1
+Testing & QA,kiểm tra nghiệm thu,1
+Testing & QA,kiểm tra sản phẩm,1
+Testing & QA,kiểm tra sản phẩm điện tử,1
+Testing & QA,kiểm tra thủ công,1
+Testing & QA,kiểm định chất lượng phần mềm,1
+Testing & QA,kịch bản kiểm thử (uat,1
+Testing & QA,kỹ thuật testing,1
+Testing & QA,kỹ thuật thiết kế kiểm thử,1
+Testing & QA,kỹ thuật và các giai đoạn kiểm thử,1
+Testing & QA,lambda test,1
+Testing & QA,leading testing strategies,1
+Testing & QA,lint,1
+Testing & QA,llm-as-a-judge,1
+Testing & QA,load runner,1
+Testing & QA,load test,1
+Testing & QA,load/performance,1
+Testing & QA,loadrunner,1
+Testing & QA,localization testing,1
+Testing & QA,locust,1
+Testing & QA,log,1
+Testing & QA,lên kế hoạch cho các giai đoạn test,1
+Testing & QA,lên kế hoạch test,1
+Testing & QA,lập báo cáo kiểm thử,1
+Testing & QA,lập kế hoạch,1
+Testing & QA,lập kế hoạch kiểm thử,1
+Testing & QA,lập kế hoạch qa,1
+Testing & QA,lập trình trong jmetter,1
+Testing & QA,lỗ hổng ứng dụng,1
+Testing & QA,maestro,1
+Testing & QA,manual,1
+Testing & QA,manual functional testing,1
+Testing & QA,manual software testing,1
+Testing & QA,micro-service testing,1
+Testing & QA,microservices testing,1
+Testing & QA,mobile api,1
+Testing & QA,mobile application testing,1
+Testing & QA,mobile applications,1
+Testing & QA,mobile automation frameworks,1
+Testing & QA,mobile automation test,1
+Testing & QA,mobile automation testing,1
+Testing & QA,mobile debugging,1
+Testing & QA,mobile game testing,1
+Testing & QA,mobile software testing,1
+Testing & QA,mobsf,1
+Testing & QA,mock api,1
+Testing & QA,mockup api,1
+Testing & QA,modern testing methodologies,1
+Testing & QA,mountebank,1
+Testing & QA,ms test,1
+Testing & QA,mstest,1
+Testing & QA,mt2,1
+Testing & QA,mã nguồn,1
+Testing & QA,mô hình kiểm thử phần mềm,1
+Testing & QA,n2x,1
+Testing & QA,native apps,1
+Testing & QA,negative testing,1
+Testing & QA,neoload,1
+Testing & QA,nghiệm thu,1
+Testing & QA,nghiệp vụ test,1
+Testing & QA,nguyên tắc và phương pháp kiểm thử,1
+Testing & QA,non function testing,1
+Testing & QA,non functional testing,1
+Testing & QA,non-functional,1
+Testing & QA,non-ui testing,1
+Testing & QA,non‑functional testing,1
+Testing & QA,nsubtitude,1
+Testing & QA,nuclei,1
+Testing & QA,objection,1
+Testing & QA,oqc,1
+Testing & QA,osstmm,1
+Testing & QA,owasp,1
+Testing & QA,pact,1
+Testing & QA,penetration testing tools,1
+Testing & QA,pentest black-box,1
+Testing & QA,pentester,1
+Testing & QA,perfecto,1
+Testing & QA,performance checks,1
+Testing & QA,performance or load testing tools,1
+Testing & QA,performance tester,1
+Testing & QA,performance testing lighthouse,1
+Testing & QA,performance testing metrics,1
+Testing & QA,pest,1
+Testing & QA,phân tích kết quả kiểm thử,1
+Testing & QA,phân tích kết quả kiểm thử và báo cáo,1
+Testing & QA,phân tích kết quả test,1
+Testing & QA,phân tích lỗ hổng,1
+Testing & QA,phân tích lỗi,1
+Testing & QA,phân tích và phát hiện lỗi,1
+Testing & QA,phương pháp kiểm thử phần mềm,1
+Testing & QA,phần mềm test,1
+Testing & QA,pixel checking,1
+Testing & QA,pixel- perfect,1
+Testing & QA,playwright python,1
+Testing & QA,playwright typescript,1
+Testing & QA,polyspace,1
+Testing & QA,pom,1
+Testing & QA,postman collection runner,1
+Testing & QA,process qa,1
+Testing & QA,process quality assurance-pqa,1
+Testing & QA,product testing,1
+Testing & QA,protractor,1
+Testing & QA,puppeteer,1
+Testing & QA,pyunit,1
+Testing & QA,qa best practices,1
+Testing & QA,qa dự án theo quy trình cmmi,1
+Testing & QA,qa engineer,1
+Testing & QA,qa game tester,1
+Testing & QA,qa manager,1
+Testing & QA,qa process,1
+Testing & QA,qa processes,1
+Testing & QA,qa software tools,1
+Testing & QA,qa/testing,1
+Testing & QA,qase,1
+Testing & QA,qc management,1
+Testing & QA,qc processes,1
+Testing & QA,qc sản phẩm vaccine,1
+Testing & QA,qc/kiểm thử viên,1
+Testing & QA,qc/qa tester,1
+Testing & QA,qc/tester,1
+Testing & QA,qm,1
+Testing & QA,quality assurance automation,1
+Testing & QA,quality assurance principles,1
+Testing & QA,quality gate,1
+Testing & QA,quality management system,1
+Testing & QA,quy trình audit,1
+Testing & QA,quy trình báo cáo bug,1
+Testing & QA,quy trình bảo đảm chất lượng phần mềm,1
+Testing & QA,quy trình kiểm thử (stlc,1
+Testing & QA,quy trình kiểm thử phần mềm (stlc,1
+Testing & QA,quy trình kiểm thử phần mềm web,1
+Testing & QA,quy trình qc thủ công,1
+Testing & QA,quy trình và kỹ thuật test,1
+Testing & QA,quy trình đảm bảo phần mềm,1
+Testing & QA,quy trình/kiến thức kiểm thử phần mềm,1
+Testing & QA,quét lỗ hổng,1
+Testing & QA,quản lý lỗi,1
+Testing & QA,quản lý rủi ro chất lượng,1
+Testing & QA,quản lý test case,1
+Testing & QA,quản lý testcase,1
+Testing & QA,ragas,1
+Testing & QA,react native testing,1
+Testing & QA,recovery,1
+Testing & QA,regression test suites,1
+Testing & QA,release validation,1
+Testing & QA,report,1
+Testing & QA,report defects,1
+Testing & QA,report kết quả,1
+Testing & QA,reportportal,1
+Testing & QA,responsive test,1
+Testing & QA,responsive testing,1
+Testing & QA,responsive web testing,1
+Testing & QA,responsive web/mobile testing,1
+Testing & QA,rest api,1
+Testing & QA,rest apis,1
+Testing & QA,rest client,1
+Testing & QA,restsharp,1
+Testing & QA,retesting,1
+Testing & QA,reusable test design,1
+Testing & QA,review mã nguồn,1
+Testing & QA,review test case,1
+Testing & QA,review về thiết kế kiểm thử,1
+Testing & QA,risk-based,1
+Testing & QA,robolectric,1
+Testing & QA,run test case,1
+Testing & QA,run testcase,1
+Testing & QA,saas product testing,1
+Testing & QA,sanity testing,1
+Testing & QA,sast/dast,1
+Testing & QA,scalability,1
+Testing & QA,script kiểm thử tự động,1
+Testing & QA,sdet,1
+Testing & QA,security,1
+Testing & QA,security assessment,1
+Testing & QA,security scan,1
+Testing & QA,semgrep,1
+Testing & QA,senior qa,1
+Testing & QA,senior test,1
+Testing & QA,serenity bdd,1
+Testing & QA,setup môi trường test,1
+Testing & QA,shift-left,1
+Testing & QA,shift-left quality,1
+Testing & QA,soak testing,1
+Testing & QA,soap web services,1
+Testing & QA,software automation testing,1
+Testing & QA,software qc/qa,1
+Testing & QA,software tester/qa,1
+Testing & QA,software testing life cycle (stlc,1
+Testing & QA,software testing life cycle – stlc,1
+Testing & QA,software testing on mobile platforms,1
+Testing & QA,software testing process,1
+Testing & QA,software testing theories,1
+Testing & QA,software testing theory,1
+Testing & QA,software testing tools,1
+Testing & QA,software-in-the-loop (sil,1
+Testing & QA,source code review,1
+Testing & QA,spc,1
+Testing & QA,spike testing,1
+Testing & QA,sqa,1
+Testing & QA,sqlmap,1
+Testing & QA,st,1
+Testing & QA,static analysis,1
+Testing & QA,static analysis tools,1
+Testing & QA,static application security testing (sast,1
+Testing & QA,static check,1
+Testing & QA,stress testing,1
+Testing & QA,system integration test automation,1
+Testing & QA,system integration testing,1
+Testing & QA,system-level test strategy development,1
+Testing & QA,system-level testing,1
+Testing & QA,systerm test,1
+Testing & QA,template test case,1
+Testing & QA,test ai products,1
+Testing & QA,test analysis,1
+Testing & QA,test analysis and design,1
+Testing & QA,test and defect management,1
+Testing & QA,test app/web,1
+Testing & QA,test architecture,1
+Testing & QA,test automation cho mobile,1
+Testing & QA,test automation engineering,1
+Testing & QA,test automation for desktop applications,1
+Testing & QA,test automation scripts,1
+Testing & QA,test case cho llm output,1
+Testing & QA,test case creation,1
+Testing & QA,test case execution,1
+Testing & QA,test case management systems,1
+Testing & QA,test case writing,1
+Testing & QA,test cases development,1
+Testing & QA,test checklist,1
+Testing & QA,test cho ứng dụng web,1
+Testing & QA,test chức năng,1
+Testing & QA,test các dòng game puzzle,1
+Testing & QA,test các dự án phần mềm,1
+Testing & QA,test các hệ thống phần mềm,1
+Testing & QA,test design principles,1
+Testing & QA,test design techniques,1
+Testing & QA,test equipment,1
+Testing & QA,test estimation,1
+Testing & QA,test execution processes,1
+Testing & QA,test flow,1
+Testing & QA,test frameworks,1
+Testing & QA,test generation,1
+Testing & QA,test hiệu năng,1
+Testing & QA,test hệ thống web/app,1
+Testing & QA,test hệ thống web/app/mobile,1
+Testing & QA,test luồng dữ liệu,1
+Testing & QA,test manual cho web,1
+Testing & QA,test manual web application,1
+Testing & QA,test methodologies,1
+Testing & QA,test methodology,1
+Testing & QA,test metrics,1
+Testing & QA,test mobile app,1
+Testing & QA,test mạch,1
+Testing & QA,test processes,1
+Testing & QA,test pyramid,1
+Testing & QA,test responsive,1
+Testing & QA,test specifications,1
+Testing & QA,test suite,1
+Testing & QA,test sâu về game,1
+Testing & QA,test tooling,1
+Testing & QA,test tools,1
+Testing & QA,test trên nhiều thiết bị và nền tảng mobile,1
+Testing & QA,test trên nền tảng mobile,1
+Testing & QA,test web/api,1
+Testing & QA,test web/app,1
+Testing & QA,test website,1
+Testing & QA,test ứng dụng mobile trên ios,1
+Testing & QA,testable code,1
+Testing & QA,testcae,1
+Testing & QA,testcase review,1
+Testing & QA,testcomplete,1
+Testing & QA,tester manual,1
+Testing & QA,testing android tv platforms,1
+Testing & QA,testing api,1
+Testing & QA,testing automation design,1
+Testing & QA,testing chatbot,1
+Testing & QA,testing chatbots,1
+Testing & QA,testing cpes,1
+Testing & QA,testing data pipelines,1
+Testing & QA,testing digital software products and systems,1
+Testing & QA,testing documentation,1
+Testing & QA,testing engineer,1
+Testing & QA,testing frameworks,1
+Testing & QA,testing gpon ont/olt,1
+Testing & QA,testing integrations,1
+Testing & QA,testing life cycle,1
+Testing & QA,testing lifecycle,1
+Testing & QA,testing llm applications,1
+Testing & QA,testing methods and techniques,1
+Testing & QA,testing microservices,1
+Testing & QA,testing mobile,1
+Testing & QA,testing mobile or web applications,1
+Testing & QA,testing practices,1
+Testing & QA,testing routers,1
+Testing & QA,testing strategies,1
+Testing & QA,testing strategy,1
+Testing & QA,testing techniques,1
+Testing & QA,testing web applications,1
+Testing & QA,testing wi-fi aps,1
+Testing & QA,testing ứng dụng,1
+Testing & QA,testlink,1
+Testing & QA,tests,1
+Testing & QA,testsigma,1
+Testing & QA,"theo dõi, giám sát sửa lỗi",1
+Testing & QA,thiết kế kiểm thử,1
+Testing & QA,thiết kế kịch bản kiểm thử,1
+Testing & QA,thiết kế test plan,1
+Testing & QA,thiết kế và thực hiện các kịch bản kiểm thử,1
+Testing & QA,tiêu chuẩn và công cụ quản lý chất lượng,1
+Testing & QA,tra cứu nguyên nhân bug,1
+Testing & QA,tracking defects,1
+Testing & QA,tricentis neoload,1
+Testing & QA,tricentis tosca,1
+Testing & QA,troubleshoot script,1
+Testing & QA,trulens,1
+Testing & QA,trường hợp kiểm thử,1
+Testing & QA,tái tạo lỗi,1
+Testing & QA,tạo data test,1
+Testing & QA,tạo dữ liệu test,1
+Testing & QA,tạo ma trận testcase,1
+Testing & QA,tạo test data,1
+Testing & QA,tổ chức sắp xếp các tài liệu kiểm thử,1
+Testing & QA,uat management tools,1
+Testing & QA,uat planning,1
+Testing & QA,uat sessions,1
+Testing & QA,ui,1
+Testing & QA,ui automation,1
+Testing & QA,ui automation testing,1
+Testing & QA,ui responsive web application,1
+Testing & QA,uia lib,1
+Testing & QA,uiautomator,1
+Testing & QA,unit and integration testing,1
+Testing & QA,unit and integration tests,1
+Testing & QA,unit/integration testing,1
+Testing & QA,unit/integration tests,1
+Testing & QA,v&v strategy,1
+Testing & QA,validation processes,1
+Testing & QA,vapt,1
+Testing & QA,visual regression testing,1
+Testing & QA,viết bug report,1
+Testing & QA,viết kế hoạch kiểm thử,1
+Testing & QA,viết kịch bản,1
+Testing & QA,viết kịch bản kiểm thử,1
+Testing & QA,viết script,1
+Testing & QA,viết test design,1
+Testing & QA,viết test plan,1
+Testing & QA,viết tài liệu hdsd,1
+Testing & QA,vts,1
+Testing & QA,vulnerability analysis,1
+Testing & QA,vulnerability assessment,1
+Testing & QA,vòng đời bug,1
+Testing & QA,web services,1
+Testing & QA,web/mobile application testing,1
+Testing & QA,webdriver,1
+Testing & QA,white box testing,1
+Testing & QA,white-box,1
+Testing & QA,wi-fi testing,1
+Testing & QA,windows application,1
+Testing & QA,workload model,1
+Testing & QA,write professional test cases,1
+Testing & QA,write test cases,1
+Testing & QA,writing and executing test cases,1
+Testing & QA,writing and optimizing test scripts,1
+Testing & QA,writing test case,1
+Testing & QA,writing tests,1
+Testing & QA,ws,1
+Testing & QA,xctest,1
+Testing & QA,xcuitest,1
+Testing & QA,xunit.net,1
+Testing & QA,xác nhận bug,1
+Testing & QA,xác định rủi ro,1
+Testing & QA,xác định testcases,1
+Testing & QA,xây dựng kế hoạch kiểm thử hiệu năng,1
+Testing & QA,xây dựng tài liệu kiểm thử,1
+Testing & QA,zap,1
+Testing & QA,điều phối nhóm qa,1
+Testing & QA,đo lường rag,1
+Testing & QA,đánh giá attt,1
+Testing & QA,đánh giá bảo mật cho ứng dụng mobile,1
+Testing & QA,đánh giá chất lượng kỹ thuật,1
+Testing & QA,đánh giá lỗ hổng bảo mật,1
+Testing & QA,đánh giá rủi ro,1
+Testing & QA,đánh giá whitebox,1
+Testing & QA,đảm bảo chất lượng,1
+Testing & QA,đảm bảo chất lượng phần mềm,1
+Testing & QA,ước lượng nỗ lực kiểm thử,1

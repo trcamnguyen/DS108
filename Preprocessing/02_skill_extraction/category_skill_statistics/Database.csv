@@ -1,0 +1,357 @@
+category,normalized_skill,count
+Database,sql,451
+Database,postgresql,297
+Database,mysql,292
+Database,mongodb,176
+Database,oracle,172
+Database,redis,146
+Database,nosql,126
+Database,sql server,117
+Database,elasticsearch,52
+Database,database,44
+Database,cơ sở dữ liệu,34
+Database,relational databases,32
+Database,rdbms,28
+Database,cơ sở dữ liệu quan hệ,23
+Database,ms sql,22
+Database,databases,21
+Database,sqlite,21
+Database,mariadb,19
+Database,vector database,18
+Database,milvus,17
+Database,vector databases,17
+Database,oracle database,15
+Database,cassandra,14
+Database,microsoft sql server,14
+Database,mssql,13
+Database,qdrant,13
+Database,ms sql server,12
+Database,pinecone,12
+Database,weaviate,12
+Database,dynamodb,11
+Database,elastic search,11
+Database,indexing,11
+Database,nosql databases,11
+Database,realm,10
+Database,clickhouse,9
+Database,faiss,8
+Database,memcached,8
+Database,thiết kế csdl,8
+Database,vector db,8
+Database,csdl,7
+Database,graph databases,7
+Database,pgvector,7
+Database,pl/sql,7
+Database,stored procedure,7
+Database,csdl quan hệ,6
+Database,db2,6
+Database,dbms,6
+Database,hbase,6
+Database,hệ quản trị cơ sở dữ liệu,6
+Database,rds,6
+Database,sqlserver,6
+Database,db,5
+Database,index,5
+Database,mongo db,5
+Database,mô hình dữ liệu quan hệ,5
+Database,sql databases,5
+Database,data guard,4
+Database,database management,4
+Database,database oracle,4
+Database,database servers,4
+Database,ibm db2,4
+Database,microsoft sql,4
+Database,my sql,4
+Database,neo4j,4
+Database,no-sql,4
+Database,opensearch,4
+Database,plsql,4
+Database,quản trị cơ sở dữ liệu,4
+Database,redshift,4
+Database,relational database,4
+Database,room,4
+Database,solr,4
+Database,stored procedures,4
+Database,thiết kế cơ sở dữ liệu,4
+Database,thiết kế database,4
+Database,thiết kế db,4
+Database,chromadb,3
+Database,core data,3
+Database,data modeling,3
+Database,database administration,3
+Database,database administrator,3
+Database,database systems,3
+Database,firestore,3
+Database,hive,3
+Database,jsonb,3
+Database,mssql server,3
+Database,netezza,3
+Database,nosql database,3
+Database,oracle rac,3
+Database,relational database design,3
+Database,replication,3
+Database,t-sql,3
+Database,timescaledb,3
+Database,vectordb,3
+Database,access,2
+Database,aerospike,2
+Database,apache cassandra,2
+Database,azure sql database,2
+Database,cds views,2
+Database,cloudflare vectorize,2
+Database,coredata,2
+Database,cosmos db,2
+Database,cosmosdb,2
+Database,csdl sql,2
+Database,cơ sở dữ liệu phi quan hệ,2
+Database,database concepts,2
+Database,database design,2
+Database,database management system,2
+Database,dataverse,2
+Database,db design,2
+Database,elasticache,2
+Database,graph database,2
+Database,hệ cơ sở dữ liệu,2
+Database,hệ quản trị csdl,2
+Database,hệ thống cơ sở dữ liệu,2
+Database,influxdb,2
+Database,isar,2
+Database,nonsql,2
+Database,nosql products,2
+Database,oracle db,2
+Database,postgre,2
+Database,postgres sql,2
+Database,query,2
+Database,quản trị csdl,2
+Database,rac,2
+Database,relational db,2
+Database,restore,2
+Database,room database,2
+Database,sap hana,2
+Database,sap hana database,2
+Database,snowflake,2
+Database,sqflite,2
+Database,sql database,2
+Database,store procedure,2
+Database,swiftdata,2
+Database,tigergraph,2
+Database,truy vấn dữ liệu,2
+Database,vector dbs,2
+Database,vespadb,2
+Database,acid properties,1
+Database,acid transactions,1
+Database,active data guard,1
+Database,alwayson availability group,1
+Database,amazon aurona,1
+Database,amazon nepture,1
+Database,amdp,1
+Database,apache hbase,1
+Database,apache pinot,1
+Database,asm,1
+Database,aurora,1
+Database,auroradb,1
+Database,aws aurora,1
+Database,aws database services,1
+Database,aws elasticache,1
+Database,azure ai search,1
+Database,azure database,1
+Database,azure postgresql,1
+Database,backup,1
+Database,backup and recovery,1
+Database,backup restore database,1
+Database,backup/recovery,1
+Database,backup/restore,1
+Database,bảo mật csdl,1
+Database,cache redis,1
+Database,calculation views,1
+Database,cdc (change data capture,1
+Database,chroma,1
+Database,cloud datastore,1
+Database,cockroachdb,1
+Database,csdl có cấu trúc,1
+Database,csdl quản hệ,1
+Database,csdl rdbms,1
+Database,ctes,1
+Database,"cài đặt, quản trị database server",1
+Database,câu lệnh truy vấn,1
+Database,cơ sở dữ liệu,1
+Database,cơ sở dữ liệu không quan hệ,1
+Database,cơ sở dữ liệu nosql,1
+Database,cơ sở dữ liệu quan hệ (rdbms,1
+Database,cơ sở dữ liệu thời gian thực,1
+Database,cấu trúc cơ sở dữ liệu,1
+Database,cấu trúc database,1
+Database,data consistency,1
+Database,data query,1
+Database,data storage,1
+Database,data stores,1
+Database,data system,1
+Database,database (sql) management,1
+Database,database developer,1
+Database,database dumps,1
+Database,database engineering,1
+Database,database modeling,1
+Database,database operations,1
+Database,database optimisation,1
+Database,database quan hệ,1
+Database,database query languages,1
+Database,database relationships,1
+Database,database scaling,1
+Database,database schema,1
+Database,database security,1
+Database,database structure,1
+Database,database technology,1
+Database,db schemas,1
+Database,db troubleshooting,1
+Database,dba,1
+Database,document db modeling and design,1
+Database,documentdb,1
+Database,drift,1
+Database,dynamonddb,1
+Database,edb,1
+Database,elastics search,1
+Database,elaticsearch,1
+Database,entity relationship,1
+Database,erd,1
+Database,execution plan,1
+Database,explain,1
+Database,firebase,1
+Database,flyway,1
+Database,function,1
+Database,golden gate,1
+Database,goldengate,1
+Database,google bigtable,1
+Database,graph base,1
+Database,graph db,1
+Database,hazelcast,1
+Database,high availability database,1
+Database,hệ csdl sql,1
+Database,hệ thống quản trị dữ liệu,1
+Database,ims/ims db,1
+Database,in-memory databases,1
+Database,index data,1
+Database,indexing strategies,1
+Database,internal databases,1
+Database,kvs,1
+Database,liquibase,1
+Database,local database,1
+Database,locking,1
+Database,log shipping,1
+Database,làm việc với database với số lượng bản ghi lớn,1
+Database,lập trình database,1
+Database,maria db,1
+Database,memcache,1
+Database,microsoft sql server database,1
+Database,mirorring,1
+Database,model databases,1
+Database,ms access,1
+Database,ms sql database server,1
+Database,ms sqlserver,1
+Database,ms stored procedure,1
+Database,mô hình dữ liệu,1
+Database,netteza,1
+Database,ngôn ngữ lập trình csdl,1
+Database,no sql,1
+Database,no sql database,1
+Database,no sql db,1
+Database,non-relational database,1
+Database,non-sql database,1
+Database,normalization,1
+Database,nosql db,1
+Database,nosql graph base,1
+Database,nền tảng lưu trữ dữ liệu,1
+Database,objectbox,1
+Database,oql,1
+Database,oracle 12c,1
+Database,oracle database 12c,1
+Database,oracle database administration,1
+Database,oracle sql,1
+Database,oracle sql/plsql,1
+Database,partion data,1
+Database,partitioning,1
+Database,percona mysql,1
+Database,phi quan hệ,1
+Database,pl-sql,1
+Database,polyglot persistence,1
+Database,posgres,1
+Database,posgresql,1
+Database,postgre sql,1
+Database,postgree,1
+Database,postgreesql,1
+Database,postgresql clustering,1
+Database,postgresql replication,1
+Database,postgress,1
+Database,postgressql,1
+Database,query dsl,1
+Database,query plan,1
+Database,quản lý cơ sở dữ liệu,1
+Database,quản trị hệ thống cơ sở dữ liệu,1
+Database,quản trị hệ thống cơ sở dữ liệu ms sql,1
+Database,quản trị hệ thống dữ liệu,1
+Database,"quản trị, vận hành csdl",1
+Database,read replica,1
+Database,realm swift,1
+Database,realmswift,1
+Database,reddis,1
+Database,redis cache,1
+Database,redis cluster,1
+Database,redis pub-sub,1
+Database,redis queue,1
+Database,redis/queue,1
+Database,relational database modeling and design,1
+Database,replications,1
+Database,saql,1
+Database,search engine,1
+Database,search engines,1
+Database,search/indexing engines,1
+Database,server,1
+Database,sharedpreferences,1
+Database,slow query log,1
+Database,soql,1
+Database,sosl,1
+Database,sql nâng cao,1
+Database,sql queries,1
+Database,sql querying,1
+Database,sql scripts,1
+Database,sql server 2016,1
+Database,sql server high availability,1
+Database,sql sever,1
+Database,sql-server,1
+Database,sql/nosql,1
+Database,sql/plsql,1
+Database,storedprocedure,1
+Database,teradata,1
+Database,thao tác cơ sở dữ liệu,1
+Database,thiết kế bảng cho dữ liệu tài chính,1
+Database,thiết kế database chuẩn hóa (3nf,1
+Database,thiết kế hệ thống csdl sql,1
+Database,thiết kế và triển khai cơ sở dữ liệu,1
+Database,thiết kế và tối ưu cơ sở dữ liệu,1
+Database,"thiết kế, chuẩn hóa, tối ưu database",1
+Database,"thiết kế, tối ưu database",1
+Database,"thiết kế, xây dựng csdl",1
+Database,tidb,1
+Database,time-series database,1
+Database,timesten db,1
+Database,transaction,1
+Database,transactional data modelling,1
+Database,triggers,1
+Database,truy vấn database,1
+Database,truy vấn với các hệ cơ sở dữ liệu,1
+Database,tư duy cơ sở dữ liệu,1
+Database,tối ưu bảng dữ liệu lớn,1
+Database,tối ưu database,1
+Database,view,1
+Database,vitese,1
+Database,viết store procedure,1
+Database,viết truy vấn,1
+Database,viết truy vấn csdl,1
+Database,vsam,1
+Database,vận hành db,1
+Database,"vận hành, bảo dưỡng, giám sát, bảo mật đối với cơ sở dữ liệu",1
+Database,window functions,1
+Database,write queries,1
+Database,xây dựng cơ sở dữ liệu,1
+Database,xử lý cơ sở dữ liệu,1
+Database,yugabytedb,1
+Database,đồng bộ csdl,1

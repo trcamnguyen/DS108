@@ -1,0 +1,1289 @@
+category,normalized_skill,count
+Soft Skill,giao tiếp,839
+Soft Skill,làm việc nhóm,546
+Soft Skill,tiếng anh,541
+Soft Skill,english,473
+Soft Skill,giải quyết vấn đề,402
+Soft Skill,tư duy logic,379
+Soft Skill,communication,355
+Soft Skill,problem-solving,289
+Soft Skill,làm việc độc lập,239
+Soft Skill,teamwork,163
+Soft Skill,thuyết trình,121
+Soft Skill,phân tích,116
+Soft Skill,trình bày,106
+Soft Skill,tiếng nhật,103
+Soft Skill,lập kế hoạch,94
+Soft Skill,tư duy hệ thống,88
+Soft Skill,quản lý thời gian,85
+Soft Skill,leadership,74
+Soft Skill,analytical,73
+Soft Skill,làm việc theo nhóm,71
+Soft Skill,quản lý dự án,64
+Soft Skill,đàm phán,60
+Soft Skill,stakeholder management,53
+Soft Skill,japanese,49
+Soft Skill,mentoring,48
+Soft Skill,collaboration,47
+Soft Skill,logical thinking,47
+Soft Skill,lãnh đạo,44
+Soft Skill,analytical thinking,40
+Soft Skill,time management,39
+Soft Skill,quản lý,38
+Soft Skill,tư duy phản biện,38
+Soft Skill,đào tạo,38
+Soft Skill,presentation,37
+Soft Skill,tư duy phân tích,37
+Soft Skill,tư duy sản phẩm,36
+Soft Skill,problem solving,35
+Soft Skill,đọc hiểu tài liệu tiếng anh,35
+Soft Skill,quản lý nhóm,33
+Soft Skill,quản lý công việc,32
+Soft Skill,project management,30
+Soft Skill,troubleshooting,30
+Soft Skill,phân tích và giải quyết vấn đề,29
+Soft Skill,xử lý vấn đề,29
+Soft Skill,english communication,27
+Soft Skill,đọc hiểu tài liệu kỹ thuật,27
+Soft Skill,phối hợp nhóm,26
+Soft Skill,nghiên cứu,25
+Soft Skill,tổ chức công việc,25
+Soft Skill,negotiation,22
+Soft Skill,ra quyết định,21
+Soft Skill,team management,21
+Soft Skill,vietnamese,21
+Soft Skill,báo cáo,20
+Soft Skill,critical thinking,20
+Soft Skill,product owner,20
+Soft Skill,quản lý team,20
+Soft Skill,tiếng trung,20
+Soft Skill,tư duy chiến lược,20
+Soft Skill,xử lý sự cố,20
+Soft Skill,documentation,19
+Soft Skill,logic,19
+Soft Skill,phối hợp,19
+Soft Skill,tổ chức,19
+Soft Skill,technical leadership,18
+Soft Skill,đọc hiểu tài liệu kỹ thuật tiếng anh,18
+Soft Skill,phân tích vấn đề,16
+Soft Skill,team player,16
+Soft Skill,mentor,15
+Soft Skill,product mindset,15
+Soft Skill,project manager,15
+Soft Skill,research,15
+Soft Skill,technical lead,15
+Soft Skill,giao tiếp tiếng anh,14
+Soft Skill,lead team,14
+Soft Skill,product management,14
+Soft Skill,tech lead,14
+Soft Skill,tư duy,14
+Soft Skill,tư duy sáng tạo,14
+Soft Skill,viết tài liệu,14
+Soft Skill,chinese,13
+Soft Skill,communicate,13
+Soft Skill,sáng tạo,13
+Soft Skill,coaching,12
+Soft Skill,interpersonal,12
+Soft Skill,phản biện,12
+Soft Skill,pm,12
+Soft Skill,risk management,12
+Soft Skill,system thinking,12
+Soft Skill,team leader,12
+Soft Skill,thuyết phục,12
+Soft Skill,organizational,11
+Soft Skill,product thinking,11
+Soft Skill,team lead,11
+Soft Skill,work independently,11
+Soft Skill,điều phối,11
+Soft Skill,giải quyết các vấn đề,10
+Soft Skill,quản lý tiến độ,10
+Soft Skill,quản lý đội nhóm,10
+Soft Skill,tư vấn,10
+Soft Skill,đọc hiểu tài liệu,10
+Soft Skill,product manager,9
+Soft Skill,trình bày vấn đề,9
+Soft Skill,leader,8
+Soft Skill,làm việc với khách hàng,8
+Soft Skill,lắng nghe,8
+Soft Skill,phân tích và xử lý vấn đề,8
+Soft Skill,project coordination,8
+Soft Skill,quản lý deadline,8
+Soft Skill,tiếng anh giao tiếp,8
+Soft Skill,tiếng hàn,8
+Soft Skill,truyền đạt,8
+Soft Skill,tư vấn giải pháp,8
+Soft Skill,communication in english,7
+Soft Skill,giảng dạy,7
+Soft Skill,korean,7
+Soft Skill,lead,7
+Soft Skill,people management,7
+Soft Skill,phân tích và xử lý sự cố,7
+Soft Skill,quản trị dự án,7
+Soft Skill,tiếng việt,7
+Soft Skill,trình bày giải pháp,7
+Soft Skill,coordination,6
+Soft Skill,dẫn dắt kỹ thuật,6
+Soft Skill,dẫn dắt đội nhóm,6
+Soft Skill,facilitation,6
+Soft Skill,giao tiếp bằng tiếng anh,6
+Soft Skill,làm việc đội nhóm,6
+Soft Skill,lãnh đạo nhóm,6
+Soft Skill,quản lý rủi ro,6
+Soft Skill,reporting,6
+Soft Skill,stakeholder communication,6
+Soft Skill,tư duy lập trình,6
+Soft Skill,work in a team,6
+Soft Skill,working with japanese clients,6
+Soft Skill,change management,5
+Soft Skill,chăm sóc khách hàng,5
+Soft Skill,conflict resolution,5
+Soft Skill,cskh,5
+Soft Skill,dẫn dắt team,5
+Soft Skill,german,5
+Soft Skill,giải quyết xung đột,5
+Soft Skill,korean language,5
+Soft Skill,phân tích logic,5
+Soft Skill,presentations,5
+Soft Skill,quản lý xung đột,5
+Soft Skill,team building,5
+Soft Skill,team work,5
+Soft Skill,technical reporting,5
+Soft Skill,tiếng anh chuyên ngành,5
+Soft Skill,training,5
+Soft Skill,tổ chức và quản lý công việc,5
+Soft Skill,viết báo cáo,5
+Soft Skill,điều phối công việc,5
+Soft Skill,đào tạo người dùng,5
+Soft Skill,analytical mindset,4
+Soft Skill,business acumen,4
+Soft Skill,business analyst,4
+Soft Skill,collaborate,4
+Soft Skill,customer service,4
+Soft Skill,data storytelling,4
+Soft Skill,decision-making,4
+Soft Skill,dẫn dắt,4
+Soft Skill,giải quyết sự cố,4
+Soft Skill,làm báo cáo,4
+Soft Skill,làm việc với stakeholder,4
+Soft Skill,nghiên cứu công nghệ mới,4
+Soft Skill,ngữ pháp,4
+Soft Skill,phân tích thông tin,4
+Soft Skill,phối hợp đội nhóm,4
+Soft Skill,planning,4
+Soft Skill,problem‑solving,4
+Soft Skill,quản lý stakeholder,4
+Soft Skill,solve problems,4
+Soft Skill,strategic thinking,4
+Soft Skill,technical leader,4
+Soft Skill,thương lượng,4
+Soft Skill,tiếng hoa,4
+Soft Skill,truyền cảm hứng,4
+Soft Skill,trình bày ý tưởng,4
+Soft Skill,trưởng nhóm,4
+Soft Skill,từ vựng,4
+Soft Skill,tự học,4
+Soft Skill,vendor management,4
+Soft Skill,work as part of a team,4
+Soft Skill,work collaboratively,4
+Soft Skill,điều phối dự án,4
+Soft Skill,đào tạo nội bộ,4
+Soft Skill,đánh giá và phân tích nội dung tiếng anh,4
+Soft Skill,đọc hiểu tiếng anh,4
+Soft Skill,đọc hiểu tài liệu bằng tiếng anh,4
+Soft Skill,đọc hiểu tài liệu kỹ thuật bằng tiếng anh,4
+Soft Skill,analytical and problem-solving,3
+Soft Skill,anh văn,3
+Soft Skill,brse,3
+Soft Skill,budget control,3
+Soft Skill,communicate effectively,3
+Soft Skill,creativity,3
+Soft Skill,data-driven,3
+Soft Skill,dẫn dắt nhóm,3
+Soft Skill,influence stakeholders,3
+Soft Skill,it project management,3
+Soft Skill,kết nối đội nhóm,3
+Soft Skill,leading a team,3
+Soft Skill,leading and coaching,3
+Soft Skill,logical reasoning,3
+Soft Skill,làm việc trong nhóm,3
+Soft Skill,làm việc với khách hàng nước ngoài,3
+Soft Skill,làm việc với vendor,3
+Soft Skill,lãnh đạo kỹ thuật,3
+Soft Skill,lên kế hoạch,3
+Soft Skill,lập báo cáo,3
+Soft Skill,managing,3
+Soft Skill,mentoring engineers,3
+Soft Skill,mô tả vấn đề,3
+Soft Skill,nghiên cứu thị trường,3
+Soft Skill,organizational abilities,3
+Soft Skill,phân tích sản phẩm,3
+Soft Skill,phân tích thị trường,3
+Soft Skill,phân tích và ra quyết định,3
+Soft Skill,po,3
+Soft Skill,presales,3
+Soft Skill,product-oriented mindset,3
+Soft Skill,project planning,3
+Soft Skill,public speaking,3
+Soft Skill,quản lý chi phí,3
+Soft Skill,quản lý nguồn lực,3
+Soft Skill,quản lý đội ngũ,3
+Soft Skill,quản trị rủi ro,3
+Soft Skill,ra quyết định dựa trên dữ liệu,3
+Soft Skill,resource management,3
+Soft Skill,system-thinking,3
+Soft Skill,team collaboration,3
+Soft Skill,techlead,3
+Soft Skill,technology leadership,3
+Soft Skill,troubleshoot,3
+Soft Skill,tư duy dịch vụ khách hàng,3
+Soft Skill,tư duy logic game,3
+Soft Skill,tư duy độc lập,3
+Soft Skill,tự nghiên cứu,3
+Soft Skill,viết tài liệu kỹ thuật,3
+Soft Skill,xây dựng mối quan hệ,3
+Soft Skill,xử lý vấn đề logic,3
+Soft Skill,điều phối liên phòng ban,3
+Soft Skill,điều phối nhân sự,3
+Soft Skill,điều phối nhóm,3
+Soft Skill,điều phối đội nhóm,3
+Soft Skill,đọc hiểu tài liệu nghiệp vụ,3
+Soft Skill,analysis,2
+Soft Skill,analytical ability,2
+Soft Skill,biên soạn tài liệu,2
+Soft Skill,business analysis,2
+Soft Skill,bán hàng,2
+Soft Skill,báo cáo rủi ro kỹ thuật,2
+Soft Skill,client-facing,2
+Soft Skill,communicates clearly,2
+Soft Skill,communicating,2
+Soft Skill,comprehend technical documents,2
+Soft Skill,conflict management,2
+Soft Skill,crisis management,2
+Soft Skill,cross-functional teams,2
+Soft Skill,customer-centric,2
+Soft Skill,delegation,2
+Soft Skill,"diễn đạt, trình bày",2
+Soft Skill,dẫn dắt workshop,2
+Soft Skill,french,2
+Soft Skill,giải quyết bài toán phức tạp,2
+Soft Skill,hướng dẫn,2
+Soft Skill,hợp tác,2
+Soft Skill,independent thinking,2
+Soft Skill,job management,2
+Soft Skill,kỹ năng sư phạm,2
+Soft Skill,leading software development teams,2
+Soft Skill,leading teams,2
+Soft Skill,leading technical initiatives,2
+Soft Skill,logical and analytical thinking,2
+Soft Skill,làm tài liệu,2
+Soft Skill,làm việc hợp tác,2
+Soft Skill,làm việc khách hang,2
+Soft Skill,làm việc liên phòng ban,2
+Soft Skill,làm việc theo team,2
+Soft Skill,"làm việc theo đội, nhóm",2
+Soft Skill,làm việc trong các nhóm dự án,2
+Soft Skill,làm việc trực tiếp với khách hàng,2
+Soft Skill,làm việc với khách hàng doanh nghiệp,2
+Soft Skill,làm việc với khách hàng nhật bản,2
+Soft Skill,làm việc với nhiều bên liên quan,2
+Soft Skill,làm việc với nhà cung cấp,2
+Soft Skill,làm việc đa nhiệm,2
+Soft Skill,lãnh đạo đội nhóm,2
+Soft Skill,lập kế hoạch và tổ chức công việc,2
+Soft Skill,lập luận logic,2
+Soft Skill,manage multiple projects,2
+Soft Skill,manage multiple tasks,2
+Soft Skill,management,2
+Soft Skill,mentor team,2
+Soft Skill,mentor/coach,2
+Soft Skill,mentorship,2
+Soft Skill,nghiên cứu các công nghệ mới,2
+Soft Skill,nghiên cứu giải pháp công nghệ,2
+Soft Skill,nghiên cứu độc lập,2
+Soft Skill,people leadership,2
+Soft Skill,phân tích nghiệp vụ,2
+Soft Skill,phân tích rủi ro,2
+Soft Skill,phân tích tình huống và xử lý vấn đề,2
+Soft Skill,"phân tích, xử lý sự cố",2
+Soft Skill,phòng ngừa rủi ro,2
+Soft Skill,phản biện logic,2
+Soft Skill,phỏng vấn người dùng,2
+Soft Skill,phối hợp hiệu quả,2
+Soft Skill,phối hợp liên phòng ban,2
+Soft Skill,phối hợp làm việc,2
+Soft Skill,phối hợp tốt với các nhóm,2
+Soft Skill,presenting,2
+Soft Skill,problem solver,2
+Soft Skill,project estimation,2
+Soft Skill,project leader,2
+Soft Skill,quản lý con người,2
+Soft Skill,quản lý công việc cá nhân,2
+Soft Skill,quản lý công việc và thời gian,2
+Soft Skill,quản lý dự án công nghệ,2
+Soft Skill,quản lý ngân sách,2
+Soft Skill,quản lý nhiều công việc,2
+Soft Skill,quản lý nhân sự,2
+Soft Skill,quản lý nhân viên,2
+Soft Skill,quản lý sự thay đổi,2
+Soft Skill,quản lý đối tác,2
+Soft Skill,quản lý đội,2
+Soft Skill,quản trị,2
+Soft Skill,quản trị công việc,2
+Soft Skill,quản trị nhân sự,2
+Soft Skill,report-writing,2
+Soft Skill,research mindset,2
+Soft Skill,resource arranging,2
+Soft Skill,scope management,2
+Soft Skill,solving problems,2
+Soft Skill,storytelling,2
+Soft Skill,strategic planning,2
+Soft Skill,structured thinking,2
+Soft Skill,supervising,2
+Soft Skill,systematic thinking,2
+Soft Skill,systems thinking,2
+Soft Skill,sắp xếp công việc,2
+Soft Skill,task prioritization,2
+Soft Skill,team cooperation,2
+Soft Skill,team leadership,2
+Soft Skill,team working,2
+Soft Skill,teamlead,2
+Soft Skill,technical blog,2
+Soft Skill,technical writing,2
+Soft Skill,time-management,2
+Soft Skill,timeline management,2
+Soft Skill,tinh thần đồng đội,2
+Soft Skill,tiếng anh đọc hiểu,2
+Soft Skill,trao đổi,2
+Soft Skill,truyền đạt kỹ thuật,2
+Soft Skill,trình bày dữ liệu,2
+Soft Skill,trình bày giải pháp kỹ thuật,2
+Soft Skill,trưởng phòng,2
+Soft Skill,"tìm kiếm, xử lý và tổng hợp thông tin",2
+Soft Skill,tư duy data-driven,2
+Soft Skill,tư duy dịch vụ,2
+Soft Skill,tư duy giải pháp,2
+Soft Skill,tư duy giải quyết vấn đề,2
+Soft Skill,tư duy khách hàng,2
+Soft Skill,tư duy phân tích logic,2
+Soft Skill,tư duy/logic,2
+Soft Skill,tư vấn giải pháp kỹ thuật,2
+Soft Skill,tư vấn khách hàng,2
+Soft Skill,tạo động lực,2
+Soft Skill,tổ chức thực hiện công việc,2
+Soft Skill,tổ chức và quản lý thời gian,2
+Soft Skill,tự quản lý công việc,2
+Soft Skill,viết,2
+Soft Skill,viết báo cáo kỹ thuật,2
+Soft Skill,viết proposal,2
+Soft Skill,viết tài liệu tiếng anh,2
+Soft Skill,work effectively in a team,2
+Soft Skill,work within a team,2
+Soft Skill,xử lý công việc theo tiến độ,2
+Soft Skill,đa nhiệm,2
+Soft Skill,điều phối và phối hợp,2
+Soft Skill,"đàm phán, thương lượng",2
+Soft Skill,đào tạo kỹ thuật,2
+Soft Skill,đưa ra quyết định,2
+Soft Skill,đưa ra solution cho các vấn đề kỹ thuật,2
+Soft Skill,đề xuất giải pháp,2
+Soft Skill,đọc hiểu tài liệu tiếng anh chuyên ngành,2
+Soft Skill,đọc hiểu và phân tích tài liệu kỹ thuật,2
+Soft Skill,đọc hiểu văn bản,2
+Soft Skill,đọc và nghiên cứu tài liệu bằng tiếng anh,2
+Soft Skill,account management,1
+Soft Skill,account manager,1
+Soft Skill,active listening,1
+Soft Skill,administration,1
+Soft Skill,align technical decisions with business outcomes,1
+Soft Skill,analytical and logical thinking,1
+Soft Skill,analytical and structured thinking,1
+Soft Skill,analytical reasoning,1
+Soft Skill,analyze and evaluate information,1
+Soft Skill,analyze information,1
+Soft Skill,analyzing and problem-solving,1
+Soft Skill,anh văn giao tiếp,1
+Soft Skill,anh văn đọc hiểu chuyên ngành,1
+Soft Skill,articulate how ai tools fit into your workflow,1
+Soft Skill,attacker mindset,1
+Soft Skill,automation-first,1
+Soft Skill,ba,1
+Soft Skill,ba lead,1
+Soft Skill,ba leader,1
+Soft Skill,ba team leader,1
+Soft Skill,biên soạn tài liệu chuyên ngành,1
+Soft Skill,blog kỹ thuật,1
+Soft Skill,brand management,1
+Soft Skill,breakdown bài toán phức tạp,1
+Soft Skill,budget management,1
+Soft Skill,build team,1
+Soft Skill,business documentation,1
+Soft Skill,business manner,1
+Soft Skill,business planning,1
+Soft Skill,business sense,1
+Soft Skill,báo cáo công việc,1
+Soft Skill,báo cáo tiến độ,1
+Soft Skill,báo cáo tổng hợp,1
+Soft Skill,call với khách hàng,1
+Soft Skill,case study,1
+Soft Skill,chia sẻ công nghệ mới,1
+Soft Skill,chia sẻ kiến thức,1
+Soft Skill,chia sẻ thông tin,1
+Soft Skill,"chia sẻ, đào tạo kiến thức",1
+Soft Skill,chiến lược sản phẩm,1
+Soft Skill,clear thinking,1
+Soft Skill,client communications,1
+Soft Skill,client demos,1
+Soft Skill,client interactions,1
+Soft Skill,client relationship,1
+Soft Skill,client relationship management,1
+Soft Skill,client-facing leadership,1
+Soft Skill,coaching and mentoring,1
+Soft Skill,collaborate cross-functionally,1
+Soft Skill,collaborate effectively,1
+Soft Skill,collaborate effectively in a team,1
+Soft Skill,collaborate with cross-functional teams,1
+Soft Skill,collaborate within a team,1
+Soft Skill,collaboration cross-functional,1
+Soft Skill,collaborative,1
+Soft Skill,communicate complex technical concepts,1
+Soft Skill,communicate data concepts,1
+Soft Skill,communicate security concepts,1
+Soft Skill,communicate technical concepts,1
+Soft Skill,communicate technical findings,1
+Soft Skill,communicate technical outputs,1
+Soft Skill,communicate technical solutions,1
+Soft Skill,communicates efficiently,1
+Soft Skill,communication and persuasion,1
+Soft Skill,communications,1
+Soft Skill,communicator,1
+Soft Skill,complex problem solving,1
+Soft Skill,comtor,1
+Soft Skill,conceptual thinking,1
+Soft Skill,consulting,1
+Soft Skill,consumer-oriented,1
+Soft Skill,cooperate with the team,1
+Soft Skill,coordinate across internal teams,1
+Soft Skill,creating detailed reports,1
+Soft Skill,creating proposals,1
+Soft Skill,critial thinking,1
+Soft Skill,critical thinker,1
+Soft Skill,critical-thinking,1
+Soft Skill,criticalthinking,1
+Soft Skill,cross-cultural communication,1
+Soft Skill,cross-functional and multicultural teams,1
+Soft Skill,cross-functional collaboration,1
+Soft Skill,cross-functional communication,1
+Soft Skill,cross-functional team,1
+Soft Skill,cross-team collaboration,1
+Soft Skill,cross◦ team collaboration,1
+Soft Skill,cto,1
+Soft Skill,customer communication,1
+Soft Skill,customer success,1
+Soft Skill,customer support,1
+Soft Skill,customer-centric thinking,1
+Soft Skill,customer-facing,1
+Soft Skill,customer-facing technical environments,1
+Soft Skill,cộng tác,1
+Soft Skill,cộng tác nhóm,1
+Soft Skill,data-backed decisions,1
+Soft Skill,data-driven decision making,1
+Soft Skill,data-driven decision-making,1
+Soft Skill,debug and analyze problems,1
+Soft Skill,decision-making support,1
+Soft Skill,deliver training,1
+Soft Skill,delivering training,1
+Soft Skill,demo,1
+Soft Skill,demo hệ thống,1
+Soft Skill,demo sản phẩm,1
+Soft Skill,demos,1
+Soft Skill,deputy pm,1
+Soft Skill,design collaboration,1
+Soft Skill,dev leader,1
+Soft Skill,developer training,1
+Soft Skill,discovery workshop,1
+Soft Skill,diễn đạt,1
+Soft Skill,diễn đạt thông tin,1
+Soft Skill,diễn đạt ý tưởng,1
+Soft Skill,document technical decisions,1
+Soft Skill,dẫn dắt ba team,1
+Soft Skill,dẫn dắt dự án kỹ thuật,1
+Soft Skill,dẫn dắt quản lý đội nhóm,1
+Soft Skill,dẫn dắt sản phẩm,1
+Soft Skill,dẫn dắt sản phẩm từ r&d sang thương mại hóa,1
+Soft Skill,dẫn dắt team ba,1
+Soft Skill,dẫn dắt và mentor,1
+Soft Skill,dẫn dắt đội kỹ thuật,1
+Soft Skill,dịch họp,1
+Soft Skill,dịch tài liệu,1
+Soft Skill,dịch vụ khách hàng,1
+Soft Skill,dịch/phiên dịch anh – việt,1
+Soft Skill,dự đoán xu hướng thị trường,1
+Soft Skill,eng,1
+Soft Skill,engineering culture building,1
+Soft Skill,engineering management,1
+Soft Skill,engineering manager,1
+Soft Skill,engineering mindset,1
+Soft Skill,escalation management,1
+Soft Skill,execution follow-up,1
+Soft Skill,executive communication,1
+Soft Skill,executive reporting,1
+Soft Skill,explain ai results,1
+Soft Skill,explain complex ai workflows,1
+Soft Skill,facilitation workshop,1
+Soft Skill,follow guidelines,1
+Soft Skill,follow-up,1
+Soft Skill,foreign language,1
+Soft Skill,german language,1
+Soft Skill,ghi chép meeting,1
+Soft Skill,"ghi chép, cập nhật thông tin",1
+Soft Skill,giao tiếp bằng tiếng nhật,1
+Soft Skill,giao tiếp khách hang,1
+Soft Skill,giao tiếp khách hàng,1
+Soft Skill,giao tiếp kỹ thuật,1
+Soft Skill,giao tiếp song ngữ,1
+Soft Skill,giao tiếp stakeholder,1
+Soft Skill,giao tiếp tiếng nhật,1
+Soft Skill,giao tiếp tốt bằng tiếng anh,1
+Soft Skill,giao tiếp và truyền thông,1
+Soft Skill,giao tiếp với khách hàng,1
+Soft Skill,giao tiếp với user người nước ngoài,1
+Soft Skill,giao tiếp đa văn hóa,1
+Soft Skill,"giao tiếp, giảng dạy bằng tiếng anh",1
+Soft Skill,giải quyết vấn đê,1
+Soft Skill,giving presentations,1
+Soft Skill,giám sát,1
+Soft Skill,giám sát tiến độ,1
+Soft Skill,giải quyết bài toán kinh doanh,1
+Soft Skill,giải quyết các bài toán,1
+Soft Skill,giải quyết các bài toán kỹ thuật phức tạp,1
+Soft Skill,"giải quyết các bài toán, vấn đề",1
+Soft Skill,giải quyết công việc độc lập,1
+Soft Skill,giải quyết mâu thuẫn,1
+Soft Skill,giải quyết tình huống,1
+Soft Skill,giải quyết vấn đề phức tạp,1
+Soft Skill,giải quyết vấn đề và ra quyết định,1
+Soft Skill,giảng dạy lập trình,1
+Soft Skill,handling an engineer team,1
+Soft Skill,hiring,1
+Soft Skill,hiểu business,1
+Soft Skill,hiểu logic của sản phẩm,1
+Soft Skill,hiểu nhu cầu khách hàng,1
+Soft Skill,horenso,1
+Soft Skill,hoạch định chiến lược,1
+Soft Skill,hoạch định công việc,1
+Soft Skill,huấn luyện,1
+Soft Skill,huấn luyện công việc,1
+Soft Skill,huấn luyện và đào tạo,1
+Soft Skill,hướng dẫn chuyên viên,1
+Soft Skill,hướng dẫn người dùng phần mềm,1
+Soft Skill,hướng dẫn thành viên,1
+Soft Skill,hướng dẫn và bàn giao hệ thống,1
+Soft Skill,hướng dẫn và đào tạo,1
+Soft Skill,hướng dẫn – đào tạo – thuyết trình,1
+Soft Skill,"hướng dẫn, quản lý đội nhóm",1
+Soft Skill,hướng dẫn/đào tạo quy trình,1
+Soft Skill,hướng người dùng,1
+Soft Skill,hệ thống hóa,1
+Soft Skill,hệ thống hóa vấn đề,1
+Soft Skill,học hỏi nhanh,1
+Soft Skill,học hỏi và research nhanh,1
+Soft Skill,hỗ trợ các thành viên khác,1
+Soft Skill,hỗ trợ khách hàng,1
+Soft Skill,hỗ trợ khách hàng trực tiếp,1
+Soft Skill,hợp tác trong môi trường nhóm,1
+Soft Skill,inclusive leadership,1
+Soft Skill,influencing,1
+Soft Skill,information seeking,1
+Soft Skill,interfacing with senior leadership,1
+Soft Skill,international projects,1
+Soft Skill,ios tech lead,1
+Soft Skill,issue management,1
+Soft Skill,issue resolution,1
+Soft Skill,it project manager,1
+Soft Skill,it solution consultant,1
+Soft Skill,japanese business etiquette (ho-ren-so,1
+Soft Skill,japanese business etiquette and culture,1
+Soft Skill,japanese business manner,1
+Soft Skill,japanese language,1
+Soft Skill,khơi gợi thông tin từ khách hàng,1
+Soft Skill,khả năng nghiên cứu,1
+Soft Skill,khắc phục sự cố,1
+Soft Skill,kiểm soát và ra quyết định,1
+Soft Skill,kèm cặp những người khác,1
+Soft Skill,kỹ năng phản biện,1
+Soft Skill,kỹ năng thuyết trình,1
+Soft Skill,kỹ năng trình bày,1
+Soft Skill,language comprehension,1
+Soft Skill,lead a support team,1
+Soft Skill,lead and inspire cross-functional teams,1
+Soft Skill,lead and mentor technical teams,1
+Soft Skill,lead ba,1
+Soft Skill,lead các team,1
+Soft Skill,lead design team,1
+Soft Skill,lead dự án,1
+Soft Skill,lead engineer,1
+Soft Skill,lead engineering teams,1
+Soft Skill,lead global delivery teams,1
+Soft Skill,lead kỹ thuật,1
+Soft Skill,lead nhóm,1
+Soft Skill,lead nhóm tester,1
+Soft Skill,lead technical teams,1
+Soft Skill,lead workshops,1
+Soft Skill,lead/mentor,1
+Soft Skill,leader developer,1
+Soft Skill,leader team,1
+Soft Skill,leading a small analytics team,1
+Soft Skill,leading an enterprise service desk,1
+Soft Skill,leading development teams,1
+Soft Skill,leading distributed teams,1
+Soft Skill,leading features/projects,1
+Soft Skill,leading it programs,1
+Soft Skill,leading it projects,1
+Soft Skill,leading large-scale programs,1
+Soft Skill,leading members,1
+Soft Skill,leading or coordinating a small development team,1
+Soft Skill,leading or mentoring,1
+Soft Skill,leading production releases,1
+Soft Skill,leading project teams,1
+Soft Skill,leading software engineering teams,1
+Soft Skill,leading technical/product teams,1
+Soft Skill,learn and research,1
+Soft Skill,listening,1
+Soft Skill,logic giải quyết vấn đề,1
+Soft Skill,logic thinking,1
+Soft Skill,logical approach,1
+Soft Skill,logical coding,1
+Soft Skill,logical structuring,1
+Soft Skill,logical/critical thinking,1
+Soft Skill,làm cầu nối,1
+Soft Skill,làm nhiều việc cùng lúc,1
+Soft Skill,làm tài liệu đề xuất giải pháp kinh doanh,1
+Soft Skill,làm việc chéo phòng ban,1
+Soft Skill,làm việc chặt chẽ với các đội,1
+Soft Skill,làm việc cross-function,1
+Soft Skill,làm việc cross-team,1
+Soft Skill,làm việc cùng các đồng nghiệp,1
+Soft Skill,làm việc hiệu quả trong môi trường nhóm,1
+Soft Skill,làm việc hiệu quả với các bên liên quan,1
+Soft Skill,làm việc phối hợp nhóm,1
+Soft Skill,làm việc theo deadline,1
+Soft Skill,làm việc theo kế hoạch,1
+Soft Skill,làm việc trong đội nhóm,1
+Soft Skill,làm việc trực tiếp với c-level,1
+Soft Skill,làm việc trực tiếp với cấp quản lý/ban giám đốc,1
+Soft Skill,làm việc trực tiếp với kh nhật bản,1
+Soft Skill,làm việc trực tiếp với khách hàng nhật,1
+Soft Skill,làm việc tự chủ,1
+Soft Skill,làm việc việc nhóm,1
+Soft Skill,làm việc và học tập cùng đội nhóm,1
+Soft Skill,làm việc với con người,1
+Soft Skill,làm việc với các cross-functional teams,1
+Soft Skill,"làm việc với end-user, developer và stakeholder",1
+Soft Skill,làm việc với kh nhật bản,1
+Soft Skill,làm việc với khách hàng quốc tế,1
+Soft Skill,làm việc với khách hàng/vendor nước ngoài,1
+Soft Skill,làm việc với một nhóm,1
+Soft Skill,làm việc với nhiều bộ phận,1
+Soft Skill,làm việc với nhiều stakeholder,1
+Soft Skill,làm việc với nhiều đội,1
+Soft Skill,làm việc với nhà cung cấp/đơn vị thi công,1
+Soft Skill,làm việc với stakeholders,1
+Soft Skill,làm việc với đội ngũ,1
+Soft Skill,làm việc đa bên,1
+Soft Skill,làm việc đa phòng ban,1
+Soft Skill,"làm việc đa phòng ban, đa đối tác",1
+Soft Skill,"làm việc đội, nhóm",1
+Soft Skill,làm với kh nhật bản,1
+Soft Skill,lãnh đạo liên phòng ban,1
+Soft Skill,lãnh đạo đội nhóm kỹ thuật,1
+Soft Skill,lên kế hoạch công việc,1
+Soft Skill,lên kế hoạch ngân sách,1
+Soft Skill,lên kế hoạch và thực thi công việc,1
+Soft Skill,lên kế hoạch và tổ chức thực hiện,1
+Soft Skill,"lên kế hoạch, chiến lược and chiến thuật",1
+Soft Skill,lấy khách hàng làm trung tâm,1
+Soft Skill,lập biên bản,1
+Soft Skill,lập kế hoạch chi tiết,1
+Soft Skill,lập kế hoạch chiến lược,1
+Soft Skill,lập kế hoạch gtm,1
+Soft Skill,lập kế hoạch hoạt động,1
+Soft Skill,lập kế hoạch ngân sách,1
+Soft Skill,lập kế hoạch và quản lý,1
+Soft Skill,lập kế hoạch và quản lý công việc,1
+Soft Skill,lập và trình bày báo cáo,1
+Soft Skill,lắng nghe chủ động,1
+Soft Skill,lắng nghe và thấu hiểu yêu cầu từ khách hàng,1
+Soft Skill,lắng nghe và truyền đạt thông tin,1
+Soft Skill,manage and develop a team,1
+Soft Skill,manage budgets,1
+Soft Skill,manage daily work,1
+Soft Skill,manage it projects,1
+Soft Skill,manage multiple incidents,1
+Soft Skill,manage priorities and tasks,1
+Soft Skill,manage project delivery,1
+Soft Skill,manage projects,1
+Soft Skill,manage technical roadmaps,1
+Soft Skill,manage time,1
+Soft Skill,manage time schedule,1
+Soft Skill,manager hoặc leader,1
+Soft Skill,managing a team,1
+Soft Skill,managing and leading a development team,1
+Soft Skill,managing cross-functional agile teams,1
+Soft Skill,managing engineering teams,1
+Soft Skill,managing external vendors,1
+Soft Skill,managing job-schedule,1
+Soft Skill,managing large-scale projects,1
+Soft Skill,managing offshore delivery,1
+Soft Skill,managing outsourcing vendors,1
+Soft Skill,managing product projects,1
+Soft Skill,managing teams,1
+Soft Skill,managing technical initiatives,1
+Soft Skill,managing technical teams,1
+Soft Skill,managing technology teams,1
+Soft Skill,mentor engineers,1
+Soft Skill,mentor junior,1
+Soft Skill,mentor junior developers,1
+Soft Skill,mentor/coach others,1
+Soft Skill,mentor/review code,1
+Soft Skill,mentoring and dẫn dắt team,1
+Soft Skill,mentoring junior analysts,1
+Soft Skill,mentoring/ coaching,1
+Soft Skill,motivating subordinates,1
+Soft Skill,multi-stakeholder coordination,1
+Soft Skill,multi-tasking,1
+Soft Skill,mối quan hệ với các nhà cung cấp,1
+Soft Skill,negotiate,1
+Soft Skill,networking,1
+Soft Skill,networking/relationship building,1
+Soft Skill,nghiên cứu and phân tích thị trường,1
+Soft Skill,nghiên cứu and phân tích đối thủ cạnh tranh,1
+Soft Skill,nghiên cứu chuyên sâu,1
+Soft Skill,nghiên cứu công nghệ,1
+Soft Skill,nghiên cứu phát triển các giải pháp mới,1
+Soft Skill,nghiên cứu sản phẩm,1
+Soft Skill,nghiên cứu tài liệu,1
+Soft Skill,nghiên cứu tài liệu kỹ thuật,1
+Soft Skill,ngoại ngữ,1
+Soft Skill,người dẫn dắt,1
+Soft Skill,nhân viên kinh doanh,1
+Soft Skill,nhận diện rủi ro,1
+Soft Skill,nói,1
+Soft Skill,nắm bắt thông tin thị trường,1
+Soft Skill,nắm bắt vấn đề,1
+Soft Skill,offshore delivery management,1
+Soft Skill,operational support,1
+Soft Skill,organization,1
+Soft Skill,organizational scaling,1
+Soft Skill,people,1
+Soft Skill,people and team development,1
+Soft Skill,people coordination,1
+Soft Skill,people development,1
+Soft Skill,people-management,1
+Soft Skill,persuasion,1
+Soft Skill,phát hiện và phòng ngừa rủi ro,1
+Soft Skill,phát hiện vấn đề,1
+Soft Skill,phát triển sản phẩm,1
+Soft Skill,phát triển sản phẩm công nghệ,1
+Soft Skill,phát triển ý tưởng,1
+Soft Skill,phát triển định hướng phát triển sản phẩm,1
+Soft Skill,phát triển đội ngũ,1
+Soft Skill,phát triển đội nhóm,1
+Soft Skill,phân tích and giải quyết vấn đề,1
+Soft Skill,phân tích bài toán,1
+Soft Skill,phân tích báo cáo,1
+Soft Skill,phân tích cạnh tranh,1
+Soft Skill,phân tích hiện trạng,1
+Soft Skill,phân tích kỹ thuật,1
+Soft Skill,phân tích lỗi,1
+Soft Skill,phân tích nhu cầu khách hàng,1
+Soft Skill,phân tích root cause,1
+Soft Skill,phân tích sản phẩm đối thủ,1
+Soft Skill,phân tích tài liệu,1
+Soft Skill,phân tích và giải quyết các vấn đề,1
+Soft Skill,phân tích và phát hiện vấn đề,1
+Soft Skill,phân tích và tổng hợp thông tin,1
+Soft Skill,phân tích và tổng hợp vấn đề,1
+Soft Skill,phân tích và xử lý tình huống,1
+Soft Skill,phân tích và đánh giá rủi ro,1
+Soft Skill,phân tích và đưa ra giải pháp xử lý,1
+Soft Skill,phân tích và định lượng,1
+Soft Skill,phân tích vấn đề logic,1
+Soft Skill,phân tích xu hướng thị trường,1
+Soft Skill,"phân tích, tổng hợp số liệu",1
+Soft Skill,"phân tích, tổng hợp thông tin",1
+Soft Skill,"phân tích, tổng hợp và ra quyết định",1
+Soft Skill,"phân tích, và giải quyết vấn đề",1
+Soft Skill,"phân tích, xử lý sự cố và khắc phục vấn đề",1
+Soft Skill,"phân tích, xử lý vấn đề",1
+Soft Skill,phân tích/tổng hợp thông tin,1
+Soft Skill,phê bình,1
+Soft Skill,phối hợp công việc,1
+Soft Skill,phối hợp dev/qa,1
+Soft Skill,phối hợp khách hàng,1
+Soft Skill,phối hợp liên đội nhóm,1
+Soft Skill,phối hợp làm việc đa phòng ban,1
+Soft Skill,phối hợp theo nhóm,1
+Soft Skill,phối hợp tốt với đồng đội,1
+Soft Skill,phối hợp với developer,1
+Soft Skill,phối hợp với nhiều bộ phận,1
+Soft Skill,phối hợp với nhiều phòng ban,1
+Soft Skill,phối hợp với đồng nghiệp,1
+Soft Skill,phối hợp với đội kỹ thuật,1
+Soft Skill,phối hợp với đội nhóm,1
+Soft Skill,phối hợp với đội outsource,1
+Soft Skill,phối hợp đa phòng ban,1
+Soft Skill,"phối hợp, hỗ trợ công việc",1
+Soft Skill,planning and scheduling,1
+Soft Skill,pm dự án,1
+Soft Skill,pre sales,1
+Soft Skill,pre-sales,1
+Soft Skill,pre-sales estimation,1
+Soft Skill,present,1
+Soft Skill,present ideas and prototypes,1
+Soft Skill,present information,1
+Soft Skill,prioritization,1
+Soft Skill,prioritize and execute tasks,1
+Soft Skill,prioritize tasks,1
+Soft Skill,problem analysis,1
+Soft Skill,problem analysis and solving,1
+Soft Skill,problem decomposition,1
+Soft Skill,problem definition,1
+Soft Skill,problem solvers,1
+Soft Skill,problem-deconstruction,1
+Soft Skill,problem-solvers,1
+Soft Skill,procedure management,1
+Soft Skill,producer,1
+Soft Skill,product analysis,1
+Soft Skill,product and business-driven,1
+Soft Skill,product definition,1
+Soft Skill,product development,1
+Soft Skill,product executive,1
+Soft Skill,product marketing,1
+Soft Skill,product operations,1
+Soft Skill,product owner/manager,1
+Soft Skill,product ownership,1
+Soft Skill,product strategy development,1
+Soft Skill,product-market fit,1
+Soft Skill,program/project management,1
+Soft Skill,project control,1
+Soft Skill,project coordinator,1
+Soft Skill,project documentation,1
+Soft Skill,project support,1
+Soft Skill,project team leader,1
+Soft Skill,project technical leader,1
+Soft Skill,proposal or presales activities,1
+Soft Skill,proposal writing,1
+Soft Skill,propose solutions,1
+Soft Skill,q&a,1
+Soft Skill,quan sát thị trường,1
+Soft Skill,quan sát và phát hiện vấn đề,1
+Soft Skill,quy trình hóa,1
+Soft Skill,quản lý bản thân,1
+Soft Skill,quản lý bộ phận,1
+Soft Skill,quản lý bộ phận it,1
+Soft Skill,quản lý change request,1
+Soft Skill,quản lý chiến lược,1
+Soft Skill,quản lý chuyên môn lập trình,1
+Soft Skill,quản lý chương trình,1
+Soft Skill,quản lý các bên liên quan,1
+Soft Skill,quản lý các dự án,1
+Soft Skill,quản lý các dự án cntt,1
+Soft Skill,quản lý các dự án dữ liệu lớn,1
+Soft Skill,quản lý các dự án phần mềm,1
+Soft Skill,quản lý các dự án phức tạp liên quan đến ai,1
+Soft Skill,quản lý các hợp tác nghiên cứu hoặc học thuật,1
+Soft Skill,quản lý các thay đổi,1
+Soft Skill,quản lý cấp cao,1
+Soft Skill,quản lý cấp director/c-level,1
+Soft Skill,quản lý dự án (project management,1
+Soft Skill,quản lý dự án chuyển đổi số,1
+Soft Skill,quản lý dự án cntt,1
+Soft Skill,quản lý dự án firmware,1
+Soft Skill,quản lý dự án phần mềm,1
+Soft Skill,quản lý dự án phần mềm/mobile app,1
+Soft Skill,quản lý dự án ứng dụng,1
+Soft Skill,quản lý khách hàng,1
+Soft Skill,quản lý kế hoạch,1
+Soft Skill,quản lý kỳ vọng,1
+Soft Skill,quản lý kỹ thuật,1
+Soft Skill,quản lý một nhóm phát triển,1
+Soft Skill,quản lý mục tiêu,1
+Soft Skill,quản lý ngân sách/hợp đồng cntt,1
+Soft Skill,quản lý nhiều bên liên quan,1
+Soft Skill,quản lý nhiều project,1
+Soft Skill,quản lý nhân sự cntt,1
+Soft Skill,quản lý nhóm cntt,1
+Soft Skill,quản lý nhóm kỹ thuật,1
+Soft Skill,quản lý nhóm nhỏ,1
+Soft Skill,quản lý những dự án lớn,1
+Soft Skill,quản lý p&l,1
+Soft Skill,quản lý p&l sản phẩm,1
+Soft Skill,quản lý phát triển outsource,1
+Soft Skill,quản lý phát triển sản phẩm,1
+Soft Skill,quản lý phạm vi,1
+Soft Skill,quản lý phản hồi người dùng,1
+Soft Skill,quản lý portfolio,1
+Soft Skill,quản lý scope,1
+Soft Skill,quản lý stakeholders,1
+Soft Skill,quản lý sản phẩm,1
+Soft Skill,quản lý sắp xếp thời gian,1
+Soft Skill,quản lý task,1
+Soft Skill,quản lý team fe,1
+Soft Skill,quản lý team it,1
+Soft Skill,quản lý thay đổi,1
+Soft Skill,quản lý timeline,1
+Soft Skill,quản lý tiến độ cá nhân,1
+Soft Skill,quản lý tiến độ công việc,1
+Soft Skill,quản lý tài chính,1
+Soft Skill,quản lý tài nguyên,1
+Soft Skill,quản lý tổng thể,1
+Soft Skill,quản lý tổng thể dự án,1
+Soft Skill,quản lý vendor,1
+Soft Skill,quản lý việc triển khai dự án,1
+Soft Skill,quản lý và dẫn dắt đội nhóm,1
+Soft Skill,quản lý và giao việc,1
+Soft Skill,quản lý và làm việc với con người,1
+Soft Skill,quản lý và phát triển nhân viên,1
+Soft Skill,quản lý và phát triển sản phẩm,1
+Soft Skill,quản lý và phát triển team,1
+Soft Skill,quản lý và sắp xếp công việc,1
+Soft Skill,quản lý và điều phối công việc,1
+Soft Skill,quản lý và đào tạo nhân sự,1
+Soft Skill,quản lý vòng đời sản phẩm,1
+Soft Skill,quản lý về it,1
+Soft Skill,quản lý đối tác công nghệ,1
+Soft Skill,quản lý đội kiểm thử,1
+Soft Skill,quản lý đội kiểm thử phần mềm,1
+Soft Skill,quản lý đội ngũ đa quốc gia,1
+Soft Skill,quản lý đội qa,1
+Soft Skill,quản lý đội/nhóm,1
+Soft Skill,quản lý ưu tiên công việc,1
+Soft Skill,quản lý/lead ứng dụng,1
+Soft Skill,quản lý/điều phối dự án it,1
+Soft Skill,quản task,1
+Soft Skill,quản trị con người,1
+Soft Skill,quản trị dự án phần mềm,1
+Soft Skill,quản trị hiệu suất theo kpi/okr,1
+Soft Skill,quản trị lộ trình,1
+Soft Skill,quản trị mục tiêu,1
+Soft Skill,quản trị thay đổi,1
+Soft Skill,quản trị điều hành,1
+Soft Skill,ra quyết định kỹ thuật,1
+Soft Skill,read technical documentation,1
+Soft Skill,read technical papers,1
+Soft Skill,remote collaboration,1
+Soft Skill,requirement discussions,1
+Soft Skill,research tài liệu,1
+Soft Skill,researching,1
+Soft Skill,resource planning,1
+Soft Skill,review và tư vấn kỹ thuật,1
+Soft Skill,risk assessment,1
+Soft Skill,root cause analysis,1
+Soft Skill,sale,1
+Soft Skill,schedule and progress management,1
+Soft Skill,scheduling,1
+Soft Skill,self management,1
+Soft Skill,self-learn,1
+Soft Skill,self-management,1
+Soft Skill,self-research,1
+Soft Skill,senior management,1
+Soft Skill,servant leadership,1
+Soft Skill,service orientation,1
+Soft Skill,sharing,1
+Soft Skill,slide thuyết trình,1
+Soft Skill,software/it project manager,1
+Soft Skill,soạn thảo,1
+Soft Skill,soạn thảo văn bản,1
+Soft Skill,spatial imagination,1
+Soft Skill,spoken communication,1
+Soft Skill,spoken english,1
+Soft Skill,stakeholder engagement,1
+Soft Skill,stakeholder presentations,1
+Soft Skill,storytelling với data,1
+Soft Skill,strategic,1
+Soft Skill,supervision of a development team,1
+Soft Skill,system-level thinking,1
+Soft Skill,sư phạm,1
+Soft Skill,sắp xếp logic,1
+Soft Skill,"sắp xếp, tổ chức công việc",1
+Soft Skill,ta giao tiếp,1
+Soft Skill,task management,1
+Soft Skill,teaching,1
+Soft Skill,team facilitation,1
+Soft Skill,team spirit,1
+Soft Skill,team-building,1
+Soft Skill,team-oriented,1
+Soft Skill,team-work,1
+Soft Skill,teamwork and collaboration,1
+Soft Skill,tech-to-business translation,1
+Soft Skill,technical communication,1
+Soft Skill,technical consulting,1
+Soft Skill,technical documentation,1
+Soft Skill,technical english,1
+Soft Skill,technical product management,1
+Soft Skill,technical project or program management,1
+Soft Skill,technical solution consulting,1
+Soft Skill,technical-mindset,1
+Soft Skill,technical/team leadership,1
+Soft Skill,telesale,1
+Soft Skill,telesales,1
+Soft Skill,test lead,1
+Soft Skill,test leader,1
+Soft Skill,tester leader,1
+Soft Skill,thai,1
+Soft Skill,theo dõi đầu việc,1
+Soft Skill,think critically,1
+Soft Skill,think deeply and logically,1
+Soft Skill,"thiết kế, trình bày báo cáo",1
+Soft Skill,thought leadership,1
+Soft Skill,thu thập và phân tích thông tin,1
+Soft Skill,thu thập và tổng hợp thông tin,1
+Soft Skill,"thu thập, phân tích, đánh giá và tổng hợp thông tin",1
+Soft Skill,"thu thập, tổng hợp, phân tích thông tin",1
+Soft Skill,thuyết phục khách hàng,1
+Soft Skill,thuyết trình và báo cáo,1
+Soft Skill,tháo gỡ vấn đề,1
+Soft Skill,"thương lượng, đàm phán",1
+Soft Skill,tiếng anh chuyên ngành cntt,1
+Soft Skill,tiếng anh kỹ thuật,1
+Soft Skill,tiếng anh đọc hiểu tài liệu kỹ thuật,1
+Soft Skill,toeic,1
+Soft Skill,tracking progress,1
+Soft Skill,training abilities,1
+Soft Skill,training delivery,1
+Soft Skill,training nhân sự,1
+Soft Skill,training/mentor,1
+Soft Skill,training/mentoring,1
+Soft Skill,traning đào tạo,1
+Soft Skill,transfer,1
+Soft Skill,translate technical impact into business-focused language,1
+Soft Skill,trao đổi hiệu quả với dev team,1
+Soft Skill,trao đổi nghiệp vụ,1
+Soft Skill,trao đổi rõ ràng,1
+Soft Skill,trao đổi thông tin,1
+Soft Skill,trao đổi với đối tác,1
+Soft Skill,truyền cảm hứng cho đội ngũ,1
+Soft Skill,truyền tải thông tin,1
+Soft Skill,truyền đạt kiến thức,1
+Soft Skill,truyền đạt kết quả,1
+Soft Skill,truyền đạt thông tin,1
+Soft Skill,truyền đạt ý tưởng,1
+Soft Skill,trình bày báo cáo,1
+Soft Skill,trình bày kiến thức,1
+Soft Skill,trình bày logic,1
+Soft Skill,trình bày sản phẩm,1
+Soft Skill,trình bày số liệu,1
+Soft Skill,trình bày thông tin,1
+Soft Skill,trình bày và demo giải pháp,1
+Soft Skill,trình bày và giải thích vấn đề,1
+Soft Skill,trình bày vấn đề logic,1
+Soft Skill,trình bày/thuyết trình,1
+Soft Skill,trưởng nhóm it,1
+Soft Skill,trưởng nhóm lập trình,1
+Soft Skill,trưởng nhóm triển khai,1
+Soft Skill,trưởng nhóm/quản lý team it,1
+Soft Skill,tìm hiểu tài liệu kỹ thuật,1
+Soft Skill,tìm kiếm thông tin,1
+Soft Skill,tư duy ai-first,1
+Soft Skill,tư duy and hành động hướng khách hàng,1
+Soft Skill,tư duy architecture,1
+Soft Skill,tư duy bảo mật,1
+Soft Skill,tư duy customer-centric,1
+Soft Skill,tư duy có hệ thống,1
+Soft Skill,tư duy có tổ chức,1
+Soft Skill,tư duy cải tiến quy trình,1
+Soft Skill,tư duy dữ liệu,1
+Soft Skill,tư duy dựa trên dữ liệu,1
+Soft Skill,tư duy gameplay,1
+Soft Skill,tư duy hướng tới khách hàng,1
+Soft Skill,tư duy kiến trúc hệ thống,1
+Soft Skill,tư duy logics,1
+Soft Skill,tư duy làm sản phẩm,1
+Soft Skill,tư duy lập trình logic,1
+Soft Skill,tư duy lãnh đạo,1
+Soft Skill,tư duy marketing,1
+Soft Skill,tư duy mạch lạc,1
+Soft Skill,tư duy nghiên cứu,1
+Soft Skill,tư duy người dùng,1
+Soft Skill,tư duy phát triển sản phẩm,1
+Soft Skill,tư duy phân tích and logic,1
+Soft Skill,tư duy phân tích kinh doanh,1
+Soft Skill,tư duy phê phán,1
+Soft Skill,tư duy product,1
+Soft Skill,tư duy r&d,1
+Soft Skill,tư duy sản phẩm (product mindset,1
+Soft Skill,tư duy thuật toán,1
+Soft Skill,tư duy thẩm mỹ,1
+Soft Skill,tư duy trò chơi logic,1
+Soft Skill,tư duy trực quan,1
+Soft Skill,tư duy tăng trưởng,1
+Soft Skill,tư duy tấn công – phòng thủ,1
+Soft Skill,tư duy tổng quan,1
+Soft Skill,tư duy tổng quan và hệ thống,1
+Soft Skill,tư duy tổng thể,1
+Soft Skill,tư duy xây dựng sản phẩm,1
+Soft Skill,tư duy đổi mới,1
+Soft Skill,"tư duy, logic",1
+Soft Skill,tư vấn công nghệ,1
+Soft Skill,tư vấn giải pháp cho khách hàng,1
+Soft Skill,tư vấn giải pháp công nghệ,1
+Soft Skill,tư vấn giải pháp mạng,1
+Soft Skill,tư vấn kỹ thuật,1
+Soft Skill,tư vấn và thuyết phục,1
+Soft Skill,tạo ảnh hưởng,1
+Soft Skill,tầm nhìn tổng thể,1
+Soft Skill,tổ chức các cuộc họp,1
+Soft Skill,tổ chức lại đội ngũ kỹ thuật,1
+Soft Skill,tổ chức tốt,1
+Soft Skill,tổ chức và quản lý nhân sự,1
+Soft Skill,tổ chức và theo dõi công việc,1
+Soft Skill,"tổ chức, quản lý",1
+Soft Skill,"tổ chức, sắp xếp công việc",1
+Soft Skill,tổng hợp,1
+Soft Skill,tổng hợp thông tin,1
+Soft Skill,tổng hợp và ghi chép,1
+Soft Skill,tổng hợp và phân tích thông tin,1
+Soft Skill,tự giải quyết vấn đề,1
+Soft Skill,tự học hỏi,1
+Soft Skill,tự lập kế hoạch,1
+Soft Skill,tự quản lý khối lượng công việc,1
+Soft Skill,ui ux leader,1
+Soft Skill,understanding business domain,1
+Soft Skill,user growth,1
+Soft Skill,user-centric mindset,1
+Soft Skill,vendor and partner management,1
+Soft Skill,vendor negotiation,1
+Soft Skill,vendor relationships,1
+Soft Skill,verbal and text communications,1
+Soft Skill,verbal communication,1
+Soft Skill,verbal english communication,1
+Soft Skill,vietnamese communication,1
+Soft Skill,viết báo cáo và tài liệu kỹ thuật,1
+Soft Skill,viết báo cáo và tổng hợp thông tin,1
+Soft Skill,viết email trao đổi kỹ thuật,1
+Soft Skill,viết lách,1
+Soft Skill,viết và biên tập nội dung,1
+Soft Skill,viết và trình bày báo cáo kỹ thuật,1
+Soft Skill,viết và trình bày tài liệu kỹ thuật,1
+Soft Skill,văn hoá âu mỹ,1
+Soft Skill,"văn hoá, phong cách làm việc của người nhật",1
+Soft Skill,văn phong chuyên nghiệp,1
+Soft Skill,vận hành đơn vị kinh doanh,1
+Soft Skill,work as part of a project team,1
+Soft Skill,work cross-functionally,1
+Soft Skill,work effectively with cross-functional teams,1
+Soft Skill,work effectively within highly technical teams,1
+Soft Skill,work in team,1
+Soft Skill,work independent,1
+Soft Skill,work organization,1
+Soft Skill,work well in a team,1
+Soft Skill,work well in the team,1
+Soft Skill,work with cross-functional teams,1
+Soft Skill,working directly with customers,1
+Soft Skill,working in a team,1
+Soft Skill,working in distributed teams,1
+Soft Skill,working independently,1
+Soft Skill,working on projects with japanese clients,1
+Soft Skill,working with cross-functional teams,1
+Soft Skill,working with european clients,1
+Soft Skill,working with korean clients,1
+Soft Skill,working with vendors,1
+Soft Skill,works effectively in a cross-functional team,1
+Soft Skill,writing,1
+Soft Skill,written,1
+Soft Skill,written communication in english,1
+Soft Skill,xác định nhu cầu bảo mật mạng của khách hàng,1
+Soft Skill,xác định rủi ro,1
+Soft Skill,xây dưng và phát triển đội ngũ,1
+Soft Skill,xây dựng business model,1
+Soft Skill,xây dựng báo cáo,1
+Soft Skill,xây dựng chiến lược sản phẩm,1
+Soft Skill,xây dựng chính sách,1
+Soft Skill,xây dựng kpi,1
+Soft Skill,xây dựng kế hoạch,1
+Soft Skill,xây dựng proposal kỹ thuật,1
+Soft Skill,xây dựng tài liệu đào tạo,1
+Soft Skill,xây dựng và duy trì các mối quan hệ,1
+Soft Skill,xây dựng và duy trì mối quan hệ,1
+Soft Skill,xây dựng và gắn kết đội nhóm,1
+Soft Skill,xây dựng và phát triển team,1
+Soft Skill,xây dựng và triển khai chiến lược dữ liệu và ai,1
+Soft Skill,xây dựng đội ngũ,1
+Soft Skill,xây dựng đội nhóm,1
+Soft Skill,xử lý and khắc phục sự cố,1
+Soft Skill,xử lý conflict,1
+Soft Skill,xử lý các vấn đề,1
+Soft Skill,xử lý công việc có thứ tự ưu tiên,1
+Soft Skill,xử lý công việc đa nhiệm,1
+Soft Skill,xử lý feedback,1
+Soft Skill,xử lý nhiều yêu cầu cùng lúc,1
+Soft Skill,xử lý nhiều đầu việc cùng lúc,1
+Soft Skill,xử lý sự cố hệ thống,1
+Soft Skill,xử lý sự cố kỹ thuật,1
+Soft Skill,xử lý thông tin,1
+Soft Skill,xử lý tình huống,1
+Soft Skill,xử lý vấn đề kỹ thuật,1
+Soft Skill,xử lý xung đột,1
+Soft Skill,xử lý đa nhiệm,1
+Soft Skill,đa tác vụ,1
+Soft Skill,điều hành đội nhóm,1
+Soft Skill,điều phối các cuộc họp song ngữ,1
+Soft Skill,điều phối nguồn lực,1
+Soft Skill,điều phối nhiều đội nhóm,1
+Soft Skill,điều phối stakeholder,1
+Soft Skill,điều phối team,1
+Soft Skill,điều phối và kiểm soát công việc,1
+Soft Skill,điều phối đa phòng ban,1
+Soft Skill,đo lường hiệu quả,1
+Soft Skill,đàm phán và xử lý vấn đề,1
+Soft Skill,đào sâu gốc rễ vấn đề,1
+Soft Skill,đào tạo khách hàng,1
+Soft Skill,đào tạo nhân viên,1
+Soft Skill,đào tạo và phát triển đội ngũ,1
+Soft Skill,đào tạo đội ngũ,1
+Soft Skill,"đào tạo, dẫn dắt",1
+Soft Skill,"đào tạo, hướng dẫn đội nhóm",1
+Soft Skill,đào tạo/hỗ trợ kỹ thuật bằng tiếng anh,1
+Soft Skill,đánh giá và ra quyết định,1
+Soft Skill,đánh giá vấn đề,1
+Soft Skill,"đánh giá, phân tích",1
+Soft Skill,đưa ra các quyết định,1
+Soft Skill,đưa ra giải pháp,1
+Soft Skill,đưa ra phương án,1
+Soft Skill,đầu óc logic,1
+Soft Skill,đề án với khách hàng,1
+Soft Skill,định hướng dịch vụ khách hàng,1
+Soft Skill,định hướng giải pháp,1
+Soft Skill,định vị sản phẩm,1
+Soft Skill,đọc - hiểu và giao tiếp tiếng anh,1
+Soft Skill,đọc bài báo khoa học,1
+Soft Skill,đọc dịch tài liệu,1
+Soft Skill,đọc hiểu,1
+Soft Skill,đọc hiểu các tài liệu tiếng anh,1
+Soft Skill,đọc hiểu quy trình nghiệp vụ,1
+Soft Skill,đọc hiểu technical documentation bằng tiếng anh,1
+Soft Skill,đọc hiểu tiếng anh chuyên ngành,1
+Soft Skill,đọc hiểu tài liệu chuyên môn,1
+Soft Skill,đọc hiểu tài liệu chuyên ngành bằng tiếng anh,1
+Soft Skill,đọc hiểu tài liệu it,1
+Soft Skill,đọc hiểu tài liệu tiếng anh kỹ thuật,1
+Soft Skill,đọc hiểu tài liệu tiếng nhật,1
+Soft Skill,đọc hiểu tốt các tài liệu,1
+Soft Skill,đọc hiểu và viết tài liệu kỹ thuật bằng tiếng anh,1
+Soft Skill,đọc hiểu và áp dụng các bài nghiên cứu mới,1
+Soft Skill,đọc tài liệu,1
+Soft Skill,đọc tài liệu kỹ thuật,1
+Soft Skill,đọc tài liệu tiếng anh,1
+Soft Skill,đọc viết các tài liệu bằng tiếng anh,1
+Soft Skill,đọc và hiểu các bài báo nghiên cứu về ai,1
+Soft Skill,đọc và hiểu tài liệu,1
+Soft Skill,đọc và nghiên cứu các tài liệu kỹ thuật tiếng anh,1
+Soft Skill,"đọc, hiểu tiếng anh",1
+Soft Skill,"đọc, hiểu tài liệu bằng tiếng anh",1
+Soft Skill,"đọc, hiểu tài liệu và giao tiếp bằng tiếng anh",1
+Soft Skill,đọc/viết tài liệu kỹ thuật bằng tiếng anh,1
+Soft Skill,đối ngoại,1
+Soft Skill,đồng đội,1
+Soft Skill,đội nhóm,1
+Soft Skill,ưu tiên công việc,1
+Soft Skill,ước tính khối lượng công việc/ chi phí,1

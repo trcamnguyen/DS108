@@ -1,0 +1,49 @@
+{
+  "matching_version": "v3_embedding_clustering",
+  "model": "sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2",
+  "distance_threshold": 0.15,
+  "linkage": "average",
+  "min_keep_count": 5,
+  "short_string_bypass": {
+    "threshold": 6,
+    "n_short_skills_separated": 2199,
+    "n_short_clusters_created": 1836,
+    "n_long_skills_clustered": 12225,
+    "rationale": "Short strings (<=6 chars) routed to exact-match consolidation to avoid catch-all clusters from noisy embeddings."
+  },
+  "input_rows": 56832,
+  "input_unique_skills": 14424,
+  "n_clusters": 9030,
+  "n_clusters_cross_category": 1326,
+  "cross_category_summary": {
+    "total_cross_category_clusters": 1326,
+    "action_breakdown": {
+      "MERGE": 156,
+      "MERGE_REVIEW": 255,
+      "REVIEW_SPLIT": 305,
+      "IGNORE": 610
+    },
+    "warning": "305 cluster(s) marked REVIEW_SPLIT — manual review recommended. See cross_category_review.csv."
+  },
+  "n_clusters_in_other_bucket": 6210,
+  "skills_after_canonical": 2785,
+  "total_mentions_preserved": 56832,
+  "runtime_seconds": 77.06,
+  "timestamp": "2026-05-28T12:04:43",
+  "config_hash": "sha256-b5addcdfd465b354",
+  "alias_application": {
+    "aliases_file": "Preprocessing\\02_skill_extraction\\outputs\\aliases.yaml",
+    "n_alias_groups": 484,
+    "n_variants_total": 893,
+    "rows_changed": 9059,
+    "pct_changed": 15.9,
+    "distinct_skills_before": 14076,
+    "distinct_skills_after": 13193
+  },
+  "role_block": {
+    "role_block_file": "Preprocessing\\02_skill_extraction\\role_block.txt",
+    "n_blocked_entries": 54,
+    "n_blocked_clusters": 50,
+    "n_blocked_mentions": 487
+  }
+}

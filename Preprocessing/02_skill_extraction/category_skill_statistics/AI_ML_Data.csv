@@ -1,0 +1,956 @@
+category,normalized_skill,count
+AI/ML/Data,ai,163
+AI/ML/Data,ml,83
+AI/ML/Data,pytorch,80
+AI/ML/Data,tensorflow,73
+AI/ML/Data,computer vision,52
+AI/ML/Data,nlp,51
+AI/ML/Data,rag,50
+AI/ML/Data,prompt engineering,49
+AI/ML/Data,llm,48
+AI/ML/Data,dl,36
+AI/ML/Data,ai/ml,35
+AI/ML/Data,scikit-learn,26
+AI/ML/Data,llms,25
+AI/ML/Data,langchain,23
+AI/ML/Data,chatbot,22
+AI/ML/Data,ai agent,19
+AI/ML/Data,transformer,19
+AI/ML/Data,openai,18
+AI/ML/Data,generative ai,16
+AI/ML/Data,data science,15
+AI/ML/Data,ai tools,14
+AI/ML/Data,claude,14
+AI/ML/Data,cnn,14
+AI/ML/Data,hugging face,14
+AI/ML/Data,rnn,14
+AI/ML/Data,ai agents,13
+AI/ML/Data,keras,13
+AI/ML/Data,llm apis,13
+AI/ML/Data,embeddings,12
+AI/ML/Data,function calling,12
+AI/ML/Data,langgraph,12
+AI/ML/Data,công cụ ai,11
+AI/ML/Data,genai,11
+AI/ML/Data,ocr,11
+AI/ML/Data,rag pipelines,11
+AI/ML/Data,thống kê,11
+AI/ML/Data,attention,10
+AI/ML/Data,classification,10
+AI/ML/Data,opencv,10
+AI/ML/Data,fine-tuning,9
+AI/ML/Data,gemini,9
+AI/ML/Data,autogen,8
+AI/ML/Data,clustering,8
+AI/ML/Data,gnn,8
+AI/ML/Data,llama,8
+AI/ML/Data,onnx,8
+AI/ML/Data,toán học,8
+AI/ML/Data,xác suất thống kê,8
+AI/ML/Data,chatgpt,7
+AI/ML/Data,feature engineering,7
+AI/ML/Data,model evaluation,7
+AI/ML/Data,quantization,7
+AI/ML/Data,vector embeddings,7
+AI/ML/Data,agentic ai,6
+AI/ML/Data,ai/llm,6
+AI/ML/Data,anthropic,6
+AI/ML/Data,bert,6
+AI/ML/Data,data,6
+AI/ML/Data,data mining,6
+AI/ML/Data,guardrails,6
+AI/ML/Data,hugging face transformers,6
+AI/ML/Data,image processing,6
+AI/ML/Data,llamaindex,6
+AI/ML/Data,mathematics,6
+AI/ML/Data,reinforcement learning,6
+AI/ML/Data,speech,6
+AI/ML/Data,statistics,6
+AI/ML/Data,svm,6
+AI/ML/Data,transformers,6
+AI/ML/Data,vector search,6
+AI/ML/Data,yolo,6
+AI/ML/Data,đại số tuyến tính,6
+AI/ML/Data,ai integration,5
+AI/ML/Data,ai safety,5
+AI/ML/Data,distillation,5
+AI/ML/Data,embedding,5
+AI/ML/Data,giải tích,5
+AI/ML/Data,học máy,5
+AI/ML/Data,lora,5
+AI/ML/Data,mistral,5
+AI/ML/Data,object detection,5
+AI/ML/Data,openai api,5
+AI/ML/Data,planning,5
+AI/ML/Data,supervised learning,5
+AI/ML/Data,tensorrt,5
+AI/ML/Data,thuật toán học máy,5
+AI/ML/Data,trí tuệ nhân tạo,5
+AI/ML/Data,vllm,5
+AI/ML/Data,xgboost,5
+AI/ML/Data,xử lý hình ảnh,5
+AI/ML/Data,-use agents,4
+AI/ML/Data,ai apis,4
+AI/ML/Data,ai automation,4
+AI/ML/Data,ai/machine learning,4
+AI/ML/Data,ai/ml solutions,4
+AI/ML/Data,calling,4
+AI/ML/Data,cnns,4
+AI/ML/Data,conversational ai,4
+AI/ML/Data,crewai,4
+AI/ML/Data,data scientist,4
+AI/ML/Data,dgl,4
+AI/ML/Data,distiller,4
+AI/ML/Data,evaluation,4
+AI/ML/Data,gpt-4,4
+AI/ML/Data,knn,4
+AI/ML/Data,large language models (llms,4
+AI/ML/Data,llm agents,4
+AI/ML/Data,machine learning pipelines,4
+AI/ML/Data,memory,4
+AI/ML/Data,model monitoring,4
+AI/ML/Data,model prune,4
+AI/ML/Data,model quantization,4
+AI/ML/Data,multi-step reasoning systems,4
+AI/ML/Data,mô hình học máy,4
+AI/ML/Data,mô hình thống kê,4
+AI/ML/Data,openai apis,4
+AI/ML/Data,probability,4
+AI/ML/Data,pyg,4
+AI/ML/Data,regression,4
+AI/ML/Data,semantic search,4
+AI/ML/Data,video understanding,4
+AI/ML/Data,xử lý video,4
+AI/ML/Data,xử lý âm thanh,4
+AI/ML/Data,ứng dụng ai,4
+AI/ML/Data,adk,3
+AI/ML/Data,agent,3
+AI/ML/Data,ai prompt,3
+AI/ML/Data,ai services integration,3
+AI/ML/Data,ai-assisted development,3
+AI/ML/Data,ai-powered application development,3
+AI/ML/Data,ai/ml products,3
+AI/ML/Data,automation,3
+AI/ML/Data,big data,3
+AI/ML/Data,document understanding,3
+AI/ML/Data,gan,3
+AI/ML/Data,huggingface,3
+AI/ML/Data,học sâu,3
+AI/ML/Data,kiểm định giả thuyết,3
+AI/ML/Data,large language models (llm,3
+AI/ML/Data,lightgbm,3
+AI/ML/Data,linear algebra,3
+AI/ML/Data,llm integration,3
+AI/ML/Data,local llm,3
+AI/ML/Data,machine learning models,3
+AI/ML/Data,model optimization,3
+AI/ML/Data,multi-agent orchestration,3
+AI/ML/Data,mô hình dự đoán,3
+AI/ML/Data,optimization,3
+AI/ML/Data,predictive modeling,3
+AI/ML/Data,prompting,3
+AI/ML/Data,pruning,3
+AI/ML/Data,qwen,3
+AI/ML/Data,recommendation systems,3
+AI/ML/Data,retrieval-augmented generation (rag,3
+AI/ML/Data,segmentation,3
+AI/ML/Data,sentiment analysis,3
+AI/ML/Data,time series,3
+AI/ML/Data,toán,3
+AI/ML/Data,toán học ứng dụng,3
+AI/ML/Data,vertex ai,3
+AI/ML/Data,xác suất,3
+AI/ML/Data,3d face modeling,2
+AI/ML/Data,a.i,2
+AI/ML/Data,advanced analytics,2
+AI/ML/Data,agent frameworks,2
+AI/ML/Data,agent workflows,2
+AI/ML/Data,ai assistant,2
+AI/ML/Data,ai chatbots,2
+AI/ML/Data,ai content,2
+AI/ML/Data,ai engineering,2
+AI/ML/Data,ai solutions,2
+AI/ML/Data,ai technologies,2
+AI/ML/Data,ai trong testing,2
+AI/ML/Data,ai video,2
+AI/ML/Data,ai workflow,2
+AI/ML/Data,ai-related projects,2
+AI/ML/Data,ai/automation,2
+AI/ML/Data,ai/deep learning,2
+AI/ML/Data,ai/ml deployment,2
+AI/ML/Data,ai/ml development,2
+AI/ML/Data,alpaca,2
+AI/ML/Data,anomaly detection,2
+AI/ML/Data,anthropic claude,2
+AI/ML/Data,api của llm,2
+AI/ML/Data,azure openai,2
+AI/ML/Data,calculus,2
+AI/ML/Data,causal analysis,2
+AI/ML/Data,causal inference,2
+AI/ML/Data,chatbots,2
+AI/ML/Data,civitai,2
+AI/ML/Data,claude api,2
+AI/ML/Data,claude code,2
+AI/ML/Data,coding agents,2
+AI/ML/Data,context management,2
+AI/ML/Data,copilot studio,2
+AI/ML/Data,cot,2
+AI/ML/Data,cv,2
+AI/ML/Data,data leakage,2
+AI/ML/Data,data preparation,2
+AI/ML/Data,data preprocessing,2
+AI/ML/Data,diffusion models,2
+AI/ML/Data,embedding models,2
+AI/ML/Data,ensemble methods,2
+AI/ML/Data,experimental design,2
+AI/ML/Data,face beautification,2
+AI/ML/Data,face detection,2
+AI/ML/Data,face recognition,2
+AI/ML/Data,fine-tune,2
+AI/ML/Data,fine-tuning llm,2
+AI/ML/Data,fine-tuning llms,2
+AI/ML/Data,forecasting,2
+AI/ML/Data,function-calling,2
+AI/ML/Data,gemini api,2
+AI/ML/Data,gen-ai,2
+AI/ML/Data,gis/spatial data,2
+AI/ML/Data,gpt,2
+AI/ML/Data,gpt-3,2
+AI/ML/Data,graph ai,2
+AI/ML/Data,graph analytics,2
+AI/ML/Data,information extraction,2
+AI/ML/Data,khai phá dữ liệu,2
+AI/ML/Data,khoa học dữ liệu,2
+AI/ML/Data,kiến trúc llm,2
+AI/ML/Data,langfuse,2
+AI/ML/Data,langsmith,2
+AI/ML/Data,large language models,2
+AI/ML/Data,lgbm,2
+AI/ML/Data,linear regression,2
+AI/ML/Data,llm api,2
+AI/ML/Data,llm application,2
+AI/ML/Data,llm evaluation,2
+AI/ML/Data,llm fine-tuning,2
+AI/ML/Data,llm-based applications,2
+AI/ML/Data,llm-based systems,2
+AI/ML/Data,llm/prompt,2
+AI/ML/Data,lý thuyết đồ thị,2
+AI/ML/Data,machine learning frameworks,2
+AI/ML/Data,machine vision,2
+AI/ML/Data,mcp,2
+AI/ML/Data,ml pipelines,2
+AI/ML/Data,mlflow,2
+AI/ML/Data,model evaluation metrics,2
+AI/ML/Data,model training,2
+AI/ML/Data,multi-agent systems,2
+AI/ML/Data,multi-modal ai systems,2
+AI/ML/Data,mô hình ai,2
+AI/ML/Data,mô hình suy diễn,2
+AI/ML/Data,natural language processing (nlp,2
+AI/ML/Data,nghiên cứu công cụ ai mới,2
+AI/ML/Data,nlp models,2
+AI/ML/Data,open-source llms,2
+AI/ML/Data,open-source models,2
+AI/ML/Data,openvino,2
+AI/ML/Data,paddleocr,2
+AI/ML/Data,peft,2
+AI/ML/Data,personalization engines,2
+AI/ML/Data,phát hiện đối tượng,2
+AI/ML/Data,phân loại hình ảnh,2
+AI/ML/Data,phân tích chuỗi thời gian,2
+AI/ML/Data,phân tích dự đoán,2
+AI/ML/Data,phân tích nhân quả,2
+AI/ML/Data,pipeline huấn luyện mô hình,2
+AI/ML/Data,prompt design,2
+AI/ML/Data,qa system,2
+AI/ML/Data,qlora,2
+AI/ML/Data,rag pipeline,2
+AI/ML/Data,rag systems,2
+AI/ML/Data,ragas,2
+AI/ML/Data,react,2
+AI/ML/Data,recommendation,2
+AI/ML/Data,recommender systems,2
+AI/ML/Data,search engine,2
+AI/ML/Data,statistical methods,2
+AI/ML/Data,t5,2
+AI/ML/Data,tesseract,2
+AI/ML/Data,text,2
+AI/ML/Data,text classification,2
+AI/ML/Data,text completion,2
+AI/ML/Data,text summarization,2
+AI/ML/Data,tflite,2
+AI/ML/Data,thuật toán ai,2
+AI/ML/Data,thống kê ứng dụng,2
+AI/ML/Data,time series data,2
+AI/ML/Data,time-series data,2
+AI/ML/Data,trợ lý ai,2
+AI/ML/Data,tích hợp tính năng ai,2
+AI/ML/Data,tối ưu hệ thống ai,2
+AI/ML/Data,tối ưu hệ thống ai cost-efficient,2
+AI/ML/Data,tối ưu prompt,2
+AI/ML/Data,unet,2
+AI/ML/Data,vector database,2
+AI/ML/Data,vector databases,2
+AI/ML/Data,virtual try-on,2
+AI/ML/Data,vision,2
+AI/ML/Data,word2vec,2
+AI/ML/Data,xử lý dữ liệu ảnh,2
+AI/ML/Data,xử lý mất cân bằng dữ liệu,2
+AI/ML/Data,xử lý ảnh,2
+AI/ML/Data,xử lý ảnh số,2
+AI/ML/Data,-calling,1
+AI/ML/Data,2d image processing,1
+AI/ML/Data,3d programing,1
+AI/ML/Data,a2a,1
+AI/ML/Data,active learning,1
+AI/ML/Data,adk (agent development kit,1
+AI/ML/Data,agent evaluation frameworks,1
+AI/ML/Data,agent systems,1
+AI/ML/Data,agent workflow,1
+AI/ML/Data,agentic ai architectural design patterns,1
+AI/ML/Data,agentic ai development,1
+AI/ML/Data,agentic ai development tools,1
+AI/ML/Data,agentic ai frameworks,1
+AI/ML/Data,agentic ai systems,1
+AI/ML/Data,agentic ai workflows,1
+AI/ML/Data,agentic applications,1
+AI/ML/Data,agentic architecture,1
+AI/ML/Data,agentic coding workflows,1
+AI/ML/Data,agentic pipeline,1
+AI/ML/Data,agentic systems,1
+AI/ML/Data,agentic workflows,1
+AI/ML/Data,agenticai,1
+AI/ML/Data,ai agent architecture,1
+AI/ML/Data,ai agent development,1
+AI/ML/Data,ai agent frameworks,1
+AI/ML/Data,ai agent system,1
+AI/ML/Data,ai and big data proficiency,1
+AI/ML/Data,ai api,1
+AI/ML/Data,ai applications,1
+AI/ML/Data,ai applications for insurance,1
+AI/ML/Data,ai applications in software testing,1
+AI/ML/Data,ai chatbot,1
+AI/ML/Data,ai chatbot systems,1
+AI/ML/Data,ai coding agent,1
+AI/ML/Data,ai coding agents,1
+AI/ML/Data,ai coding assistants,1
+AI/ML/Data,ai coding/testing assistants,1
+AI/ML/Data,ai computing,1
+AI/ML/Data,ai development,1
+AI/ML/Data,ai development tools,1
+AI/ML/Data,ai edge,1
+AI/ML/Data,ai edge cases,1
+AI/ML/Data,ai evals,1
+AI/ML/Data,ai evaluation,1
+AI/ML/Data,ai evaluation methods,1
+AI/ML/Data,ai feature integration,1
+AI/ML/Data,ai frameworks,1
+AI/ML/Data,ai generative,1
+AI/ML/Data,ai interfaces,1
+AI/ML/Data,ai lifecycle management,1
+AI/ML/Data,ai model for mobile,1
+AI/ML/Data,ai models,1
+AI/ML/Data,ai output evaluation,1
+AI/ML/Data,ai projects,1
+AI/ML/Data,ai recommendation,1
+AI/ML/Data,ai security,1
+AI/ML/Data,ai system development,1
+AI/ML/Data,ai systems,1
+AI/ML/Data,ai testing agents,1
+AI/ML/Data,ai trong lập trình,1
+AI/ML/Data,"ai tạo hình ảnh, video, content",1
+AI/ML/Data,ai use cases,1
+AI/ML/Data,ai voice,1
+AI/ML/Data,ai workflow orchestration,1
+AI/ML/Data,ai-assisted development tools,1
+AI/ML/Data,ai-assisted development workflows,1
+AI/ML/Data,ai-assisted documentation,1
+AI/ML/Data,ai-assisted qa workflows,1
+AI/ML/Data,ai-assisted software development,1
+AI/ML/Data,ai-assisted workflows,1
+AI/ML/Data,ai-based coding assistants,1
+AI/ML/Data,ai-based development and testing tools,1
+AI/ML/Data,ai-driven applications,1
+AI/ML/Data,ai-driven chatbots,1
+AI/ML/Data,ai-driven recommendation systems,1
+AI/ML/Data,ai-driven recommendation/matching systems,1
+AI/ML/Data,ai-driven solutions,1
+AI/ML/Data,ai-driven testing,1
+AI/ML/Data,ai-enabled features,1
+AI/ML/Data,ai-generated outputs,1
+AI/ML/Data,ai-native development workflows,1
+AI/ML/Data,ai-powered applications,1
+AI/ML/Data,ai-powered interfaces,1
+AI/ML/Data,ai-powered products,1
+AI/ML/Data,ai-related technologies,1
+AI/ML/Data,ai/automation tools,1
+AI/ML/Data,ai/data,1
+AI/ML/Data,ai/llm api,1
+AI/ML/Data,ai/llm applications,1
+AI/ML/Data,ai/llm integration,1
+AI/ML/Data,ai/llm security,1
+AI/ML/Data,ai/llm system,1
+AI/ML/Data,ai/llm-based security automation,1
+AI/ML/Data,ai/llms,1
+AI/ML/Data,ai/ml application security,1
+AI/ML/Data,ai/ml architecture,1
+AI/ML/Data,ai/ml data pipelines,1
+AI/ML/Data,ai/ml engineering,1
+AI/ML/Data,ai/ml frameworks,1
+AI/ML/Data,ai/ml infrastructure,1
+AI/ML/Data,ai/ml lifecycles,1
+AI/ML/Data,ai/ml models,1
+AI/ML/Data,ai/ml r&d,1
+AI/ML/Data,ai/ml systems,1
+AI/ML/Data,ai/ml tools,1
+AI/ML/Data,ai/ml trong security,1
+AI/ML/Data,ai/ml-driven signals,1
+AI/ML/Data,ai/ml/llm,1
+AI/ML/Data,aigc,1
+AI/ML/Data,aiops,1
+AI/ML/Data,albumentations,1
+AI/ML/Data,algebra,1
+AI/ML/Data,api các mô hình ngôn ngữ lớn,1
+AI/ML/Data,api-based inference systems,1
+AI/ML/Data,applied ai research,1
+AI/ML/Data,applied machine learning,1
+AI/ML/Data,applied mathematics,1
+AI/ML/Data,ar,1
+AI/ML/Data,arize phoenix,1
+AI/ML/Data,asr/tts,1
+AI/ML/Data,attention mechanism,1
+AI/ML/Data,audio,1
+AI/ML/Data,audio transcription,1
+AI/ML/Data,audio/video codec,1
+AI/ML/Data,augmentation,1
+AI/ML/Data,auto-labeling,1
+AI/ML/Data,auto-tagging,1
+AI/ML/Data,automation bots,1
+AI/ML/Data,autonomous systems,1
+AI/ML/Data,awq,1
+AI/ML/Data,aws sagemaker,1
+AI/ML/Data,azure ai,1
+AI/ML/Data,azure ai foundry,1
+AI/ML/Data,azure machine learning,1
+AI/ML/Data,azure ml,1
+AI/ML/Data,azure openai services,1
+AI/ML/Data,backlog generation,1
+AI/ML/Data,backtesting,1
+AI/ML/Data,bagging,1
+AI/ML/Data,bart,1
+AI/ML/Data,basler,1
+AI/ML/Data,batch inference ml/dl,1
+AI/ML/Data,bayesian methods,1
+AI/ML/Data,benchmark,1
+AI/ML/Data,bentoml,1
+AI/ML/Data,bigdata,1
+AI/ML/Data,biometric technologies,1
+AI/ML/Data,boosting,1
+AI/ML/Data,building training datasets for generative models,1
+AI/ML/Data,bảo mật ai,1
+AI/ML/Data,caffe,1
+AI/ML/Data,camera,1
+AI/ML/Data,camera công nghiệp,1
+AI/ML/Data,camera vision,1
+AI/ML/Data,chain-of-thought,1
+AI/ML/Data,chat/assistant,1
+AI/ML/Data,chat/voice ai,1
+AI/ML/Data,chatgpt apis,1
+AI/ML/Data,chunking,1
+AI/ML/Data,chunking strategies,1
+AI/ML/Data,churn prediction,1
+AI/ML/Data,classical ml,1
+AI/ML/Data,claude 3.5/4,1
+AI/ML/Data,clinical nlp,1
+AI/ML/Data,cloud ai,1
+AI/ML/Data,code generation,1
+AI/ML/Data,cognex,1
+AI/ML/Data,comfy_ui,1
+AI/ML/Data,composable agent patterns,1
+AI/ML/Data,computational geometry,1
+AI/ML/Data,computer vison,1
+AI/ML/Data,conditional generation,1
+AI/ML/Data,content generation,1
+AI/ML/Data,context engineering,1
+AI/ML/Data,context optimization,1
+AI/ML/Data,copilot,1
+AI/ML/Data,copilots,1
+AI/ML/Data,core ml,1
+AI/ML/Data,creative ai tools,1
+AI/ML/Data,cuda,1
+AI/ML/Data,custom training,1
+AI/ML/Data,cá nhân hóa,1
+AI/ML/Data,công cụ xây dựng chatbot,1
+AI/ML/Data,dall-e,1
+AI/ML/Data,data analysis,1
+AI/ML/Data,data augmentation,1
+AI/ML/Data,data collection,1
+AI/ML/Data,data modeler,1
+AI/ML/Data,data modeling,1
+AI/ML/Data,data processing,1
+AI/ML/Data,data/eval design,1
+AI/ML/Data,dataset preparation,1
+AI/ML/Data,decision trees,1
+AI/ML/Data,decoder-only models,1
+AI/ML/Data,deduplication,1
+AI/ML/Data,deep generative ai,1
+AI/ML/Data,deep learning frameworks,1
+AI/ML/Data,deepeval,1
+AI/ML/Data,deeplearning,1
+AI/ML/Data,deepseek,1
+AI/ML/Data,design pattern của agentic ai,1
+AI/ML/Data,detection models,1
+AI/ML/Data,detectron,1
+AI/ML/Data,detectron2,1
+AI/ML/Data,detr,1
+AI/ML/Data,dialogflow,1
+AI/ML/Data,diff-in-diff,1
+AI/ML/Data,diffusion,1
+AI/ML/Data,distributed training,1
+AI/ML/Data,dl (deep learning,1
+AI/ML/Data,document classification,1
+AI/ML/Data,document layout analysis,1
+AI/ML/Data,document processing,1
+AI/ML/Data,donut,1
+AI/ML/Data,dots ocr,1
+AI/ML/Data,drift,1
+AI/ML/Data,drift detection,1
+AI/ML/Data,dịch vụ ai,1
+AI/ML/Data,dịch vụ cloud ai,1
+AI/ML/Data,dữ liệu,1
+AI/ML/Data,dữ liệu dạng bảng (tabular,1
+AI/ML/Data,dự báo,1
+AI/ML/Data,dự báo bán hàng,1
+AI/ML/Data,dự án về ứng dụng ai,1
+AI/ML/Data,edge ai,1
+AI/ML/Data,edge/on-device ai,1
+AI/ML/Data,embedded ai,1
+AI/ML/Data,embedding model,1
+AI/ML/Data,embedding pipelines,1
+AI/ML/Data,end-to-end,1
+AI/ML/Data,end-to-end llm/ai products,1
+AI/ML/Data,end-to-end ml pipeline,1
+AI/ML/Data,ensemble,1
+AI/ML/Data,enterprise ai/rag systems,1
+AI/ML/Data,entity extraction,1
+AI/ML/Data,error analysis,1
+AI/ML/Data,ethical ai,1
+AI/ML/Data,evaluation cho llm/agent,1
+AI/ML/Data,evaluation techniques,1
+AI/ML/Data,exllama,1
+AI/ML/Data,explainability logic,1
+AI/ML/Data,exploratory data analysis,1
+AI/ML/Data,extraction techniques,1
+AI/ML/Data,f1-score,1
+AI/ML/Data,face id,1
+AI/ML/Data,falcon,1
+AI/ML/Data,fasttext,1
+AI/ML/Data,feature extraction,1
+AI/ML/Data,feature stores,1
+AI/ML/Data,filter mạng xã hội,1
+AI/ML/Data,fine tuning,1
+AI/ML/Data,fine-tune mô hình,1
+AI/ML/Data,fine-tuning generative ai models,1
+AI/ML/Data,finetuning/adaptation,1
+AI/ML/Data,forecasting models,1
+AI/ML/Data,foundation model,1
+AI/ML/Data,foundation models,1
+AI/ML/Data,fraud detection,1
+AI/ML/Data,gaussian splatting,1
+AI/ML/Data,gemini apis,1
+AI/ML/Data,genai apis,1
+AI/ML/Data,genai/llm solutions,1
+AI/ML/Data,generalization,1
+AI/ML/Data,generative ai models,1
+AI/ML/Data,generative ai tools,1
+AI/ML/Data,generative approaches,1
+AI/ML/Data,generative models,1
+AI/ML/Data,geometry,1
+AI/ML/Data,ggml,1
+AI/ML/Data,gguf,1
+AI/ML/Data,google adk,1
+AI/ML/Data,google document ai,1
+AI/ML/Data,google gemini,1
+AI/ML/Data,gpt-oss,1
+AI/ML/Data,gptq,1
+AI/ML/Data,gpu architectures,1
+AI/ML/Data,gradient boosting,1
+AI/ML/Data,graph,1
+AI/ML/Data,graph algorithms,1
+AI/ML/Data,graphrag,1
+AI/ML/Data,gán nhãn dữ liệu,1
+AI/ML/Data,gãn nhãn dữ liệu,1
+AI/ML/Data,halcon,1
+AI/ML/Data,hallucinations,1
+AI/ML/Data,hikrobot,1
+AI/ML/Data,human tracking,1
+AI/ML/Data,huấn luyện embedding model,1
+AI/ML/Data,huấn luyện mô hình,1
+AI/ML/Data,huấn luyện mô hình song song,1
+AI/ML/Data,hyperparameter tuning,1
+AI/ML/Data,hypothesis testing,1
+AI/ML/Data,hệ thống camera ai,1
+AI/ML/Data,hệ thống camera công nghiệp,1
+AI/ML/Data,hệ thống dựa trên prompt,1
+AI/ML/Data,hệ thống hỏi – đáp thông minh,1
+AI/ML/Data,hệ thống real-time phục vụ ai,1
+AI/ML/Data,hệ thống tìm kiếm,1
+AI/ML/Data,hệ thống tầm nhìn,1
+AI/ML/Data,hệ thống tự động hóa/agent dựa trên ai,1
+AI/ML/Data,hệ thống vision,1
+AI/ML/Data,image,1
+AI/ML/Data,image classification,1
+AI/ML/Data,image generation,1
+AI/ML/Data,image pipelines,1
+AI/ML/Data,image quality assessment,1
+AI/ML/Data,image segmentation,1
+AI/ML/Data,image-processing eco-system/dgx,1
+AI/ML/Data,image/text analysis,1
+AI/ML/Data,image/video generative models,1
+AI/ML/Data,image/video processing,1
+AI/ML/Data,in-app ai features,1
+AI/ML/Data,in-house llm models,1
+AI/ML/Data,industrial vision,1
+AI/ML/Data,inference,1
+AI/ML/Data,inference optimization,1
+AI/ML/Data,inference trade-offs,1
+AI/ML/Data,information retrieval,1
+AI/ML/Data,inpainting,1
+AI/ML/Data,instrumental variables,1
+AI/ML/Data,integrating ai apis/services,1
+AI/ML/Data,intelligent process automation,1
+AI/ML/Data,intelligent q&a,1
+AI/ML/Data,intent detection,1
+AI/ML/Data,k-means,1
+AI/ML/Data,keyence,1
+AI/ML/Data,keyword extraction,1
+AI/ML/Data,khai thác dữ liệu,1
+AI/ML/Data,kiến trúc ai/ml,1
+AI/ML/Data,kiểm định,1
+AI/ML/Data,knowlegde graph,1
+AI/ML/Data,kỹ thuật prompt,1
+AI/ML/Data,kỹ thuật thống kê,1
+AI/ML/Data,l1/l2,1
+AI/ML/Data,labelling data,1
+AI/ML/Data,lang chain,1
+AI/ML/Data,large language model (llm,1
+AI/ML/Data,layoutlm,1
+AI/ML/Data,lemmatization,1
+AI/ML/Data,liveness,1
+AI/ML/Data,liveness detection,1
+AI/ML/Data,llama 3,1
+AI/ML/Data,llm agentic system,1
+AI/ML/Data,llm api integration,1
+AI/ML/Data,llm application frameworks,1
+AI/ML/Data,llm applications,1
+AI/ML/Data,llm cost management,1
+AI/ML/Data,llm fundamentals,1
+AI/ML/Data,llm integrations,1
+AI/ML/Data,llm models,1
+AI/ML/Data,llm mã nguồn mở,1
+AI/ML/Data,llm observability,1
+AI/ML/Data,llm orchestration,1
+AI/ML/Data,llm prompt,1
+AI/ML/Data,llm-based architectures,1
+AI/ML/Data,llm-based workflows,1
+AI/ML/Data,llm-powered ui features,1
+AI/ML/Data,llm/ai api,1
+AI/ML/Data,llm/genai,1
+AI/ML/Data,llm/genai engineering,1
+AI/ML/Data,logic toán học,1
+AI/ML/Data,lora training,1
+AI/ML/Data,lora-style approaches,1
+AI/ML/Data,low-rank adaptation,1
+AI/ML/Data,lstm,1
+AI/ML/Data,lstms,1
+AI/ML/Data,ltv prediction,1
+AI/ML/Data,lập trình ai,1
+AI/ML/Data,lập trình hệ thống thị giác máy,1
+AI/ML/Data,machine learning algorithms,1
+AI/ML/Data,machine learning concepts,1
+AI/ML/Data,machine learning workflows,1
+AI/ML/Data,machine translation,1
+AI/ML/Data,map,1
+AI/ML/Data,mathematical concepts,1
+AI/ML/Data,mcp (model context protocol,1
+AI/ML/Data,mcp agent,1
+AI/ML/Data,mcp designing,1
+AI/ML/Data,memory management,1
+AI/ML/Data,memory trong ai agents,1
+AI/ML/Data,microsoft agent,1
+AI/ML/Data,microsoft copilot,1
+AI/ML/Data,mil,1
+AI/ML/Data,milvus,1
+AI/ML/Data,ml (machine learning,1
+AI/ML/Data,ml concepts,1
+AI/ML/Data,ml model evaluation,1
+AI/ML/Data,ml model processing pipelines,1
+AI/ML/Data,ml models,1
+AI/ML/Data,ml systems,1
+AI/ML/Data,ml/ai agent,1
+AI/ML/Data,ml/ai concepts,1
+AI/ML/Data,ml/ai systems,1
+AI/ML/Data,ml/dl production,1
+AI/ML/Data,ml/llm frameworks,1
+AI/ML/Data,mmm,1
+AI/ML/Data,model adaptation,1
+AI/ML/Data,model building,1
+AI/ML/Data,model compression,1
+AI/ML/Data,model evaluation and optimization,1
+AI/ML/Data,model evaluation and tuning,1
+AI/ML/Data,model orchestration,1
+AI/ML/Data,model parallelism,1
+AI/ML/Data,model selection,1
+AI/ML/Data,model tuning and evaluation,1
+AI/ML/Data,model-building,1
+AI/ML/Data,modeling,1
+AI/ML/Data,monitoring,1
+AI/ML/Data,monte carlo simulation,1
+AI/ML/Data,mpt,1
+AI/ML/Data,multi-agent,1
+AI/ML/Data,multi-camera system,1
+AI/ML/Data,multi-domain ai,1
+AI/ML/Data,multi-label detection,1
+AI/ML/Data,multi-llm integrations,1
+AI/ML/Data,multimodal,1
+AI/ML/Data,multimodal ai,1
+AI/ML/Data,multimodal foundation models,1
+AI/ML/Data,multimodal pipelines,1
+AI/ML/Data,multimodal transformer pipelines,1
+AI/ML/Data,máy học,1
+AI/ML/Data,mô hình diffusion,1
+AI/ML/Data,mô hình dự báo,1
+AI/ML/Data,mô hình ml,1
+AI/ML/Data,mô hình mã nguồn mở,1
+AI/ML/Data,mô hình phân tích dữ liệu,1
+AI/ML/Data,mô hình tối ưu,1
+AI/ML/Data,name entity recognition,1
+AI/ML/Data,named entity recognition,1
+AI/ML/Data,natural language processing,1
+AI/ML/Data,nerf,1
+AI/ML/Data,neural network architectures,1
+AI/ML/Data,neural network optimization,1
+AI/ML/Data,neural networks,1
+AI/ML/Data,nghiên cứu ai,1
+AI/ML/Data,nhận diện khuôn mặt,1
+AI/ML/Data,nhận diện thực thể,1
+AI/ML/Data,nhận dạng biển số,1
+AI/ML/Data,nhận dạng văn bản,1
+AI/ML/Data,nlp - xử lý ngôn ngữ tự nhiên,1
+AI/ML/Data,nlp/ner,1
+AI/ML/Data,npu architectures,1
+AI/ML/Data,nvidia deepstream,1
+AI/ML/Data,nvidia trition sever,1
+AI/ML/Data,ollama,1
+AI/ML/Data,omron,1
+AI/ML/Data,on-device ai inference,1
+AI/ML/Data,on-device inference optimization,1
+AI/ML/Data,on-device llms,1
+AI/ML/Data,open source llms,1
+AI/ML/Data,open source models,1
+AI/ML/Data,optimization algorithms,1
+AI/ML/Data,optuna,1
+AI/ML/Data,parsing,1
+AI/ML/Data,path planning,1
+AI/ML/Data,pattern,1
+AI/ML/Data,pdf parsing,1
+AI/ML/Data,personalization,1
+AI/ML/Data,personalization systems,1
+AI/ML/Data,personalized recommendation,1
+AI/ML/Data,pgvector,1
+AI/ML/Data,phát hiện văn bản,1
+AI/ML/Data,phát triển và tùy chỉnh mô hình ai,1
+AI/ML/Data,phát triển ứng dụng ai,1
+AI/ML/Data,phân tích dữ liệu,1
+AI/ML/Data,phân tích dữ liệu nâng cao,1
+AI/ML/Data,phân tích dữ liệu thống kê,1
+AI/ML/Data,phân tích dự báo (forecasting,1
+AI/ML/Data,phân tích hành vi,1
+AI/ML/Data,phân tích hành vi người dùng,1
+AI/ML/Data,phân tích số liệu,1
+AI/ML/Data,phân tích thông kê,1
+AI/ML/Data,phân tích thống kê,1
+AI/ML/Data,phân tích và thiết kế giải pháp ai,1
+AI/ML/Data,phân đoạn hình ảnh,1
+AI/ML/Data,pinecone,1
+AI/ML/Data,pipeline ai/ml,1
+AI/ML/Data,plan-and-execute,1
+AI/ML/Data,precision/recall,1
+AI/ML/Data,prediction models,1
+AI/ML/Data,predictive analytics,1
+AI/ML/Data,predictive models,1
+AI/ML/Data,preprocessing,1
+AI/ML/Data,private ai,1
+AI/ML/Data,probability and statistics,1
+AI/ML/Data,prompt,1
+AI/ML/Data,prompt injection defenses,1
+AI/ML/Data,promptfoo,1
+AI/ML/Data,prompts,1
+AI/ML/Data,pytorch mobile,1
+AI/ML/Data,q&a,1
+AI/ML/Data,qdrant,1
+AI/ML/Data,quy trình phát triển ai/ml,1
+AI/ML/Data,qwen 2,1
+AI/ML/Data,rag (retrieval-augmented generation,1
+AI/ML/Data,rag architecture,1
+AI/ML/Data,rag architectures,1
+AI/ML/Data,random forest,1
+AI/ML/Data,ranking models,1
+AI/ML/Data,raycasting,1
+AI/ML/Data,rdd,1
+AI/ML/Data,reasoning,1
+AI/ML/Data,recognition,1
+AI/ML/Data,recognition systems,1
+AI/ML/Data,recommendation system,1
+AI/ML/Data,regularization,1
+AI/ML/Data,regularization techniques,1
+AI/ML/Data,reid,1
+AI/ML/Data,resnet,1
+AI/ML/Data,responsible ai,1
+AI/ML/Data,result interpretation,1
+AI/ML/Data,retraining,1
+AI/ML/Data,retrieval,1
+AI/ML/Data,retrieval optimization,1
+AI/ML/Data,retrieval system,1
+AI/ML/Data,retrieval-augmented generation,1
+AI/ML/Data,rnns,1
+AI/ML/Data,roberta,1
+AI/ML/Data,runway,1
+AI/ML/Data,rủi ro mô hình,1
+AI/ML/Data,sagemaker,1
+AI/ML/Data,sam,1
+AI/ML/Data,scikit-image,1
+AI/ML/Data,scorecard,1
+AI/ML/Data,scoring systems,1
+AI/ML/Data,search systems,1
+AI/ML/Data,semantic and instance segmentation,1
+AI/ML/Data,sentence-transformers,1
+AI/ML/Data,sequence-to-sequence,1
+AI/ML/Data,sfm,1
+AI/ML/Data,sick,1
+AI/ML/Data,similarity search,1
+AI/ML/Data,sinh văn bản,1
+AI/ML/Data,slam,1
+AI/ML/Data,snpe/qnn,1
+AI/ML/Data,spacy,1
+AI/ML/Data,spark mllib,1
+AI/ML/Data,spatial data structures,1
+AI/ML/Data,spatial intelligence,1
+AI/ML/Data,speech to text,1
+AI/ML/Data,speech/asr,1
+AI/ML/Data,stable diffusion,1
+AI/ML/Data,statistical analysis,1
+AI/ML/Data,statistical experimentation frameworks,1
+AI/ML/Data,statistical modeling,1
+AI/ML/Data,stemming,1
+AI/ML/Data,strands,1
+AI/ML/Data,structured output,1
+AI/ML/Data,summarization,1
+AI/ML/Data,tabular,1
+AI/ML/Data,tabular data processing,1
+AI/ML/Data,tensor flow,1
+AI/ML/Data,tensorflow lite,1
+AI/ML/Data,tensorrt-llm,1
+AI/ML/Data,text embeddings,1
+AI/ML/Data,text recognition,1
+AI/ML/Data,text representation,1
+AI/ML/Data,text-to-sql,1
+AI/ML/Data,theano,1
+AI/ML/Data,thiết kế prompt,1
+AI/ML/Data,thuật toán,1
+AI/ML/Data,thuật toán khai phá dữ liệu,1
+AI/ML/Data,thuật toán machine learning,1
+AI/ML/Data,thuật toán máy học,1
+AI/ML/Data,thuật toán thị giác máy,1
+AI/ML/Data,thuật toán và mô hình ai,1
+AI/ML/Data,thuật toán xử lý dữ liệu,1
+AI/ML/Data,thư viện ml,1
+AI/ML/Data,thị giác máy tính,1
+AI/ML/Data,time series analysis,1
+AI/ML/Data,time-series,1
+AI/ML/Data,time-series forecasting,1
+AI/ML/Data,tinh chỉnh mô hình,1
+AI/ML/Data,tinyml,1
+AI/ML/Data,tiền xử lý dữ liệu,1
+AI/ML/Data,tokenization,1
+AI/ML/Data,tools calling,1
+AI/ML/Data,torchscript,1
+AI/ML/Data,torchvision,1
+AI/ML/Data,toán – tin,1
+AI/ML/Data,tpu architectures,1
+AI/ML/Data,transformer-based vision models,1
+AI/ML/Data,triton,1
+AI/ML/Data,triển khai ai,1
+AI/ML/Data,triển khai các project,1
+AI/ML/Data,triển khai giải pháp ai,1
+AI/ML/Data,triển khai hệ thống,1
+AI/ML/Data,triển khai mô hình llm,1
+AI/ML/Data,truy vấn ngữ nghĩa,1
+AI/ML/Data,trích xuất thông tin chính,1
+AI/ML/Data,trò chuyện thông minh,1
+AI/ML/Data,trợ lý ảo,1
+AI/ML/Data,tvm,1
+AI/ML/Data,tìm kiếm dữ liệu,1
+AI/ML/Data,tìm kiếm ngữ nghĩa tăng cường,1
+AI/ML/Data,tích hợp mô hình ai,1
+AI/ML/Data,tóan học,1
+AI/ML/Data,tư duy dữ liệu,1
+AI/ML/Data,tư duy toán học,1
+AI/ML/Data,tư duy về dữ liệu,1
+AI/ML/Data,tối ưu hóa,1
+AI/ML/Data,tối ưu hóa model inference,1
+AI/ML/Data,tối ưu hóa mô hình,1
+AI/ML/Data,tối ưu inference,1
+AI/ML/Data,tối ưu model,1
+AI/ML/Data,tối ưu mô hình llm,1
+AI/ML/Data,unsloth,1
+AI/ML/Data,unstructured data,1
+AI/ML/Data,unsupervised learning,1
+AI/ML/Data,use,1
+AI/ML/Data,use/function calling,1
+AI/ML/Data,user segmentation,1
+AI/ML/Data,vector math,1
+AI/ML/Data,vector search tuning,1
+AI/ML/Data,vertex ai studio,1
+AI/ML/Data,vi phân – tích phân,1
+AI/ML/Data,video analytics,1
+AI/ML/Data,video and image processing,1
+AI/ML/Data,video generation,1
+AI/ML/Data,video processing,1
+AI/ML/Data,vision master,1
+AI/ML/Data,visionpro,1
+AI/ML/Data,vit,1
+AI/ML/Data,viết prompt,1
+AI/ML/Data,vlm,1
+AI/ML/Data,vocabulary,1
+AI/ML/Data,voice processing,1
+AI/ML/Data,voice recognition,1
+AI/ML/Data,voicebot,1
+AI/ML/Data,wandb,1
+AI/ML/Data,webar,1
+AI/ML/Data,weight pruning,1
+AI/ML/Data,whisper,1
+AI/ML/Data,workflow automation,1
+AI/ML/Data,world model,1
+AI/ML/Data,xgbosst,1
+AI/ML/Data,xác suất – thống kê,1
+AI/ML/Data,xây dựng chatbot,1
+AI/ML/Data,xây dựng hệ thống đánh giá chất lượng nội dung ai,1
+AI/ML/Data,xây dựng mô hình dự đoán,1
+AI/ML/Data,xây dựng mô hình ml,1
+AI/ML/Data,xây dựng mô hình rủi ro tín dụng,1
+AI/ML/Data,xây dựng và triển khai các mô hình machine learning,1
+AI/ML/Data,xây dựng ứng dụng tích hợp llm,1
+AI/ML/Data,xử lý dữ liệu,1
+AI/ML/Data,xử lý dữ liệu nlp,1
+AI/ML/Data,xử lý dữ liệu text,1
+AI/ML/Data,xử lý hội thoại,1
+AI/ML/Data,xử lý tài liệu,1
+AI/ML/Data,xử lý va chạm,1
+AI/ML/Data,xử lý voice,1
+AI/ML/Data,zebra,1
+AI/ML/Data,đánh giá model,1
+AI/ML/Data,đánh giá mô hình,1
+AI/ML/Data,ứng dụng ai vào quy trình phát triển phần mềm,1
+AI/ML/Data,ứng dụng các công cụ ai,1
+AI/ML/Data,ứng dụng trí tuệ nhân tạo,1
