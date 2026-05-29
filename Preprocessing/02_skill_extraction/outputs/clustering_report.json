@@ -4,46 +4,53 @@
   "distance_threshold": 0.15,
   "linkage": "average",
   "min_keep_count": 5,
+  "cross_category_strategy": "dominant_vote_v1",
+  "tie_breaker": "manual",
+  "removed_logic": "suggest_action_4_branch",
+  "spot_check_threshold_pct": 60,
+  "spot_check_sample_size": 30,
+  "audit_finding": "no mis-clustering detected; all cross-category traces to LLM category-labeling noise",
   "short_string_bypass": {
-    "threshold": 6,
-    "n_short_skills_separated": 2199,
-    "n_short_clusters_created": 1836,
-    "n_long_skills_clustered": 12225,
-    "rationale": "Short strings (<=6 chars) routed to exact-match consolidation to avoid catch-all clusters from noisy embeddings."
+    "threshold": 7,
+    "n_short_skills_separated": 2829,
+    "n_short_clusters_created": 2396,
+    "n_long_skills_clustered": 11583,
+    "rationale": "Short strings (<=7 chars) routed to exact-match consolidation to avoid catch-all clusters from noisy embeddings."
   },
   "input_rows": 56832,
-  "input_unique_skills": 14424,
-  "n_clusters": 9030,
-  "n_clusters_cross_category": 1326,
+  "input_unique_skills": 14412,
+  "n_clusters": 9215,
+  "n_clusters_cross_category": 1305,
   "cross_category_summary": {
-    "total_cross_category_clusters": 1326,
-    "action_breakdown": {
-      "MERGE": 156,
-      "MERGE_REVIEW": 255,
-      "REVIEW_SPLIT": 305,
-      "IGNORE": 610
-    },
-    "warning": "305 cluster(s) marked REVIEW_SPLIT — manual review recommended. See cross_category_review.csv."
+    "total_cross_category_clusters": 1305,
+    "n_ties": 350,
+    "strategy": "dominant_vote_v1",
+    "warning": "350 cross-category cluster(s) have a tie — manual tie-break required. See cross_category_ties.csv."
   },
-  "n_clusters_in_other_bucket": 6210,
-  "skills_after_canonical": 2785,
+  "n_clusters_in_other_bucket": 6417,
+  "skills_after_canonical": 2762,
   "total_mentions_preserved": 56832,
-  "runtime_seconds": 77.06,
-  "timestamp": "2026-05-28T12:04:43",
+  "runtime_seconds": 73.34,
+  "timestamp": "2026-05-29T16:10:23",
   "config_hash": "sha256-b5addcdfd465b354",
   "alias_application": {
     "aliases_file": "Preprocessing\\02_skill_extraction\\outputs\\aliases.yaml",
-    "n_alias_groups": 484,
-    "n_variants_total": 893,
-    "rows_changed": 9059,
-    "pct_changed": 15.9,
+    "n_alias_groups": 506,
+    "n_variants_total": 913,
+    "rows_changed": 9097,
+    "pct_changed": 16.0,
     "distinct_skills_before": 14076,
-    "distinct_skills_after": 13193
+    "distinct_skills_after": 13180
+  },
+  "category_override": {
+    "category_override_file": "Preprocessing\\02_skill_extraction\\category_overide.yaml",
+    "n_override_entries": 42,
+    "n_clusters_overridden": 39
   },
   "role_block": {
     "role_block_file": "Preprocessing\\02_skill_extraction\\role_block.txt",
-    "n_blocked_entries": 54,
-    "n_blocked_clusters": 50,
-    "n_blocked_mentions": 487
+    "n_blocked_entries": 57,
+    "n_blocked_clusters": 51,
+    "n_blocked_mentions": 497
   }
 }

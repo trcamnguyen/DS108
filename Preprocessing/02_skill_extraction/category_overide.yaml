@@ -1,0 +1,210 @@
+# category_override.yaml
+# Mục đích: gán category xác định cho các canonical bị cross-category tie
+# Apply: sau canonical clustering, trước feature engineering
+# Reasoning: Codebook v1.5 §4.1 BOUNDARY RULES + domain knowledge
+# Generated: 2026-05-29
+
+overrides:
+
+  # ── PL/SQL ──────────────────────────────────────────────────────────────────
+  # PL/SQL và T-SQL là ngôn ngữ lập trình (Oracle/SQL Server procedural extensions)
+  # Codebook: Programming Language (dù chạy trong DB context)
+  pl sql: Programming Language
+
+  # ── CLAUDE ──────────────────────────────────────────────────────────────────
+  # Claude là AI assistant tool trong context JD VN (dùng như tool, không phải research)
+  # Tool & Platform consistent với cách xếp chatgpt, github copilot trong dataset
+  claude: Tool & Platform
+
+  # ── TESTRAIL ────────────────────────────────────────────────────────────────
+  # TestRail là test management tool — Codebook §4.1.4: test tools → Testing & QA
+  testrail: Testing & QA
+
+  # ── OPERATIONS ──────────────────────────────────────────────────────────────
+  # "Operations" và "vận hành" trong JD IT VN thường là Domain Knowledge
+  # (vận hành hệ thống, vận hành sản phẩm) — Domain Knowledge fit hơn Infra
+  operations: Domain Knowledge
+
+  # ── DELL ────────────────────────────────────────────────────────────────────
+  # Dell là hardware vendor — IT Support & Hardware (§4.1.6)
+  dell: IT Support & Hardware
+
+  # ── TƯ DUY LẬP TRÌNH ────────────────────────────────────────────────────────
+  # "Tư duy lập trình" = computational thinking → Soft Skill (mindset, observable behavior)
+  # Codebook EC-10: skill rèn luyện được qua hành vi → Soft Skill
+  tư duy lập trình: Soft Skill
+
+  # ── SASS ────────────────────────────────────────────────────────────────────
+  # Sass là CSS preprocessor → Framework / Library (compile-time tool, không phải language)
+  # Tương tự Less, Stylus — cùng nhóm
+  sass: Framework / Library
+
+  # ── LESS ────────────────────────────────────────────────────────────────────
+  # Less là CSS preprocessor → Framework / Library (tương tự Sass)
+  less: Framework / Library
+
+  # ── THIẾT BỊ IT ─────────────────────────────────────────────────────────────
+  # Sau khi Type-3 fix, "thiết bị it" cluster chỉ còn thiết bị it + thiết bị nghiệp vụ
+  # → IT Support & Hardware
+  thiết bị it: IT Support & Hardware
+
+  # ── CUSTOMER JOURNEY ────────────────────────────────────────────────────────
+  # Customer journey, customer experience, trải nghiệm khách hàng → Design & UX
+  # (UX research/design skill, không phải domain business knowledge)
+  customer journey: Design & UX
+
+  # ── PUSH NOTIFICATION ───────────────────────────────────────────────────────
+  # Push notification là Engineering Concept (messaging pattern, không phải tool)
+  # Codebook §4.1.4: pattern/practice → Engineering Concepts
+  push notification: Engineering Concepts & Methodologies
+
+  # ── KOTLIN ANDROID ──────────────────────────────────────────────────────────
+  # Kotlin Android = mobile development skill → Programming Language
+  # (android application, lập trình android đều là programming context)
+  kotlin android: Programming Language
+
+  # ── SERVICE MANAGEMENT ──────────────────────────────────────────────────────
+  # IT Service Management (ITIL) → Engineering Concepts & Methodologies
+  # (methodology, không phải domain hay tool)
+  service management: Engineering Concepts & Methodologies
+
+  # ── IOS NATIVE ──────────────────────────────────────────────────────────────
+  # iOS native development → Framework / Library
+  # (native iOS development stack, không phải tool hay Other)
+  ios native: Framework / Library
+
+  # ── CHECK POINT ─────────────────────────────────────────────────────────────
+  # Check Point là security vendor (firewall, NGFW) → Infrastructure & DevOps
+  # Codebook §4.1.1: security infra → Infrastructure & DevOps
+  check point: Infrastructure & DevOps
+
+  # ── COST OPTIMIZATION ───────────────────────────────────────────────────────
+  # Cost optimization trong IT context = cloud cost, resource optimization
+  # → Engineering Concepts & Methodologies (engineering practice)
+  cost optimization: Engineering Concepts & Methodologies
+
+  # ── IT AUDIT ────────────────────────────────────────────────────────────────
+  # IT audit, audit processes → Domain Knowledge
+  # (audit là domain/compliance knowledge, không phải testing kỹ thuật)
+  it audit: Domain Knowledge
+
+  # ── GIẢI PHÁP PHẦN MỀM ──────────────────────────────────────────────────────
+  # "Giải pháp phần mềm", "kiến trúc phần mềm giải pháp" → Engineering Concepts
+  # (software solution design là engineering practice)
+  giải pháp phần mềm: Engineering Concepts & Methodologies
+
+  # ── PROJECT PLANNING ────────────────────────────────────────────────────────
+  # Project planning, lên kế hoạch dự án → Engineering Concepts & Methodologies
+  # (project management methodology, không phải soft skill thuần)
+  project planning: Engineering Concepts & Methodologies
+
+  # ── PLAYER PSYCHOLOGY ───────────────────────────────────────────────────────
+  # Tâm lý người chơi, player psychology → Domain Knowledge
+  # (game domain knowledge, không phải UX design skill)
+  player psychology: Domain Knowledge
+
+  # ── ERROR ANALYSIS ──────────────────────────────────────────────────────────
+  # Error analysis, phân tích lỗi → Testing & QA
+  # (QA activity, không phải soft skill hay AI/ML)
+  error analysis: Testing & QA
+
+  # ── YARN ────────────────────────────────────────────────────────────────────
+  # Yarn = JavaScript package manager → Tool & Platform
+  # Lưu ý: Apache YARN (Hadoop) = Data Engineering, nhưng dataset này chủ yếu JS context
+  # Data Engineering chỉ có 3 mentions vs Tool 3 mentions → Tool & Platform (JS context dominant)
+  yarn: Tool & Platform
+
+  # ── NESSUS ──────────────────────────────────────────────────────────────────
+  # Nessus là vulnerability scanning tool → Testing & QA
+  # Codebook §4.1.4: security testing tool → Testing & QA
+  nessus: Testing & QA
+
+  # ── TRACKING ────────────────────────────────────────────────────────────────
+  # Tracking, tracking plan, tracking tool → Tool & Platform
+  # (analytics/monitoring tools context trong JD VN)
+  tracking: Tool & Platform
+
+  # ── NETAPP ──────────────────────────────────────────────────────────────────
+  # NetApp là storage vendor → Infrastructure & DevOps
+  # (storage infrastructure, §4.1.6)
+  netapp: Infrastructure & DevOps
+
+  # ── SAP BW ──────────────────────────────────────────────────────────────────
+  # SAP BW (Business Warehouse) = BI/DW tool → Data Engineering & Analytics
+  # (SAP BW là data warehouse platform, fit Data Engineering hơn Tool)
+  sap bw: Data Engineering & Analytics
+
+  # ── UX ANALYTICS ────────────────────────────────────────────────────────────
+  # Sau Type-3 fix, ux analytics cluster chỉ còn ux analytics → Design & UX
+  ux analytics: Design & UX
+
+  # ── IT OPERATIONS ───────────────────────────────────────────────────────────
+  # IT Operations → Infrastructure & DevOps
+  # (vận hành hệ thống IT = infra/devops domain)
+  it operations: Infrastructure & DevOps
+
+  # ── COLLECTION ──────────────────────────────────────────────────────────────
+  # Collections (Java/Swift/Kotlin collections) → Framework / Library
+  # (programming framework concept, không phải domain hay language)
+  collection: Framework / Library
+
+  # ── UI SECURITY ─────────────────────────────────────────────────────────────
+  # Sau Type-3 fix, ui security cluster chỉ còn ui security → Infrastructure & DevOps
+  # (security engineering, Codebook §4.1.1)
+  ui security: Infrastructure & DevOps
+
+  # ── SAP BASIS ───────────────────────────────────────────────────────────────
+  # SAP Basis = SAP system administration → Tool & Platform
+  # (SAP admin skill, không phải domain knowledge)
+  sap basis: Tool & Platform
+
+  # ── BÀI VIẾT KỸ THUẬT ───────────────────────────────────────────────────────
+  # "Bài viết kỹ thuật" trong JD VN = technical writing/communication → Soft Skill
+  bài viết kỹ thuật: Soft Skill
+
+  # ── TƯ DUY DỮ LIỆU ──────────────────────────────────────────────────────────
+  # "Tư duy dữ liệu", "data-driven thinking" → Soft Skill
+  # (mindset, observable behavior — EC-10)
+  tư duy dữ liệu: Soft Skill
+
+  # ── INTERNAL TOOLS ──────────────────────────────────────────────────────────
+  # Internal tools, xây dựng công cụ nội bộ → Tool & Platform
+  # (tooling context, không phải engineering concept hay domain)
+  internal tools: Tool & Platform
+
+  # ── AI VIDEO ────────────────────────────────────────────────────────────────
+  # Sau Type-3 fix, ai video chỉ còn ai video generation context → AI/ML/Data
+  ai video: AI/ML/Data
+
+  # ── CRYPTOGRAPHY ────────────────────────────────────────────────────────────
+  # Cryptography, cryptographic fundamentals → Infrastructure & DevOps
+  # Codebook §4.1.1: security/encryption → Infrastructure & DevOps
+  cryptography: Infrastructure & DevOps
+
+  # ── DẪN DẮT SẢN PHẨM ───────────────────────────────────────────────────────
+  # "Dẫn dắt sản phẩm" trong JD VN = product leadership → Soft Skill
+  # (leadership skill với product scope — EC-10: có scope cụ thể → extract)
+  dẫn dắt sản phẩm: Soft Skill
+
+  # ── AZURE OPENAI ────────────────────────────────────────────────────────────
+  # Azure OpenAI = AI model service trên cloud → AI/ML/Data
+  # (ML/AI service, không phải infrastructure management)
+  azure openai: AI/ML/Data
+
+  # ── ASSET MANAGEMENT ────────────────────────────────────────────────────────
+  # Asset management trong IT context thường là Domain Knowledge
+  # (financial/IT asset management → business domain)
+  # addressables asset management (game) cũng là domain-specific
+  asset management: Domain Knowledge
+
+  # ── NIST CYBERSECURITY FRAMEWORK ────────────────────────────────────────────
+  # NIST Cybersecurity Framework = compliance/certification framework → Other
+  # Codebook §4 "Other": chứng chỉ quốc tế kỹ thuật (NIST, ISO frameworks)
+  nist cybersecurity framework: Other
+
+  # ── THU THẬP DỮ LIỆU ────────────────────────────────────────────────────────
+  # Thu thập dữ liệu, truy vấn dữ liệu → Data Engineering & Analytics
+  # (data collection/query là data engineering activity)
+  thu thập dữ liệu: Data Engineering & Analytics
+
+  ai security: Infrastructure & DevOps

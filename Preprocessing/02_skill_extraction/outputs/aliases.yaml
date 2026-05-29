@@ -2254,3 +2254,93 @@ aliases:
   - ui ux trên mobile
   - ux mobile
   - mobile ui ux design
+  
+- canonical: kubernetes
+  variants:
+  - kubernete
+  - kuberneter
+
+- canonical: palo alto
+  variants:
+  - paloalto
+
+- canonical: algorithms
+  variants:
+  - giải thuật
+
+- canonical: calculus
+  variants:
+  - giải tích
+
+- canonical: telesales
+  variants:
+  - telesale
+
+- canonical: postgresql
+  variants:
+  - posgres
+
+# Type-3 fixes — pin các string thành canonical riêng để embedding không gom
+
+# UX Analytics cluster
+- canonical: ux analytics
+  variants:
+  - ux analytics
+- canonical: advanced analytics
+  variants:
+  - advanced analytics
+- canonical: analytics platforms
+  variants:
+  - analytics platforms
+
+# UI Security cluster
+- canonical: ui security
+  variants:
+  - ui security
+- canonical: ai security
+  variants:
+  - ai security
+  - ai/llm security
+- canonical: ios security
+  variants:
+  - ios security
+
+# Thiết bị IT cluster
+- canonical: thiết bị it
+  variants:
+  - thiết bị it
+  - thiết bị nghiệp vụ
+- canonical: iot devices
+  variants:
+  - thiết bị iot
+- canonical: embedded devices
+  variants:
+  - thiết bị nhúng
+- canonical: vr devices
+  variants:
+  - thiết bị vr
+
+# AI Video cluster
+- canonical: ai video
+  variants:
+  - ai video
+- canonical: video production
+  variants:
+  - quay dựng video
+  - camera/video
+  - ảnh/video
+
+# Dẫn dắt sản phẩm cluster
+- canonical: product leadership
+  variants:
+  - dẫn dắt sản phẩm
+- canonical: product operations
+  variants:
+  - vận hành sản phẩm
+  - vận hành product saas
+- canonical: product requirements
+  variants:
+  - yêu cầu sản phẩm
+- canonical: product positioning
+  variants:
+  - định vị sản phẩm
