@@ -12,7 +12,7 @@ Usage:
         --aliases Preprocessing/02_skill_extraction/outputs/aliases.yaml `
         --save-aliased Preprocessing/02_skill_extraction/outputs/full_parsed_aliased.csv `
         --min-keep-count 5 `
-        --short-threshold 6 `
+        --short-threshold 7 `
         --role-block Preprocessing/02_skill_extraction/role_block.txt
 
 

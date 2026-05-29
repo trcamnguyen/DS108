@@ -2254,3 +2254,28 @@ aliases:
   - ui ux trên mobile
   - ux mobile
   - mobile ui ux design
+  
+- canonical: kubernetes
+  variants:
+  - kubernete
+  - kuberneter
+
+- canonical: palo alto
+  variants:
+  - paloalto
+
+- canonical: algorithms
+  variants:
+  - giải thuật
+
+- canonical: calculus
+  variants:
+  - giải tích
+
+- canonical: telesales
+  variants:
+  - telesale
+
+- canonical: postgresql
+  variants:
+  - posgres

@@ -72,6 +72,9 @@ project leader
 administrator
 po
 developer training
+ui ux designer
+game artist
+2d artist
 
 # ── AMBIGUOUS — REVIEW THỦ CÔNG TRƯỚC KHI DROP ──────────────────────────────
  business analyst     
