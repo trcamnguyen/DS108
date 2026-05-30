@@ -189,6 +189,7 @@ aliases:
   - toefl
   - đọc hiểu tài liệu kỹ thuật tiếng anh
   - đọc hiểu tài liệu tiếng anh
+  - đọc và nghiên cứu tài liệu bằng tiếng anh
 - canonical: erp
   variants:
   - erp systems
@@ -2344,3 +2345,6 @@ aliases:
 - canonical: product positioning
   variants:
   - định vị sản phẩm
+- canonical: japanese
+  variants:
+  - tiếng nhật
