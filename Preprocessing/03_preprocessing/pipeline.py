@@ -2,7 +2,7 @@
 Pipeline xử lý dữ liệu: đọc jobs.parquet → áp dụng 3 modules → lưu jobs_cleaned.parquet.
 
 Usage:
-    python pipeline.py
+    python Preprocessing/03_preprocessing/pipeline.py
 """
 from pathlib import Path
 import pandas as pd
