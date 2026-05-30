@@ -50,25 +50,76 @@ def _extract_employment_type(text: str) -> str:
 # job_level
 # ---------------------------------------------------------------------------
 
-def _extract_level(text: str) -> str:
-    if not isinstance(text, str) or not text.strip():
-        return "Nhân viên"
-    t = text.lower()
+import re
 
-    if any(k in t for k in ["manager", "trưởng phòng", "head of", "director",
-                             "giám đốc", "vp", "cto", "ceo", "chief"]):
+def _extract_level(text: str) -> str | None:
+    """Extract level từ text, return None nếu không có signal."""
+    if not isinstance(text, str) or not text.strip():
+        return None
+    t = text.lower()
+    def has(p): return bool(re.search(p, t))
+
+    if has(r'\b(manager|director|chief|cto|ceo|vp)\b') \
+       or has(r'\bhead of\b') or has(r'trưởng phòng|giám đốc'):
         return "Quản lý / Giám sát"
-    if any(k in t for k in ["tech lead", "technical lead", "trưởng nhóm",
-                             "team lead", "group lead"]) or re.search(r"\blead\b", t):
+    if has(r'\b(tech|technical|team|group)\s+lead\b') \
+       or has(r'\blead\b') or has(r'trưởng nhóm'):
         return "Trưởng nhóm"
-    if any(k in t for k in ["senior", "expert", "chuyên gia", "principal", "staff", "architect"]):
+    if has(r'\b(senior|expert|principal|staff|architect)\b') or has(r'chuyên gia'):
         return "Senior"
-    if any(k in t for k in ["junior", "mid-level", "middle", " mid "]):
+    if has(r'\b(junior|mid-level|middle)\b') or has(r'\bmid\b'):
         return "Junior"
-    if any(k in t for k in ["fresher", "mới tốt nghiệp", "entry level", "entry-level"]):
+    if has(r'\b(fresher|entry[- ]level)\b') or has(r'mới tốt nghiệp'):
         return "Fresher"
-    if any(k in t for k in ["intern", "thực tập", "thực tập sinh"]):
+    if has(r'\bintern(?:ship|s)?\b') or has(r'thực tập sinh'):
         return "Thực tập sinh"
+    return None
+
+
+# Pattern khai báo role tường minh — chỉ match level keyword TRONG các pattern này
+# Ý tưởng: extract phần ngay sau "position:", "we are hiring", v.v.
+# rồi áp _extract_level lên đó (cấu trúc gọn — chỉ match khi explicit declared)
+ROLE_DECLARATION_PATTERNS = [
+    # English
+    r'\bposition\s*[:\-]\s*([^\n.]{1,80})',
+    r'\bjob\s*title\s*[:\-]\s*([^\n.]{1,80})',
+    r'\brole\s*[:\-]\s*([^\n.]{1,80})',
+    r'\bwe\s+(?:are|\'re)\s+(?:looking\s+for|hiring|seeking)\s+(?:an?\s+)?([^\n.]{1,80})',
+    # Vietnamese
+    r'vị\s*trí\s*[:\-]\s*([^\n.]{1,80})',
+    r'chức\s*danh\s*[:\-]\s*([^\n.]{1,80})',
+    r'chúng\s*tôi\s+(?:đang\s+)?(?:tìm\s+kiếm|tuyển\s+dụng)\s+(?:một\s+)?([^\n.]{1,80})',
+]
+
+
+def extract_level(job_title: str,
+                  job_description: str = '',
+                  requirement: str = '') -> str:
+    """
+    Title-first extraction với fallback có kiểm soát:
+      1. Title (signal cao nhất)
+      2. Fallback: chỉ match level keyword trong các pattern role declaration
+         tường minh (vd. "position: Senior X", "we are looking for a Lead Y")
+      3. Default: "Nhân viên"
+
+    KHÔNG match keyword trong prose ngẫu nhiên của JD/req để tránh FP
+    kiểu "report to manager", "lead team là lợi thế".
+    """
+    # Step 1: title
+    level = _extract_level(job_title)
+    if level is not None:
+        return level
+
+    # Step 2: explicit role declaration trong JD/req
+    combined = (str(job_description or '') + ' ' + str(requirement or '')).lower()
+    for pat in ROLE_DECLARATION_PATTERNS:
+        for m in re.finditer(pat, combined):
+            declared_text = m.group(1)
+            lvl = _extract_level(declared_text)
+            if lvl is not None:
+                return lvl
+
+    # Step 3: default
     return "Nhân viên"
 
 
@@ -175,7 +226,14 @@ def process_fields(df: pd.DataFrame) -> pd.DataFrame:
     itviec_df = df[mask]
     combined = itviec_df.apply(_combined, axis=1)
 
-    df.loc[mask, "job_level"] = combined.apply(_extract_level)
+    df.loc[mask, "job_level"] = itviec_df.apply(
+        lambda row: extract_level(
+            str(row.get("job_title") or ""),
+            str(row.get("job_description") or ""),
+            str(row.get("requirement") or ""),
+        ),
+        axis=1,
+    )
     df.loc[mask, "experience"] = combined.apply(_extract_experience)
     df.loc[mask, "employment_type"] = combined.apply(_extract_employment_type)
     df.loc[mask, "education"] = combined.apply(_extract_education)
