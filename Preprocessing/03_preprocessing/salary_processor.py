@@ -25,13 +25,11 @@ def _parse_one(s: str) -> tuple[float, float, float]:
     s = str(s).lower().strip().replace("–", "-").replace(",", "")
     is_usd = any(k in s for k in ["usd", "$"])
 
-    # Dấu chấm phân cách hàng nghìn (15.000.000) → xóa; dấu chấm thập phân (1.5) → giữ
-    if "." in s:
-        parts = s.split(".")
-        if len(parts) > 2 or (len(parts) == 2 and len(parts[1]) > 2):
-            s = s.replace(".", "")
+    # Xóa dấu chấm phân nghìn (dot theo sau đúng 3 chữ số: 15.000, 15.000.000)
+    # Giữ dấu thập phân (dot theo sau 1–2 chữ số: 66.7, 15.5)
+    s = re.sub(r"(?<=\d)\.(?=\d{3}(?!\d))", "", s)
 
-    numbers = [float(n) for n in re.findall(r"\d+", s)]
+    numbers = [float(n) for n in re.findall(r"\d+(?:\.\d+)?", s)]
     if not numbers:
         return 0.0, 0.0, 0.0
 
