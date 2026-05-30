@@ -58,8 +58,8 @@ def _extract_level(text: str) -> str:
     if any(k in t for k in ["manager", "trưởng phòng", "head of", "director",
                              "giám đốc", "vp", "cto", "ceo", "chief"]):
         return "Quản lý / Giám sát"
-    if any(k in t for k in ["tech lead", "technical lead", "lead",
-                             "trưởng nhóm", "team lead", "group lead"]):
+    if any(k in t for k in ["tech lead", "technical lead", "trưởng nhóm",
+                             "team lead", "group lead"]) or re.search(r"\blead\b", t):
         return "Trưởng nhóm"
     if any(k in t for k in ["senior", "expert", "chuyên gia", "principal", "staff", "architect"]):
         return "Senior"
@@ -85,7 +85,7 @@ def _extract_experience(text: str) -> str:
                              "không yêu cầu", "không cần kinh nghiệm", "0 năm"]):
         return "Dưới 1 năm"
 
-    is_age = any(p in t for p in ["years old", "year old", "tuổi", "age",
+    is_age = any(p in t for p in ["years old", "year old", "tuổi",
                                    "under 30", "over 30", "below 30"])
 
     # "2+ years", "2 + year"
@@ -113,7 +113,7 @@ def _extract_experience(text: str) -> str:
             y = int(m.group(1))
             if is_age and y > 18:
                 continue
-            return "Dưới 1 năm" if y <= 1 else f"{y} năm"
+            return "Dưới 1 năm" if y == 0 else f"{y} năm"
 
     if any(k in t for k in ["senior", "nhiều năm", "expert", "chuyên gia", "lead"]):
         return "Trên 3 năm"
