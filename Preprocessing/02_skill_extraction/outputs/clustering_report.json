@@ -14,12 +14,12 @@
     "threshold": 7,
     "n_short_skills_separated": 2829,
     "n_short_clusters_created": 2396,
-    "n_long_skills_clustered": 11583,
+    "n_long_skills_clustered": 11581,
     "rationale": "Short strings (<=7 chars) routed to exact-match consolidation to avoid catch-all clusters from noisy embeddings."
   },
   "input_rows": 56832,
-  "input_unique_skills": 14412,
-  "n_clusters": 9215,
+  "input_unique_skills": 14410,
+  "n_clusters": 9214,
   "n_clusters_cross_category": 1305,
   "cross_category_summary": {
     "total_cross_category_clusters": 1305,
@@ -28,19 +28,19 @@
     "warning": "350 cross-category cluster(s) have a tie — manual tie-break required. See cross_category_ties.csv."
   },
   "n_clusters_in_other_bucket": 6417,
-  "skills_after_canonical": 2762,
+  "skills_after_canonical": 2761,
   "total_mentions_preserved": 56832,
-  "runtime_seconds": 73.34,
-  "timestamp": "2026-05-29T16:10:23",
+  "runtime_seconds": 76.04,
+  "timestamp": "2026-05-30T14:59:50",
   "config_hash": "sha256-b5addcdfd465b354",
   "alias_application": {
     "aliases_file": "Preprocessing\\02_skill_extraction\\outputs\\aliases.yaml",
-    "n_alias_groups": 506,
-    "n_variants_total": 913,
-    "rows_changed": 9097,
-    "pct_changed": 16.0,
+    "n_alias_groups": 507,
+    "n_variants_total": 915,
+    "rows_changed": 9202,
+    "pct_changed": 16.2,
     "distinct_skills_before": 14076,
-    "distinct_skills_after": 13180
+    "distinct_skills_after": 13178
   },
   "category_override": {
     "category_override_file": "Preprocessing\\02_skill_extraction\\category_overide.yaml",

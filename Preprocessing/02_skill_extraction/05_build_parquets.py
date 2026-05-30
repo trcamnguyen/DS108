@@ -1,10 +1,9 @@
 """Build jobs.parquet and skills.parquet from raw and skill-extraction outputs.
 
 Usage (run from project root):
-    python Preprocessing/02_skill_extraction/05_build_parquets.py
-    python Preprocessing/02_skill_extraction/05_build_parquets.py \
-        --raw-csv data/interim/01-standardized_title.csv \
-        --skills-csv Preprocessing/02_skill_extraction/outputs/annotations_with_canonical.csv \
+    python Preprocessing/02_skill_extraction/05_build_parquets.py `
+        --raw-csv data/interim/01-standardized_title.csv `
+        --skills-csv Preprocessing/02_skill_extraction/outputs/annotations_with_canonical.csv `
         --output-dir data/interim/02-skill_extracted
 """
 
