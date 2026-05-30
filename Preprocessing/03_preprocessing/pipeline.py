@@ -1,5 +1,5 @@
 """
-Pipeline xử lý dữ liệu: đọc jobs.parquet → áp dụng 3 modules → lưu jobs_cleaned.parquet.
+Pipeline xử lý dữ liệu: đọc jobs.parquet → áp dụng 4 modules → lưu jobs_cleaned.parquet.
 
 Usage:
     python Preprocessing/03_preprocessing/pipeline.py
@@ -10,6 +10,7 @@ import pandas as pd
 from salary_processor import process_salary
 from location_processor import process_location
 from fields_extractor import process_fields
+from level_normalizer import process_level
 
 _ROOT = Path(__file__).resolve().parent.parent.parent
 INPUT = _ROOT / "data" / "interim" / "02-skill_extracted" / "jobs.parquet"
@@ -28,6 +29,9 @@ def run(input_path: Path = INPUT, output_path: Path = OUTPUT) -> pd.DataFrame:
 
     df = process_fields(df)
     print("fields_extractor done")
+
+    df = process_level(df)
+    print("level_normalizer done")
 
     output_path.parent.mkdir(parents=True, exist_ok=True)
     df.to_parquet(output_path, index=False)

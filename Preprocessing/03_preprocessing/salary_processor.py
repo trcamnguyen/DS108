@@ -65,6 +65,7 @@ def _compute_flags(df: pd.DataFrame) -> pd.DataFrame:
         df["is_null_salary"]
         | df["is_thoa_thuan"]
         | col.isin(["", "nan", "none"])
+        | (df["avg_salary"] == 0)        # ← THÊM DÒNG NÀY
     )
     return df
 
