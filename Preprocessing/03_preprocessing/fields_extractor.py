@@ -259,51 +259,307 @@ def extract_level(job_title: str,
 
 
 # ---------------------------------------------------------------------------
-# experience
+# job_level tier mapping
 # ---------------------------------------------------------------------------
 
+_LEVEL_TIER_MAP: dict[str, str] = {
+    # Tier 0 — Intern
+    "Thực tập sinh":       "Intern",
+    # Tier 1 — Junior (Fresher + Junior gộp; n nhỏ ⚠ underpowered)
+    "Fresher":             "Junior",
+    "Junior":              "Junior",
+    # Tier 2 — Mid (default IC catch-all, 66% data)
+    "Nhân viên":           "Mid",
+    # Tier 3 — Senior IC
+    "Senior":              "Senior",
+    # Tier 4 — Lead (first-line, IC/Management bridge)
+    "Trưởng nhóm":         "Lead",
+    # Tier 5 — Manager+ (Trưởng/Phó phòng n=26, Giám đốc n=3 → gộp)
+    "Quản lý / Giám sát":  "Manager",
+    "Trưởng/Phó phòng":    "Manager",
+    "Trưởng / Phó phòng":  "Manager",
+    "Giám đốc":            "Manager",
+}
+
+LEVEL_TIER_ORDER: list[str] = ["Intern", "Junior", "Mid", "Senior", "Lead", "Manager", "Unknown"]
+
+
+def map_level_tier(raw_level) -> str:
+    """
+    Map raw job_level → unified tier label (5 tiers + Unknown bucket).
+
+    Inputs (extract_level output + TopCV platform values):
+        Fresher / Junior            → "Junior"
+        Nhân viên                   → "Mid"
+        Senior                      → "Senior"
+        Trưởng nhóm                 → "Lead"
+        Quản lý / Giám sát /
+        Trưởng/Phó phòng /
+        Giám đốc                    → "Manager"
+        NaN / blank / anything else → "Unknown"  (audit, không silent-drop)
+    """
+    if not isinstance(raw_level, str) or not raw_level.strip():
+        return "Unknown"
+    return _LEVEL_TIER_MAP.get(raw_level.strip(), "Unknown")
+
+
+# ---------------------------------------------------------------------------
+# experience
+# ---------------------------------------------------------------------------
+"""
+_extract_experience — ITViec / TopCV experience requirement extractor
+=====================================================================
+Trích xuất yêu cầu kinh nghiệm từ text cột requirement / job_description.
+
+Output format (nhất quán, 4 loại):
+  "Không yêu cầu"  — không tìm thấy yêu cầu, open to all, hoặc "dưới N năm"
+  "Dưới 1 năm"     — fresh / entry / 0 năm tường minh
+  "{n} năm"        — tối thiểu n năm (lower bound của range hoặc exact)
+  "Trên {n} năm"   — tường minh hơn/trên n năm (không upper bound)
+
+Bugs đã fix so với bản gốc:
+  Bug 1 — Range "X–Y+ years" bị parse thành "Trên Y năm" thay vì "{X} năm"
+           → Nhánh RANGE chạy TRƯỚC nhánh N+
+  Bug 2 — Range bắt đầu từ 0 ("0-4 years") trả về "Dưới 1 năm"
+           → Dùng midpoint thuần: "0-4 năm" → "2 năm"
+  Bug 3 — Số thập phân ("2,5 năm", "1.5 years") parse sai phần thập phân
+           → Guard D normalize decimal trước khi apply regex
+  Bug 4 — Thiếu "hơn" và "có trên" trong nhánh above-N
+           → Thêm vào Nhánh 3
+  Bug 5 — "tuổi thọ công ty" bị nhận là experience ứng viên
+           → Guard B loại bằng context clue patterns
+  Bug 6 — "trong vòng 3 năm" (time-window tốt nghiệp) bị parse thành "3 năm"
+           → Guard C strip trước khi parse
+  Bug 7 — "fresher" keyword override range thực trong câu
+           → has_fresh_keyword chỉ áp dụng ở Nhánh 6, sau tất cả number patterns
+  Bug 8 — "Junior (1+ year) to Senior (4+ years)" → "Trên 1 năm" thay vì "1 năm"
+           → Flag is_junior_senior_range, "N+" trong context này là floor
+"""
+
 def _extract_experience(text: str) -> str:
+    """
+    Trích xuất yêu cầu kinh nghiệm từ text JD (ITViec / TopCV).
+
+    Parameters
+    ----------
+    text : str
+        Nội dung cột requirement hoặc job_description (hoặc concat cả hai).
+
+    Returns
+    -------
+    str
+        Một trong 4 giá trị: "Không yêu cầu" | "Dưới 1 năm" | "{n} năm" | "Trên {n} năm"
+    """
     if not isinstance(text, str) or not text.strip():
         return "Không yêu cầu"
+
     t = text.lower()
 
-    if any(k in t for k in ["fresh", "mới tốt nghiệp", "no experience",
-                             "không yêu cầu", "không cần kinh nghiệm", "0 năm"]):
-        return "Dưới 1 năm"
+    # ------------------------------------------------------------------ #
+    # GUARD A — "dưới N năm" (upper-bound only, không có floor)
+    # "mở với ứng viên dưới 2 năm kinh nghiệm" = không có yêu cầu tối thiểu.
+    # Chỉ áp dụng khi không có minimum keyword nào cùng tồn tại trong text.
+    # ------------------------------------------------------------------ #
+    if re.search(r"dưới\s+\d+\s*năm", t):
+        has_min = bool(re.search(
+            r"(?:tối thiểu|ít nhất|minimum|at least|từ\s+\d|có từ\s+\d)", t
+        ))
+        if not has_min:
+            return "Không yêu cầu"
 
-    is_age = any(p in t for p in ["years old", "year old", "tuổi",
-                                   "under 30", "over 30", "below 30"])
+    # ------------------------------------------------------------------ #
+    # GUARD B — loại false positive "company / product lifetime"
+    # Context clues: thành lập, triển khai dịch vụ, innovation, v.v.
+    # Strip đoạn khớp để không ảnh hưởng các số hợp lệ khác trong text.
+    # ------------------------------------------------------------------ #
+    COMPANY_AGE_CLUES = [
+        r"(?:thành lập|ra đời|hoạt động)[^.;]*\d+\s*năm",
+        r"hơn\s+\d+\s*năm\s*(?:kinh nghiệm\s+)?(?:triển khai|phục vụ|hoạt động|cung cấp|phát triển sản phẩm)",
+        r"with\s+over\s+\d+\s*years?\s+of\s+(?:relentless\s+)?(?:innovation|history|operation|service)",
+        r"over\s+\d+\s*years?\s+(?:of\s+)?(?:serving|delivering|building|operating|running)",
+    ]
+    for clue in COMPANY_AGE_CLUES:
+        t = re.sub(clue, "", t)
 
-    # "2+ years", "2 + year"
-    m = re.search(r"(\d+)\s*\+\s*(?:năm|year|years|yr)", t)
+    # ------------------------------------------------------------------ #
+    # GUARD C — loại "trong vòng N năm" (time-window tốt nghiệp)
+    # ------------------------------------------------------------------ #
+    t = re.sub(r"trong\s+vòng\s+\d+\s*(?:năm|year|years?)", "", t)
+    t = re.sub(r"tốt nghiệp[^.;,\r\n]*\d+\s*(?:năm|year|years?)", "", t)
+
+    # ------------------------------------------------------------------ #
+    # GUARD D — normalize decimal separators (chỉ cần phần nguyên)
+    # "2,5 năm" → "2 năm"  |  "1.5 years" → "1 years"
+    # ------------------------------------------------------------------ #
+    t = re.sub(r"(\d+)[.,](\d+)", r"\1", t)
+
+    # ------------------------------------------------------------------ #
+    # Flags tính trước khi vào nhánh
+    # ------------------------------------------------------------------ #
+    FRESH_KEYWORDS = [
+        "fresher", "fresh graduate", "mới tốt nghiệp", "no experience",
+        "không yêu cầu kinh nghiệm", "không cần kinh nghiệm",
+    ]
+    has_fresh_keyword = any(k in t for k in FRESH_KEYWORDS)
+
+    # "Junior (1+ year) to Senior (4+ years)" — "N+" nghĩa là floor, không phải strictly >N
+    is_junior_senior_range = bool(re.search(r"junior", t) and re.search(r"senior", t))
+
+    # Ceiling thực tế của yêu cầu ứng viên trong dataset (10–15 năm là max hợp lý)
+    MAX_CANDIDATE_YEARS = 20
+
+    # ================================================================== #
+    # NHÁNH 1 — RANGE "X–Y years" hoặc "X–Y+ years"
+    # Phải chạy TRƯỚC pattern "N+" để tránh "1-5+ years" → "Trên 5 năm"
+    # ================================================================== #
+    m = re.search(r"(\d+)\s*[-–~]\s*(\d+)\s*\+?\s*(?:năm|year|years?|yr)", t)
+    if m:
+        lo, hi = int(m.group(1)), int(m.group(2))
+        if lo <= MAX_CANDIDATE_YEARS and hi <= MAX_CANDIDATE_YEARS:
+            mid = (lo + hi) / 2
+            return f"{mid:g} năm"
+
+    # ================================================================== #
+    # NHÁNH 2 — "N+ years" đơn lẻ
+    # ================================================================== #
+    m = re.search(r"(\d+)\s*\+\s*(?:năm|year|years?|yr)", t)
     if m:
         y = int(m.group(1))
-        return "Dưới 1 năm" if y == 0 else f"Trên {y} năm"
+        if y > MAX_CANDIDATE_YEARS:
+            pass                             # company age, fall through
+        elif y == 0:
+            return "Dưới 1 năm"
+        elif is_junior_senior_range:
+            return f"{y} năm"               # "Junior (1+)" = floor
+        else:
+            return f"Trên {y} năm"
 
-    # "1-3 years", "2–5 năm"
-    m = re.search(r"(\d+)\s*[-–~]\s*(\d+)\s*(?:năm|year|years)", t)
-    if m and not is_age:
+    # ================================================================== #
+    # NHÁNH 3 — "hơn / có trên / trên / over / more than N năm"
+    # ================================================================== #
+    m = re.search(
+        r"(?:hơn|có trên|trên|over|more than)\s*(\d+)\s*(?:năm|year|years?)",
+        t
+    )
+    if m:
         y = int(m.group(1))
-        if y <= 20:
+        if y <= MAX_CANDIDATE_YEARS:
+            return f"Trên {y} năm"
+
+    # ================================================================== #
+    # NHÁNH 4 — minimum keywords
+    # tối thiểu / ít nhất / minimum / at least / từ / có từ / kinh nghiệm từ
+    # ================================================================== #
+    m = re.search(
+        r"(?:ít nhất|tối thiểu|minimum|at least|từ|có từ|kinh nghiệm từ)"
+        r"\s*(\d+)\s*(?:năm|year|years?|yr)?",
+        t
+    )
+    if m:
+        y = int(m.group(1))
+        if y <= MAX_CANDIDATE_YEARS:
             return "Dưới 1 năm" if y == 0 else f"{y} năm"
 
-    patterns = [
-        r"(?:ít nhất|tối thiểu|minimum|from|at least|trên|over)\s*(\d+)\s*(?:năm|year|years)",
-        r"(\d+)\s*(?:năm|year|years)\s*(?:kinh nghiệm|experience|exp)?",
-        r"(?:kinh nghiệm|experience|exp)[:\s-]*(\d+)",
-        r"(\d+)\s*(?:năm|year|years)",
+    # ================================================================== #
+    # NHÁNH 5 — pattern tổng quát (fallback)
+    # ================================================================== #
+    general_patterns = [
+        re.compile(r"(\d+)\s*(?:năm|year|years?)\s*(?:kinh nghiệm|experience|exp)?"),
+        re.compile(r"(?:kinh nghiệm|experience)[:\s\-–]*(\d+)\s*(?:năm|year|years?)?"),
     ]
-    for pat in patterns:
-        m = re.search(pat, t)
+    for pat in general_patterns:
+        m = pat.search(t)
         if m:
             y = int(m.group(1))
-            if is_age and y > 18:
-                continue
+            if y > MAX_CANDIDATE_YEARS:
+                continue                     # skip company age
             return "Dưới 1 năm" if y == 0 else f"{y} năm"
 
+    # ================================================================== #
+    # NHÁNH 6 — fresh keyword (chỉ đến đây nếu không có number pattern nào)
+    # ================================================================== #
+    if has_fresh_keyword:
+        return "Dưới 1 năm"
+
+    # ================================================================== #
+    # NHÁNH 7 — seniority keyword không có số
+    # ================================================================== #
     if any(k in t for k in ["senior", "nhiều năm", "expert", "chuyên gia", "lead"]):
         return "Trên 3 năm"
+
     return "Không yêu cầu"
+
+def normalize_experience(s: str) -> float:
+    """
+    Chuẩn hóa cột experience (string) → float (số năm).
+
+    Rules (theo thứ tự ưu tiên):
+      "Không yêu cầu"  → 0.0
+      "Dưới ..."       → 0.5
+      "Trên X ..."     → X + 0.5
+      "X năm" / số bất kỳ → float(X)   (fallback)
+
+    Áp dụng cho cả ITViec (output của _extract_experience)
+    lẫn TopCV (8 giá trị cố định từ TOPCV_EXP_MAP).
+    """
+    if not isinstance(s, str):
+        return 0.0
+    s = s.strip()
+    if s == "Không yêu cầu":
+        return 0.0
+    if s.startswith("Dưới"):
+        return 0.5
+    m = re.search(r"Trên\s+(\d+(?:[.,]\d+)?)", s)
+    if m:
+        return float(m.group(1).replace(",", ".")) + 0.5
+    m = re.search(r"(\d+(?:[.,]\d+)?)", s)
+    if m:
+        return float(m.group(1).replace(",", "."))
+    return 0.0
+
+
+# def _extract_experience(text: str) -> str:
+#     if not isinstance(text, str) or not text.strip():
+#         return "Không yêu cầu"
+#     t = text.lower()
+
+#     if any(k in t for k in ["fresh", "mới tốt nghiệp", "no experience",
+#                              "không yêu cầu", "không cần kinh nghiệm", "0 năm"]):
+#         return "Dưới 1 năm"
+
+#     is_age = any(p in t for p in ["years old", "year old", "tuổi",
+#                                    "under 30", "over 30", "below 30"])
+
+#     # "2+ years", "2 + year"
+#     m = re.search(r"(\d+)\s*\+\s*(?:năm|year|years|yr)", t)
+#     if m:
+#         y = int(m.group(1))
+#         return "Dưới 1 năm" if y == 0 else f"Trên {y} năm"
+
+#     # "1-3 years", "2–5 năm"
+#     m = re.search(r"(\d+)\s*[-–~]\s*(\d+)\s*(?:năm|year|years)", t)
+#     if m and not is_age:
+#         y = int(m.group(1))
+#         if y <= 20:
+#             return "Dưới 1 năm" if y == 0 else f"{y} năm"
+
+#     patterns = [
+#         r"(?:ít nhất|tối thiểu|minimum|from|at least|trên|over)\s*(\d+)\s*(?:năm|year|years)",
+#         r"(\d+)\s*(?:năm|year|years)\s*(?:kinh nghiệm|experience|exp)?",
+#         r"(?:kinh nghiệm|experience|exp)[:\s-]*(\d+)",
+#         r"(\d+)\s*(?:năm|year|years)",
+#     ]
+#     for pat in patterns:
+#         m = re.search(pat, t)
+#         if m:
+#             y = int(m.group(1))
+#             if is_age and y > 18:
+#                 continue
+#             return "Dưới 1 năm" if y == 0 else f"{y} năm"
+
+#     if any(k in t for k in ["senior", "nhiều năm", "expert", "chuyên gia", "lead"]):
+#         return "Trên 3 năm"
+#     return "Không yêu cầu"
 
 
 # ---------------------------------------------------------------------------
@@ -460,5 +716,11 @@ def process_fields(df: pd.DataFrame) -> pd.DataFrame:
             axis=1,
         )
         df.loc[topcv_mask, "employment_type"] = result.map(lambda x: x[0])
+
+    # ── Normalize experience → float (cả ITViec lẫn TopCV) ───────────────────
+    df["experience_years"] = df["experience"].apply(normalize_experience)
+
+    # ── Unified job_level tier (cả ITViec lẫn TopCV) ─────────────────────────
+    df["job_level_tier"] = df["job_level"].apply(map_level_tier)
 
     return df
