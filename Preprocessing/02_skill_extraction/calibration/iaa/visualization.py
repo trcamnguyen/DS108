@@ -18,9 +18,13 @@ LABEL_CLASSES = ["required_skill", "preferred_skill"]
 
 
 def plot_label_confusion(
-    matched_pairs: list[tuple], output_path: str | Path
+    matched_pairs: list[tuple],
+    output_path: str | Path,
+    title: str = "Label Confusion Matrix",
+    xlabel: str = "Annotator B (predicted)",
+    ylabel: str = "Annotator A (reference)",
 ) -> None:
-    """2×2 confusion matrix for label agreement (llm vs human_a)."""
+    """2×2 confusion matrix for label agreement."""
     labels_a = [p[0].get("label", "") for p in matched_pairs]
     labels_b = [p[1].get("label", "") for p in matched_pairs]
 
@@ -37,18 +41,22 @@ def plot_label_confusion(
         yticklabels=present,
         ax=ax,
     )
-    ax.set_xlabel("Annotator B (predicted)")
-    ax.set_ylabel("Annotator A (reference)")
-    ax.set_title("Label Confusion Matrix")
+    ax.set_xlabel(xlabel)
+    ax.set_ylabel(ylabel)
+    ax.set_title(title)
     plt.tight_layout()
     plt.savefig(output_path, dpi=150)
     plt.close(fig)
 
 
 def plot_category_confusion(
-    matched_pairs: list[tuple], output_path: str | Path
+    matched_pairs: list[tuple],
+    output_path: str | Path,
+    title: str = "Category Confusion Matrix",
+    xlabel: str = "Annotator B (predicted)",
+    ylabel: str = "Annotator A (reference)",
 ) -> None:
-    """N×N confusion matrix for category agreement (llm vs human_a)."""
+    """N×N confusion matrix for category agreement."""
     cats_a = [normalize_category(p[0].get("category", "")) for p in matched_pairs]
     cats_b = [normalize_category(p[1].get("category", "")) for p in matched_pairs]
 
@@ -67,9 +75,9 @@ def plot_category_confusion(
         yticklabels=all_cats,
         ax=ax,
     )
-    ax.set_xlabel("Annotator B (predicted)")
-    ax.set_ylabel("Annotator A (reference)")
-    ax.set_title("Category Confusion Matrix")
+    ax.set_xlabel(xlabel)
+    ax.set_ylabel(ylabel)
+    ax.set_title(title)
     plt.xticks(rotation=45, ha="right", fontsize=8)
     plt.yticks(rotation=0, fontsize=8)
     plt.tight_layout()

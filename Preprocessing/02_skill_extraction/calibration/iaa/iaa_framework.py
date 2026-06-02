@@ -4,10 +4,12 @@ Usage (unified JSONL):
     python -m iaa.iaa_framework --input annotations.jsonl --output-dir ./iaa_results
 
 Usage (separate files — current project structure):
-    python -m iaa.iaa_framework \\
-        --human-a annotated_skills_cnguyen.json \\
-        --human-b annotated_skills_human_b.json \\
-        --llm output/few_shot_parsed.csv \\
+    cd preprocessing/02_skill_extraction/calibration
+    
+    python -m iaa.iaa_framework `
+        --human-a annotated_skills_cnguyen.json `
+        --human-b annotated_skills_kngoc.json `
+        --llm output/few_shot_parsed.csv `
         --output-dir ./iaa_results
 
 If --human-b is omitted, computes only llm_vs_human_a (no Fleiss' Kappa).
@@ -58,6 +60,7 @@ T2_THRESHOLDS: dict[str, float] = {
 }
 T3_THRESHOLDS: dict[str, float] = {
     "llm_vs_human_a": 0.60,
+    "llm_vs_human_b": 0.60,
     "human_a_vs_human_b": 0.65,
 }
 BOOTSTRAP_CI_LOWER_MIN = 0.60  # applies to all kappa metrics
@@ -207,15 +210,29 @@ def run_iaa(
             }
 
     # 4. Visualizations
-    primary_pair = "llm_vs_human_a"
-    primary_matched = pair_matched_data.get(primary_pair, [])
+    _PAIR_DISPLAY = {
+        "llm_vs_human_a":     ("LLM", "Human A"),
+        "llm_vs_human_b":     ("LLM", "Human B"),
+        "human_a_vs_human_b": ("Human A", "Human B"),
+    }
 
-    if primary_matched:
+    for pair_key, matched in pair_matched_data.items():
+        if not matched:
+            continue
+        label_a, label_b = _PAIR_DISPLAY.get(pair_key, tuple(pair_key.split("_vs_", 1)))
         plot_label_confusion(
-            primary_matched, out / "label_confusion_llm_vs_a.png"
+            matched,
+            out / f"label_confusion_{pair_key}.png",
+            title=f"Label Confusion: {label_a} vs {label_b}",
+            xlabel=f"{label_b} (predicted)",
+            ylabel=f"{label_a} (reference)",
         )
         plot_category_confusion(
-            primary_matched, out / "category_confusion_llm_vs_a.png"
+            matched,
+            out / f"category_confusion_{pair_key}.png",
+            title=f"Category Confusion: {label_a} vs {label_b}",
+            xlabel=f"{label_b} (predicted)",
+            ylabel=f"{label_a} (reference)",
         )
 
     if all_errors:
