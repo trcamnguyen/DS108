@@ -581,14 +581,14 @@
       {
         "skill_name": "AWS",
         "label": "required_skill",
-        "category": "Cloud & DevOps",
+        "category": "Infrastructure & DevOps",
         "min_years": NaN,
         "level": "intermediate"
       },
       {
         "skill_name": "cloud services",
         "label": "required_skill",
-        "category": "Cloud & DevOps",
+        "category": "Infrastructure & DevOps",
         "min_years": NaN,
         "level": "intermediate"
       },

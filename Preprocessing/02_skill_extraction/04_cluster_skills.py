@@ -162,11 +162,17 @@ def normalize_skill(raw: str) -> str:
 # §3.5  Alias helpers
 # ---------------------------------------------------------------------------
 
-def load_alias_map(aliases_path: Path) -> dict[str, str]:
-    """Load aliases.yaml → flat dict {variant: canonical}."""
+def load_alias_map(aliases_path: Path) -> tuple[dict[str, str], list[tuple[str, str]]]:
+    """Load aliases.yaml → (flat dict {variant: canonical}, [(substring_pattern, canonical)]).
+
+    The second element collects `contains_any` entries: any skill whose normalized
+    form contains the pattern (substring) is mapped to the canonical.
+    Exact-match variants take priority over contains_any patterns.
+    """
     with aliases_path.open(encoding="utf-8") as f:
         data = yaml.safe_load(f)
     alias_map: dict[str, str] = {}
+    contains_patterns: list[tuple[str, str]] = []
     for group in data.get("aliases", []):
         canonical = str(group.get("canonical", "")).strip()
         if not canonical:
@@ -175,7 +181,11 @@ def load_alias_map(aliases_path: Path) -> dict[str, str]:
             v = str(variant).strip()
             if v and v != canonical:
                 alias_map[v] = canonical
-    return alias_map
+        for pattern in group.get("contains_any", []):
+            p = str(pattern).strip().lower()
+            if p:
+                contains_patterns.append((p, canonical))
+    return alias_map, contains_patterns
 
 
 def load_category_overrides(path: Path) -> dict[str, str]:
@@ -394,13 +404,14 @@ def run_pipeline(
     alias_stats: dict[str, Any] | None = None
     if aliases_path is not None:
         logger.info("Loading aliases from %s", aliases_path)
-        alias_map = load_alias_map(aliases_path)
+        alias_map, contains_patterns = load_alias_map(aliases_path)
         alias_map_norm = {
             normalize_skill(k): normalize_skill(v)
             for k, v in alias_map.items()
         }
         alias_map_norm = resolve_transitive(alias_map_norm)
         detect_circular(alias_map_norm)
+        contains_patterns_norm = [(p, normalize_skill(c)) for p, c in contains_patterns]
 
         n_groups = 0
         n_variants = len(alias_map_norm)
@@ -408,10 +419,16 @@ def run_pipeline(
             _d = yaml.safe_load(_f)
             n_groups = len(_d.get("aliases", []))
 
+        def _apply_alias(s: str) -> str:
+            if s in alias_map_norm:
+                return alias_map_norm[s]
+            for pattern, canonical in contains_patterns_norm:
+                if pattern in s:
+                    return canonical
+            return s
+
         distinct_before = df["skill_normalized"].nunique()
-        df["skill_aliased"] = df["skill_normalized"].map(
-            lambda s: alias_map_norm.get(s, s)
-        )
+        df["skill_aliased"] = df["skill_normalized"].map(_apply_alias)
         rows_changed = int((df["skill_aliased"] != df["skill_normalized"]).sum())
         distinct_after = df["skill_aliased"].nunique()
 

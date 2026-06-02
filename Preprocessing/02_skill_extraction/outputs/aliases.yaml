@@ -181,6 +181,8 @@ aliases:
   variants:
   - vector embeddings
 - canonical: english
+  contains_any:
+  - tiếng anh
   variants:
   - english communication
   - giao tiếp tiếng anh

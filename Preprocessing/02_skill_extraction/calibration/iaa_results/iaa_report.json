@@ -9,12 +9,12 @@
   },
   "t1_extraction": {
     "llm_vs_human_a": {
-      "precision": 0.8881,
-      "recall": 0.7989,
-      "f1": 0.8324,
+      "precision": 0.8615,
+      "recall": 0.8006,
+      "f1": 0.8204,
       "ci_95": [
-        0.7937,
-        0.8658
+        0.7688,
+        0.867
       ],
       "status": "PASS"
     },
@@ -29,22 +29,22 @@
       "status": "PASS"
     },
     "human_a_vs_human_b": {
-      "precision": 0.7895,
-      "recall": 0.9087,
-      "f1": 0.8359,
+      "precision": 0.8245,
+      "recall": 0.9147,
+      "f1": 0.8585,
       "ci_95": [
-        0.7991,
-        0.868
+        0.8065,
+        0.9054
       ],
-      "status": "FAIL"
+      "status": "PASS"
     }
   },
   "t2_label": {
     "llm_vs_human_a": {
-      "kappa": 0.8284,
+      "kappa": 0.8416,
       "ci_95": [
-        0.773,
-        0.8736
+        0.7945,
+        0.885
       ],
       "status": "PASS"
     },
@@ -57,40 +57,48 @@
       "status": "PASS"
     },
     "human_a_vs_human_b": {
-      "kappa": 0.8147,
+      "kappa": 0.8595,
       "ci_95": [
-        0.7603,
-        0.858
+        0.8158,
+        0.8984
       ],
       "status": "PASS"
     },
     "fleiss_kappa_all": {
-      "kappa": 0.8591,
+      "kappa": 0.878,
       "ci_95": [
-        0.8234,
-        0.8941
+        0.8428,
+        0.9091
       ],
       "status": "PASS"
     }
   },
   "t3_category": {
     "llm_vs_human_a": {
-      "kappa": 0.7436,
+      "kappa": 0.7155,
       "ci_95": [
-        0.7067,
-        0.7769
+        0.6815,
+        0.7489
+      ],
+      "status": "PASS"
+    },
+    "llm_vs_human_b": {
+      "kappa": 0.6976,
+      "ci_95": [
+        0.6637,
+        0.728
       ],
       "status": "PASS"
     },
     "human_a_vs_human_b": {
-      "kappa": 0.7339,
+      "kappa": 0.8354,
       "ci_95": [
-        0.6993,
-        0.7679
+        0.8078,
+        0.8627
       ],
       "status": "PASS"
     }
   },
-  "overall_status": "FAIL",
-  "n_error_cases": 1444
+  "overall_status": "PASS",
+  "n_error_cases": 1341
 }
