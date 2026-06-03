@@ -10,7 +10,7 @@ Chuẩn hóa cột `job_title` của TopCV và ITViec bằng LLM (Gemini via Ver
 data/raw/00-{dataset}_raw.csv
         │
         ▼
-[Bước 0] 00_job_filter_topCV.py        ← chỉ chạy cho TopCV
+[Bước 0] 00_job_filter_topCV.py    
         │   Lọc bỏ job không thuộc IT trước khi gửi LLM (tiết kiệm token)
         │
         ▼  output/00-topcv_filtered.csv

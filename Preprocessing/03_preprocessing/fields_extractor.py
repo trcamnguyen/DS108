@@ -265,8 +265,7 @@ def extract_level(job_title: str,
 _LEVEL_TIER_MAP: dict[str, str] = {
     # Tier 0 — Intern
     "Thực tập sinh":       "Intern",
-    # Tier 1 — Junior (Fresher + Junior gộp; n nhỏ ⚠ underpowered)
-    "Fresher":             "Junior",
+    "Fresher":             "Fresher",
     "Junior":              "Junior",
     # Tier 2 — Mid (default IC catch-all, 66% data)
     "Nhân viên":           "Mid",
@@ -281,22 +280,12 @@ _LEVEL_TIER_MAP: dict[str, str] = {
     "Giám đốc":            "Manager",
 }
 
-LEVEL_TIER_ORDER: list[str] = ["Intern", "Junior", "Mid", "Senior", "Lead", "Manager", "Unknown"]
+LEVEL_TIER_ORDER: list[str] = ["Intern", "Fresher", "Junior", "Mid", "Senior", "Lead", "Manager", "Unknown"]
 
 
 def map_level_tier(raw_level) -> str:
     """
     Map raw job_level → unified tier label (5 tiers + Unknown bucket).
-
-    Inputs (extract_level output + TopCV platform values):
-        Fresher / Junior            → "Junior"
-        Nhân viên                   → "Mid"
-        Senior                      → "Senior"
-        Trưởng nhóm                 → "Lead"
-        Quản lý / Giám sát /
-        Trưởng/Phó phòng /
-        Giám đốc                    → "Manager"
-        NaN / blank / anything else → "Unknown"  (audit, không silent-drop)
     """
     if not isinstance(raw_level, str) or not raw_level.strip():
         return "Unknown"
