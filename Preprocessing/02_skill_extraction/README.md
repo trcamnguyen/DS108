@@ -21,11 +21,15 @@ data/interim/01-standardized_title.csv   (3,181 jobs)
         │
         ▼   output_full/full_parsed.csv  (56,000+ skill rows)
         │
+[Bước 4*] 04_cluster_skills.py  ← Preliminary run (không aliases) để tạo skill_distribution_after.csv
+        │
+        ▼   outputs/skill_distribution_after.csv
+        │
 [Bước 3] bootstrap_aliases.py   ← Gọi Gemini tạo aliases.yaml (optional, 1 lần)
         │
         ▼   outputs/aliases.yaml
         │
-[Bước 4] 04_cluster_skills.py   ← Embedding + clustering → canonical mapping
+[Bước 4] 04_cluster_skills.py   ← Final run với --aliases → canonical mapping
         │
         ▼   outputs/annotations_with_canonical.csv
         │
@@ -37,6 +41,8 @@ data/interim/02-skill_extracted/
     skills.parquet  (1 row/skill mention)
 ```
 
+> **Lưu ý thứ tự Bước 3 và 4:** `bootstrap_aliases.py` cần `outputs/skill_distribution_after.csv` làm input — file này chỉ được tạo sau khi chạy `04_cluster_skills.py` ít nhất một lần (preliminary run không có aliases). Workflow thực tế là: Bước 4 sơ bộ → Bước 3 → Bước 4 chính thức với `--aliases`.
+
 ---
 
 ## Cấu trúc thư mục
@@ -46,13 +52,17 @@ data/interim/02-skill_extracted/
 ├── calibration/                    # Bước 0 — IAA
 │   ├── 01_sample_calibration.py    # Lấy 50 mẫu ngẫu nhiên từ dataset
 │   ├── 02_llm_skill_extraction.py  # Chạy LLM trên 50 mẫu calibration
-│   ├── 03_visualize_results.py     # Visualize kết quả IAA
+│   ├── 03_visualize_results.py     # Tạo HTML report để review extraction results
+│   ├── app.py                      # Streamlit annotation tool cho human annotators
+│   ├── remove_cols.py              # Utility: xóa cột thừa khỏi annotation file
+│   ├── test_row.py                 # Utility: test extraction trên 1 row
 │   ├── calibration_dataset.csv     # 50 mẫu calibration
 │   ├── annotated_skills_kngoc.json # Annotation Human B
-│   ├── iaa/                        # IAA framework (kappa, matching, bootstrap)
-│   ├── iaa_results/                # Kết quả IAA (confusion matrix, report JSON)
+│   ├── annotated_skills_cnguyen.json  # Annotation LLM (Human A)
+│   ├── iaa/                        # IAA framework (kappa, matching, bootstrap, visualization)
+│   ├── iaa_results/                # Kết quả IAA: confusion matrix PNG, iaa_report.json, error_cases.csv
 │   └── output/
-│       ├── annotated_skills_cnguyen.json  # Annotation Human A / LLM
+│       ├── visualization.html      # HTML report kết quả LLM extraction (từ 03_visualize_results.py)
 │       ├── few_shot_parsed.csv
 │       └── few_shot_raw.jsonl
 │
@@ -90,7 +100,6 @@ data/interim/02-skill_extracted/
 ├── bootstrap_aliases.py            # Bước 3 — Tạo aliases.yaml
 ├── 04_cluster_skills.py            # Bước 4 — Clustering
 ├── 05_build_parquets.py            # Bước 5 — Xuất parquet
-├── bootstrap_aliases.py
 ├── role_block.txt                  # Danh sách job title bị loại khỏi skill
 ├── category_overide.yaml           # Override category cho cross-category ties
 ├── cluster.md                      # Spec clustering (chi tiết)
@@ -115,11 +124,20 @@ python calibration/01_sample_calibration.py
 # Chạy LLM trên 50 mẫu (cần .env với GOOGLE_CLOUD_PROJECT)
 python calibration/02_llm_skill_extraction.py
 
-# Visualize kết quả
+# Tạo HTML report để human review kết quả extraction trước khi annotate
 python calibration/03_visualize_results.py
+
+# Human annotation: chạy Streamlit app, mở http://localhost:8501
+streamlit run calibration/app.py
 ```
 
-**Output:** `calibration/iaa_results/iaa_report.json`, confusion matrix PNG.
+**Output:**
+- `calibration/output/visualization.html` — HTML report kết quả LLM extraction (từ `03_visualize_results.py`)
+- `calibration/output/few_shot_raw.jsonl`, `calibration/output/few_shot_parsed.csv` — kết quả LLM trên 50 mẫu
+- `calibration/annotated_skills_kngoc.json` — Annotation Human B
+- `calibration/annotated_skills_cnguyen.json` — Annotation LLM (Human A)
+- `calibration/iaa_results/iaa_report.json` — Kappa scores, precision/recall (từ `calibration/iaa/` framework)
+- `calibration/iaa_results/*.png` — Confusion matrix per annotator pair
 
 ---
 
@@ -197,6 +215,8 @@ Logic giống hệt `_flush_parsed_csv()` trong `02_full_extraction.py`. Job có
 
 ### Input
 `outputs/skill_distribution_after.csv` — filter `total_count >= 5`
+
+> File này được tạo bởi `04_cluster_skills.py`. Cần chạy Bước 4 ít nhất **một lần sơ bộ** (không có `--aliases`) trước khi chạy bước này.
 
 ### Output
 `outputs/aliases.yaml` — alias map dạng:
