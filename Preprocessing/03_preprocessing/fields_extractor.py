@@ -11,9 +11,6 @@ import pandas as pd
 # ---------------------------------------------------------------------------
 # employment_type
 # ---------------------------------------------------------------------------
-
-import re
-
 # Part-time / full-time detection helpers
 _FT_SIGNAL_RE = re.compile(r"\bfull[\s\-]?time\b")
 _PT_SIGNAL_RE = re.compile(r"\bpart[\s\-]?time\b")
@@ -184,9 +181,6 @@ def _extract_employment_type(job_title: str = "", job_description: str = "") -> 
 # ---------------------------------------------------------------------------
 # job_level
 # ---------------------------------------------------------------------------
-
-import re
-
 def _extract_level(text: str) -> str | None:
     """Extract level từ text, return None nếu không có signal."""
     if not isinstance(text, str) or not text.strip():

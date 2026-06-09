@@ -6,3 +6,6 @@ job_title_stats.csv
 claude.md
 Archive/
 Model copy/
+**/__pycache__/
+*.pyc
+.ipynb_checkpoints/
