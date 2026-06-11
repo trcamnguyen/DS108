@@ -1,0 +1,23 @@
+{
+  "job_level": {
+    "chi2": 107.4423,
+    "p_value": 6.992261825215615e-21,
+    "dof": 6,
+    "cramers_v": 0.1842,
+    "n_used": 3168,
+    "n_excluded_null": 0,
+    "levels_excluded_low_count": [
+      "Giám đốc",
+      "Fresher"
+    ],
+    "interpretation": "MAR"
+  },
+  "source": {
+    "chi2": 194.4149,
+    "p_value": 3.4571147139654333e-44,
+    "dof": 1,
+    "cramers_v": 0.2472,
+    "n_used": 3181,
+    "interpretation": "MAR"
+  }
+}

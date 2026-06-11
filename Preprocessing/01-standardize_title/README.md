@@ -35,6 +35,63 @@ data/interim/01-standardized_title.csv   (topcv + itviec, có cột source)
 
 ---
 
+## Số liệu kết quả
+
+### TopCV
+
+| Bước | Script | Rows vào | Rows ra | Bị loại |
+|------|--------|----------|---------|---------|
+| Raw | — | — | **4,384** | — |
+| Pre-LLM filter | `00_pre_llm_title_filter.py` | 4,384 | **2,721** | 1,663 |
+| LLM + merge | `01` + `02` | 2,721 | **2,588** | 133 (`is_valid_job=False`) |
+
+Breakdown loại ở bước pre-filter (TopCV):
+
+| Nhóm | Số lượng |
+|------|----------|
+| graphic_visual | 913 |
+| marketing_sales | 446 |
+| empty_title (review → drop) | 202 |
+| content_media | 52 |
+| industrial_engineering | 48 |
+| non_tech_roles | 2 |
+| **Tổng** | **1,663** |
+
+### ITViec
+
+| Bước | Script | Rows vào | Rows ra | Bị loại |
+|------|--------|----------|---------|---------|
+| Raw | — | — | **751** | — |
+| Pre-LLM filter | `00_pre_llm_title_filter.py` | 751 | **749** | 2 |
+| LLM + merge | `01` + `02` | 749 | **749** | 0 |
+
+Breakdown loại ở bước pre-filter (ITViec): `graphic_visual` 1, `industrial_engineering` 1.
+
+### Sau khi gộp hai dataset và post-process
+
+| Bước | Rows vào | Rows ra | Bị loại |
+|------|----------|---------|---------|
+| Gộp TopCV + ITViec | 2,588 + 749 | **3,337** | — |
+| Post-filter + normalize | 3,337 | **3,181** | 156 |
+| Unique standardized titles | — | **148** | giảm từ 220 |
+
+Top 10 title sau filter + normalize:
+
+| Standardized Title | Count |
+|--------------------|-------|
+| Backend Developer | 344 |
+| Business Analyst | 269 |
+| QA Engineer | 231 |
+| Fullstack Developer | 189 |
+| IT Support | 168 |
+| Project Manager | 163 |
+| Mobile Developer | 151 |
+| AI Engineer | 150 |
+| System Administrator | 117 |
+| DevOps Engineer | 101 |
+
+---
+
 ## Cấu trúc thư mục
 
 ```

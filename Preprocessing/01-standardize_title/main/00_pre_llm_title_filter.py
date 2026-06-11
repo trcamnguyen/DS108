@@ -642,7 +642,7 @@ def run_source(dataset: str, root: Path, output_dir: Path) -> None:
         df_raw,
         dataset=dataset,
         title_col="job_title",
-        drop_ambiguous=False,
+        drop_ambiguous=True,
     )
 
     df_keep.to_csv(keep_path,       index=False, encoding="utf-8-sig")
