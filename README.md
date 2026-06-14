@@ -148,3 +148,5 @@ streamlit run Dashboard/app.py
 ## Nhóm
 
 **DS108** — HK2 2026–2027, TP.HCM
+23521061 - Trần Ngọc Cẩm Nguyên
+23511033 - Trần Khánh Ngọc
