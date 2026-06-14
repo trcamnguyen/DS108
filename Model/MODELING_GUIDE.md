@@ -46,11 +46,13 @@ Vì vậy:
 Feature Set A chỉ sử dụng thông tin metadata của tin tuyển dụng:
 - `source`
 - `location`
-- `industry`
+- `industry` (gốc — **không dùng industry_cleaned**)
 - `education`
 - `job_level`
 - `standardized_title`
 - `experience_years`
+
+**Lý do giữ industry gốc**: Thí nghiệm cho thấy `industry_cleaned` không cải thiện hiệu năng so với phiên bản gốc (xem Experiment_Industry_Cleaned.ipynb).
 
 Mục tiêu của Feature Set A là đánh giá mức độ dự đoán lương chỉ từ thông tin tuyển dụng cơ bản.
 
@@ -65,6 +67,19 @@ Feature Set B bao gồm toàn bộ Feature Set A và bổ sung các đặc trưn
 
 Mục tiêu là đo lường giá trị mà pipeline trích xuất kỹ năng mang lại cho bài toán dự đoán lương.
 
+#### 2.2.1 Mối liên hệ giữa kỹ năng và mức lương
+
+Nhóm thực hiện phân tích tương quan giữa các đặc trưng kỹ năng tổng hợp và biến mục tiêu log_salary.
+
+Kết quả cho thấy nhiều đặc trưng kỹ năng có tương quan dương với mức lương, bao gồm:
+
+- n_skills (r = 0.423)
+- n_required (r = 0.412)
+- has_year_requirement (r = 0.334)
+- cat_engineering_concepts_&_methodologies (r = 0.332)
+
+Điều này cho thấy các đặc trưng kỹ năng chứa thông tin liên quan đến mức lương và có khả năng bổ sung tín hiệu ngoài metadata truyền thống.
+
 ### 2.3 Thử nghiệm Top-K Skills
 
 Ngoài hai bộ đặc trưng chính, một nhóm thí nghiệm riêng được thực hiện với Top-K Skill One-Hot Encoding.
@@ -72,7 +87,7 @@ Ngoài hai bộ đặc trưng chính, một nhóm thí nghiệm riêng được 
 Các giá trị `K` được thử nghiệm:
 - K = 25, 50, 75, 100, 150, 200
 
-Soft Skills được loại khỏi tập Top-K nhằm tập trung vào các kỹ năng kỹ thuật có khả năng mang tín hiệu lương mạnh hơn.
+Soft Skills được loại khỏi tập Top-K nhằm tập trung vào các kỹ năng kỹ thuật.
 
 **Kết quả:**
 - Top-25 là cấu hình tốt nhất trong nhóm Top-K.
@@ -80,6 +95,14 @@ Soft Skills được loại khỏi tập Top-K nhằm tập trung vào các kỹ
 - Các đặc trưng tổng hợp của Feature Set B vẫn vượt trội hơn mọi biến thể Top-K.
 
 Do đó mô hình cuối cùng **không sử dụng** Top-K Skills.
+
+### 2.4 Thử nghiệm Ordinal Encoding
+
+Đã thử nghiệm sử dụng Ordinal Encoding cho `job_level` và `education`.
+
+**Kết quả**: Hiệu năng **tệ hơn** so với One-Hot Encoding (xem Experiment_Ordinal_Encoding.ipynb).
+
+Do đó, **One-Hot Encoding** tiếp tục được giữ nguyên cho hai biến này.
 
 ## 3. Thiết lập đánh giá mô hình
 
@@ -120,47 +143,64 @@ Sử dụng metadata của tin tuyển dụng.
 
 | Metric | Value  |
 |--------|--------|
-| MAE    | 0.2727 |
-| RMSE   | 0.3735 |
+| MAE    | 0.2724 |
+| RMSE   | 0.3678 |
 
 **Ridge Regression – Feature Set B** (Mô hình tốt nhất)  
 Sử dụng metadata và các đặc trưng tổng hợp từ kỹ năng.
 
 | Metric | Value  |
 |--------|--------|
-| MAE    | 0.2678 |
-| RMSE   | 0.3631 |
+| MAE    | 0.2686 |
+| RMSE   | 0.3629 |
 
 **LightGBM – Feature Set A**
 
 | Metric | Value  |
 |--------|--------|
-| MAE    | 0.2710 |
-| RMSE   | 0.3732 |
+| MAE    | 0.2726 |
+| RMSE   | 0.3765 |
 
 **LightGBM – Feature Set B**
 
 | Metric | Value  |
 |--------|--------|
-| MAE    | 0.2758 |
-| RMSE   | 0.3745 |
+| MAE    | 0.2784 |
+| RMSE   | 0.3773 |
 
 ## 5. So sánh kết quả
 
 | Model                  | MAE    |
 |------------------------|--------|
-| Ridge B                | 0.2678 |
-| LightGBM A             | 0.2710 |
-| Ridge A                | 0.2727 |
-| LightGBM B             | 0.2758 |
+| Ridge B                | 0.2686 |
+| Ridge A                | 0.2724 |
+| LightGBM A             | 0.2726 |
+| LightGBM B             | 0.2784 |
 | Baseline Title         | 0.4343 |
 | Baseline Median        | 0.4932 |
+
+### 5.1 Kiểm định ý nghĩa thống kê
+
+Để đánh giá liệu việc bổ sung Skill Aggregate Features có thực sự cải thiện mô hình hay chỉ là dao động ngẫu nhiên của Cross-Validation, nhóm thực hiện Paired t-test trên kết quả 5 fold giữa Ridge A và Ridge B.
+
+| Metric      | T-statistic | P-value     |
+|-------------|-------------|-------------|
+| MAE         | 3.53        | 0.024       |
+| RMSE        | 3.53        | 0.024       |
+
+Kết quả cho thấy p-value < 0.05 đối với cả MAE và RMSE.
+
+Do đó có thể bác bỏ giả thuyết không (H0) rằng hai mô hình có hiệu năng tương đương.
+
+Việc bổ sung Skill Aggregate Features mang lại cải thiện có ý nghĩa thống kê và không chỉ là dao động ngẫu nhiên của quá trình Cross-Validation.
 
 ## 6. Kết luận chính
 
 - Metadata chứa phần lớn tín hiệu dự đoán lương.
-- Việc bổ sung các đặc trưng tổng hợp từ kỹ năng giúp cải thiện Ridge Regression từ **0.2727 → 0.2678**.
-- Ridge Regression với Feature Set B đạt kết quả tốt nhất và được lựa chọn làm mô hình triển khai cuối cùng.
+- Việc bổ sung các đặc trưng tổng hợp từ kỹ năng giúp cải thiện Ridge Regression từ **0.2724 → 0.2686**.
+- Ridge Regression khai thác hiệu quả hơn LightGBM trong thiết lập hiện tại.
+- Ridge Regression với **Feature Set B** đạt kết quả tốt nhất và được lựa chọn làm mô hình triển khai cuối cùng.
+- `industry_cleaned` và Ordinal Encoding **không được sử dụng** trong mô hình cuối.
 
 ## 7. Diễn giải mô hình
 
@@ -168,15 +208,36 @@ Sử dụng metadata và các đặc trưng tổng hợp từ kỹ năng.
 Các đặc trưng có ảnh hưởng mạnh nhất đến dự đoán lương bao gồm:
 - Job Level
 - Experience Years
-- Source
+- Education
 - Location
 - Standardized Title
 - Industry
 
+Kết quả cho thấy mô hình sử dụng đồng thời thông tin về cấp bậc công việc, chức danh, kinh nghiệm, địa điểm, học vấn và ngành nghề để dự đoán mức lương. Trong đó, cấp bậc công việc và chức danh công việc là những nguồn tín hiệu nổi bật nhất.
+
+### Skill Feature Analysis
+
+Để đánh giá vai trò của các đặc trưng kỹ năng trong mô hình, nhóm phân tích tương quan giữa các đặc trưng kỹ năng tổng hợp và biến mục tiêu `log_salary`.
+
+Kết quả cho thấy nhiều đặc trưng kỹ năng có tương quan dương với mức lương:
+
+- `n_skills` (r ≈ 0.42)
+- `n_required` (r ≈ 0.41)
+- `has_year_requirement` (r ≈ 0.33)
+- `cat_engineering_concepts_&_methodologies` (r ≈ 0.33)
+- `cat_infrastructure_&_devops` (r ≈ 0.24)
+- `level_expert` (r ≈ 0.21)
+
+Điều này cho thấy các vị trí có nhiều kỹ năng yêu cầu hơn, yêu cầu kinh nghiệm rõ ràng hơn hoặc đòi hỏi các nhóm kỹ năng kỹ thuật chuyên sâu thường đi kèm mức lương cao hơn.
+
+Kết quả này cung cấp thêm bằng chứng rằng các đặc trưng kỹ năng tổng hợp thực sự mang tín hiệu liên quan đến mức lương và không chỉ đơn thuần lặp lại thông tin từ metadata của tin tuyển dụng.
+
 ### Residual Analysis
 - Phân phối phần dư tập trung quanh giá trị 0.
-- Phần lớn sai số nằm trong khoảng ±0.2 đơn vị log-salary.
-- Mô hình có xu hướng đánh giá thấp các mức lương rất cao và đánh giá cao các mức lương rất thấp (hiện tượng thường gặp ở Ridge Regression).
+- Không quan sát thấy xu hướng dự đoán cao hơn hoặc thấp hơn một cách có hệ thống.
+- Phần lớn quan sát tập trung gần đường phần dư bằng 0, cho thấy sai số dự đoán nhìn chung được kiểm soát ở mức hợp lý.
+- Vẫn tồn tại một số điểm ngoại lệ (outliers) với sai số lớn, cho thấy còn có những yếu tố ảnh hưởng đến lương chưa được mô hình hóa đầy đủ.
+- Nhìn chung, mô hình hoạt động ổn định và không xuất hiện dấu hiệu vi phạm nghiêm trọng các giả định cơ bản của hồi quy.
 
 ## 8. Tái lập kết quả (Reproducibility)
 
@@ -186,12 +247,11 @@ Các biện pháp đảm bảo khả năng tái lập:
 - Lưu mô hình bằng Joblib
 - Snapshot MD5 của dữ liệu đầu vào được lưu lại
 
-**MD5 của features_wide.parquet**:  
-`16a7ce26b2c87309a014cf5d4bd88b67`
-
 ## 9. Deliverables
 
-- `modeling_GPT.ipynb`
+- `Salary_Prediction_Final.ipynb`
+- `Experiment_Industry_Cleaned.ipynb`
+- `Experiment_Ordinal_Encoding.ipynb`
 - `salary_predictor.joblib`
 - `features_wide.parquet`
 - `requirements.txt`
